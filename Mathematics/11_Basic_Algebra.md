@@ -88,8 +88,8 @@ $$(x + 4)(x - 4) = x^2 - 16$$
 **Golden rule: Whatever you do to one side, do to the other.**
 
 #### One-step equations:
-$$x + 7 = 15 Rightarrow x = 15 - 7 = 8$$
-$$3x = 21 Rightarrow x = \rac{21}{3} = 7$$
+$$x + 7 = 15 \Rightarrow x = 15 - 7 = 8$$
+$$3x = 21 \Rightarrow x = \frac{21}{3} = 7$$
 
 #### Two-step equations:
 $$2x + 5 = 17$$
@@ -108,7 +108,7 @@ Same rules as equations, with ONE critical exception:
 > **When multiplying or dividing by a negative number, FLIP the inequality sign.**
 
 $$-2x > 8$$
-$$x < -4 \quad \	ext{(divide by } -2 \	ext{, flip sign)}$$
+$$x < -4 \quad \text{(divide by } -2 \text{, flip sign)}$$
 
 **Graphing on number line:**
 - `<` or `>` → open circle (○)
@@ -121,12 +121,11 @@ A quadratic equation: $$ax^2 + bx + c = 0$$
 #### Method 1: Factoring
 $$x^2 - 5x + 6 = 0$$
 $$(x - 2)(x - 3) = 0$$
-$$x = 2 \	ext{ or } x = 3$$
+$$x = 2 	\text{ or } x = 3$$
 
 #### Method 2: Quadratic Formula
-$$x = \rac{-b pm \sqrt{b^2 - 4ac}}{2a}$$
 
-#### The Discriminant (b² − 4ac):
+$$x = \frac{-b \pm \sqrt{b^{2} - 4ac}}{2a}$$
 | Discriminant | Nature of Roots |
 |---|---|
 | > 0 | Two distinct real roots |

@@ -75,7 +75,7 @@ Understanding the multiplicative structure of numbers through factors, multiples
 
 > **Every integer greater than 1 can be expressed uniquely as a product of prime numbers** (up to the order of factors).
 
-$$	ext{Example: } 60 = 2^2 	imes 3 	imes 5$$
+$$	\text{Example: } 60 = 2^2 	\times 3 	\times 5$$
 
 ### 3.3 Divisibility Rules
 
@@ -152,7 +152,7 @@ flowchart TD
 
 ### 3.7 The GCD-LCM Relationship
 
-$$boxed{	ext{GCD}(a, b) 	imes 	ext{LCM}(a, b) = a 	imes b}$$
+$$ \boxed{	\text{GCD}(a, b) 	\times 	\text{LCM}(a, b) = a 	\times b}$$
 
 ---
 
@@ -161,7 +161,7 @@ $$boxed{	ext{GCD}(a, b) 	imes 	ext{LCM}(a, b) = a 	imes b}$$
 ### Type 1: Finding All Factors
 > Find all factors of 36.
 
-$$36 = 1 	imes 36 = 2 	imes 18 = 3 	imes 12 = 4 	imes 9 = 6 	imes 6$$
+$$36 = 1 	\times 36 = 2 	\times 18 = 3 	\times 12 = 4 	\times 9 = 6 	\times 6$$
 
 **Answer:** 1, 2, 3, 4, 6, 9, 12, 18, 36
 

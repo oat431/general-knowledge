@@ -68,10 +68,10 @@ quadrantChart
     title Coordinate Plane Quadrants
     x-axis "x ← negative" --> "x positive →"
     y-axis "y (negative ↓)" --> "y (positive ↑)"
-    quadrant-1 "Q I[nl](+,+)"
-    quadrant-2 "Q II[nl](−,+)"
-    quadrant-3 "Q III[nl](−,−)"
-    quadrant-4 "Q IV[nl](+,−)"
+    quadrant-1 "Q I (+,+)"
+    quadrant-2 "Q II (−,+)"
+    quadrant-3 "Q III (−,−)"
+    quadrant-4 "Q IV (+,−)"
 ```
 
 | Quadrant | x sign | y sign | Example |

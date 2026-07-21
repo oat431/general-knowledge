@@ -89,7 +89,7 @@ Area and perimeter are fundamental geometric measurements. Students progress fro
 
 ### 3.3 Triangle Area — Three Versions
 
-$$A = \rac{1}{2} \	imes b \	imes h$$
+$$A = \frac{1}{2} \times b \times h$$
 
 | If you know... | Use formula | Example |
 |---|---|---|

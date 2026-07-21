@@ -138,7 +138,7 @@ Measurement covers length, mass, capacity, time, temperature, and their units. S
 
 ### 3.6 Speed
 
-$$\	ext{Speed} = \rac{\	ext{Distance}}{\	ext{Time}}$$
+$$\text{Speed} = \frac{\text{Distance}}{\text{Time}}$$
 
 | Unit | Meaning |
 |---|---|

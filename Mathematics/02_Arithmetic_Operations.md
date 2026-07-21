@@ -128,9 +128,19 @@ The four basic operations — addition (การบวก), subtraction (กา
 
 A fact family is a set of related arithmetic facts showing the relationship between three numbers:
 
-$$begin{aligned} 3 + 4 &= 7 \ 4 + 3 &= 7 \ 7 - 3 &= 4 \ 7 - 4 &= 3 end{aligned}$$
+$$\begin{aligned}
+3 + 4 &= 7 \\
+4 + 3 &= 7 \\
+7 - 3 &= 4 \\
+7 - 4 &= 3
+\end{aligned}$$
 
-$$begin{aligned} 3 	imes 4 &= 12 \ 4 	imes 3 &= 12 \ 12 div 3 &= 4 \ 12 div 4 &= 3 end{aligned}$$
+$$\begin{aligned}
+3 \times 4 &= 12 \\
+4 \times 3 &= 12 \\
+12 \div 3 &= 4 \\
+12 \div 4 &= 3
+\end{aligned}$$
 
 Fact families build the crucial understanding that addition/subtraction and multiplication/division are **inverse operations**.
 
@@ -141,22 +151,24 @@ Fact families build the crucial understanding that addition/subtraction and mult
 ### Type 1: Multi-digit Addition
 > 12,456 + 8,789 = ?
 
-$$begin{array}{r}
-  12456 \ + quad 8789 \ \hline
-  21245
-end{array}$$
+```
+  12,456
++  8,789
+--------
+  21,245
+```
 
 **Answer:** 21,245
 
 ### Type 2: Distributive Property
 > Find 23 × 47 using the distributive property.
 
-$$23 	imes 47 = 23 	imes (40 + 7) = (23 	imes 40) + (23 	imes 7) = 920 + 161 = mathbf{1{,}081}$$
+$$23 \times 47 = 23 \times (40 + 7) = (23 \times 40) + (23 \times 7) = 920 + 161 = \mathbf{1{,}081}$$
 
 ### Type 3: Division with Remainder
 > Divide 1,234 by 25.
 
-$$25 	imes 49 = 1{,}225$$  $$1{,}234 - 1{,}225 = 9$$
+$$25 \times 49 = 1{,}225 \qquad 1{,}234 - 1{,}225 = 9$$
 
 **Answer:** Quotient = 49, Remainder = 9, or 49 R9
 
@@ -171,9 +183,9 @@ $$25 	imes 49 = 1{,}225$$  $$1{,}234 - 1{,}225 = 9$$
 | 4 | 27 − 4 = 23 | **23** |
 
 ### Type 5: Exponent Rules (ม.2)
-> Simplify: 2³ × 2⁵
+> Simplify: $$2^3 \times 2^5$$
 
-$$2^3 	imes 2^5 = 2^{3+5} = 2^8 = 256$$
+$$2^3 \times 2^5 = 2^{3+5} = 2^8 = 256$$
 
 ---
 

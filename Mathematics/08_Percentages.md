@@ -79,42 +79,48 @@ Percentages are a special type of fraction with denominator 100. This topic cove
 
 ### 3.3 Percentage Change
 
-**Formula:** (New − Original) ÷ Original × 100%
+$$\text{Percentage Change} = \frac{\text{New} - \text{Original}}{\text{Original}} \times 100\%$$
 
-- **Positive result:** Increase
-- **Negative result:** Decrease
+- **Positive:** Increase
+- **Negative:** Decrease
 
-> **Example:** Price increases from 200 ฿ to 250 ฿.
-> Change = (250 − 200) ÷ 200 × 100% = 50/200 × 100% = **25% increase**
+**Example:** Price increases from 200 ฿ to 250 ฿.
+
+$$\frac{250 - 200}{200} \times 100\% = \frac{50}{200} \times 100\% = 25\% \text{ increase}$$
 
 ### 3.4 Discount and Sale Price
 
-> Discount = Original Price × (Discount% ÷ 100)
-> Sale Price = Original Price − Discount
-> Also: Sale Price = Original Price × (1 − Discount% ÷ 100)
+$$\text{Discount} = \text{Original} \times \frac{\text{Discount\%}}{100}$$
+
+$$\text{Sale Price} = \text{Original} - \text{Discount}$$
+
+Or directly:
+
+$$\text{Sale Price} = \text{Original} \times \left(1 - \frac{\text{Discount\%}}{100}\right)$$
 
 **Example:** A 500 ฿ item with 20% off:
-- Discount = 500 × 0.20 = 100 ฿
-- Sale price = 500 − 100 = **400 ฿**
-- Or: 500 × 0.80 = **400 ฿**
+- $$\text{Discount} = 500 \times 0.20 = 100 \text{ ฿}$$
+- $$\text{Sale Price} = 500 - 100 = 400 \text{ ฿}$$
+- Or: $$500 \times 0.80 = 400 \text{ ฿}$$
 
 ### 3.5 Profit and Loss
 
 | Term | Formula |
 |---|---|
-| **Profit** | Selling Price − Cost Price (when SP > CP) |
-| **Loss** | Cost Price − Selling Price (when CP > SP) |
-| **Profit %** | (Profit ÷ Cost Price) × 100% |
-| **Loss %** | (Loss ÷ Cost Price) × 100% |
+| **Profit (กำไร)** | $$\text{SP} - \text{CP}$$ (when SP > CP) |
+| **Loss (ขาดทุน)** | $$\text{CP} - \text{SP}$$ (when CP > SP) |
+| **Profit %** | $$\frac{\text{Profit}}{\text{CP}} \times 100\%$$ |
+| **Loss %** | $$\frac{\text{Loss}}{\text{CP}} \times 100\%$$ |
 
-### 3.6 Simple Interest
+### 3.6 Simple Interest (ดอกเบี้ย)
 
-**Formula:** I = P × r × t
+$$I = P \times r \times t$$
 
-Where: I = Interest, P = Principal, r = annual rate (as decimal), t = time (in years)
+Where: I = Interest, P = Principal, r = rate (as decimal), t = time (in years)
 
-> **Example:** 10,000 ฿ at 5% for 3 years:
-> I = 10,000 × 0.05 × 3 = **1,500 ฿**
+**Example:** 10,000 ฿ at 5% for 3 years:
+
+$$I = 10{,}000 \times 0.05 \times 3 = 1{,}500 \text{ ฿}$$
 
 ---
 

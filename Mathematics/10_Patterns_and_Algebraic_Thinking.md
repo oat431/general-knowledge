@@ -84,12 +84,12 @@ Patterns and algebraic thinking form the bridge from arithmetic to algebra. Stud
 
 **Find the nth term of: 3, 7, 11, 15, 19...**
 
-| Step | Action |
-|---|---|
-| 1 | Recognize it's arithmetic (constant difference) |
-| 2 | Common difference d = 4 |
-| 3 | Term n = first term + (n−1) × d |
-| 4 | $$a_n = 3 + (n-1) \	imes 4 = 4n - 1$$ |
+| Step | Action                                          |
+| ---- | ----------------------------------------------- |
+| 1    | Recognize it's arithmetic (constant difference) |
+| 2    | Common difference d = 4                         |
+| 3    | Term n = first term + (n−1) × d                 |
+| 4    | $$a_n = 3 + (n-1) \times 4 = 4n - 1$$           |
 
 Verify: n=1 → 3 ✓, n=2 → 7 ✓, n=3 → 11 ✓
 
@@ -151,7 +151,7 @@ Pattern: add 3 each time. Next term = 11 + 3 = **14**.
 ### Type 2: Find the nth Term
 > Find the nth term of: 5, 9, 13, 17...
 
-d = 4. $$a_n = 5 + (n-1) \	imes 4 = 4n + 1$$
+d = 4. $$a_n = 5 + (n-1) \times 4 = 4n + 1$$
 
 ### Type 3: Function Machine
 > Input → +3 → ×2 → Output. Find output when input = 5.

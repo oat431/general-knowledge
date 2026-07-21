@@ -70,12 +70,15 @@ All of these ARE rational numbers:
 
 ### 3.3 Converting Repeating Decimals to Fractions
 
-**Example:** Convert 0.333... to a fraction.
+**Example:** Convert $$0.\overline{3}$$ to a fraction.
 
-Let x = 0.333...
-Then 10x = 3.333...
-Subtract: 10x − x = 3.333... − 0.333...
-So 9x = 3, therefore x = 3/9 = **1/3**
+$$\begin{aligned}
+\text{Let } x &= 0.\overline{3} = 0.333\ldots \\
+10x &= 3.333\ldots \\
+10x - x &= 3.333\ldots - 0.333\ldots \\
+9x &= 3 \\
+x &= \frac{3}{9} = \frac{1}{3}
+\end{aligned}$$
 
 ### 3.3 Properties of Rational Numbers
 

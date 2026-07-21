@@ -63,26 +63,27 @@ Ratios express the relationship between quantities, and proportions extend this 
 
 A **ratio** compares two or more quantities of the same kind:
 
-$$a : b \quad \	ext{or} \quad \rac{a}{b}$$
+$$a : b \quad \text{or} \quad \frac{a}{b}$$
 
 Ratios have **no units** — they are pure numbers.
 
 **Simplifying ratios** (like simplifying fractions):
-$$12 : 18 = \rac{12}{6} : \rac{18}{6} = 2 : 3$$
+
+$$12 : 18 = \frac{12}{6} : \frac{18}{6} = 2 : 3$$
 
 ### 3.2 Proportion Definition
 
 A **proportion** is an equation stating that two ratios are equal:
 
-$$\rac{a}{b} = \rac{c}{d}$$
+$$\frac{a}{b} = \frac{c}{d}$$
 
-**Cross-multiplication:** If two ratios are proportional, then ad = bc.
+**Cross-multiplication:** If two ratios are proportional, then $$ad = bc$$.
 
 ### 3.3 Direct Proportion (สัดส่วนตรง)
 
 When two quantities vary **directly**, as one increases, the other increases at the same rate:
 
-$$y propto x \quad Rightarrow \quad y = kx$$
+$$y \propto x \quad \Rightarrow \quad y = kx$$
 
 **The ratio y/x is constant (= k).**
 
@@ -97,7 +98,7 @@ $$y propto x \quad Rightarrow \quad y = kx$$
 
 When two quantities vary **inversely**, as one increases, the other decreases:
 
-$$y propto \rac{1}{x} \quad Rightarrow \quad y = \rac{k}{x}$$
+$$y \propto \frac{1}{x} \quad \Rightarrow \quad y = \frac{k}{x}$$
 
 **The product xy is constant (= k).**
 
@@ -118,7 +119,7 @@ $$y propto \rac{1}{x} \quad Rightarrow \quad y = \rac{k}{x}$$
 
 ### 3.6 Scale (มาตราส่วน)
 
-$$\	ext{Scale} = \rac{\	ext{Drawing/Distance}}{\	ext{Actual Distance}}$$
+$$\text{Scale} = \frac{\text{Drawing Distance}}{\text{Actual Distance}}$$
 
 > A map has scale 1 : 50,000. Two cities are 8 cm apart on the map. What is the actual distance?
 
@@ -126,11 +127,9 @@ Actual = 8 × 50,000 = 400,000 cm = **4 km**.
 
 ### 3.7 Speed, Distance, Time
 
-$$\	ext{Speed} = \rac{\	ext{Distance}}{\	ext{Time}}$$
-
-$$\	ext{Distance} = \	ext{Speed} \	imes \	ext{Time}$$
-
-$$\	ext{Time} = \rac{\	ext{Distance}}{\	ext{Speed}}$$
+$$\text{Speed} = \frac{\text{Distance}}{\text{Time}}$$
+$$\text{Distance} = \text{Speed} \times \text{Time}$$
+$$\text{Time} = \frac{\text{Distance}}{\text{Speed}}$$
 
 ---
 

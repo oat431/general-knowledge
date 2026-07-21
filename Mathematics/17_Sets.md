@@ -64,7 +64,7 @@ Sets provide the formal language for talking about collections of objects. Intro
 $$A = \{1, 2, 3, 4, 5\}$$
 
 **Set-builder form (บอกเงื่อนไข):**
-$$A = \{x \mid x \	ext{ is a natural number and } 1 \leq x \leq 5\}$$
+$$A = \{x \mid x \text{ is a natural number and } 1 \leq x \leq 5\}$$
 
 ### 3.2 Set Notation
 

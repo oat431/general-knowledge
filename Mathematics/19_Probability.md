@@ -97,19 +97,19 @@ flowchart LR
 
 **The "OR" rule (addition — mutually exclusive events):**
 
-$$P(A \	ext{ or } B) = P(A) + P(B)$$
+$$P(A \text{ or } B) = P(A) + P(B)$$
 
 If events are **not** mutually exclusive:
 
-$$P(A \	ext{ or } B) = P(A) + P(B) - P(A \	ext{ and } B)$$
+$$P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)$$
 
 **The "AND" rule (multiplication — independent events):**
 
-$$P(A \	ext{ and } B) = P(A) \	imes P(B)$$
+$$P(A \text{ and } B) = P(A) \times P(B)$$
 
 ### 3.6 Conditional Probability (ม.3)
 
-$$P(A|B) = \rac{P(A \	ext{ and } B)}{P(B)}$$
+$$P(A|B) = \frac{P(A \text{ and } B)}{P(B)}$$
 
 "The probability of A, given that B has happened."
 

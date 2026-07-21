@@ -67,7 +67,7 @@ Decimals extend the base-10 place value system to represent numbers smaller than
 
 Digits to the right of the decimal point represent fractions with denominators that are powers of 10:
 
-$$3.456 = 3 + \rac{4}{10} + \rac{5}{100} + \rac{6}{1000}$$
+$$3.456 = 3 + \frac{4}{10} + \frac{5}{100} + \frac{6}{1000}$$
 
 ```
     3  .  4  5  6
@@ -82,11 +82,11 @@ $$3.456 = 3 + \rac{4}{10} + \rac{5}{100} + \rac{6}{1000}$$
 
 **Fraction → Decimal:** Divide numerator by denominator.
 
-$$\rac{7}{8} = 7 \div 8 = 0.875$$
+$$ \frac{7}{8} = 7 \div 8 = 0.875$$
 
 **Decimal → Fraction:** Write as fraction with denominator as power of 10, then simplify.
 
-$$0.75 = \rac{75}{100} = \rac{3}{4}$$
+$$ 0.75 = \frac{75}{100} = \frac{3}{4} $$
 
 ### 3.3 Terminating vs Repeating Decimals
 
@@ -120,8 +120,8 @@ A fraction a/b (in lowest terms) produces:
 #### Multiplication
 **Rule:** Multiply as whole numbers; the product has **(m + n)** decimal places (where multipliers have m and n places).
 
-$$0.3 \	imes 0.04 = 0.012$$
-$$(1 \	ext{ place}) + (2 \	ext{ places}) = 3 \	ext{ places}$$
+$$0.3 \times 0.04 = 0.012$$
+$$(1 \text{ place}) + (2 \text{ places}) = 3 \text{ places}$$
 
 #### Division by a Decimal
 **Rule:** Move decimal point in BOTH dividend and divisor to make the divisor a whole number, then divide.
@@ -145,7 +145,7 @@ $$7 \div 8 = 0.875$$
 ### Type 3: Decimal to Fraction
 > Convert 0.625 to a fraction in lowest terms.
 
-$$0.625 = \rac{625}{1000} = \rac{625 \div 125}{1000 \div 125} = \rac{5}{8}$$
+$$0.625 = \frac{625}{1000} = \frac{625 \div 125}{1000 \div 125} = \frac{5}{8}$$
 
 ### Type 4: Decimal Addition
 > 23.45 + 6.789 = ?
