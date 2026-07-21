@@ -30,12 +30,12 @@ tags: [checklist, books, biology, math-sci]
 ## 🟡 Recommended
 
 ### Thai Exam Prep
-| Book | Author/Publisher | Notes |
-|---|---|---|
-| เจาะข้อสอบ PAT2 ชีววิทยา | iQBook / MIS | Targeted PAT2 biology practice |
-| A-Level ตะลุยโจทย์ ชีววิทยา | Various | Newest exam format (2024+) |
-| ตะลุยโจทย์ O-NET ชีววิทยา | Various | Past O-NET papers with solutions |
-| สรุปเข้ม ชีววิทยาสำหรับสอบ กสพท. | MIS | Biology-heavy กสพท. prep |
+| Book                             | Author/Publisher | Notes                            |
+| -------------------------------- | ---------------- | -------------------------------- |
+| เจาะข้อสอบ PAT2 ชีววิทยา         | iQBook / MIS     | Targeted PAT2 biology practice   |
+| A-Level ตะลุยโจทย์ ชีววิทยา      | Various          | Newest exam format (2024+)       |
+| ตะลุยโจทย์ O-NET ชีววิทยา        | Various          | Past O-NET papers with solutions |
+| สรุปเข้ม ชีววิทยาสำหรับสอบ กสพท. | MIS              | Biology-heavy กสพท. prep         |
 
 ### International Textbooks
 | Book | Author | Notes |
