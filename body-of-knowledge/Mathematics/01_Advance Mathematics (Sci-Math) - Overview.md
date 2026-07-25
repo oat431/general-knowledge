@@ -18,6 +18,20 @@ The curriculum is developed by the Institute for the Promotion of Teaching Scien
 
 ## The ~23 Topic Areas
 
+Advanced Mathematics is organized into **5 categories** with detailed sub-overviews:
+
+| # | Category | Topics | Sub-Overview |
+|---|---|---|---|
+| 06 | **Foundations and Functions** | 01–09 | [[06 Foundations and Functions - Overview\|→ Full Overview]] |
+| 07 | **Calculus** | 10–16 | [[07 Calculus - Overview\|→ Full Overview]] |
+| 08 | **Algebra and Geometry** | 10–13* | [[08 Algebra and Geometry - Overview\|→ Full Overview]] |
+| 09 | **Probability and Statistics** | 17–19 | [[09 Probability and Statistics - Overview\|→ Full Overview]] |
+| 10 | **Discrete and Advanced Topics** | 20–23 | [[10 Discrete and Advanced Topics - Overview\|→ Full Overview]] |
+
+*\*Note: Topics 10–13 (Complex Numbers, Matrices, Vectors, Analytic Geometry) span across categories*
+
+### 🔢 ม.4 (ค301) — Foundations & Functions
+
 ### 🔢 ม.4 (ค301) — Foundations & Functions
 - [[01_Sets_and_Logic]] — Sets, subsets, unions, intersections, Venn diagrams, Cartesian products, propositions, truth tables, logical connectives
 - [[02_Real_Numbers_and_Inequalities]] — Real number system, absolute value, linear/quadratic/rational inequalities

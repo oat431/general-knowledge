@@ -18,6 +18,16 @@ Unlike the ม.4–ม.6 curriculum (which is split into calculus, probability, 
 
 ## The ~20 Concept Areas
 
+Fundamental Mathematics is organized into **5 categories** with detailed sub-overviews:
+
+| # | Category | Concepts | Sub-Overview |
+|---|---|---|---|
+| 01 | **Numbers and Operations** | 01–09 | [[01 Numbers and Operations - Overview\|→ Full Overview]] |
+| 02 | **Algebra and Patterns** | 10–11 | [[02 Algebra and Patterns - Overview\|→ Full Overview]] |
+| 03 | **Geometry and Measurement** | 12–16 | [[03 Geometry and Measurement - Overview\|→ Full Overview]] |
+| 04 | **Data, Statistics, and Probability** | 17–19 | [[04 Data Statistics and Probability - Overview\|→ Full Overview]] |
+| 05 | **Mathematical Processes** | 20 | [[05 Mathematical Processes - Overview\|→ Full Overview]] |
+
 ### 🔢 Numbers & Operations
 - [[01_Numbers_and_Numeration]] — Counting, place value, comparing, ordering, number systems (Thai/Arabic/Roman), scientific notation
 - [[02_Arithmetic_Operations]] — Addition, subtraction, multiplication, division of whole numbers; order of operations (PEMDAS); properties (commutative, associative, distributive)
