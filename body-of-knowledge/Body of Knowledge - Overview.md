@@ -1,13 +1,14 @@
 ---
-tags: [overview, body-of-knowledge, math-sci, thai-language, thai-curriculum, ipst, primary, lower-secondary, upper-secondary]
+tags: [overview, body-of-knowledge, math-sci, thai-language, social-studies, thai-curriculum, ipst, primary, lower-secondary, upper-secondary]
 ---
 
 # Body of Knowledge — Overview
 
-> **Purpose:** A curated collection covering three major domains of the Thai basic education curriculum:
-> - **Math-Science (วิทย์-คณิต):** 8 knowledge areas from ป.1 through ม.6
+> **Purpose:** A curated collection covering major domains of the Thai basic education curriculum:
+> - **Math-Science (วิทย์-คณิต):** 8 knowledge areas (2 foundation + 6 specialized) from ป.1 through ม.6
 > - **Thai Language (ภาษาไทย):** 5 learning strands from ป.1 through ม.6
 > - **English (ภาษาอังกฤษ):** 4 learning strands from ป.1 through ม.6
+> - **Social Studies (สังคมศึกษา):** 5 learning strands from ป.1 through ม.6
 >
 > **Source:** Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)
 > **IPST Textbooks:** [ipst.ac.th](https://www.ipst.ac.th) — Free PDF math-sci textbooks
@@ -47,6 +48,24 @@ The English curriculum organized into **4 learning strands (สาระกา�
 
 **Total: ~28 concept areas** | **Vault:** `English\`**
 **Supplementary:** [[English Skill Content|English Skill]] — teaching-ordered grammar/skills reference
+
+---
+
+## 🏛️ สังคมศึกษา ศาสนา และวัฒนธรรม (Social Studies, Religion, and Culture)
+
+[[Social Studies - Overview|→ Full Overview]]
+
+The Social Studies curriculum organized into **5 learning strands (สาระการเรียนรู้)**, compulsory for all students ป.1–ม.6:
+
+| # | Strand (สาระ) | English | Concept Areas | Core Focus |
+|---|---|---|---|---|
+| 🛐 **สาระที่ 1** | ศาสนา ศีลธรรม จริยธรรม | Religion, Morality, Ethics | ~18 | Buddhism (doctrine, meditation, ceremonies), other religions (Islam, Christianity, Hinduism, Sikhism), moral reasoning, interfaith tolerance |
+| 🏛️ **สาระที่ 2** | หน้าที่พลเมือง วัฒนธรรม และการดำเนินชีวิตในสังคม | Civics, Culture, and Living in Society | ~22 | Democracy under constitutional monarchy, rights/duties, criminal/civil/constitutional law, Thai culture (4 regions), social institutions, ASEAN studies, human rights |
+| 💰 **สาระที่ 3** | เศรษฐศาสตร์ | Economics | ~16 | Scarcity/choice, supply/demand, sufficiency economy (King Bhumibol's philosophy), personal finance, money/banking, international trade, economic systems |
+| 📜 **สาระที่ 4** | ประวัติศาสตร์ | History | ~20 | Historical method, Thai history periods (Sukhothai, Ayutthaya, Thonburi, Rattanakosin), important monarchs, world civilizations, Southeast Asian history |
+| 🌏 **สาระที่ 5** | ภูมิศาสตร์ | Geography | ~18 | Maps/GIS/remote sensing, physical geography (landforms, climate), human geography (population, settlement, economy), environment, Thailand's 6 regions, natural disasters |
+
+**Total: ~94 concept areas across 5 strands** | **Vault:** `Social Studies\\`
 
 ---
 
@@ -96,7 +115,46 @@ flowchart LR
 
 **Total specialized (math-sci): ~108 topics**
 
-**Grand total: ~150 math-sci concept areas + 35 Thai language concept areas across the full ป.1–ม.6 journey**
+**Grand total: ~150 math-sci concept areas + ~169 language and social studies concept areas across the full ป.1–ม.6 journey**
+
+---
+
+## 🏛️ สังคมศึกษา ศาสนา และวัฒนธรรม (Social Studies) — Connection Map
+
+```mermaid
+flowchart TD
+    subgraph ETHICAL["🛐 Ethical Framework"]
+        RELIGION["สาระที่ 1\nศาสนา ศีลธรรม จริยธรรม"]
+    end
+    
+    subgraph SOCIAL["🏛️ Social Understanding"]
+        CIVICS["สาระที่ 2\nหน้าที่พลเมือง"]
+        ECON["สาระที่ 3\nเศรษฐศาสตร์"]
+    end
+    
+    subgraph FOUNDATION["📐 Foundational Knowledge"]
+        HIST["สาระที่ 4\nประวัติศาสตร์"]
+        GEOG["สาระที่ 5\nภูมิศาสตร์"]
+    end
+
+    RELIGION -->|"moral foundation →\ngood citizenship"| CIVICS
+    RELIGION -->|"Buddhist moderation →\nsufficiency economy"| ECON
+    RELIGION -->|"Buddhist history →\nThai identity"| HIST
+    GEOG -->|"sacred geography"| RELIGION
+    
+    HIST -->|"political development →\nmodern governance"| CIVICS
+    HIST -->|"economic history →\ncurrent systems"| ECON
+    GEOG -->|"resources + location →\neconomic activities"| ECON
+    GEOG -->|"physical context →\ncultural regions"| CIVICS
+    
+    CIVICS -->|"laws regulate economy"| ECON
+    ECON -->|"inequality → social issues"| CIVICS
+    
+    GEOG -->|"geographic factors →\nhistorical events"| HIST
+    HIST -->|"changing borders →\nhistorical geography"| GEOG
+```
+
+**Key:** Social Studies strands form an integrated whole. Geography and History provide the **physical and temporal context** for understanding society. Economics and Civics build **social understanding** on that foundation. Religion provides the **ethical framework** that guides civic behavior, economic choices, and shapes Thai historical identity.
 
 ---
 
@@ -273,6 +331,14 @@ Thai language skills underpin learning in ALL subjects — students read textboo
 - **Language analysis track:** สาระ 4 → สาระ 1 (วิเคราะห์/วิจารณ์) → สาระ 5 (วรรณกรรมวิจารณ์)
 - **Creative writing track:** สาระ 5 (literary models) → สาระ 2 (creative writing) → สาระ 4 (poetic forms/ฉันทลักษณ์)
 
+### Social Studies (สังคมศึกษา)
+- **Full sequence (ป.1→ม.6):** All 5 strands in spiral progression — each strand deepens across 4 grade bands
+- **Law/Political Science track:** Civics (02) → History (04) → Religion (01) for moral foundations of law
+- **Economics/Business track:** Economics (03) → Geography (05) for economic geography → Civics (02) for business law
+- **History/Archaeology track:** History (04) → Religion (01) for Buddhist art → Geography (05) for historical geography
+- **Geography/Environment track:** Geography (05) → Economics (03) for development → Civics (02) for environmental policy
+- **Teaching/Civil Service track:** All 5 strands equally — balanced knowledge required for ก.พ. exams
+
 ## Curriculum Notes
 
 ### Math-Science
@@ -289,7 +355,16 @@ Thai language skills underpin learning in ALL subjects — students read textboo
 - **OBEC** (สพฐ.) develops curriculum standards; textbooks by various publishers (อักษรเจริญทัศน์, สถาบันภาษาไทย, etc.)
 - **Standardized tests:** NT (ป.3), O-NET (ป.6, ม.3, ม.6), A-Level ภาษาไทย (ม.6 university entrance)
 
+### Social Studies
+- **Compulsory for all students:** Social Studies is required from ป.1–ม.6 for all tracks (วิทย์-คณิต, ศิลป์-ภาษา, ศิลป์-คำนวณ, etc.)
+- **Spiral curriculum:** All 5 strands taught every year, deepening in complexity across 4 grade bands (ป.1–3, ป.4–6, ม.1–3, ม.4–6)
+- **Course codes:** "ส" = Social Studies. 1xx = primary, 2xx = lower secondary, 3xx = upper secondary. ส11101–ส16101 (ป.1–6), ส21101–ส23102 (ม.1–3), ส31101–ส33102 (ม.4–6)
+- **OBEC** (สพฐ.) develops curriculum standards; textbooks by various publishers (อักษรเจริญทัศน์, พ.ศ.พัฒนา, สกสค., etc.)
+- **Standardized tests:** NT (ป.3), O-NET (ป.6, ม.3, ม.6 — covers all 5 strands), A-Level สังคมศึกษา (ม.6 university entrance), ก.พ. (civil service exam)
+- **Unique emphasis:** Sufficiency Economy Philosophy (ปรัชญาเศรษฐกิจพอเพียง) of King Bhumibol is integrated throughout the Economics strand and connects to Buddhist principles in the Religion strand
+
 ## Related
 
+- [[Social Studies - Overview|Social Studies]] — Full Social Studies BOK with all 5 strands
 - [[Thai Language - Overview|Thai Language]] — Full Thai language BOK with all 5 strands
 - [[English Skill\\English Skill Content|English Skill]] — English language foundation for Thai learners
