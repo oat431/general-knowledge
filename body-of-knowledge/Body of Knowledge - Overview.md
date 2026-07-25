@@ -4,11 +4,15 @@ tags: [overview, body-of-knowledge, math-sci, thai-language, social-studies, tha
 
 # Body of Knowledge — Overview
 
-> **Purpose:** A curated collection covering major domains of the Thai basic education curriculum:
-> - **Math-Science (วิทย์-คณิต):** 8 knowledge areas (2 foundation + 6 specialized) from ป.1 through ม.6
+> **Purpose:** A curated collection covering all 8 learning areas of the Thai basic education curriculum:
+> - **Mathematics (คณิตศาสตร์):** 2 areas (fundamental + advanced) from ป.1 through ม.6
+> - **Science (วิทยาศาสตร์):** 6 areas (fundamental + 5 specialized) from ป.1 through ม.6
 > - **Thai Language (ภาษาไทย):** 5 learning strands from ป.1 through ม.6
 > - **English (ภาษาอังกฤษ):** 4 learning strands from ป.1 through ม.6
 > - **Social Studies (สังคมศึกษา):** 5 learning strands from ป.1 through ม.6
+> - **Arts (ศิลปะ):** 3 domains from ป.1 through ม.6
+> - **Health & PE (สุขศึกษาและพลศึกษา):** 2 strands from ป.1 through ม.6
+> - **Career & Technology (การงานอาชีพ):** 5 strands from ป.1 through ม.6
 >
 > **Source:** Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)
 > **IPST Textbooks:** [ipst.ac.th](https://www.ipst.ac.th) — Free PDF math-sci textbooks
