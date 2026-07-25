@@ -8,7 +8,7 @@ tags: [overview, fundamental-science, math-sci, primary, lower-secondary, ipst]
 > **Course Codes:** ว111–ว116 (ป.1–ป.6), ว211–ว213 (ม.1–ม.3)
 > **Total Concept Areas:** ~22 | **Duration:** 9 years
 > **Source:** IPST (สสวท.) Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)
-> **Leads to:** [[Physics - Overview|Physics]], [[Chemistry - Overview|Chemistry]], [[Biology - Overview|Biology]], [[Earth Science - Overview|Earth Science]] — ม.4–ม.6
+> **Leads to:** [[01_Physics - Overview|Physics]], [[02_Chemistry - Overview|Chemistry]], [[03_Biology - Overview|Biology]], [[04_Earth Science - Overview|Earth Science]] — ม.4–ม.6
 
 ## What Is This?
 
@@ -85,10 +85,10 @@ The integrated science at this level **directly feeds** into the four specialize
 
 | Fundamental Science Concept | ม.4–ม.6 Subject |
 |---|---|
-| Forces, Motion, Energy, Heat, Light, Sound, Electricity | [[Physics - Overview\|Physics (ว301–ว303)]] |
-| Matter, Atoms, Reactions, Acids/Bases | [[Chemistry - Overview\|Chemistry (ว311–ว313)]] |
-| Living Things, Cells, Human Body, Plants, Ecosystems | [[Biology - Overview\|Biology (ว321–ว323)]] |
-| Rocks, Weather, Solar System, Climate | [[Earth Science - Overview\|Earth Science (ว341)]] |
+| Forces, Motion, Energy, Heat, Light, Sound, Electricity | [[01_Physics - Overview\|Physics (ว301–ว303)]] |
+| Matter, Atoms, Reactions, Acids/Bases | [[02_Chemistry - Overview\|Chemistry (ว311–ว313)]] |
+| Living Things, Cells, Human Body, Plants, Ecosystems | [[03_Biology - Overview\|Biology (ว321–ว323)]] |
+| Rocks, Weather, Solar System, Climate | [[04_Earth Science - Overview\|Earth Science (ว341)]] |
 
 ## Prerequisites
 
@@ -149,9 +149,9 @@ flowchart TD
 ## Related
 
 - [[Body of Knowledge - Overview|← Back to Math-Sci Overview]]
-- [[Fundamental Mathematics - Overview|Fundamental Mathematics]] — Math foundation (ป.1–ม.3)
-- [[Physics - Overview|Physics]] — The next level for forces, energy, waves (ว301–ว303)
-- [[Chemistry - Overview|Chemistry]] — The next level for matter, atoms, reactions (ว311–ว313)
-- [[Biology - Overview|Biology]] — The next level for life sciences (ว321–ว323)
-- [[Earth Science - Overview|Earth Science]] — The next level for geology, astronomy (ว341)
+- [[00_Fundamental Mathematics - Overview|Fundamental Mathematics]] — Math foundation (ป.1–ม.3)
+- [[01_Physics - Overview|Physics]] — The next level for forces, energy, waves (ว301–ว303)
+- [[02_Chemistry - Overview|Chemistry]] — The next level for matter, atoms, reactions (ว311–ว313)
+- [[03_Biology - Overview|Biology]] — The next level for life sciences (ว321–ว323)
+- [[04_Earth Science - Overview|Earth Science]] — The next level for geology, astronomy (ว341)
 - **IPST Textbooks:** [ipst.ac.th](https://www.ipst.ac.th) — Free PDF textbooks for all levels

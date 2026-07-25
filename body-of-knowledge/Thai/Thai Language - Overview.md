@@ -517,5 +517,5 @@ Thai Language uses the prefix **ท** (from ภาษาไทย):
 ## Related
 
 - [[Body of Knowledge - Overview|← Back to BOK Overview]]
-- [[Fundamental Mathematics - Overview|Fundamental Mathematics]] — Foundation math (ป.1–ม.3)
-- [[Fundamental Science - Overview|Fundamental Science]] — Foundation science (ป.1–ม.3)
+- [[00_Fundamental Mathematics - Overview|Fundamental Mathematics]] — Foundation math (ป.1–ม.3)
+- [[00_Fundamental Science - Overview|Fundamental Science]] — Foundation science (ป.1–ม.3)

@@ -74,10 +74,10 @@ flowchart TD
 
 ## Key Connections to Other Subjects
 
-- [[Mathematics - Overview|Mathematics]] — Discrete math, logic, algorithms, number systems
-- [[Physics - Overview|Physics]] — Simulations, data analysis, computational modeling
-- [[Biology - Overview|Biology]] — Bioinformatics, computational biology, genetic algorithms
-- [[Chemistry - Overview|Chemistry]] — Molecular modeling, computational chemistry
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — Discrete math, logic, algorithms, number systems
+- [[01_Physics - Overview|Physics]] — Simulations, data analysis, computational modeling
+- [[03_Biology - Overview|Biology]] — Bioinformatics, computational biology, genetic algorithms
+- [[02_Chemistry - Overview|Chemistry]] — Molecular modeling, computational chemistry
 
 ## Reading Paths
 
@@ -89,6 +89,6 @@ flowchart TD
 ## Related
 
 - [[Body of Knowledge - Overview|← Back to Math-Sci Overview]]
-- [[Mathematics - Overview|Mathematics]] — Logic, discrete math, algorithms, number theory
-- [[Physics - Overview|Physics]] — Computational modeling, data analysis
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — Logic, discrete math, algorithms, number theory
+- [[01_Physics - Overview|Physics]] — Computational modeling, data analysis
 - **IPST Textbooks:** [ipst.ac.th](https://www.ipst.ac.th) — Free PDF textbooks for all levels

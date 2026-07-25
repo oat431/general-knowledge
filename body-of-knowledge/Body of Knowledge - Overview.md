@@ -104,7 +104,7 @@ flowchart LR
 
 ### Fundamental Mathematics — คณิตศาสตร์พื้นฐาน
 
-[[Fundamental Mathematics - Overview|→ Full Overview]]
+[[00_Fundamental Mathematics - Overview|→ Full Overview]]
 
 Integrated mathematics covering ป.1 through ม.3 — the numerical fluency, geometric intuition, and algebraic thinking that everything else rests on:
 
@@ -120,7 +120,7 @@ Integrated mathematics covering ป.1 through ม.3 — the numerical fluency, g
 
 ### Fundamental Science — วิทยาศาสตร์พื้นฐาน
 
-[[Fundamental Science - Overview|→ Full Overview]]
+[[00_Fundamental Science - Overview|→ Full Overview]]
 
 Integrated science covering ป.1 through ม.3 — physics, chemistry, biology, and earth science taught as one connected subject:
 
@@ -140,7 +140,7 @@ Integrated science covering ป.1 through ม.3 — physics, chemistry, biology,
 
 ### Mathematics — คณิตศาสตร์
 
-[[Mathematics - Overview|→ Full Overview]]
+[[01_Advance Mathematics (Sci-Math) - Overview|→ Full Overview]]
 
 | Year | Code | Core Topics |
 |---|---|---|
@@ -152,7 +152,7 @@ Integrated science covering ป.1 through ม.3 — physics, chemistry, biology,
 
 ### Physics — ฟิสิกส์
 
-[[Physics - Overview|→ Full Overview]]
+[[01_Physics - Overview|→ Full Overview]]
 
 | Year | Code | Core Topics |
 |---|---|---|
@@ -164,7 +164,7 @@ Integrated science covering ป.1 through ม.3 — physics, chemistry, biology,
 
 ### Chemistry — เคมี
 
-[[Chemistry - Overview|→ Full Overview]]
+[[02_Chemistry - Overview|→ Full Overview]]
 
 | Year | Code | Core Topics |
 |---|---|---|
@@ -176,7 +176,7 @@ Integrated science covering ป.1 through ม.3 — physics, chemistry, biology,
 
 ### Biology — ชีววิทยา
 
-[[Biology - Overview|→ Full Overview]]
+[[03_Biology - Overview|→ Full Overview]]
 
 | Year | Code | Core Topics |
 |---|---|---|
@@ -188,7 +188,7 @@ Integrated science covering ป.1 through ม.3 — physics, chemistry, biology,
 
 ### Computer Science — วิทยาการคำนวณ
 
-[[Computer Science - Overview|→ Full Overview]]
+[[05_Computer Science - Overview|→ Full Overview]]
 
 | Year | Code | Core Topics |
 |---|---|---|
@@ -200,7 +200,7 @@ Integrated science covering ป.1 through ม.3 — physics, chemistry, biology,
 
 ### Earth Science — วิทยาศาสตร์โลก
 
-[[Earth Science - Overview|→ Full Overview]]
+[[04_Earth Science - Overview|→ Full Overview]]
 
 | Category | Topics |
 |---|---|

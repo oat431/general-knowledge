@@ -5,7 +5,7 @@ tags: [checklist, books, earth-science, math-sci]
 # Earth Science — Book Checklist
 
 > **Subject:** Earth Science (วิทยาศาสตร์โลก) — ม.4–ม.5 (ว341, elective)
-> **Related Overview:** [[Earth Science - Overview]]
+> **Related Overview:** [[04_Earth Science - Overview]]
 
 ## 🔴 Essential
 
@@ -38,4 +38,4 @@ tags: [checklist, books, earth-science, math-sci]
 ## Related
 
 - [[Book Checklist - Overview|← Back to Book Checklist]]
-- [[Earth Science - Overview|Earth Science Overview]]
+- [[04_Earth Science - Overview|Earth Science Overview]]

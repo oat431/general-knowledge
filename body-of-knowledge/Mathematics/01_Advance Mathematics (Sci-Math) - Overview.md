@@ -89,10 +89,10 @@ flowchart TD
 
 ## Key Connections to Other Subjects
 
-- [[Physics - Overview|Physics]] — Calculus for mechanics, vectors for forces, stats for experiments
-- [[Chemistry - Overview|Chemistry]] — Stoichiometry (algebra), rates (calculus), equilibrium (functions)
-- [[Computer Science - Overview|Computer Science]] — Discrete math, logic, algorithms, number systems
-- [[Biology - Overview|Biology]] — Statistics for research, population models (calculus)
+- [[01_Physics - Overview|Physics]] — Calculus for mechanics, vectors for forces, stats for experiments
+- [[02_Chemistry - Overview|Chemistry]] — Stoichiometry (algebra), rates (calculus), equilibrium (functions)
+- [[05_Computer Science - Overview|Computer Science]] — Discrete math, logic, algorithms, number systems
+- [[03_Biology - Overview|Biology]] — Statistics for research, population models (calculus)
 
 ## Reading Paths
 
@@ -105,6 +105,6 @@ flowchart TD
 ## Related
 
 - [[Body of Knowledge - Overview|← Back to Math-Sci Overview]]
-- [[Physics - Overview|Physics]] — Uses calculus, vectors, and trigonometry extensively
-- [[Computer Science - Overview|Computer Science]] — Uses discrete math, logic, and number theory
+- [[01_Physics - Overview|Physics]] — Uses calculus, vectors, and trigonometry extensively
+- [[05_Computer Science - Overview|Computer Science]] — Uses discrete math, logic, and number theory
 - **IPST Textbooks:** [ipst.ac.th](https://www.ipst.ac.th) — Free PDF textbooks for all levels

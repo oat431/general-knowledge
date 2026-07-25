@@ -5,7 +5,7 @@ tags: [checklist, books, chemistry, math-sci]
 # Chemistry — Book Checklist
 
 > **Subject:** Chemistry (เคมี) — ม.4–ม.6 (ว311–ว313)
-> **Related Overview:** [[Chemistry - Overview]]
+> **Related Overview:** [[02_Chemistry - Overview]]
 
 ## 🔴 Essential
 
@@ -70,4 +70,4 @@ tags: [checklist, books, chemistry, math-sci]
 ## Related
 
 - [[Book Checklist - Overview|← Back to Book Checklist]]
-- [[Chemistry - Overview|Chemistry Overview]]
+- [[02_Chemistry - Overview|Chemistry Overview]]

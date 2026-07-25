@@ -5,7 +5,7 @@ tags: [checklist, books, mathematics, math-sci]
 # Mathematics — Book Checklist
 
 > **Subject:** Mathematics (คณิตศาสตร์) — ม.4–ม.6 (ค301–ค303)
-> **Related Overview:** [[Mathematics - Overview]]
+> **Related Overview:** [[01_Advance Mathematics (Sci-Math) - Overview]]
 
 ## 🔴 Essential
 
@@ -70,4 +70,4 @@ tags: [checklist, books, mathematics, math-sci]
 ## Related
 
 - [[Book Checklist - Overview|← Back to Book Checklist]]
-- [[Mathematics - Overview|Mathematics Overview]]
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics Overview]]

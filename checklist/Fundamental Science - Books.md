@@ -5,7 +5,7 @@ tags: [checklist, books, fundamental-science, math-sci, primary, lower-secondary
 # Fundamental Science — Book Checklist
 
 > **Subject:** Fundamental Science (วิทยาศาสตร์พื้นฐาน) — ป.1–ม.3 (ว111–ว213)
-> **Related Overview:** [[Fundamental Science - Overview]]
+> **Related Overview:** [[00_Fundamental Science - Overview]]
 
 ## 🔴 Essential
 
@@ -51,4 +51,4 @@ tags: [checklist, books, fundamental-science, math-sci, primary, lower-secondary
 ## Related
 
 - [[Book Checklist - Overview|← Back to Book Checklist]]
-- [[Fundamental Science - Overview|Fundamental Science Overview]]
+- [[00_Fundamental Science - Overview|Fundamental Science Overview]]

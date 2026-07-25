@@ -5,7 +5,7 @@ tags: [checklist, books, fundamental-mathematics, math-sci, primary, lower-secon
 # Fundamental Mathematics — Book Checklist
 
 > **Subject:** Fundamental Mathematics (คณิตศาสตร์พื้นฐาน) — ป.1–ม.3 (ค111–ค213)
-> **Related Overview:** [[Fundamental Mathematics - Overview]]
+> **Related Overview:** [[00_Fundamental Mathematics - Overview]]
 
 ## 🔴 Essential
 
@@ -45,4 +45,4 @@ tags: [checklist, books, fundamental-mathematics, math-sci, primary, lower-secon
 ## Related
 
 - [[Book Checklist - Overview|← Back to Book Checklist]]
-- [[Fundamental Mathematics - Overview|Fundamental Mathematics Overview]]
+- [[00_Fundamental Mathematics - Overview|Fundamental Mathematics Overview]]

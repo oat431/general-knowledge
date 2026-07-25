@@ -88,10 +88,10 @@ flowchart TD
 
 ## Key Connections to Other Subjects
 
-- [[Mathematics - Overview|Mathematics]] — Stoichiometry (algebra), rates (calculus), equilibrium (functions)
-- [[Physics - Overview|Physics]] — Thermodynamics (shared), atomic structure, spectroscopy
-- [[Biology - Overview|Biology]] — Biochemistry, enzymes, metabolism, DNA/RNA
-- [[Earth Science - Overview|Earth Science]] — Geochemistry, atmospheric chemistry, ocean chemistry
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — Stoichiometry (algebra), rates (calculus), equilibrium (functions)
+- [[01_Physics - Overview|Physics]] — Thermodynamics (shared), atomic structure, spectroscopy
+- [[03_Biology - Overview|Biology]] — Biochemistry, enzymes, metabolism, DNA/RNA
+- [[04_Earth Science - Overview|Earth Science]] — Geochemistry, atmospheric chemistry, ocean chemistry
 
 ## Reading Paths
 
@@ -104,7 +104,7 @@ flowchart TD
 ## Related
 
 - [[Body of Knowledge - Overview|← Back to Math-Sci Overview]]
-- [[Physics - Overview|Physics]] — Thermodynamics, atomic physics, spectroscopy
-- [[Biology - Overview|Biology]] — Biochemistry, metabolism, molecular biology
-- [[Mathematics - Overview|Mathematics]] — Algebra for stoichiometry, calculus for kinetics
+- [[01_Physics - Overview|Physics]] — Thermodynamics, atomic physics, spectroscopy
+- [[03_Biology - Overview|Biology]] — Biochemistry, metabolism, molecular biology
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — Algebra for stoichiometry, calculus for kinetics
 - **IPST Textbooks:** [ipst.ac.th](https://www.ipst.ac.th) — Free PDF textbooks for all levels

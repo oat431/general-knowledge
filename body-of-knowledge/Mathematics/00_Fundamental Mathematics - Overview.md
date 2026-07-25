@@ -8,7 +8,7 @@ tags: [overview, fundamental-mathematics, math-sci, primary, lower-secondary, ip
 > **Course Codes:** ค111–ค116 (ป.1–ป.6), ค211–ค213 (ม.1–ม.3)
 > **Total Concept Areas:** ~20 | **Duration:** 9 years
 > **Source:** IPST (สสวท.) Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)
-> **Leads to:** [[Mathematics - Overview|Mathematics (ค301–ค303)]] — ม.4–ม.6
+> **Leads to:** [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics (ค301–ค303)]] — ม.4–ม.6
 
 ## What Is This?
 
@@ -113,10 +113,10 @@ flowchart TD
 
 ## Key Connections to Upper Level
 
-- [[Mathematics - Overview|Mathematics (ค301–ค303)]] — Algebra → Functions → Calculus
-- [[Physics - Overview|Physics]] — Measurement, arithmetic for calculations
-- [[Chemistry - Overview|Chemistry]] — Ratios for stoichiometry
-- [[Computer Science - Overview|Computer Science]] — Number systems, logic
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics (ค301–ค303)]] — Algebra → Functions → Calculus
+- [[01_Physics - Overview|Physics]] — Measurement, arithmetic for calculations
+- [[02_Chemistry - Overview|Chemistry]] — Ratios for stoichiometry
+- [[05_Computer Science - Overview|Computer Science]] — Number systems, logic
 
 ## Reading Paths
 
@@ -129,6 +129,6 @@ flowchart TD
 ## Related
 
 - [[Body of Knowledge - Overview|← Back to Math-Sci Overview]]
-- [[Fundamental Science - Overview|Fundamental Science]] — Integrated science (ป.1–ม.3)
-- [[Mathematics - Overview|Mathematics]] — The next level (ค301–ค303, ม.4–ม.6)
+- [[00_Fundamental Science - Overview|Fundamental Science]] — Integrated science (ป.1–ม.3)
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — The next level (ค301–ค303, ม.4–ม.6)
 - **IPST Textbooks:** [ipst.ac.th](https://www.ipst.ac.th) — Free PDF textbooks for all levels

@@ -93,10 +93,10 @@ flowchart TD
 
 ## Key Connections to Other Subjects
 
-- [[Mathematics - Overview|Mathematics]] — Calculus for motion/energy, vectors for forces, trig for waves
-- [[Chemistry - Overview|Chemistry]] — Thermodynamics (shared), atomic structure, spectroscopy
-- [[Earth Science - Overview|Earth Science]] — Climate physics, seismology, astronomy
-- [[Computer Science - Overview|Computer Science]] — Simulations, data analysis from experiments
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — Calculus for motion/energy, vectors for forces, trig for waves
+- [[02_Chemistry - Overview|Chemistry]] — Thermodynamics (shared), atomic structure, spectroscopy
+- [[04_Earth Science - Overview|Earth Science]] — Climate physics, seismology, astronomy
+- [[05_Computer Science - Overview|Computer Science]] — Simulations, data analysis from experiments
 
 ## Reading Paths
 
@@ -110,7 +110,7 @@ flowchart TD
 ## Related
 
 - [[Body of Knowledge - Overview|← Back to Math-Sci Overview]]
-- [[Mathematics - Overview|Mathematics]] — Calculus, vectors, and trigonometry are essential tools
-- [[Chemistry - Overview|Chemistry]] — Thermodynamics and atomic physics overlap
-- [[Earth Science - Overview|Earth Science]] — Climate, seismology, astronomy applications
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — Calculus, vectors, and trigonometry are essential tools
+- [[02_Chemistry - Overview|Chemistry]] — Thermodynamics and atomic physics overlap
+- [[04_Earth Science - Overview|Earth Science]] — Climate, seismology, astronomy applications
 - **IPST Textbooks:** [ipst.ac.th](https://www.ipst.ac.th) — Free PDF textbooks for all levels

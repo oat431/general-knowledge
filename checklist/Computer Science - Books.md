@@ -5,7 +5,7 @@ tags: [checklist, books, computer-science, math-sci]
 # Computer Science — Book Checklist
 
 > **Subject:** Computer Science (วิทยาการคำนวณ) — ม.4–ม.6 (ว331–ว333)
-> **Related Overview:** [[Computer Science - Overview]]
+> **Related Overview:** [[05_Computer Science - Overview]]
 
 ## 🔴 Essential
 
@@ -59,4 +59,4 @@ tags: [checklist, books, computer-science, math-sci]
 ## Related
 
 - [[Book Checklist - Overview|← Back to Book Checklist]]
-- [[Computer Science - Overview|Computer Science Overview]]
+- [[05_Computer Science - Overview|Computer Science Overview]]

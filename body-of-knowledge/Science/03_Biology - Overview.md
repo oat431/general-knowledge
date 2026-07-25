@@ -88,10 +88,10 @@ flowchart TD
 
 ## Key Connections to Other Subjects
 
-- [[Chemistry - Overview|Chemistry]] — Biochemistry, enzymes, organic molecules, pH (blood buffers)
-- [[Physics - Overview|Physics]] — Biophysics (nerve impulses, optics of eye), thermodynamics of metabolism
-- [[Mathematics - Overview|Mathematics]] — Statistics for genetics, population models (calculus)
-- [[Earth Science - Overview|Earth Science]] — Ecology, environmental science, evolution (fossils)
+- [[02_Chemistry - Overview|Chemistry]] — Biochemistry, enzymes, organic molecules, pH (blood buffers)
+- [[01_Physics - Overview|Physics]] — Biophysics (nerve impulses, optics of eye), thermodynamics of metabolism
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — Statistics for genetics, population models (calculus)
+- [[04_Earth Science - Overview|Earth Science]] — Ecology, environmental science, evolution (fossils)
 
 ## Reading Paths
 
@@ -103,7 +103,7 @@ flowchart TD
 ## Related
 
 - [[Body of Knowledge - Overview|← Back to Math-Sci Overview]]
-- [[Chemistry - Overview|Chemistry]] — Biochemistry, organic chemistry, enzyme kinetics
-- [[Physics - Overview|Physics]] — Biophysics, thermodynamics of living systems
-- [[Earth Science - Overview|Earth Science]] — Ecology, environmental science, evolution
+- [[02_Chemistry - Overview|Chemistry]] — Biochemistry, organic chemistry, enzyme kinetics
+- [[01_Physics - Overview|Physics]] — Biophysics, thermodynamics of living systems
+- [[04_Earth Science - Overview|Earth Science]] — Ecology, environmental science, evolution
 - **IPST Textbooks:** [ipst.ac.th](https://www.ipst.ac.th) — Free PDF textbooks for all levels

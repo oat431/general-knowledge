@@ -5,7 +5,7 @@ tags: [checklist, books, biology, math-sci]
 # Biology — Book Checklist
 
 > **Subject:** Biology (ชีววิทยา) — ม.4–ม.6 (ว321–ว323)
-> **Related Overview:** [[Biology - Overview]]
+> **Related Overview:** [[03_Biology - Overview]]
 
 ## 🔴 Essential
 
@@ -74,4 +74,4 @@ tags: [checklist, books, biology, math-sci]
 ## Related
 
 - [[Book Checklist - Overview|← Back to Book Checklist]]
-- [[Biology - Overview|Biology Overview]]
+- [[03_Biology - Overview|Biology Overview]]

@@ -69,10 +69,10 @@ flowchart TD
 
 ## Key Connections to Other Subjects
 
-- [[Physics - Overview|Physics]] — Seismic waves, thermodynamics (climate), orbital mechanics
-- [[Chemistry - Overview|Chemistry]] — Geochemistry, atmospheric chemistry, ocean chemistry
-- [[Biology - Overview|Biology]] — Ecology, evolution (fossils), environmental science
-- [[Mathematics - Overview|Mathematics]] — Statistical analysis, modeling (climate, population)
+- [[01_Physics - Overview|Physics]] — Seismic waves, thermodynamics (climate), orbital mechanics
+- [[02_Chemistry - Overview|Chemistry]] — Geochemistry, atmospheric chemistry, ocean chemistry
+- [[03_Biology - Overview|Biology]] — Ecology, evolution (fossils), environmental science
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — Statistical analysis, modeling (climate, population)
 
 ## Reading Paths
 
@@ -84,7 +84,7 @@ flowchart TD
 ## Related
 
 - [[Body of Knowledge - Overview|← Back to Math-Sci Overview]]
-- [[Physics - Overview|Physics]] — Waves, thermodynamics, orbital mechanics
-- [[Chemistry - Overview|Chemistry]] — Geochemistry, atmospheric chemistry
-- [[Biology - Overview|Biology]] — Ecology, evolution, environmental science
+- [[01_Physics - Overview|Physics]] — Waves, thermodynamics, orbital mechanics
+- [[02_Chemistry - Overview|Chemistry]] — Geochemistry, atmospheric chemistry
+- [[03_Biology - Overview|Biology]] — Ecology, evolution, environmental science
 - **IPST Textbooks:** [ipst.ac.th](https://www.ipst.ac.th) — Free PDF textbooks for all levels

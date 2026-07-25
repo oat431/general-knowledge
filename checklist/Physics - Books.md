@@ -5,7 +5,7 @@ tags: [checklist, books, physics, math-sci]
 # Physics — Book Checklist
 
 > **Subject:** Physics (ฟิสิกส์) — ม.4–ม.6 (ว301–ว303)
-> **Related Overview:** [[Physics - Overview]]
+> **Related Overview:** [[01_Physics - Overview]]
 
 ## 🔴 Essential
 
@@ -71,4 +71,4 @@ tags: [checklist, books, physics, math-sci]
 ## Related
 
 - [[Book Checklist - Overview|← Back to Book Checklist]]
-- [[Physics - Overview|Physics Overview]]
+- [[01_Physics - Overview|Physics Overview]]
