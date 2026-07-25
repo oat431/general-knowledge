@@ -53,7 +53,7 @@ flowchart LR
     FM -->|"→"| CS
 ```
 
-## The Eight Knowledge Areas
+## The Knowledge Areas
 
 ### 📗 Foundation Level (ป.1–ม.3)
 
@@ -62,7 +62,7 @@ flowchart LR
 | 🔢 **Fundamental Mathematics** | คณิตศาสตร์พื้นฐาน | ค111–ค116, ค211–ค213 | ~20 | Arithmetic, fractions, geometry, algebra intro, stats |
 | 🔬 **Fundamental Science** | วิทยาศาสตร์พื้นฐาน | ว111–ว116, ว211–ว213 | ~22 | Integrated: life, physical, earth & space science |
 
-**Total foundation: ~42 concept areas**
+**Total foundation (math-sci): ~42 concept areas**
 
 ### 📘 Specialized Level (ม.4–ม.6, วิทย์-คณิต track)
 
@@ -75,9 +75,9 @@ flowchart LR
 | 💻 **Computer Science** | วิทยาการคำนวณ | ว331–ว333 | ~12 | Computational Thinking, Programming, Algorithms, AI |
 | 🌍 **Earth Science** | วิทยาศาสตร์โลก | ว341 (elective) | ~10 | Geology, Meteorology, Astronomy, Environmental Science |
 
-**Total specialized: ~108 topics**
+**Total specialized (math-sci): ~108 topics**
 
-**Grand total: ~150 concept areas & topics across the full ป.1–ม.6 journey**
+**Grand total: ~150 math-sci concept areas + 35 Thai language concept areas across the full ป.1–ม.6 journey**
 
 ---
 
@@ -193,7 +193,9 @@ Integrated science covering ป.1 through ม.3 — physics, chemistry, biology,
 
 ---
 
-## How All Eight Areas Connect
+## How All Areas Connect
+
+### Math-Science Connection
 
 ```mermaid
 flowchart TD
@@ -227,22 +229,48 @@ flowchart TD
     CS -->|"simulations"| PHYS
 ```
 
+### Thai Language Connection
+
+Thai language skills underpin learning in ALL subjects — students read textbooks, write answers, listen to teachers, and discuss ideas in Thai. The 5 strands interconnect:
+
+- **สาระที่ 4 (Language Principles)** → foundation for all other strands
+- **สาระที่ 1 and 3 (Reading + Listening/Viewing)** → receptive skills, develop in parallel
+- **สาระที่ 2 and 3 (Writing + Speaking)** → productive skills
+- **สาระที่ 5 (Literature)** → capstone integrating all four strands
+
 ## Reading Paths
 
+### Math-Science (วิทย์-คณิต)
 - **Complete journey (ป.1→ม.6):** Foundation Math → Foundation Science → then specialized subjects
 - **Engineering track:** Fundamental Math → Mathematics → Physics → Computer Science
 - **Medicine track:** Fundamental Science → Biology → Chemistry → Mathematics (Stats)
 - **Science research:** Fundamental Math + Science → Mathematics → Physics → Chemistry → Biology
 - **Tech/CS track:** Fundamental Math → Mathematics → Computer Science → Physics
 
+### Thai Language (ภาษาไทย)
+- **Full sequence (ป.1→ม.6):** All 5 strands in spiral progression — same skills, deepening complexity
+- **Primary focus (ป.1–6):** สาระ 4 (พื้นฐานภาษา) → สาระ 1 (การอ่าน) → สาระ 2 (การเขียน) → สาระ 3 (การฟัง/พูด) → สาระ 5 (วรรณคดีพื้นฐาน)
+- **Secondary focus (ม.1–6):** สาระ 4 (หลักภาษา) → สาระ 5 (วรรณคดี) → สาระ 1 (การอ่านวิเคราะห์) → สาระ 2 (การเขียนเชิงวิชาการ) → สาระ 3 (การพูดและการอภิปราย)
+- **Language analysis track:** สาระ 4 → สาระ 1 (วิเคราะห์/วิจารณ์) → สาระ 5 (วรรณกรรมวิจารณ์)
+- **Creative writing track:** สาระ 5 (literary models) → สาระ 2 (creative writing) → สาระ 4 (poetic forms/ฉันทลักษณ์)
+
 ## Curriculum Notes
 
+### Math-Science
 - **Foundation level (ป.1–ม.3):** Science is **integrated** (not split into physics/chemistry/biology). Math covers arithmetic through intro algebra.
 - **Specialized level (ม.4–ม.6):** Science **splits** into Physics, Chemistry, Biology, Earth Science. Math advances to calculus and beyond.
 - **Course codes**: "ค" = Mathematics, "ว" = Science. 1xx = primary, 2xx = lower secondary, 3xx = upper secondary.
-- **IPST** (สสวท.) develops textbooks and curriculum standards for all subjects.
+- **IPST** (สสวท.) develops textbooks and curriculum standards for math-science subjects.
 - **Free textbooks:** [ipst.ac.th](https://www.ipst.ac.th)
+
+### Thai Language
+- **Compulsory for all students:** Thai is required from ป.1–ม.6 for all tracks (วิทย์-คณิต, ศิลป์-ภาษา, ศิลป์-คำนวณ, etc.)
+- **Spiral curriculum:** Same 5 strands throughout, deepening in complexity each grade band
+- **Course codes:** "ท" = Thai language. 1xx = primary, 2xx = lower secondary, 3xx = upper secondary
+- **OBEC** (สพฐ.) develops curriculum standards; textbooks by various publishers (อักษรเจริญทัศน์, สถาบันภาษาไทย, etc.)
+- **Standardized tests:** NT (ป.3), O-NET (ป.6, ม.3, ม.6), A-Level ภาษาไทย (ม.6 university entrance)
 
 ## Related
 
-- [[English Skill\English Skill Content|English Skill]] — English language foundation for Thai learners
+- [[Thai Language - Overview|Thai Language]] — Full Thai language BOK with all 5 strands
+- [[English Skill\\English Skill Content|English Skill]] — English language foundation for Thai learners
