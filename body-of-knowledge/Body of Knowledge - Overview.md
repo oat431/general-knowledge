@@ -1,15 +1,35 @@
 ---
-tags: [overview, body-of-knowledge, math-sci, thai-curriculum, ipst, primary, lower-secondary, upper-secondary]
+tags: [overview, body-of-knowledge, math-sci, thai-language, thai-curriculum, ipst, primary, lower-secondary, upper-secondary]
 ---
 
-# Body of Knowledge — Overview (Math-Sci)
+# Body of Knowledge — Overview
 
-> **Purpose:** A curated collection of eight knowledge areas covering the full Thai math-science education journey — from ป.1 through ม.6. Two foundation areas (Fundamental Mathematics, Fundamental Science) cover the integrated ป.1–ม.3 curriculum, while six specialized areas cover the วิทย์-คณิต ม.4–ม.6 track.
+> **Purpose:** A curated collection covering two major domains of the Thai basic education curriculum:
+> - **Math-Science (วิทย์-คณิต):** 8 knowledge areas from ป.1 through ม.6
+> - **Thai Language (ภาษาไทย):** 5 learning strands from ป.1 through ม.6
 >
-> **Source:** IPST (สสวท.) Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)
-> **IPST Textbooks:** [ipst.ac.th](https://www.ipst.ac.th) — Free PDF textbooks for all subjects
+> **Source:** Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)
+> **IPST Textbooks:** [ipst.ac.th](https://www.ipst.ac.th) — Free PDF math-sci textbooks
 
-## Education Levels
+---
+
+## 📗 ภาษาไทย (Thai Language)
+
+[[Thai Language - Overview|→ Full Overview]]
+
+The Thai language curriculum organized into **5 learning strands (สาระการเรียนรู้)**:
+
+| สาระ | Strand | หัวข้อ | Focus |
+|---|---|---|---|
+| 📖 **สาระที่ ๑** | การอ่าน (Reading) | ~15 | การอ่านออกเสียง อ่านจับใจความ อ่านวิเคราะห์ |
+| ✍️ **สาระที่ ๒** | การเขียน (Writing) | ~15 | คัดลายมือ เขียนสื่อสาร เขียนเรียงความ |
+| 🗣️ **สาระที่ ๓** | การฟัง การดู และการพูด | ~10 | การฟังอย่างมีวิจารณญาณ การพูดในโอกาสต่างๆ |
+| 📚 **สาระที่ ๔** | หลักการใช้ภาษาไทย | ~20 | ชนิดของคำ การสร้างคำ ระดับภาษา ฉันทลักษณ์ |
+| 📜 **สาระที่ ๕** | วรรณคดีและวรรณกรรม | ~15 | วรรณคดีไทยสมัยต่างๆ การวิเคราะห์วรรณกรรม |
+
+**Total: ~75 concept areas** | **Vault:** `Thai\`
+
+---
 
 ```mermaid
 flowchart LR
