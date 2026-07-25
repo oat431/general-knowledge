@@ -31,10 +31,10 @@ Cell and Molecular Biology covers the ม.4 biology curriculum — the fundament
 
 ### Cell Respiration vs Photosynthesis
 
-| Process | Where | Input | Output | Equation |
-|---|---|---|---|---|
-| **Photosynthesis** | Chloroplast | CO₂ + H₂O + light | C₆H₁₂O₆ + O₂ | 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ |
-| **Respiration** | Mitochondria | C₆H₁₂O₆ + O₂ | CO₂ + H₂O + ATP | C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + 38ATP |
+| Process            | Where        | Input             | Output          | Equation                            |
+| ------------------ | ------------ | ----------------- | --------------- | ----------------------------------- |
+| **Photosynthesis** | Chloroplast  | CO₂ + H₂O + light | C₆H₁₂O₆ + O₂    | 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂         |
+| **Respiration**    | Mitochondria | C₆H₁₂O₆ + O₂      | CO₂ + H₂O + ATP | C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + 38ATP |
 
 ### DNA → RNA → Protein (Central Dogma)
 

@@ -30,26 +30,26 @@ Electricity and Magnetism (E&M) is the physics of **charges and fields**. From C
 
 ### Electrostatics & Circuits
 
-| Concept | Formula |
-|---|---|
-| Coulomb's law | F = k·q₁q₂/r² |
-| Electric field | E = F/q |
-| Capacitance | C = Q/V |
-| Ohm's law | V = IR |
-| Power | P = IV = I²R = V²/R |
-| Series resistance | R_eq = R₁ + R₂ + ... |
-| Parallel resistance | 1/R_eq = 1/R₁ + 1/R₂ + ... |
-| Kirchhoff's current law | ΣI_in = ΣI_out |
-| Kirchhoff's voltage law | ΣV_loop = 0 |
+| Concept                 | Formula                                                               |
+| ----------------------- | --------------------------------------------------------------------- |
+| Coulomb's law           | $$F = k\frac{q_1 q_2}{r^2}$$                                          |
+| Electric field          | $$E = \frac{F}{q}$$                                                   |
+| Capacitance             | $$C = \frac{Q}{V}$$                                                   |
+| Ohm's law               | $$V = IR$$                                                            |
+| Power                   | $$P = IV = I^2R = \frac{V^2}{R}$$                                     |
+| Series resistance       | $$R_{	ext{eq}} = R_1 + R_2 + \cdots$$                                 |
+| Parallel resistance     | $$\frac{1}{R_{	\text{eq}}} = \frac{1}{R_1} + \frac{1}{R_2} + \cdots$$ |
+| Kirchhoff's current law | $$\Sigma I_{	ext{in}} = \Sigma I_{	ext{out}}$$                        |
+| Kirchhoff's voltage law | $$\Sigma V_{	ext{loop}} = 0$$                                         |
 
 ### Magnetism & Induction
 
-| Concept | Formula |
-|---|---|
-| Magnetic force on charge | F = qvB sin θ |
-| Magnetic force on wire | F = ILB sin θ |
-| Faraday's law | ε = −N·ΔΦ/Δt |
-| Transformer | V_p/V_s = N_p/N_s |
+| Concept                  | Formula                                      |
+| ------------------------ | -------------------------------------------- |
+| Magnetic force on charge | $$F = qvB \sin	\theta$$                      |
+| Magnetic force on wire   | $$F = ILB \sin	\theta$$                      |
+| Faraday's law            | $$\epsilon = -N\frac{\Delta\Phi}{\Delta t}$$ |
+| Transformer              | $$\frac{V_p}{V_s} = \frac{N_p}{N_s}$$        |
 
 ### Right-Hand Rules
 

@@ -28,16 +28,16 @@ Modern Physics is where classical intuition breaks down. Einstein's relativity s
 
 ## Key Formulas
 
-| Concept | Formula |
-|---|---|
-| **Time dilation** | Δt = Δt₀/√(1−v²/c²) |
-| **Length contraction** | L = L₀√(1−v²/c²) |
-| **Mass-energy** | E = mc² |
-| **Photon energy** | E = hf = hc/λ |
-| **Photoelectric effect** | K_max = hf − W₀ |
-| **de Broglie wavelength** | λ = h/p = h/mv |
-| **Radioactive decay** | N = N₀(½)^(t/T₁/₂) |
-| **Nuclear binding energy** | E = Δm·c² |
+| Concept                    | Formula                                              |
+| -------------------------- | ---------------------------------------------------- |
+| **Time dilation**          | $$\Delta t = \frac{\Delta t_0}{\sqrt{1 - v^2/c^2}}$$ |
+| **Length contraction**     | $$L = L_0 \sqrt{1 - v^2/c^2}$$                       |
+| **Mass-energy**            | $$E = mc^2$$                                         |
+| **Photon energy**          | $$E = hf = \frac{hc}{\lambda}$$                      |
+| **Photoelectric effect**   | $$K_{\text{max}} = hf - W_0$$                        |
+| **de Broglie wavelength**  | $$\lambda = \frac{h}{p} = \frac{h}{mv}$$             |
+| **Radioactive decay**      | $$N = N_0 \left(\frac{1}{2}\right)^{t/T_{1/2}}$$     |
+| **Nuclear binding energy** | $$E = \Delta m \cdot c^2$$                           |
 
 ---
 

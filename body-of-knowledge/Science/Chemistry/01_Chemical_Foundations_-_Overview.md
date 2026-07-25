@@ -29,14 +29,14 @@ Chemical Foundations covers the ม.4 chemistry curriculum — the building bloc
 
 ## Key Formulas
 
-| Concept | Formula |
-|---|---|
-| **Mole** | n = m/M (mass ÷ molar mass) |
-| **Molarity** | M = n/V (mol/L) |
-| **Ideal gas** | PV = nRT (R = 0.0821 L·atm/mol·K) |
-| **Combined gas** | P₁V₁/T₁ = P₂V₂/T₂ |
-| **% Yield** | (actual/theoretical) × 100% |
-| **Dilution** | M₁V₁ = M₂V₂ |
+| Concept          | Formula                                                                      |
+| ---------------- | ---------------------------------------------------------------------------- |
+| **Mole**         | $$n = \frac{m}{M}$$ (mass ÷ molar mass)                                      |
+| **Molarity**     | $$M = \frac{n}{V}$$ (mol/L)                                                  |
+| **Ideal gas**    | $$PV = nRT$$ (R = 0.0821 L·atm/mol·K)                                        |
+| **Combined gas** | $$\frac{P_1 V_1}{T_1} = \frac{P_2 V_2}{T_2}$$                                |
+| **% Yield**      | $$\% \text{ Yield} = \frac{\text{actual}}{\text{theoretical}} \times 100\%$$ |
+| **Dilution**     | $$M_1 V_1 = M_2 V_2$$                                                        |
 
 ### Periodic Trends (Left → Right)
 

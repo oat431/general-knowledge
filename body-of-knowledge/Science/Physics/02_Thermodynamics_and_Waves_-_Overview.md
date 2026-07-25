@@ -30,33 +30,33 @@ This category bridges mechanics and modern physics. **Thermodynamics** studies h
 
 ### Oscillations & Waves
 
-| Concept | Formula |
-|---|---|
-| SHM period (spring) | T = 2π√(m/k) |
-| SHM period (pendulum) | T = 2π√(L/g) |
-| Wave speed | v = fλ |
-| Doppler effect | f' = f(v±vₒ)/(v∓vₛ) |
+| Concept               | Formula                              |
+| --------------------- | ------------------------------------ |
+| SHM period (spring)   | $$T = 2\pi\sqrt{\frac{m}{k}}$$       |
+| SHM period (pendulum) | $$T = 2\pi\sqrt{\frac{L}{g}}$$       |
+| Wave speed            | $$v = f\lambda$$                     |
+| Doppler effect        | $$f' = \frac{v \pm v_o}{v \mp v_s}$$ |
 
 ### Thermodynamics
 
-| Concept | Formula |
-|---|---|
-| Heat transfer | Q = mcΔT |
-| Latent heat | Q = mL |
-| Ideal gas law | PV = nRT |
-| 1st Law | ΔU = Q − W |
-| Carnot efficiency | η = 1 − T_c/T_h |
-| Entropy change | ΔS = Q/T |
+| Concept           | Formula                         |
+| ----------------- | ------------------------------- |
+| Heat transfer     | $$Q = mc\Delta T$$              |
+| Latent heat       | $$Q = mL$$                      |
+| Ideal gas law     | $$PV = nRT$$                    |
+| 1st Law           | $$\Delta U = Q - W$$            |
+| Carnot efficiency | $$\eta = 1 - \frac{T_c}{T_h}$$ |
+| Entropy change    | $$\Delta S = \frac{Q}{T}$$      |
 
 ### Fluid Mechanics
 
-| Concept | Formula |
-|---|---|
-| Pressure | P = F/A |
-| Hydrostatic pressure | P = ρgh |
-| Buoyancy (Archimedes) | F_B = ρ_fluid × V_displaced × g |
-| Bernoulli | P + ½ρv² + ρgh = constant |
-| Continuity | A₁v₁ = A₂v₂ |
+| Concept               | Formula                                                   |
+| --------------------- | --------------------------------------------------------- |
+| Pressure              | $$P = \frac{F}{A}$$                                       |
+| Hydrostatic pressure  | $$P = \rho gh$$                                           |
+| Buoyancy (Archimedes) | $$F_B = \rho_{	\text{fluid}} V_{	\text{displaced}} g$$    |
+| Bernoulli             | $$P + 	\frac{1}{2}\rho v^2 + \rho gh = 	\text{constant}$$ |
+| Continuity            | $$A_1 v_1 = A_2 v_2$$                                     |
 
 ---
 

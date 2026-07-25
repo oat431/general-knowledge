@@ -32,26 +32,26 @@ Reactions and Equilibrium is the ม.5 chemistry curriculum — where chemistry 
 
 | Concept | Formula |
 |---|---|
-| pH | pH = −log[H⁺] |
-| pOH | pOH = −log[OH⁻]; pH + pOH = 14 |
-| Ka | Ka = [H⁺][A⁻]/[HA] |
-| Henderson-Hasselbalch | pH = pKa + log([A⁻]/[HA]) |
+| pH | $$\text{pH} = -\log[\text{H}^+]$$ |
+| pOH | $$\text{pOH} = -\log[\text{OH}^-]; \quad \text{pH} + \text{pOH} = 14$$ |
+| Ka | $$K_a = \frac{[\text{H}^+][\text{A}^-]}{[\text{HA}]}$$ |
+| Henderson-Hasselbalch | $$\text{pH} = \text{p}K_a + \log\frac{[\text{A}^-]}{[\text{HA}]}$$ |
 
 ### Equilibrium & Thermodynamics
 
 | Concept | Formula |
 |---|---|
-| Kc | Kc = [products]/[reactants] (stoichiometric powers) |
-| ΔG | ΔG = ΔH − TΔS |
-| ΔG° | ΔG° = −RT ln K |
-| Arrhenius | k = A·e^(−Ea/RT) |
+| Kc | $$K_c = \frac{[\text{products}]}{[\text{reactants}]}$$ (stoichiometric powers) |
+| ΔG | $$\Delta G = \Delta H - T\Delta S$$ |
+| ΔG° | $$\Delta G^\circ = -RT \ln K$$ |
+| Arrhenius | $$k = A e^{-E_a/RT}$$ |
 
 ### Electrochemistry
 
 | Concept | Formula |
 |---|---|
-| Nernst equation | E = E° − (RT/nF) ln Q |
-| Faraday's law | m = (M·I·t)/(n·F) |
+| Nernst equation | $$E = E^\circ - \frac{RT}{nF} \ln Q$$ |
+| Faraday's law | $$m = \frac{M I t}{n F}$$ |
 
 ---
 

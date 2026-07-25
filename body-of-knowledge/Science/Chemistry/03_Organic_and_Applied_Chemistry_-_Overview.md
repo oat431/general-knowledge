@@ -32,16 +32,16 @@ Organic chemistry is the chemistry of **carbon-based compounds** — the molecul
 
 | Group | Formula | Suffix/Prefix | Example |
 |---|---|---|---|
-| Alkane | C−C | -ane | Methane CH₄ |
-| Alkene | C=C | -ene | Ethene C₂H₄ |
-| Alkyne | C≡C | -yne | Ethyne C₂H₂ |
-| Alcohol | −OH | -ol | Ethanol C₂H₅OH |
-| Aldehyde | −CHO | -al | Methanal HCHO |
-| Ketone | >C=O | -one | Propanone CH₃COCH₃ |
-| Carboxylic acid | −COOH | -oic acid | Ethanoic acid CH₃COOH |
-| Ester | −COOR | -oate | Ethyl ethanoate |
-| Amine | −NH₂ | amino- | Methylamine |
-| Amide | −CONH₂ | -amide | Ethanamide |
+| Alkane | $$\ce{C-C}$$ | -ane | $$\ce{CH4}$$ (Methane) |
+| Alkene | $$\ce{C=C}$$ | -ene | $$\ce{C2H4}$$ (Ethene) |
+| Alkyne | $$\ce{C#C}$$ | -yne | $$\ce{C2H2}$$ (Ethyne) |
+| Alcohol | $$\ce{-OH}$$ | -ol | $$\ce{C2H5OH}$$ (Ethanol) |
+| Aldehyde | $$\ce{-CHO}$$ | -al | $$\ce{HCHO}$$ (Methanal) |
+| Ketone | $$\ce{>C=O}$$ | -one | $$\ce{CH3COCH3}$$ (Propanone) |
+| Carboxylic acid | $$\ce{-COOH}$$ | -oic acid | $$\ce{CH3COOH}$$ (Ethanoic acid) |
+| Ester | $$\ce{-COOR}$$ | -oate | Ethyl ethanoate |
+| Amine | $$\ce{-NH2}$$ | amino- | Methylamine |
+| Amide | $$\ce{-CONH2}$$ | -amide | Ethanamide |
 
 ---
 

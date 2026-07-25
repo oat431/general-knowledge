@@ -31,24 +31,24 @@ Mechanics is the study of **motion and its causes**. For Thai วิทย์-�
 
 | Concept | Formula |
 |---|---|
-| **Kinematics** | v = u + at, s = ut + ½at², v² = u² + 2as |
-| **Newton's 2nd Law** | F = ma (or ΣF = ma) |
-| **Friction** | f = μN |
-| **Kinetic Energy** | KE = ½mv² |
-| **Potential Energy** | PE = mgh (gravitational) |
-| **Work-Energy** | W = ΔKE + ΔPE |
-| **Momentum** | p = mv, Σpᵢ = Σp_f (conservation) |
-| **Torque** | τ = r × F = Iα |
-| **Angular momentum** | L = Iω |
+| **Kinematics** | $$v = u + at, \quad s = ut + \tfrac{1}{2}at^2, \quad v^2 = u^2 + 2as$$ |
+| **Newton's 2nd Law** | $$F = ma$$ (or $$\Sigma F = ma$$) |
+| **Friction** | $$f = \mu N$$ |
+| **Kinetic Energy** | $$KE = \tfrac{1}{2}mv^2$$ |
+| **Potential Energy** | $$PE = mgh$$ (gravitational) |
+| **Work-Energy** | $$W = \Delta KE + \Delta PE$$ |
+| **Momentum** | $$p = mv, \quad \Sigma p_i = \Sigma p_f$$ (conservation) |
+| **Torque** | $$\tau = r \times F = I\alpha$$ |
+| **Angular momentum** | $$L = I\omega$$ |
 
 ### The Big Four Kinematic Equations (constant acceleration)
 
 | # | Equation | Missing |
 |---|---|---|
-| 1 | v = v₀ + at | s |
-| 2 | s = v₀t + ½at² | v |
-| 3 | v² = v₀² + 2as | t |
-| 4 | s = ½(v₀ + v)t | a |
+| 1 | $$v = v_0 + at$$ | s |
+| 2 | $$s = v_0t + \tfrac{1}{2}at^2$$ | v |
+| 3 | $$v^2 = v_0^2 + 2as$$ | t |
+| 4 | $$s = \tfrac{1}{2}(v_0 + v)t$$ | a |
 
 ---
 

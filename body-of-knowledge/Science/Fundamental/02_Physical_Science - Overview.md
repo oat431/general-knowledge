@@ -50,14 +50,14 @@ flowchart TD
 
 ## Key Formulas (ม.1-3)
 
-| Formula | What It Means |
-|---|---|
-| F = ma | Force = mass × acceleration |
-| W = Fd | Work = force × distance |
-| P = W/t | Power = work ÷ time |
-| V = IR | Voltage = current × resistance (Ohm's law) |
-| ρ = m/V | Density = mass ÷ volume |
-| v = d/t | Speed = distance ÷ time |
+| Formula             | What It Means                              |
+| ------------------- | ------------------------------------------ |
+| $$F = ma$$          | Force = mass × acceleration                |
+| $$W = Fd$$          | Work = force × distance                    |
+| $$P = \frac{W}{t}$$ | Power = work ÷ time                        |
+| $$V = IR$$          | Voltage = current × resistance (Ohm's law) |
+| $$ρ = \frac{m}{V}$$ | Density = mass ÷ volume                    |
+| $$v = \frac{d}{t}$$ | Speed = distance ÷ time                    |
 
 ---
 
