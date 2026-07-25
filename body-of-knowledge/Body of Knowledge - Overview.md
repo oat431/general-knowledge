@@ -4,9 +4,10 @@ tags: [overview, body-of-knowledge, math-sci, thai-language, thai-curriculum, ip
 
 # Body of Knowledge — Overview
 
-> **Purpose:** A curated collection covering two major domains of the Thai basic education curriculum:
+> **Purpose:** A curated collection covering three major domains of the Thai basic education curriculum:
 > - **Math-Science (วิทย์-คณิต):** 8 knowledge areas from ป.1 through ม.6
 > - **Thai Language (ภาษาไทย):** 5 learning strands from ป.1 through ม.6
+> - **English (ภาษาอังกฤษ):** 4 learning strands from ป.1 through ม.6
 >
 > **Source:** Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)
 > **IPST Textbooks:** [ipst.ac.th](https://www.ipst.ac.th) — Free PDF math-sci textbooks
@@ -28,6 +29,24 @@ The Thai language curriculum organized into **5 learning strands (สาระ�
 | 📜 **สาระที่ ๕** | วรรณคดีและวรรณกรรม | ~15 | วรรณคดีไทยสมัยต่างๆ การวิเคราะห์วรรณกรรม |
 
 **Total: ~75 concept areas** | **Vault:** `Thai\`
+
+---
+
+## 🌏 ภาษาอังกฤษ (English)
+
+[[English - Overview|→ Full Overview]]
+
+The English curriculum organized into **4 learning strands (สาระการเรียนรู้)**:
+
+| สาระ | Strand | หัวข้อ | Focus |
+|---|---|---|---|
+| 🗣️ **สาระที่ ๑** | ภาษาเพื่อการสื่อสาร | ~12 | ฟัง พูด อ่าน เขียน ไวยากรณ์ คำศัพท์ |
+| 🎭 **สาระที่ ๒** | ภาษาและวัฒนธรรม | ~6 | วัฒนธรรมเจ้าของภาษา มารยาทสังคม |
+| 🔗 **สาระที่ ๓** | ภาษากับกลุ่มสาระอื่น | ~4 | เชื่อมโยงคณิต วิทย์ สังคม ผ่านภาษาอังกฤษ |
+| 🌏 **สาระที่ ๔** | ภาษากับชุมชนและโลก | ~6 | อาชีพ อาเซียน สื่อออนไลน์ การสอบ |
+
+**Total: ~28 concept areas** | **Vault:** `English\`**
+**Supplementary:** [[English Skill Content|English Skill]] — teaching-ordered grammar/skills reference
 
 ---
 
