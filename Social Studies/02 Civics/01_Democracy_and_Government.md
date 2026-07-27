@@ -21,6 +21,7 @@ Democracy and Government teaches students how Thailand's democratic system works
 | **ป.1–3** | Fairness, taking turns, school rules, national symbols (flag, anthem), King as head of state |
 | **ป.4–6** | Democracy principles, voting, separation of powers (basic), local government, rights and duties under constitution |
 | **ม.1–3** | Constitutional monarchy detailed, three branches detailed, elections, political parties, government structure |
+| **ม.4–6** | Political philosophy, social contract theory, political ideologies, democratic governance analysis, political participation critique |
 
 ---
 
@@ -95,7 +96,7 @@ Democracy and Government teaches students how Thailand's democratic system works
 | Duty | Thai | Description |
 |---|---|---|
 | Obey laws | ปฏิบัติตามกฎหมาย | Follow the constitution and laws |
-| Defend nation | ป้องกันประเทศ | Military service (男性) |
+| Defend nation | ป้องกันประเทศ | Military service (ชาย) |
 | Pay taxes | เสียภาษี | Fund government services |
 | Vote | ใช้สิทธิเลือกตั้ง | Participate in democracy |
 | Protect environment | อนุรักษ์ธรรมชาติ | Preserve natural resources |
@@ -114,7 +115,73 @@ Democracy and Government teaches students how Thailand's democratic system works
 
 ---
 
-## 7 | Thai Terminology
+## 7 | Political Philosophy (ปรัชญาการเมือง)
+
+| Concept | Thai | Description |
+|---|---|---|
+| **Social contract** | สัญญาประชาคม | People consent to government in exchange for protection |
+| **Popular sovereignty** | อธิปไตยของปวงชน | Ultimate power belongs to the people |
+| **Separation of powers** | การแบ่งแยกอำนาจ | Montesquieu's theory of divided government |
+| **Checks and balances** | การตรวจสอบถ่วงดุล | Each branch limits the others |
+| **Rule of law** | นิติรัฐ | Law applies equally to everyone, including government |
+| **Natural rights** | สิทธิธรรมชาติ | Inherent rights that government cannot take away |
+
+### Key Political Thinkers
+
+| Thinker | Thai | Key Idea |
+|---|---|---|
+| **John Locke** | จอห์น ล็อก | Natural rights: life, liberty, property; right to revolt |
+| **Jean-Jacques Rousseau** | ฌอง-ฌาก รุสโซ | Social contract, general will (เจตจำนงทั่วไป) |
+| **Montesquieu** | มงแตสกีเยอ | Separation of powers |
+| **Thomas Jefferson** | โทมัส เจฟเฟอร์สัน | Declaration of Independence, democracy |
+| **King Rama VII** | พระบาทสมเด็จพระปกเกล้าเจ้าอยู่หัว | Gave Thailand its first permanent constitution (1932) |
+
+---
+
+## 8 | Political Ideologies (อุดมการณ์ทางการเมือง)
+
+| Ideology | Thai | Core Belief | Thai Context |
+|---|---|---|---|
+| **Liberalism** | เสรีนิยม | Individual freedom, equality, democracy | Basis of constitutional rights |
+| **Conservatism** | อนุรักษนิยม | Tradition, stability, gradual change | Respect for monarchy, institutions |
+| **Socialism** | สังคมนิยม | Collective ownership, equality | Welfare programs, public healthcare |
+| **Nationalism** | ชาตินิยม | Loyalty to nation, national identity | Thai national symbols, patriotism |
+| **Democracy** | ประชาธิปไตย | Government by the people | Thai constitutional monarchy |
+| **Communism** | คอมมิวนิสม์ | Classless society, state ownership | Historical threat in Indochina region |
+
+### Ideology Spectrum
+
+| Left (ซ้าย) | Center (กลาง) | Right (ขวา) |
+|---|---|---|
+| Equality emphasis | Balance | Freedom emphasis |
+| State intervention | Mixed approach | Market economy |
+| Social change | Pragmatism | Tradition |
+
+---
+
+## 9 | Democratic Governance Analysis
+
+| Aspect | Thai | Key Questions |
+|---|---|---|
+| **Participation** | การมีส่วนร่วม | Who participates? Who is excluded? |
+| **Representation** | การเป็นตัวแทน | Do elected officials represent the people? |
+| **Accountability** | ความรับผิดชอบ | Are leaders held accountable? |
+| **Transparency** | ความโปร่งใส | Is government decision-making open? |
+| **Legitimacy** | ความชอบธรรม | Do people accept the government's authority? |
+| **Civil liberties** | เสรีภาพพลเมือง | Are individual rights protected? |
+
+### Democracy Indices
+
+| Index | Thai | Measures |
+|---|---|---|
+| **Democracy Index** | ดัชนีประชาธิปไตย | Economist Intelligence Unit ranking |
+| **Freedom Index** | ดัชนีเสรีภาพ | Freedom House assessment |
+| **Corruption Index** | ดัชนีทุจริต | Transparency International ranking |
+| **Press Freedom** | เสรีภาพสื่อ | Reporters Without Borders ranking |
+
+---
+
+## 10 | Thai Terminology
 
 | Thai | English |
 |---|---|
@@ -131,9 +198,10 @@ Democracy and Government teaches students how Thailand's democratic system works
 
 ---
 
-## 8 | Cross-Links
+## 11 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[02_Rights_and_Duties|Rights & Duties]] — Detailed constitutional rights
-- [[03_Thai_Laws|Thai Laws]] — Legal system
-- [[05_Thai_Culture|Thai Culture]] — Cultural values and governance
+- [[04_Rights_Duties_and_Laws|Rights, Duties, and Laws]] — Detailed constitutional rights
+- [[05_Thai_Constitution|Thai Constitution]] — Constitutional framework
+- [[06_Government_Structure|Government Structure]] — How government is organized
+- [[02_Thai_Culture_and_Traditions|Thai Culture]] — Cultural values and governance

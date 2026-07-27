@@ -21,6 +21,7 @@ Thai Culture and Traditions explores the rich cultural heritage of Thailand — 
 | **ป.1–3** | Thai greetings (ไหว้), polite behavior (มารยาท), festivals (Songkran, Loy Krathong), national symbols |
 | **ป.4–6** | Four regional cultures, Thai art forms, important traditions, cultural preservation |
 | **ม.1–3** | Cultural change, globalization effects, cultural diversity, Thai identity in modern world |
+| **ม.4–6** | Cultural preservation strategies, Thai identity in globalization, cultural policy, heritage management, cultural criticism |
 
 ---
 
@@ -97,7 +98,63 @@ Thai Culture and Traditions explores the rich cultural heritage of Thailand — 
 
 ---
 
-## 8 | Thai Terminology
+## 8 | Cultural Preservation Strategies (ยุทธศาสตร์การอนุรักษ์วัฒนธรรม)
+
+| Strategy | Thai | Description | Example |
+|---|---|---|---|
+| **Documentation** | การบันทึก | Recording practices, oral traditions, crafts | National archives, UNESCO Intangible Heritage |
+| **Education** | การศึกษา | Teaching cultural heritage in schools | Thai dance, music, history curriculum |
+| **Community action** | การดำเนินงานของชุมชน | Local preservation by villagers | Village festivals, craft cooperatives |
+| **Government policy** | นโยบายรัฐบาล | Laws and funding for heritage | Fine Arts Department, cultural budgets |
+| **Digital preservation** | การอนุรักษ์ดิจิทัล | Using technology to record and share | Online archives, virtual museums |
+| **Cultural tourism** | การท่องเที่ยวเชิงวัฒนธรรม | Tourism that supports heritage | Chiang Mai old city, Ayutthaya historical park |
+
+### UNESCO Intangible Heritage (Thailand)
+
+| Heritage | Thai | Year Listed |
+|---|---|---|
+| **Khon** | โขน | 2018 |
+| **Nora** | โนรา | 2021 |
+| **Thai massage** | นวดไทย | 2019 |
+| **Traditional Thai cuisine** | อาหารไทย | Under consideration |
+
+---
+
+## 9 | Thai Identity in Globalization (อัตลักษณ์ไทยในยุคโลกาภิวัตน์)
+
+| Challenge | Thai | Description |
+|---|---|---|
+| **Westernization** | การตะวันตก | Adoption of Western lifestyles, fashion, values |
+| **Digital culture** | วัฒนธรรมดิจิทัล | Social media changing communication, youth culture |
+| **Consumerism** | วัฒนธรรมบริโภค | Material values replacing traditional values |
+| **Language shift** | การเปลี่ยนภาษา | English replacing Thai in some contexts |
+| **Cultural homogenization** | การกลืนกลายทางวัฒนธรรม | Loss of regional distinctiveness |
+
+### Preserving Thai Identity
+
+| Approach | Thai | Description |
+|---|---|---|
+| **Sufficiency economy** | เศรษฐกิจพอเพียง | King Rama IX's philosophy of moderation |
+| **Cultural education** | การศึกษาวัฒนธรรม | Teaching values, traditions, history |
+| **Supporting local products** | สนับสนุนสินค้าท้องถิ่น | OTOP (One Tambon One Product) program |
+| **Media regulation** | การกำกับสื่อ | Protecting Thai content, language |
+| **Intergenerational transmission** | การถ่ายทอดระหว่างรุ่น | Grandparents teaching grandchildren |
+
+---
+
+## 10 | Cultural Criticism (การวิพากษ์วัฒนธรรม)
+
+| Perspective | Thai | Question |
+|---|---|---|
+| **Gender** | บทบาททางเพศ | Are cultural norms equal for all genders? |
+| **Class** | ชนชั้น | Who benefits from cultural practices? |
+| **Generation** | รุ่น | Are traditions relevant for youth? |
+| **Ethnicity** | ชาติพันธุ์ | Whose culture is represented? |
+| **Power** | อำนาจ | Who decides what is "Thai culture"? |
+
+---
+
+## 11 | Thai Terminology
 
 | Thai | English |
 |---|---|
@@ -113,7 +170,7 @@ Thai Culture and Traditions explores the rich cultural heritage of Thailand — 
 
 ---
 
-## 9 | Cross-Links
+## 12 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
 - [[01_Buddhist_Principles|Buddhism]] — Religion shapes culture

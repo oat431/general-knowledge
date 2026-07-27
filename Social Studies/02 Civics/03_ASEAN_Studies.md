@@ -21,6 +21,7 @@ ASEAN Studies teaches students about the Association of Southeast Asian Nations 
 | **ป.1–3** | Neighboring countries (basic), ASEAN awareness |
 | **ป.4–6** | ASEAN member states, basic cooperation, cultural diversity |
 | **ม.1–3** | Three pillars, ASEAN Charter, AEC, benefits and challenges |
+| **ม.4–6** | ASEAN challenges analysis, ASEAN's global role, future of ASEAN, critical evaluation |
 
 ---
 
@@ -74,7 +75,55 @@ ASEAN Studies teaches students about the Association of Southeast Asian Nations 
 
 ---
 
-## 6 | Thai Terminology
+## 6 | ASEAN Challenges (ความท้าทายของอาเซียน)
+
+| Challenge | Thai | Description |
+|---|---|---|
+| **South China Sea** | ทะเลจีนใต้ | Territorial disputes involving ASEAN members |
+| **Myanmar crisis** | วิกฤตเมียนมา | Political instability, humanitarian issues |
+| **Human rights** | สิทธิมนุษยชน | Diverse standards across member states |
+| **Income inequality** | ความเหลื่อมล้ำ | Gap between rich (Singapore) and poor (Myanmar, Laos) |
+| **Environmental issues** | ปัญหาสิ่งแวดล้อม | Haze, deforestation, marine pollution |
+| **Non-interference policy** | หลักการไม่แทรกแซง | Limits ASEAN's ability to address internal issues |
+| **ASEAN Way** | วิถีอาเซียน | Consensus-based decision-making — effective or slow? |
+
+### ASEAN Decision-Making
+
+| Principle | Thai | Strength | Weakness |
+|---|---|---|---|
+| **Consensus** | ฉันทามติ | All members agree | Slow, lowest common denominator |
+| **Non-interference** | การไม่แทรกแซง | Respects sovereignty | Cannot address human rights abuses |
+| **Quiet diplomacy** | การทูตเชิงสุภาพ | Avoids public confrontation | Lack of transparency |
+
+---
+
+## 7 | ASEAN's Global Role (บทบาทของอาเซียนในเวทีโลก)
+
+| Role | Thai | Description |
+|---|---|---|
+| **Regional hub** | ศูนย์กลางภูมิภาค | ASEAN as center of Asian diplomacy |
+| **ASEAN+3** | อาเซียน+3 | Cooperation with China, Japan, South Korea |
+| **East Asia Summit** | การประชุมสุดยอดเอเชียตะวันออก | Broader security dialogue |
+| **RCEP** | หุ้นส่วนทางเศรษฐกิจระดับภูมิภาค | World's largest trade agreement |
+| **Mediator** | คนกลาง | ASEAN's role in regional conflicts |
+| **Economic engine** | เครื่องยนต์เศรษฐกิจ | 600+ million consumers, growing middle class |
+
+---
+
+## 8 | Future of ASEAN (อนาคตของอาเซียน)
+
+| Trend | Thai | Implication |
+|---|---|---|
+| **Digital economy** | เศรษฐกิจดิจิทัล | E-commerce, fintech, digital payments |
+| **Climate change** | การเปลี่ยนแปลงสภาพภูมิอากาศ | Shared environmental challenges |
+| **Aging population** | สังคมผู้สูงอายุ | Labor shortage in some countries |
+| **Youth bulge** | ประชากรวัยหนุ่มสาว | Education and employment needs |
+| **China's influence** | อิทธิพลของจีน | Economic dependence, geopolitical alignment |
+| **Integration deepening** | การบูรณาการที่ลึกขึ้น | From economic to political integration? |
+
+---
+
+## 9 | Thai Terminology
 
 | Thai | English |
 |---|---|
@@ -88,10 +137,10 @@ ASEAN Studies teaches students about the Association of Southeast Asian Nations 
 
 ---
 
-## 7 | Cross-Links
+## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[02_Democracy_and_Government|Democracy]] — Governance systems in ASEAN
-- [[03_Economics_Fundamentals|Economics]] — ASEAN economics
-- [[06_Thai_Culture_and_Traditions|Thai Culture]] — Cultural exchange
-- [[07_World_History_and_Civilizations|World History]] — Historical context
+- [[01_Democracy_and_Government|Democracy and Government]] — Governance systems in ASEAN
+- [[03 Economics/00_overview|Economics]] — ASEAN economics
+- [[02_Thai_Culture_and_Traditions|Thai Culture]] — Cultural exchange
+- [[11_International_Relations|International Relations]] — Broader international context

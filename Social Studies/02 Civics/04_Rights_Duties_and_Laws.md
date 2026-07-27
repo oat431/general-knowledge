@@ -21,6 +21,7 @@ Rights, Duties, and Thai Laws covers the legal framework of Thai society. Studen
 | **ป.1–3** | School rules, basic rights (safety, education), being a good citizen |
 | **ป.4–6** | Constitutional rights, civic duties, types of laws (basic), court system intro |
 | **ม.1–3** | Criminal law, civil law, legal procedures, human rights, juvenile justice |
+| **ม.4–6** | International law, international human rights, global justice, legal philosophy, rights in practice |
 
 ---
 
@@ -96,7 +97,70 @@ Rights, Duties, and Thai Laws covers the legal framework of Thai society. Studen
 
 ---
 
-## 8 | Human Rights (สิทธิมนุษยชน)
+## 8 | International Law (กฎหมายระหว่างประเทศ)
+
+| Type | Thai | Description | Example |
+|---|---|---|---|
+| **Treaties** | สนธิสัญญา | Agreements between nations | ASEAN Charter, Paris Agreement |
+| **Conventions** | อนุสัญญา | Multilateral agreements | UN Convention on the Rights of the Child (CRC) |
+| **Customary law** | จารีตประเพณีระหว่างประเทศ | Unwritten rules accepted by nations | Diplomatic immunity |
+| **International court rulings** | คำพิพากษาระหว่างประเทศ | Decisions by international courts | ICJ rulings |
+
+### Thailand and International Law
+
+| Aspect | Thai | Description |
+|---|---|---|
+| **Treaty ratification** | การให้สัตยาบัน | Cabinet approves, Parliament ratifies |
+| **Dualist system** | ระบบคู่ | International law must be incorporated into domestic law |
+| **Constitutional obligation** | พันธกรณีตามรัฐธรรมนูญ | Constitution recognizes international commitments |
+
+---
+
+## 9 | International Human Rights (สิทธิมนุษยชนระหว่างประเทศ)
+
+### Universal Declaration of Human Rights (UDHR)
+
+| Article | Thai | Right |
+|---|---|---|
+| **Article 1** | มาตรา 1 | All humans are born free and equal |
+| **Article 3** | มาตรา 3 | Right to life, liberty, security |
+| **Article 18** | มาตรา 18 | Freedom of thought, conscience, religion |
+| **Article 19** | มาตรา 19 | Freedom of opinion and expression |
+| **Article 26** | มาตรา 26 | Right to education |
+
+### Human Rights Mechanisms
+
+| Mechanism | Thai | Description |
+|---|---|---|
+| **UN Human Rights Council** | คณะมนตรีสิทธิมนุษยชนแห่งสหประชาชาติ | Reviews human rights in all countries |
+| **Universal Periodic Review** | การทบทวนเป็นระยะสากล | Regular review of each country's record |
+| **National Human Rights Commission** | คณะกรรมการสิทธิมนุษยชนแห่งชาติ | Thailand's independent human rights body |
+| **Treaty bodies** | องค์กรตามสนธิสัญญา | Committees monitoring specific treaties |
+
+### Thailand's Human Rights Obligations
+
+| Treaty | Thai | Status |
+|---|---|---|
+| **ICCPR** | กติการะหว่างประเทศว่าด้วยสิทธิพลเมืองและสิทธิทางการเมือง | Ratified |
+| **ICESCR** | กติการะหว่างประเทศว่าด้วยสิทธิทางเศรษฐกิจ สังคม และวัฒนธรรม | Ratified |
+| **CRC** | อนุสัญญาว่าด้วยสิทธิเด็ก | Ratified |
+| **CEDAW** | อนุสัญญาว่าด้วยการขจัดการเลือกปฏิบัติต่อสตรี | Ratified |
+| **CAT** | อนุสัญญาว่าด้วยการต่อต้านการทรมาน | Ratified |
+
+---
+
+## 10 | Legal Philosophy (ปรัชญากฎหมาย)
+
+| Theory | Thai | Core Idea |
+|---|---|---|
+| **Natural law** | ธรรมศาสตร์ | Law should reflect moral principles |
+| **Legal positivism** | นิติศาสตร์เชิงบวก | Law is what the state says it is |
+| **Legal realism** | นิติศาสตร์เชิงปฏิบัติ | Law is shaped by social context |
+| **Justice as fairness** | ความยุติธรรมในฐานะความเป็นธรรม | John Rawls' theory of justice |
+
+---
+
+## 11 | Human Rights (สิทธิมนุษยชน)
 
 | Right | Thai | Description |
 |---|---|---|
@@ -107,7 +171,7 @@ Rights, Duties, and Thai Laws covers the legal framework of Thai society. Studen
 
 ---
 
-## 9 | Thai Terminology
+## 12 | Thai Terminology
 
 | Thai | English |
 |---|---|
@@ -124,8 +188,10 @@ Rights, Duties, and Thai Laws covers the legal framework of Thai society. Studen
 
 ---
 
-## 10 | Cross-Links
+## 13 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[02_Democracy_and_Government|Democracy]] — Government structure and rights
-- [[01_Buddhist_Principles|Buddhism]] — Moral foundation of law
+- [[01_Democracy_and_Government|Democracy and Government]] — Government structure and rights
+- [[05_Thai_Constitution|Thai Constitution]] — Constitutional foundation of rights
+- [[06_Government_Structure|Government Structure]] — Courts and legal system
+- [[01 Religion/00_overview|Religion]] — Moral foundation of law
