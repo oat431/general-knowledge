@@ -90,7 +90,7 @@ These twin pillars of daily teaching — managing the learning environment and m
 #### The Hierarchy of Intervention:
 
 ```mermaid
-graph TD
+flowchart TD
     A[Non-verbal cue] --> B[Private reminder]
     B --> C[Private conversation<br/>after class]
     C --> D[Logical consequence]

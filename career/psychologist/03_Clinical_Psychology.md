@@ -24,7 +24,7 @@ Clinical Psychology (จิตวิทยาคลินิก) is the largest 
 ### 1.1 The Biopsychosocial Model
 
 ```mermaid
-graph TD
+flowchart TD
     subgraph BIO["🧬 Biological"]
         A1[Genetics]
         A2[Neurochemistry]
@@ -90,7 +90,7 @@ No mental disorder has a single cause. Every case involves an interaction of bio
 **Core Model: The Cognitive Triangle**
 
 ```mermaid
-graph TD
+flowchart TD
     T[Thoughts / ความคิด] <--> E[Emotions / อารมณ์]
     E <--> B[Behaviors / พฤติกรรม]
     B <--> T

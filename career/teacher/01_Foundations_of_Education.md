@@ -100,11 +100,11 @@ Thailand's education philosophy, codified in the **National Education Act B.E. 2
 ### 4.1 Structure
 
 ```mermaid
-graph TD
+flowchart TD
     subgraph "Basic Education (15 years free)"
         A[Early Childhood<br/>ปฐมวัย<br/>Ages 3-5] --> B[Primary / ประถม<br/>ป.1-ป.6<br/>Ages 6-11]
         B --> C["Lower Secondary / ม.ต้น<br/>ม.1-ม.3<br/>Ages 12-14"]
-        C --> D["Upper Secondary / ม.ปลาย<br/>ม.4-ม.6<br/>Ages 15-17<br/>(Science / Arts / Vocational)"]
+        C --> D["Upper Secondary / ม.ปลาย<br/>ม.4-ม.6<br/>Ages 15-17<br/>&#40;Science / Arts / Vocational&#41;"]
     end
     D --> E["Higher Education<br/>อุดมศึกษา<br/>Bachelor's / Master's / Ph.D."]
     D --> F["Vocational<br/>อาชีวศึกษา<br/>ปวช. / ปวส."]

@@ -24,7 +24,7 @@ Research methods give psychology its scientific credibility. Ethics ensure that 
 ### 1 | The Scientific Method in Psychology
 
 ```mermaid
-graph LR
+flowchart LR
     A[Theory] --> B[Hypothesis]
     B --> C[Design Study]
     C --> D[Collect Data]
@@ -146,7 +146,7 @@ The Psychology Council of Thailand prescribes ethical standards including:
 ### 9 | Ethical Decision-Making Model
 
 ```mermaid
-graph TD
+flowchart TD
     A[Recognize ethical dilemma] --> B[Identify relevant ethical principles<br/>+ legal requirements]
     B --> C[Consult: supervisor, colleagues<br/>ethics committee if needed]
     C --> D[Consider possible courses of action<br/>+ consequences of each]

@@ -107,18 +107,18 @@ Every engineer, regardless of discipline, shares a common foundation. These are 
 ## 4 | The Engineering Design Process
 
 ```mermaid
-graph TD
-    A[Identify Problem / Need] --> B[Research & Define Requirements]
+flowchart TD
+    A[Identify Problem / Need] --> B[Research and Define Requirements]
     B --> C[Brainstorm Solutions]
     C --> D[Select Best Concept]
     D --> E[Detailed Design<br/>Calculations + CAD]
     E --> F[Prototype / Simulation]
-    F --> G[Test & Evaluate]
+    F --> G[Test and Evaluate]
     G --> H{Meet Requirements?}
     H -->|No| C
     H -->|Yes| I[Final Design + Documentation]
     I --> J[Manufacture / Construct]
-    J --> K[Monitor & Improve]
+    J --> K[Monitor and Improve]
 ```
 
 > **This process, not just math, is what an engineer does.**

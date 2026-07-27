@@ -135,7 +135,7 @@ This is the practical guide: where to study, how to get in, what it costs, what 
 ### 7 | Licensing & First Job
 
 ```mermaid
-graph LR
+flowchart LR
     A[Graduate B.N.S.] --> B["National Licensure Exam<br/>8 subjects<br/>Pass rate: ~70-85%"]
     B --> C["Registered Nurse<br/>License Active"]
     C --> D["First Job<br/>Starting: ฿20,000-฿35,000/month"]
@@ -159,7 +159,7 @@ graph LR
 ### 9 | Career Progression Ladder
 
 ```mermaid
-graph TD
+flowchart TD
     A["Staff Nurse<br/>พยาบาลปฏิบัติการ<br/>฿20K-40K"] --> B["Senior Nurse<br/>พยาบาลชำนาญการ<br/>฿35K-55K<br/>3-5 years"]
     B --> C["Charge Nurse / Head Nurse<br/>หัวหน้าหอผู้ป่วย<br/>฿45K-70K<br/>5-10 years"]
     C --> D["Nursing Supervisor / Director<br/>ผู้อำนวยการฝ่ายการพยาบาล<br/>฿60K-150K+<br/>10-20+ years"]

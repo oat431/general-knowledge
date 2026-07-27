@@ -61,7 +61,7 @@ Counseling Psychology (จิตวิทยาการปรึกษา) focu
 **Stages of Change (Transtheoretical Model):**
 
 ```mermaid
-graph LR
+flowchart LR
     A[Precontemplation<br/>ไม่คิดจะเปลี่ยน] --> B[Contemplation<br/>เริ่มคิด]
     B --> C[Preparation<br/>เตรียมตัว]
     C --> D[Action<br/>ลงมือทำ]

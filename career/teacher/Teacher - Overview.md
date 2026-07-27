@@ -27,7 +27,7 @@ Teaching in Thailand is a **regulated profession** under the **Teachers and Educ
 ## Education Pathway
 
 ```mermaid
-graph TD
+flowchart TD
     A[ม.6 Graduate<br/>Any track] --> B[Apply via TCAS<br/>คณะครุศาสตร์ / ศึกษาศาสตร์]
     B --> C["4-5 Year B.Ed. Program<br/>ค.บ. / กศ.บ.<br/>Includes 1 year practicum"]
     C --> D["Graduate + Pass<br/>Teacher Licensure Exam<br/>คุรุสภา"]

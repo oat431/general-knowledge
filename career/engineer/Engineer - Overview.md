@@ -28,9 +28,9 @@ Engineering in Thailand is a **regulated profession** under the **Engineer Act B
 ## Education Pathway
 
 ```mermaid
-graph TD
+flowchart TD
     A[ม.6 Graduate<br/>สายวิทย์-คณิต] --> B[Apply via TCAS<br/>คณะวิศวกรรมศาสตร์]
-    B --> C["4-Year B.Eng. Program<br/>วศ.บ.<br/>(Some fields 4-5 years)"]
+    B --> C["4-Year B.Eng. Program<br/>วศ.บ.<br/>&#40;Some fields 4-5 years&#41;"]
     C --> D["Graduate<br/>+ Practical Experience"]
     D --> E{License Path}
     E -->|Associate| F["ภาคีวิศวกร<br/>Associate Engineer<br/>B.Eng. degree = automatic"]
@@ -40,7 +40,7 @@ graph TD
     F --> J[Career in Industry<br/>Private sector / Government<br/>Construction, Manufacturing, Tech]
     H --> J
     I --> J
-    C --> K["Master's / Ph.D.<br/>วศ.ม. / วศ.ด.<br/>Research, Academia, R&D"]
+    C --> K["Master's / Ph.D.<br/>วศ.ม. / วศ.ด.<br/>Research, Academia, R and D"]
     K --> J
 ```
 

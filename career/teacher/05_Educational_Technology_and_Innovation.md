@@ -24,14 +24,14 @@ Educational technology is no longer optional. Thai teachers are expected to inte
 ### 1.1 SAMR Model (Puentedura)
 
 ```mermaid
-graph BT
+flowchart BT
     subgraph "Transformation"
-        R["Redefinition<br/>Tech allows new tasks<br/>(e.g., global collaboration)"]
-        M["Modification<br/>Tech allows redesign<br/>(e.g., multimedia projects)"]
+        R["Redefinition<br/>Tech allows new tasks<br/>&#40;e.g., global collaboration&#41;"]
+        M["Modification<br/>Tech allows redesign<br/>&#40;e.g., multimedia projects&#41;"]
     end
     subgraph "Enhancement"
-        A["Augmentation<br/>Tech as direct substitute<br/>with improvement<br/>(e.g., online quiz)"]
-        S["Substitution<br/>Tech as direct substitute<br/>no change<br/>(e.g., PDF instead of paper)"]
+        A["Augmentation<br/>Tech as direct substitute<br/>with improvement<br/>&#40;e.g., online quiz&#41;"]
+        S["Substitution<br/>Tech as direct substitute<br/>no change<br/>&#40;e.g., PDF instead of paper&#41;"]
     end
 ```
 

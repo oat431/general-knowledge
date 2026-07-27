@@ -127,11 +127,11 @@ Psychological assessment is what distinguishes psychologists from other mental h
 ### 3.3 The Diagnostic Process
 
 ```mermaid
-graph TD
+flowchart TD
     A[Referral Question] --> B[Clinical Interview]
     B --> C[Select Assessment Tools]
     C --> D[Administer Tests<br/>+ Behavioral Observation]
-    D --> E[Score & Interpret]
+    D --> E[Score and Interpret]
     E --> F[Integrate All Data<br/>Interview + Tests + History + Collateral]
     F --> G[Differential Diagnosis]
     G --> H[Diagnostic Formulation]

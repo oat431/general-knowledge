@@ -182,12 +182,12 @@ Administered by **คุรุสภา (Teachers' Council of Thailand)**:
 ### 11 | Career Progression
 
 ```mermaid
-graph TD
+flowchart TD
     A["Student Teacher<br/>นักศึกษาฝึกสอน<br/>Year 4-5"] --> B["Assistant Teacher<br/>ครูผู้ช่วย<br/>2 years"]
-    B --> C["Teacher (คศ.1)<br/>ครู<br/>Pass licensure exam"]
-    C --> D["Senior Teacher (คศ.2)<br/>ครูชำนาญการ<br/>5+ years"]
-    D --> E["Expert Teacher (คศ.3)<br/>ครูชำนาญการพิเศษ<br/>Submit วิทยฐานะ portfolio"]
-    E --> F["Master Teacher (คศ.4-5)<br/>ครูเชี่ยวชาญ / เชี่ยวชาญพิเศษ"]
+    B --> C["Teacher &#40;คศ.1&#41;<br/>ครู<br/>Pass licensure exam"]
+    C --> D["Senior Teacher &#40;คศ.2&#41;<br/>ครูชำนาญการ<br/>5+ years"]
+    D --> E["Expert Teacher &#40;คศ.3&#41;<br/>ครูชำนาญการพิเศษ<br/>Submit วิทยฐานะ portfolio"]
+    E --> F["Master Teacher &#40;คศ.4-5&#41;<br/>ครูเชี่ยวชาญ / เชี่ยวชาญพิเศษ"]
     C --> G["School Administrator<br/>ผู้บริหารสถานศึกษา<br/>Master's + Admin License"]
     G --> H["School Director<br/>ผู้อำนวยการโรงเรียน"]
     C --> I["Alternative Paths:<br/>EdTech, Curriculum Design,<br/>University Lecturer,<br/>Education Consultant, NGO"]

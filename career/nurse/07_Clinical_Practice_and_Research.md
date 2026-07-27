@@ -49,7 +49,7 @@ Clinical practice is where everything comes together — the **practicum (ฝึ
 ### 3 | Skills You'll Master
 
 ```mermaid
-graph TD
+flowchart TD
     subgraph "Year 1-2"
         A1[Vital Signs] --> A2[Bed Making]
         A2 --> A3[Personal Hygiene Care]
@@ -57,7 +57,7 @@ graph TD
         A4 --> A5[Specimen Collection]
     end
     subgraph "Year 3"
-        B1[IV Insertion & Fluids] --> B2[Blood Transfusion]
+        B1[IV Insertion and Fluids] --> B2[Blood Transfusion]
         B2 --> B3[NG Tube / Catheter]
         B3 --> B4[Complex Wounds]
         B4 --> B5[ECG / Monitoring]
@@ -65,7 +65,7 @@ graph TD
     subgraph "Year 4"
         C1[Critical Care Skills] --> C2[Ventilator Management]
         C2 --> C3[Emergency Response]
-        C3 --> C4[Leadership & Delegation]
+        C3 --> C4[Leadership and Delegation]
         C4 --> C5[Independent Practice]
     end
 ```
@@ -98,7 +98,7 @@ graph TD
 ### 6 | Research Process
 
 ```mermaid
-graph LR
+flowchart LR
     A[Identify Problem] --> B[Literature Review]
     B --> C[Formulate Question<br/>PICO / PICOT]
     C --> D[Design Study]
@@ -151,7 +151,7 @@ graph LR
 ### 10 | APN Pathway in Thailand
 
 ```mermaid
-graph TD
+flowchart TD
     A[B.N.S. + RN License] --> B[Clinical Experience<br/>2-5 years minimum]
     B --> C[Master's Degree<br/>พย.ม. / M.N.S.<br/>2 years]
     C --> D[Specialty Certification<br/>4-12 month program]

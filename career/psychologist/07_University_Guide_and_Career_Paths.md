@@ -115,7 +115,7 @@ For the **master's in clinical psychology**, these are the premier institutions:
 ### 6 | Becoming a Licensed Psychologist in Thailand
 
 ```mermaid
-graph LR
+flowchart LR
     A["B.Sc./B.A.<br/>Psychology<br/>4 years"] --> B["M.Sc./M.A.<br/>Clinical/Counseling<br/>2 years"]
     B --> C["Supervised Practice<br/>1,000+ hours"]
     C --> D["Licensure Exam<br/>สภานักจิตวิทยา"]
@@ -157,8 +157,8 @@ graph LR
 ### 9 | Career Progression — Clinical Track
 
 ```mermaid
-graph TD
-    A["Psychology Bachelor's<br/>B.Sc./B.A.<br/>฿0 (student)"] --> B["Master's in Clinical Psych<br/>2 years + internship"]
+flowchart TD
+    A["Psychology Bachelor's<br/>B.Sc./B.A.<br/>฿0 &#40;student&#41;"] --> B["Master's in Clinical Psych<br/>2 years + internship"]
     B --> C["Licensed Clinical Psychologist<br/>฿25K-50K<br/>Hospital / Clinic"]
     C --> D["Senior Psychologist<br/>฿45K-70K<br/>5-10 years experience"]
     D --> E["Chief Psychologist / Director<br/>฿70K-120K+<br/>Department/Hospital head"]
@@ -169,7 +169,7 @@ graph TD
 ### 10 | Career Progression — Non-Clinical Track
 
 ```mermaid
-graph TD
+flowchart TD
     A["Psychology Bachelor's<br/>B.Sc./B.A."] --> B["HR / Recruitment<br/>฿25K-40K<br/>Entry level"]
     A --> C["Market Research Analyst<br/>฿25K-35K<br/>Consumer insights"]
     A --> D["Special Education Assistant<br/>฿20K-30K"]

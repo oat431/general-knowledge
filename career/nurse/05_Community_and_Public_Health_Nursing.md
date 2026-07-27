@@ -23,7 +23,7 @@ Community Health Nursing (การพยาบาลอนามัยชุม
 ### 1.1 Levels of Prevention
 
 ```mermaid
-graph LR
+flowchart LR
     subgraph "Primary Prevention"
         A1[Health Promotion] --> A2[Immunization]
         A2 --> A3[Health Education]

@@ -32,7 +32,7 @@ Psychology in Thailand became a **regulated profession** with the **Psychology P
 ## Education Pathway
 
 ```mermaid
-graph TD
+flowchart TD
     A[ม.6 Graduate<br/>สายวิทย์-คณิต or ศิลป์-คำนวณ] --> B[Apply via TCAS<br/>คณะจิตวิทยา / มนุษยศาสตร์ / สังคมศาสตร์]
     B --> C["4-Year Bachelor's<br/>วท.บ. / ศศ.บ. จิตวิทยา<br/>B.Sc. / B.A. in Psychology"]
     C --> D{Want to practice clinically?}

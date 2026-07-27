@@ -121,7 +121,7 @@ The **หลักสูตรแกนกลางการศึกษาข�
 #### 5.2 Bloom's Taxonomy (Revised)
 
 ```mermaid
-graph BT
+flowchart BT
     A["Remember<br/>จำ"] --> B["Understand<br/>เข้าใจ"]
     B --> C["Apply<br/>ประยุกต์ใช้"]
     C --> D["Analyze<br/>วิเคราะห์"]

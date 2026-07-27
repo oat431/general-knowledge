@@ -43,7 +43,7 @@ Special education and inclusive practices prepare teachers to work with **all le
 ### 1.3 The Continuum of Services
 
 ```mermaid
-graph LR
+flowchart LR
     A["General Classroom<br/>No supports"] --> B["General Classroom<br/>With accommodations"]
     B --> C["General Classroom<br/>+ Resource Room<br/>Pull-out services"]
     C --> D["Special Class<br/>In regular school"]
@@ -119,7 +119,7 @@ graph LR
 ### 3.1 Individualized Education Program (IEP — แผนการจัดการศึกษาเฉพาะบุคคล)
 
 ```mermaid
-graph TD
+flowchart TD
     A[Referral / Identification] --> B[Comprehensive Evaluation<br/>Multidisciplinary team]
     B --> C[IEP Meeting<br/>Parents + Teachers + Specialists]
     C --> D[Write IEP:<br/>Present levels, Goals,<br/>Services, Accommodations]

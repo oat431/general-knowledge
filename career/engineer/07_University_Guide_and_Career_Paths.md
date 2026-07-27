@@ -183,7 +183,7 @@ This is the practical guide: where to study, how to get in, how to get licensed,
 ### 12 | Career Progression
 
 ```mermaid
-graph TD
+flowchart TD
     A["Graduate Engineer<br/>วิศวกรจบใหม่<br/>0-2 years"] --> B["Engineer / Senior Engineer<br/>วิศวกร / วิศวกรอาวุโส<br/>3-7 years"]
     B --> C["Project Manager / Team Lead<br/>ผู้จัดการโครงการ<br/>7-12 years"]
     C --> D["Engineering Manager / Director<br/>ผู้จัดการฝ่ายวิศวกรรม<br/>12+ years"]
@@ -191,7 +191,7 @@ graph TD
     B --> F["Technical Specialist Track<br/>สามัญวิศวกร → วุฒิวิศวกร"]
     F --> G["Principal Engineer / Expert<br/>ผู้เชี่ยวชาญ"]
     C --> H["Entrepreneur Track<br/>Start own engineering firm<br/>or consultancy"]
-    B --> I["Graduate Studies → R&D<br/>or Academia"]
+    B --> I["Graduate Studies → R and D<br/>or Academia"]
 ```
 
 ### 13 | EEC (Eastern Economic Corridor) — The Hot Zone

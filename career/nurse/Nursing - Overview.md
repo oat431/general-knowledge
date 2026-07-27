@@ -72,18 +72,18 @@ Key provisions:
 ## Education Pathway
 
 ```mermaid
-graph TD
+flowchart TD
     A[ม.6 Graduate<br/>สายวิทย์-คณิต] --> B[Apply via TCAS<br/>คณะพยาบาลศาสตร์]
     B --> C[4-Year B.N.S. Program<br/>พยาบาลศาสตรบัณฑิต]
-    C --> D["National Licensure Exam<br/>การสอบขึ้นทะเบียนฯ<br/>(8 subjects)"]
+    C --> D["National Licensure Exam<br/>การสอบขึ้นทะเบียนฯ<br/>&#40;8 subjects&#41;"]
     D --> E{Pass?}
-    E -->|Yes| F["Registered Nurse<br/>พยาบาลวิชาชีพ<br/>(License)"]
+    E -->|Yes| F["Registered Nurse<br/>พยาบาลวิชาชีพ<br/>&#40;License&#41;"]
     E -->|No| G[Retake Exam<br/>สอบซ่อม]
     G --> E
     F --> H[Work in Hospital / Clinic / Community]
     H --> I["CNE Credits<br/>ต่ออายุใบอนุญาต<br/>ทุก 5 ปี"]
     I --> H
-    F --> J["APN / Specialty<br/>หลักสูตรเฉพาะทาง<br/>(4-12 months)"]
+    F --> J["APN / Specialty<br/>หลักสูตรเฉพาะทาง<br/>&#40;4-12 months&#41;"]
     F --> K["Graduate Degree<br/>พย.ม. / Ph.D."]
     K --> L[Advanced Practice Nurse<br/>พยาบาลขั้นสูง / APN]
 ```

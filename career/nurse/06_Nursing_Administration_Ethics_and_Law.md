@@ -99,7 +99,7 @@ The **International Council of Nurses (ICN) Code** — adopted by the Thai Nurse
 ### 8 | Ethical Decision-Making Framework
 
 ```mermaid
-graph TD
+flowchart TD
     A[Recognize ethical issue] --> B[Gather relevant facts]
     B --> C[Identify stakeholders]
     C --> D[Apply ethical principles]

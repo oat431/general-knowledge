@@ -21,11 +21,11 @@ Nursing fundamentals is where theory meets practice. Students learn the **nursin
 ## 1 | The Nursing Process (กระบวนการพยาบาล)
 
 ```mermaid
-graph LR
-    A["1. Assessment<br/>การประเมิน"] --> B["2. Diagnosis<br/>การวินิจฉัย"]
-    B --> C["3. Planning<br/>การวางแผน"]
-    C --> D["4. Implementation<br/>การปฏิบัติ"]
-    D --> E["5. Evaluation<br/>การประเมินผล"]
+flowchart LR
+    A["1 Assessment<br/>การประเมิน"] --> B["2 Diagnosis<br/>การวินิจฉัย"]
+    B --> C["3 Planning<br/>การวางแผน"]
+    C --> D["4 Implementation<br/>การปฏิบัติ"]
+    D --> E["5 Evaluation<br/>การประเมินผล"]
     E -.->|Reassess| A
 ```
 
