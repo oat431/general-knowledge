@@ -65,7 +65,7 @@ flowchart TD
 - [[06_Emerging_Engineering_Fields|06 Emerging Engineering Fields]] — AI/Robotics, aerospace, biomedical, renewable energy, nanotechnology, mechatronics, data engineering
 
 ### 🎓 Career Pathways
-- [[07_University_Guide_and_Career_Paths|07 University Guide & Career Paths]] — Top engineering faculties, TCAS, licensing levels, salaries by field, EEC opportunities, international careers
+- [[00_University_Guide_and_Career_Paths|University Guide & Career Paths]] — Top engineering faculties, TCAS, licensing levels, salaries by field, EEC opportunities, international careers
 
 ## The Engineering Profession in Thailand
 
@@ -133,10 +133,10 @@ Key provisions:
 
 ## Reading Paths
 
-- **High school student exploring:** Start here → [[07_University_Guide_and_Career_Paths|University Guide]] → Pick a discipline
+- **High school student exploring:** Start here → [[00_University_Guide_and_Career_Paths|University Guide]] → Pick a discipline
 - **Undecided engineering student:** [[01_Engineering_Foundations|Foundations]] → Browse disciplines (02–06)
 - **Practicing engineer:** License level table above → Graduate studies
-- **Parent/guidance counselor:** [[07_University_Guide_and_Career_Paths|University Guide]] → Return here
+- **Parent/guidance counselor:** [[00_University_Guide_and_Career_Paths|University Guide]] → Return here
 
 ---
 

@@ -56,52 +56,25 @@ This is the practical guide: where to study, how to get in, what it costs, what 
 
 **Note:** The exact weight varies by university. The most competitive programs (Mahidol, CMU, etc.) may have higher TPAT1 weight.
 
-### 4 | Top Nursing Schools in Thailand
 
-#### 🥇 Tier 1 — Top Academic Medical Schools
-
-| University | Faculty | Est. | Location | Notable Features |
-|---|---|---|---|---|
-| **Mahidol University** | คณะพยาบาลศาสตร์ ม.มหิดล | 1896 | Bangkok (Salaya / Siriraj) | Thailand's oldest nursing school; Siriraj Hospital affiliation; strong research; international collaborations |
-| **Chiang Mai University** | คณะพยาบาลศาสตร์ ม.เชียงใหม่ (Nurse CMU) | 1959 | Chiang Mai | Top-ranked; Maharaj Nakorn CM Hospital; strong community health focus; Northern Thailand hub |
-| **Chulalongkorn University** | สาขาวิชาพยาบาลศาสตร์ (under Faculty of Medicine)* | 1971 | Bangkok | King Chulalongkorn Memorial Hospital; high entry scores; elite reputation |
-
-*Note: Chulalongkorn's nursing is under the Faculty of Medicine, not a separate faculty.
-
-#### 🥈 Tier 2 — Strong Regional University Hospitals
+### Nursing Programs in Thailand
 
 | University | Faculty | Location | Notable Features |
 |---|---|---|---|
+| **Mahidol University** | คณะพยาบาลศาสตร์ ม.มหิดล | Bangkok (Salaya / Siriraj) | - |
+| **Chiang Mai University** | คณะพยาบาลศาสตร์ ม.เชียงใหม่ (Nurse CMU) | Chiang Mai | - |
 | **Khon Kaen University** | คณะพยาบาลศาสตร์ ม.ขอนแก่น | Khon Kaen | Srinagarind Hospital; NE Thailand hub; strong APN programs |
 | **Prince of Songkla University** | คณะพยาบาลศาสตร์ ม.สงขลานครินทร์ | Hat Yai | Songklanagarind Hospital; Southern Thailand leader |
 | **Thammasat University** | คณะพยาบาลศาสตร์ ม.ธรรมศาสตร์ | Pathum Thani (Rangsit) | Thammasat University Hospital; strong law/ethics component |
 | **Srinakharinwirot University** | คณะพยาบาลศาสตร์ มศว | Bangkok (Ongkharak) | Strong clinical training; HRH Princess Maha Chakri Sirindhorn Medical Center |
 | **Burapha University** | คณะพยาบาลศาสตร์ ม.บูรพา | Chonburi | Eastern seaboard hub; strong international programs |
 | **Naresuan University** | คณะพยาบาลศาสตร์ ม.นเรศวร | Phitsanulok | Lower Northern Thailand; strong community nursing |
-
-#### 🥉 Tier 3 — Other Strong Public Programs
-
-| University | Location |
-|---|---|
-| **Walailak University** | Nakhon Si Thammarat |
-| **Mahasarakham University** | Maha Sarakham |
-| **Ubon Ratchathani University** | Ubon Ratchathani |
-| **Suranaree University of Technology** | Nakhon Ratchasima |
-| **Mae Fah Luang University** | Chiang Rai |
-| **Silpakorn University** | Nakhon Pathom |
-
-#### 🏥 Ministry of Public Health Nursing Colleges
-
-| College | Location |
-|---|---|
-| **Boromarajonani College of Nursing (วิทยาลัยพยาบาลบรมราชชนนี)** | ~30 campuses nationwide (กรุงเทพ, เชียงใหม่, นครราชสีมา, สงขลา, etc.) |
-| **Praboromarajchanok Institute** | Governing body for MOPH nursing colleges |
-
-**Key difference:** MOPH nursing colleges are:
-- **Free or very low tuition** (government scholarship)
-- **Employment guarantee** — required to work for MOPH after graduation (typically 2–4 years)
-- Excellent for students from rural areas or with financial constraints
-- Often have quotas for specific provinces
+| **Walailak University** | คณะพยาบาลศาสตร์ | Nakhon Si Thammarat | - |
+| **Mahasarakham University** | คณะพยาบาลศาสตร์ | Maha Sarakham | - |
+| **Ubon Ratchathani University** | คณะพยาบาลศาสตร์ | Ubon Ratchathani | - |
+| **Suranaree University of Technology** | สำนักวิชาพยาบาลศาสตร์ | Nakhon Ratchasima | - |
+| **Mae Fah Luang University** | คณะพยาบาลศาสตร์ | Chiang Rai | - |
+| **Silpakorn University** | คณะพยาบาลศาสตร์ | Nakhon Pathom | - |
 
 ### 5 | Tuition & Costs (ค่าใช้จ่าย)
 

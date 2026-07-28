@@ -43,39 +43,26 @@ This is the practical guide: where to study, how to get licensed, which firms to
 | **A-Level Thai** | ภาษาไทย | 10–15% |
 | **TPAT 1 or 3** | Aptitude (some universities) | 10–20% |
 
-### 3 | Top Accounting Faculties
-
-#### 🥇 Tier 1 — Premier
+### Accounting Programs in Thailand
 
 | University | Faculty | Location | Notable Features |
 |---|---|---|---|
 | **Thammasat University** | คณะพาณิชยศาสตร์และการบัญชี | Bangkok (Tha Phra Chan) | 🔑 **#1 accounting faculty historically** — "ธรรมศาสตร์ = บัญชี"; strong CPA pass rate; Big 4 pipeline; international programs (BBA) |
 | **Chulalongkorn University** | คณะพาณิชยศาสตร์และการบัญชี | Bangkok | Elite prestige; strong in finance + accounting; BBA international |
-
-#### 🥈 Tier 2 — Strong Programs
-
-| University | Faculty | Location | Notable Features |
-|---|---|---|---|
 | **Kasetsart University** | คณะบริหารธุรกิจ (สาขาบัญชี) | Bangkok (Bang Khen) | Growing prestige; good industry connections |
 | **Chiang Mai University** | คณะบริหารธุรกิจ (สาขาบัญชี) | Chiang Mai | Northern hub; CPA preparation |
 | **Khon Kaen University** | คณะบริหารธุรกิจ (สาขาบัญชี) | Khon Kaen | Isan hub; government accounting strength |
 | **Ramkhamhaeng University** | คณะบัญชี | Bangkok | Open admission; produced countless CPAs; affordable |
 | **Sukhothai Thammathirat Open University** | สาขาวิชาการบัญชี | Distance learning | Study while working |
 | **National Institute of Development Administration (NIDA)** | คณะบริหารธุรกิจ | Bangkok | Graduate programs; research |
-| **Assumption University (ABAC)** | Faculty of Business Administration | Bangkok (private) | International programs; Big 4 connections |
-
-#### 🥉 Tier 3 — Regional & Private
-
-| University | Location |
-|---|---|
-| **Burapha University** | Chonburi |
-| **Ubon Ratchathani University** | Ubon Ratchathani |
-| **Naresuan University** | Phitsanulok |
-| **Prince of Songkla University** | Hat Yai |
-| **Sripatum University** | Bangkok (private) |
-| **Bangkok University** | Bangkok (private) |
-| **Rangsit University** | Pathum Thani (private) |
-| **Mahasarakham University** | Maha Sarakham |
+| **Burapha University** | คณะบริหารธุรกิจ (สาขาบัญชี) | Chonburi | - |
+| **Ubon Ratchathani University** | คณะบริหารธุรกิจ (สาขาบัญชี) | Ubon Ratchathani | - |
+| **Naresuan University** | คณะบริหารธุรกิจ (สาขาบัญชี) | Phitsanulok | - |
+| **Prince of Songkla University** | คณะพาณิชยศาสตร์และการจัดการ | Hat Yai | - |
+| **Sripatum University** | คณะบัญชี | Bangkok (private) | - |
+| **Bangkok University** | คณะบัญชี | Bangkok (private) | - |
+| **Rangsit University** | คณะบริหารธุรกิจ (สาขาบัญชี) | Pathum Thani (private) | - |
+| **Mahasarakham University** | คณะบัญชีและการจัดการ | Maha Sarakham | - |
 
 ### 4 | Tuition
 

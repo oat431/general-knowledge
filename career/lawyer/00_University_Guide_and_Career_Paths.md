@@ -55,39 +55,27 @@ This is the practical guide: where to study law, how to get in, the licensing pr
 
 > **No science/math requirement at most universities** — the emphasis is on language and analytical skills.
 
-### 4 | Top Law Faculties in Thailand
-
-#### 🥇 Tier 1 — The Premier Law Schools
+### Law Programs in Thailand
 
 | University | Faculty | Location | Notable Features |
 |---|---|---|---|
 | **Thammasat University** | คณะนิติศาสตร์ | Bangkok (Tha Phra Chan) | 🔑 **#1 law school historically** — "ธรรมศาสตร์ = กฎหมาย"; produced most judges, prosecutors, and political leaders; strong public law tradition |
 | **Chulalongkorn University** | คณะนิติศาสตร์ | Bangkok | Elite prestige; strong in business/international law; international LL.M. programs |
 | **Ramkhamhaeng University** | คณะนิติศาสตร์ | Bangkok | 🔑 **Largest law school** — open admission; produced countless practitioners; accessible to all |
-
-#### 🥈 Tier 2 — Strong Established Programs
-
-| University | Faculty | Location | Notable Features |
-|---|---|---|---|
 | **Kasetsart University** | คณะนิติศาสตร์ | Bangkok (Bang Khen) | Growing prestige; strong business law; good industry connections |
 | **Chiang Mai University** | คณะนิติศาสตร์ | Chiang Mai | Northern legal hub; strong public law and environmental law |
 | **Thammasat University (Lampang Campus)** | คณะนิติศาสตร์ | Lampang | Same curriculum as Bangkok campus; northern opportunity |
 | **Prince of Songkla University** | คณะนิติศาสตร์ | Hat Yai | Southern legal hub; Islamic law component (unique) |
 | **Sukhothai Thammathirat Open University** | สาขาวิชานิติศาสตร์ | Distance learning | Study while working; flexible |
 | **Assumption University (ABAC)** | คณะนิติศาสตร์ | Bangkok (private) | International focus; business law; English instruction available |
-
-#### 🥉 Tier 3 — Regional & Growing Programs
-
-| University | Location |
-|---|---|
-| **Khon Kaen University** | Khon Kaen |
-| **Burapha University** | Chonburi |
-| **Naresuan University** | Phitsanulok |
-| **Ubon Ratchathani University** | Ubon Ratchathani |
-| **Mahasarakham University** | Maha Sarakham |
-| **Walailak University** | Nakhon Si Thammarat |
-| **Sripatum University** | Bangkok (private) |
-| **Bangkok University** | Bangkok (private) |
+| **Khon Kaen University** | คณะนิติศาสตร์ | Khon Kaen | - |
+| **Burapha University** | คณะนิติศาสตร์ | Chonburi | - |
+| **Naresuan University** | คณะนิติศาสตร์ | Phitsanulok | - |
+| **Ubon Ratchathani University** | คณะนิติศาสตร์ | Ubon Ratchathani | - |
+| **Mahasarakham University** | คณะนิติศาสตร์ | Maha Sarakham | - |
+| **Walailak University** | คณะนิติศาสตร์ | Nakhon Si Thammarat | - |
+| **Sripatum University** | คณะนิติศาสตร์ | Bangkok (private) | - |
+| **Bangkok University** | คณะนิติศาสตร์ | Bangkok (private) | - |
 
 ### 5 | Special Considerations
 

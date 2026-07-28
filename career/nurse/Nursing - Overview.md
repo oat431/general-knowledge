@@ -47,7 +47,7 @@ Nursing is a **regulated health profession** in Thailand. All practicing nurses 
 - [[07_Clinical_Practice_and_Research|07 Clinical Practice & Research]] — Clinical practicum, evidence-based practice, nursing research, quality improvement
 
 ### 🎓 Career Pathways
-- [[08_University_Guide_and_Career_Paths|08 University Guide & Career Paths]] — Top nursing schools, TCAS requirements, tuition, salaries, specializations, advanced practice
+- [[00_University_Guide_and_Career_Paths|University Guide & Career Paths]] — Top nursing schools, TCAS requirements, tuition, salaries, specializations, advanced practice
 
 ## The Nursing Profession in Thailand
 
@@ -105,10 +105,10 @@ flowchart TD
 
 ## Reading Paths
 
-- **High school student exploring careers:** Start here → [[08_University_Guide_and_Career_Paths|University Guide]] → [[01_Foundation_Sciences|What you'll study]]
+- **High school student exploring careers:** Start here → [[00_University_Guide_and_Career_Paths|University Guide]] → [[01_Foundation_Sciences|What you'll study]]
 - **Current nursing student:** [[02_Nursing_Fundamentals|Nursing Fundamentals]] → [[03_Medical_Surgical_Nursing|Med-Surg]] → [[04_Maternal_Child_and_Mental_Health_Nursing|Specialties]]
 - **Practicing nurse advancing career:** [[07_Clinical_Practice_and_Research|Research & APN]] → [[06_Nursing_Administration_Ethics_and_Law|Leadership]]
-- **Parent/guidance counselor:** [[08_University_Guide_and_Career_Paths|University Guide]] → Return here for subject details
+- **Parent/guidance counselor:** [[00_University_Guide_and_Career_Paths|University Guide]] → Return here for subject details
 
 ---
 

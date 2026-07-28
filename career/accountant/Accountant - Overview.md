@@ -64,7 +64,7 @@ flowchart TD
 - [[05_Finance_and_Forensic_Accounting|05 Finance & Forensic Accounting]] — Financial analysis, corporate finance, investment, forensic investigation, accounting information systems
 
 ### 🎓 Career Pathways
-- [[06_University_Guide_and_Career_Paths|06 University Guide & Career Paths]] — Top accounting faculties, CPA path, Big 4, salaries, career ladder
+- [[00_University_Guide_and_Career_Paths|University Guide & Career Paths]] — Top accounting faculties, CPA path, Big 4, salaries, career ladder
 
 ## The Accounting Profession in Thailand
 
@@ -109,11 +109,11 @@ flowchart TD
 
 ## Reading Paths
 
-- **High school student exploring:** Start → [[06_University_Guide_and_Career_Paths|University Guide]] → CPA path
+- **High school student exploring:** Start → [[00_University_Guide_and_Career_Paths|University Guide]] → CPA path
 - **Accounting student:** [[01_Financial_Accounting|Core]] → [[03_Auditing_and_Assurance|Audit]] → CPA exam
 - **Tax specialist:** [[04_Taxation|Tax]] → Tax Auditor exam
 - **Corporate track:** [[02_Managerial_Accounting|Management]] → [[05_Finance_and_Forensic_Accounting|Finance]]
-- **Parent/guidance counselor:** [[06_University_Guide_and_Career_Paths|University Guide]]
+- **Parent/guidance counselor:** [[00_University_Guide_and_Career_Paths|University Guide]]
 
 ---
 

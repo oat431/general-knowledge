@@ -68,7 +68,7 @@ flowchart TD
 - [[05_Food_Processing_and_Safety|05 Food Processing & Safety]] — Value-added products, GMP, HACCP, cold chain, food innovation, packaging
 
 ### 🎓 Career Pathways
-- [[06_University_Guide_and_Career_Paths|06 University Guide & Career Paths]] — Top agri universities, TCAS, career tracks, salaries, AgriTech startups, BCG opportunities
+- [[00_University_Guide_and_Career_Paths|University Guide & Career Paths]] — Top agri universities, TCAS, career tracks, salaries, AgriTech startups, BCG opportunities
 
 ## Thailand's Agricultural Landscape
 
@@ -117,11 +117,11 @@ flowchart TD
 
 ## Reading Paths
 
-- **High school student exploring:** Start → [[06_University_Guide_and_Career_Paths|University Guide]] → pick a domain
+- **High school student exploring:** Start → [[00_University_Guide_and_Career_Paths|University Guide]] → pick a domain
 - **Future smart farmer:** [[02_Smart_Farming_Technology|Technology]] + [[01_Agricultural_Science|Science]]
 - **Future agribusiness leader:** [[03_Agribusiness_Management|Business]] + [[04_Sustainable_Agriculture|Sustainability]]
 - **Future food scientist:** [[05_Food_Processing_and_Safety|Processing]] + [[01_Agricultural_Science|Science]]
-- **Parent/guidance counselor:** [[06_University_Guide_and_Career_Paths|University Guide]]
+- **Parent/guidance counselor:** [[00_University_Guide_and_Career_Paths|University Guide]]
 
 ---
 

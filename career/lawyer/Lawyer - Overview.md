@@ -67,7 +67,7 @@ flowchart TD
 - [[06_Legal_Procedure_and_Litigation|06 Legal Procedure & Litigation]] — Civil procedure, criminal procedure, evidence, trial advocacy, ADR
 
 ### 🎓 Career Pathways
-- [[07_University_Guide_and_Career_Paths|07 University Guide & Career Paths]] — Top law faculties, licensing, career tracks (lawyer, judge, prosecutor, in-house), salaries
+- [[00_University_Guide_and_Career_Paths|University Guide & Career Paths]] — Top law faculties, licensing, career tracks (lawyer, judge, prosecutor, in-house), salaries
 
 ## The Legal Profession in Thailand
 
@@ -121,10 +121,10 @@ flowchart TD
 
 ## Reading Paths
 
-- **High school student exploring:** Start here → [[07_University_Guide_and_Career_Paths|University Guide]] → choose your track
+- **High school student exploring:** Start here → [[00_University_Guide_and_Career_Paths|University Guide]] → choose your track
 - **Law student:** All domain notes → decide: litigator, corporate, or government
-- **Career changer to law:** [[01_Foundations_of_Law|Foundations]] → [[07_University_Guide_and_Career_Paths|Pathways]]
-- **Parent/guidance counselor:** [[07_University_Guide_and_Career_Paths|University Guide]] → Return here
+- **Career changer to law:** [[01_Foundations_of_Law|Foundations]] → [[00_University_Guide_and_Career_Paths|Pathways]]
+- **Parent/guidance counselor:** [[00_University_Guide_and_Career_Paths|University Guide]] → Return here
 
 ---
 

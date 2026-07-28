@@ -55,64 +55,27 @@ This is the practical guide: where to study, how to get in, how to get licensed,
 | **A-Level Social Studies** | สังคมศึกษา | 10–15% |
 | **A-Level subject** | Depending on teaching major (Math, Science, etc.) | 10–15% |
 
-### 4 | Top Education Faculties in Thailand
+### Education Programs in Thailand
 
-#### 🥇 Tier 1 — Premier Education Universities
+| University                            | Faculty                           | Location               | Notable Features                                                                                                                                      |
+| ------------------------------------- | --------------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Srinakharinwirot University (มศว)** | คณะศึกษาศาสตร์                    | Bangkok (Prasarnmit)   | 🔑 **Historically THE premier teaching university** (formerly College of Education); strong in all education fields; Demonstration School (สาธิต มศว) |
+| **Thammasat University**              | คณะวิทยาการเรียนรู้และศึกษาศาสตร์ | Pathum Thani (Rangsit) | Newer faculty; innovative, progressive approach; learning sciences focus                                                                              |
+| **Chiang Mai University**             | คณะศึกษาศาสตร์                    | Chiang Mai             | Northern Thailand education hub; strong community & rural education                                                                                   |
+| **Khon Kaen University**              | คณะศึกษาศาสตร์                    | Khon Kaen              | -                                                                                                                                                     |
+| **Prince of Songkla University**      | คณะศึกษาศาสตร์                    | Pattani                | -                                                                                                                                                     |
+| **Burapha University**                | คณะศึกษาศาสตร์                    | Chonburi               | -                                                                                                                                                     |
+| **Naresuan University**               | คณะศึกษาศาสตร์                    | Phitsanulok            | -                                                                                                                                                     |
+| **Silpakorn University**              | คณะศึกษาศาสตร์                    | Nakhon Pathom          | -                                                                                                                                                     |
+| **Mahasarakham University**           | คณะศึกษาศาสตร์                    | Maha Sarakham          | -                                                                                                                                                     |
+| **Thaksin University**                | คณะศึกษาศาสตร์                    | Songkhla               | -                                                                                                                                                     |
+| **มหาวิทยาลัยราชภัฏสวนสุนันทา** | คณะครุศาสตร์ | Bangkok                | -                                                                                                                                                     |
+| **มหาวิทยาลัยราชภัฏจันทรเกษม** | คณะครุศาสตร์ | Bangkok                | -                                                                                                                                                     |
+| **มหาวิทยาลัยราชภัฏเชียงใหม่** | คณะครุศาสตร์ | Chiang Mai             | -                                                                                                                                                     |
+| **มหาวิทยาลัยราชภัฏนครราชสีมา** | คณะครุศาสตร์ | Nakhon Ratchasima      | -                                                                                                                                                     |
+| **มหาวิทยาลัยราชภัฏสงขลา** | คณะครุศาสตร์ | Songkhla               | -                                                                                                                                                     |
+| **มหาวิทยาลัยราชภัฏพระนคร** | คณะครุศาสตร์ | Bangkok                | -                                                                                                                                                     |
 
-| University | Faculty | Location | Notable Features |
-|---|---|---|---|
-| **Chulalongkorn University** | คณะครุศาสตร์ (Faculty of Education) | Bangkok | Oldest education faculty; strong research; Division of Elementary & Secondary Education |
-| **Kasetsart University** | คณะศึกษาศาสตร์ (Faculty of Education) | Bangkok (Bang Khen) | Strong agricultural education; science education; special education |
-| **Srinakharinwirot University (มศว)** | คณะศึกษาศาสตร์ | Bangkok (Prasarnmit) | 🔑 **Historically THE premier teaching university** (formerly College of Education); strong in all education fields; Demonstration School (สาธิต มศว) |
-| **Thammasat University** | คณะวิทยาการเรียนรู้และศึกษาศาสตร์ | Pathum Thani (Rangsit) | Newer faculty; innovative, progressive approach; learning sciences focus |
-| **Chiang Mai University** | คณะศึกษาศาสตร์ | Chiang Mai | Northern Thailand education hub; strong community & rural education |
-
-#### 🥈 Tier 2 — Strong Regional Programs
-
-| University | Faculty | Location |
-|---|---|---|
-| **Khon Kaen University** | คณะศึกษาศาสตร์ | Khon Kaen |
-| **Prince of Songkla University** | คณะศึกษาศาสตร์ | Pattani |
-| **Burapha University** | คณะศึกษาศาสตร์ | Chonburi |
-| **Naresuan University** | คณะศึกษาศาสตร์ | Phitsanulok |
-| **Silpakorn University** | คณะศึกษาศาสตร์ | Nakhon Pathom |
-| **Mahasarakham University** | คณะศึกษาศาสตร์ | Maha Sarakham |
-| **Thaksin University** | คณะศึกษาศาสตร์ | Songkhla |
-
-#### 🥉 Tier 3 — Rajabhat Universities (มหาวิทยาลัยราชภัฏ)
-
-> **40+ campuses nationwide** — the primary teacher training institutions for most Thai teachers.
-
-| Notable Rajabhat Universities | Location |
-|---|---|
-| **มหาวิทยาลัยราชภัฏสวนสุนันทา** | Bangkok |
-| **มหาวิทยาลัยราชภัฏจันทรเกษม** | Bangkok |
-| **มหาวิทยาลัยราชภัฏเชียงใหม่** | Chiang Mai |
-| **มหาวิทยาลัยราชภัฏนครราชสีมา** | Nakhon Ratchasima |
-| **มหาวิทยาลัยราชภัฏสงขลา** | Songkhla |
-| **มหาวิทยาลัยราชภัฏพระนคร** | Bangkok |
-
-**Why choose Rajabhat?**
-- Lower tuition
-- Strong community connections
-- "ครูคืนถิ่น" programs — train to teach in home province
-- Often have better practicum placement networks in rural areas
-- Less competitive admission than Tier 1 universities
-
-### 5 | Teaching Programs by Subject
-
-| Program Major | Best Universities |
-|---|---|
-| **ประถมศึกษา (Elementary Education)** | มศว, Chulalongkorn, Rajabhat |
-| **ภาษาไทย (Thai Language)** | มศว, Chulalongkorn, Silpakorn, Rajabhat |
-| **ภาษาอังกฤษ (English)** | Chulalongkorn, มศว, CMU, KKU, Thammasat |
-| **คณิตศาสตร์ (Mathematics)** | Chulalongkorn, Kasetsart, มศว, CMU |
-| **วิทยาศาสตร์ (Science)** | Kasetsart, มศว, Chulalongkorn |
-| **สังคมศึกษา (Social Studies)** | มศว, Thammasat, CMU |
-| **พลศึกษา (Physical Education)** | มศว, Chulalongkorn |
-| **การศึกษาปฐมวัย (Early Childhood)** | มศว, Chulalongkorn, Rajabhat |
-| **การศึกษาพิเศษ (Special Education)** | มศว, Kasetsart, Rajabhat |
-| **เทคโนโลยีการศึกษา (EdTech)** | มศว, Kasetsart, Burapha |
 
 ### 6 | Tuition & Costs
 

@@ -68,7 +68,7 @@ flowchart TD
 - [[06_Research_Methods_and_Ethics|06 Research Methods & Ethics]] — Experimental design, statistics, psychometrics, Thai Psychology Council Code of Ethics
 
 ### 🎓 Career Pathways
-- [[07_University_Guide_and_Career_Paths|07 University Guide & Career Paths]] — Top psychology schools, TCAS, licensing process, salaries, career options
+- [[00_University_Guide_and_Career_Paths|University Guide & Career Paths]] — Top psychology schools, TCAS, licensing process, salaries, career options
 
 ## The Psychology Profession in Thailand
 
@@ -118,10 +118,10 @@ Key provisions:
 
 ## Reading Paths
 
-- **High school student exploring:** Start here → [[07_University_Guide_and_Career_Paths|University Guide]] → [[01_Foundations_of_Psychology|What you'll study]]
+- **High school student exploring:** Start here → [[00_University_Guide_and_Career_Paths|University Guide]] → [[01_Foundations_of_Psychology|What you'll study]]
 - **Undergrad considering clinical track:** [[03_Clinical_Psychology|Clinical Psych]] → [[02_Psychological_Assessment_and_Diagnosis|Assessment]] → [[06_Research_Methods_and_Ethics|Ethics]]
-- **Exploring non-clinical careers:** [[05_Applied_Psychology_Specialties|Applied Specialties]] → [[07_University_Guide_and_Career_Paths|Career Paths]]
-- **Parent/guidance counselor:** [[07_University_Guide_and_Career_Paths|University Guide]] → Return here for subject details
+- **Exploring non-clinical careers:** [[05_Applied_Psychology_Specialties|Applied Specialties]] → [[00_University_Guide_and_Career_Paths|Career Paths]]
+- **Parent/guidance counselor:** [[00_University_Guide_and_Career_Paths|University Guide]] → Return here for subject details
 
 ---
 

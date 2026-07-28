@@ -55,35 +55,20 @@ This is the practical guide: where to study, how to get in, the licensing proces
 
 > **Note:** Psychology is generally less math-intensive than medicine/nursing. The emphasis is on reading, writing, analytical thinking, and English.
 
-### 4 | Top Psychology Programs in Thailand
+### Psychology Programs in Thailand
 
-#### 🥇 Tier 1 — Premier Psychology Faculties
-
-| University | Faculty/Program | Location | Notable Features |
-|---|---|---|---|
-| **Chulalongkorn University** | คณะจิตวิทยา (Faculty of Psychology) | Bangkok | Thailand's only standalone Faculty of Psychology; strongest research output; B.Sc., M.Sc., Ph.D. all available |
-| **Thammasat University** | สาขาจิตวิทยา คณะศิลปศาสตร์ (Psychology, Faculty of Liberal Arts) | Pathum Thani (Rangsit) | Strong social psychology and counseling; clinical training at Thammasat Hospital; progressive culture |
-| **Chiang Mai University** | สาขาจิตวิทยา คณะมนุษยศาสตร์ (Psychology, Faculty of Humanities) | Chiang Mai | Strong clinical and community psychology; Northern Thailand hub; Maharaj Nakorn CM Hospital affiliation |
-
-#### 🥈 Tier 2 — Strong Programs with Clinical Training
-
-| University | Faculty | Location | Notable Features |
-|---|---|---|---|
-| **Mahidol University** | สถาบันชีววิทยาศาสตร์โมเลกุล (Neuroscience focus) / วิทยาลัยวิทยาศาสตร์การแพทย์ | Bangkok (Salaya) | Neuroscience-heavy; research-focused; international collaborations |
-| **Kasetsart University** | สาขาจิตวิทยา คณะสังคมศาสตร์ | Bangkok (Bang Khen) | Strong I-O and community psychology; counseling psychology |
-| **Srinakharinwirot University** | สาขาจิตวิทยา คณะมนุษยศาสตร์ | Bangkok | Strong educational psychology; teacher training tradition |
-| **Burapha University** | สาขาจิตวิทยา คณะมนุษยศาสตร์และสังคมศาสตร์ | Chonburi | Eastern seaboard; growing clinical program |
-| **Prince of Songkla University** | สาขาจิตวิทยา คณะมนุษยศาสตร์และสังคมศาสตร์ | Pattani / Hat Yai | Southern Thailand hub; cross-cultural psychology (deep south context) |
-
-#### 🥉 Tier 3 — Other Notable Programs
-
-| University | Location |
-|---|---|
-| **Khon Kaen University** (คณะมนุษยศาสตร์ฯ) | Khon Kaen |
-| **Naresuan University** (คณะสังคมศาสตร์) | Phitsanulok |
-| **Silpakorn University** (คณะศึกษาศาสตร์) | Nakhon Pathom |
-| **Ramkhamhaeng University** (คณะศึกษาศาสตร์) | Bangkok (open university — lower tuition) |
-| **Sukhothai Thammathirat Open University** | Distance learning (เหมาะสำหรับผู้ที่ทำงานไปด้วย) |
+| University                                 | Faculty                                                                        | Location                                         | Notable Features                                                      |
+| ------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------ | --------------------------------------------------------------------- |
+| **Mahidol University**                     | สถาบันชีววิทยาศาสตร์โมเลกุล (Neuroscience focus) / วิทยาลัยวิทยาศาสตร์การแพทย์ | Bangkok (Salaya)                                 | Neuroscience-heavy; research-focused; international collaborations    |
+| **Kasetsart University**                   | สาขาจิตวิทยา คณะสังคมศาสตร์                                                    | Bangkok (Bang Khen)                              | Strong I-O and community psychology; counseling psychology            |
+| **Srinakharinwirot University**            | สาขาจิตวิทยา คณะมนุษยศาสตร์                                                    | Bangkok                                          | Strong educational psychology; teacher training tradition             |
+| **Burapha University**                     | สาขาจิตวิทยา คณะมนุษยศาสตร์และสังคมศาสตร์                                      | Chonburi                                         | Eastern seaboard; growing clinical program                            |
+| **Prince of Songkla University**           | สาขาจิตวิทยา คณะมนุษยศาสตร์และสังคมศาสตร์                                      | Pattani / Hat Yai                                | Southern Thailand hub; cross-cultural psychology (deep south context) |
+| **Khon Kaen University**                   | คณะมนุษยศาสตร์ฯ                                                                | Khon Kaen                                        | -                                                                     |
+| **Naresuan University**                    | คณะสังคมศาสตร์                                                                 | Phitsanulok                                      | -                                                                     |
+| **Silpakorn University**                   | คณะศึกษาศาสตร์                                                                 | Nakhon Pathom                                    | -                                                                     |
+| **Ramkhamhaeng University**                | คณะศึกษาศาสตร์                                                                 | Bangkok (open university — lower tuition)        | -                                                                     |
+| **Sukhothai Thammathirat Open University** | สาขาวิชาจิตวิทยา | Distance learning (เหมาะสำหรับผู้ที่ทำงานไปด้วย) | -                                                                     |
 
 #### 🏥 Clinical Training Institutions (Postgraduate)
 

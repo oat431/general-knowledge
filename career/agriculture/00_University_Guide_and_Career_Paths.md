@@ -39,58 +39,23 @@ This is the practical guide: where to study, how to get in, what you'll earn, an
 | **TCAS 3 — Admission 1** | Mar–May | Central exam route |
 | **TCAS 4 / 5** | May–Jul | Direct admission, remaining seats |
 
-### 3 | Top Agricultural Universities
+### Agriculture Programs in Thailand
 
-#### 🥇 Tier 1 — Premier Agricultural University
+| University                                             | Faculty                                                | Location                                                | Notable Features                                                                                                                                                                                                                 |
+| ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Kasetsart University**                               | คณะเกษตร / คณะอุตสาหกรรมเกษตร / คณะประมง / คณะวนศาสตร์ | Bangkok (Bang Khen) & Kamphaeng Saen                    | 🔑 **Thailand's #1 agricultural university** — the most comprehensive; 4 agriculture-related faculties; strong research; deep industry connections (CP, Thai Union, Mitr Phol); Kamphaeng Saen campus has massive research farms |
+| **Maejo University**                                   | คณะผลิตกรรมการเกษตร / คณะวิทยาศาสตร์การเกษตร           | Chiang Mai                                              | #2 agri university; strong organic/sustainable; Northern focus; large campus with working farms                                                                                                                                  |
+| **Chiang Mai University**                              | คณะเกษตรศาสตร์                                         | Chiang Mai                                              | Northern hub; highland agriculture; coffee, tea, temperate crops; Royal Project connections                                                                                                                                      |
+| **Khon Kaen University**                               | คณะเกษตรศาสตร์                                         | Khon Kaen                                               | Isan (Northeast) hub; rice, cassava, sugar cane; Mekong region collaborations                                                                                                                                                    |
+| **Prince of Songkla University**                       | คณะทรัพยากรธรรมชาติ / คณะอุตสาหกรรมเกษตร               | Hat Yai                                                 | Southern hub; rubber, oil palm, tropical fruits, aquaculture                                                                                                                                                                     |
+| **Thammasat University**                               | คณะวิทยาศาสตร์และเทคโนโลยี (สาขาเกษตรศาสตร์)           | Pathum Thani                                            | Newer program; science-oriented; close to Bangkok                                                                                                                                                                                |
+| **Burapha University**                                 | Chonburi                                               | Eastern agriculture — durian, mangosteen; EEC proximity | -                                                                                                                                                                                                                                |
+| **Naresuan University**                                | คณะเกษตรศาสตร์ | Phitsanulok                                            | Lower Northern agriculture                              | - |
+| **Ubon Ratchathani University**                        | คณะเกษตรศาสตร์ | Ubon Ratchathani                                       | Rice, organic farming; Mekong region                    | - |
+| **Walailak University**                                | สำนักวิชาเทคโนโลยีการเกษตร | Nakhon Si Thammarat                                    | Southern agriculture                                    | - |
+| **Rajamangala Universities of Technology (RMUT)**      | คณะเกษตรศาสตร์ | Multiple campuses                                      | Practical/vocational agricultural technology            | - |
+| **Institute of Agricultural Technology, Suranaree UT** | Nakhon Ratchasima                                      | Technology-focused agriculture                          | -                                                                                                                                                                                                                                |
 
-| University | Faculty | Location | Notable Features |
-|---|---|---|---|
-| **Kasetsart University** | คณะเกษตร / คณะอุตสาหกรรมเกษตร / คณะประมง / คณะวนศาสตร์ | Bangkok (Bang Khen) & Kamphaeng Saen | 🔑 **Thailand's #1 agricultural university** — the most comprehensive; 4 agriculture-related faculties; strong research; deep industry connections (CP, Thai Union, Mitr Phol); Kamphaeng Saen campus has massive research farms |
-
-#### 🥈 Tier 2 — Strong Specialized Programs
-
-| University | Faculty / Department | Location | Notable Features |
-|---|---|---|---|
-| **Maejo University** | คณะผลิตกรรมการเกษตร / คณะวิทยาศาสตร์การเกษตร | Chiang Mai | #2 agri university; strong organic/sustainable; Northern focus; large campus with working farms |
-| **Chiang Mai University** | คณะเกษตรศาสตร์ | Chiang Mai | Northern hub; highland agriculture; coffee, tea, temperate crops; Royal Project connections |
-| **Khon Kaen University** | คณะเกษตรศาสตร์ | Khon Kaen | Isan (Northeast) hub; rice, cassava, sugar cane; Mekong region collaborations |
-| **Prince of Songkla University** | คณะทรัพยากรธรรมชาติ / คณะอุตสาหกรรมเกษตร | Hat Yai | Southern hub; rubber, oil palm, tropical fruits, aquaculture |
-| **Thammasat University** | คณะวิทยาศาสตร์และเทคโนโลยี (สาขาเกษตรศาสตร์) | Pathum Thani | Newer program; science-oriented; close to Bangkok |
-
-#### 🥉 Tier 3 — Regional & Specialized
-
-| University | Location | Specialty |
-|---|---|---|
-| **Burapha University** | Chonburi | Eastern agriculture — durian, mangosteen; EEC proximity |
-| **Naresuan University** | Phitsanulok | Lower Northern agriculture |
-| **Ubon Ratchathani University** | Ubon Ratchathani | Rice, organic farming; Mekong region |
-| **Walailak University** | Nakhon Si Thammarat | Southern agriculture |
-| **Rajamangala Universities of Technology (RMUT)** | Multiple campuses | Practical/vocational agricultural technology |
-| **Institute of Agricultural Technology, Suranaree UT** | Nakhon Ratchasima | Technology-focused agriculture |
-
-#### 🏫 Specialized Colleges
-
-| College | Location | Focus |
-|---|---|---|
-| **วิทยาลัยเกษตรและเทคโนโลยี (College of Agriculture and Technology)** | ~47 campuses nationwide | ปวช./ปวส. (vocational) and bachelor's; hands-on training |
-| **Maejo College of Agriculture (original campus)** | Chiang Mai | Historic agricultural college |
-| **สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง (KMITL)** | Bangkok | Food engineering, food science |
-
-### 4 | Programs by Specialization
-
-| Field | Best Programs |
-|---|---|
-| **Agronomy (พืชไร่)** | Kasetsart, Maejo, KKU |
-| **Horticulture (พืชสวน)** | Kasetsart, Maejo, CMU |
-| **Animal Science** | Kasetsart, KKU, Maejo |
-| **Aquaculture / Fisheries** | Kasetsart (Faculty of Fisheries), PSU, Burapha |
-| **Food Science & Technology** | Kasetsart (Agro-Industry), CMU, PSU, KMITL |
-| **Agribusiness** | Kasetsart, Thammasat, Maejo |
-| **Agricultural Engineering** | Kasetsart, KMITL, Maejo |
-| **Soil Science** | Kasetsart, KKU |
-| **Plant Protection (Pest Management)** | Kasetsart, Maejo |
-| **Organic / Sustainable Agriculture** | Maejo (strongest), KKU |
-| **Smart Farming / AgriTech** | Kasetsart, KMITL, CMU (emerging) |
 
 ### 5 | Tuition
 

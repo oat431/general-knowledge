@@ -62,7 +62,7 @@ flowchart TD
 - [[06_Special_Education_and_Inclusive_Practices|06 Special Education & Inclusive Practices]] — Learning disabilities, gifted education, inclusive classrooms, IEPs
 
 ### 🎓 Career Pathways
-- [[07_University_Guide_and_Career_Paths|07 University Guide & Career Paths]] — Top education faculties, TCAS, licensing, salaries, career advancement
+- [[00_University_Guide_and_Career_Paths|University Guide & Career Paths]] — Top education faculties, TCAS, licensing, salaries, career advancement
 
 ## The Teaching Profession in Thailand
 
@@ -126,10 +126,10 @@ Issued by คุรุสภา, three domains:
 
 ## Reading Paths
 
-- **High school student exploring:** Start here → [[07_University_Guide_and_Career_Paths|University Guide]] → [[01_Foundations_of_Education|What you'll study]]
+- **High school student exploring:** Start here → [[00_University_Guide_and_Career_Paths|University Guide]] → [[01_Foundations_of_Education|What you'll study]]
 - **Student teacher (นักศึกษาครู):** [[02_Curriculum_and_Instruction|Curriculum]] → [[04_Classroom_Management_and_Assessment|Classroom Practice]]
 - **Practicing teacher advancing:** [[05_Educational_Technology_and_Innovation|Innovation]] → Graduate degrees
-- **Parent/guidance counselor:** [[07_University_Guide_and_Career_Paths|University Guide]] → Return here
+- **Parent/guidance counselor:** [[00_University_Guide_and_Career_Paths|University Guide]] → Return here
 
 ---
 

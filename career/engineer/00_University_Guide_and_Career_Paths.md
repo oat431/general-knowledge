@@ -54,59 +54,32 @@ This is the practical guide: where to study, how to get in, how to get licensed,
 
 > **Math 1 + Physics + TPAT 3 = The Big Three for engineering admission.**
 
-### 4 | Top Engineering Universities in Thailand
 
-#### 🥇 Tier 1 — The Top 5 (วิศวะ 5 อันดับแรก)
+### Engineering Programs in Thailand
 
-| University | Faculty | Location | Notable Features |
-|---|---|---|---|
-| **Chulalongkorn University** | คณะวิศวกรรมศาสตร์ | Bangkok | #1 prestige; 12 departments; strong industry connections; ISE (International) program |
-| **KMITL (พระจอมเกล้าลาดกระบัง)** | คณะวิศวกรรมศาสตร์ | Bangkok (Lat Krabang) | 🔑 **Engineering powerhouse** — largest engineering faculty; strong in EE, ME, CE; international program |
-| **KMUTT (พระจอมเกล้าธนบุรี)** | คณะวิศวกรรมศาสตร์ | Bangkok (Bang Mod) | Top research output; strong in Chemical, Environmental, Computer; international |
-| **KMUTNB (พระจอมเกล้าพระนครเหนือ)** | คณะวิศวกรรมศาสตร์ | Bangkok (Bang Sue) | Strong in ME, Industrial, Production; close to industry |
-| **Mahidol University** | คณะวิศวกรรมศาสตร์ | Nakhon Pathom (Salaya) | Newer but rapidly rising; strong in Biomedical, Computer, international focus |
+| University                                        | Faculty                                          | Location                                                                                     | Notable Features                                                                                         |
+| ------------------------------------------------- | ------------------------------------------------ | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Chulalongkorn University**                      | คณะวิศวกรรมศาสตร์                                | Bangkok                                                                                      | #1 prestige; 12 departments; strong industry connections; ISE (International) program                    |
+| **KMITL (พระจอมเกล้าลาดกระบัง)**                  | คณะวิศวกรรมศาสตร์                                | Bangkok (Lat Krabang)                                                                        | 🔑 **Engineering powerhouse** — largest engineering faculty; strong in EE, ME, CE; international program |
+| **KMUTT (พระจอมเกล้าธนบุรี)**                     | คณะวิศวกรรมศาสตร์                                | Bangkok (Bang Mod)                                                                           | Top research output; strong in Chemical, Environmental, Computer; international                          |
+| **KMUTNB (พระจอมเกล้าพระนครเหนือ)**               | คณะวิศวกรรมศาสตร์                                | Bangkok (Bang Sue)                                                                           | Strong in ME, Industrial, Production; close to industry                                                  |
+| **Mahidol University**                            | คณะวิศวกรรมศาสตร์                                | Nakhon Pathom (Salaya)                                                                       | Newer but rapidly rising; strong in Biomedical, Computer, international focus                            |
+| **Kasetsart University**                          | คณะวิศวกรรมศาสตร์                                | Bangkok (Bang Khen) & Kamphaeng Saen                                                         | Thailand's largest engineering faculty by student count; strong in agricultural, water, environmental    |
+| **Chiang Mai University**                         | คณะวิศวกรรมศาสตร์                                | Chiang Mai                                                                                   | Northern hub; strong in Computer, Mechanical, Environmental                                              |
+| **Thammasat University (SIIT)**                   | Sirindhorn International Institute of Technology | Pathum Thani (Rangsit)                                                                       | All-English instruction; strong international focus; 3+1 programs abroad                                 |
+| **Khon Kaen University**                          | คณะวิศวกรรมศาสตร์                                | Khon Kaen                                                                                    | Northeast hub; strong in Civil, Mechanical                                                               |
+| **Prince of Songkla University**                  | คณะวิศวกรรมศาสตร์                                | Hat Yai                                                                                      | Southern hub; strong in Chemical (oil & gas), Computer                                                   |
+| **Suranaree University of Technology**            | สำนักวิชาวิศวกรรมศาสตร์                          | Nakhon Ratchasima                                                                            | Strong in manufacturing, production; cooperative education                                               |
+| **Burapha University**                            | คณะวิศวกรรมศาสตร์                                | Chonburi                                                                                     | EEC proximity — close to Map Ta Phut, Laem Chabang                                                       |
+| **Naresuan University** | คณะวิศวกรรมศาสตร์ | Phitsanulok                                                                                  | -                                                                                                        |
+| **Mahasarakham University** | คณะวิศวกรรมศาสตร์ | Maha Sarakham                                                                                | -                                                                                                        |
+| **Ubon Ratchathani University** | คณะวิศวกรรมศาสตร์ | Ubon Ratchathani                                                                             | -                                                                                                        |
+| **Walailak University** | สำนักวิชาวิศวกรรมศาสตร์ | Nakhon Si Thammarat                                                                          | -                                                                                                        |
+| **Silpakorn University** | คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม | Nakhon Pathom                                                                                | -                                                                                                        |
+| **Rajamangala Universities of Technology (RMUT)** | คณะวิศวกรรมศาสตร์ | 9 campuses nationwide — strong in vocational/technical engineering                           | -                                                                                                        |
+| **Sripatum University** | คณะวิศวกรรมศาสตร์ | Bangkok (private)                                                                            | -                                                                                                        |
+| **Assumption University (ABAC)** | Faculty of Engineering | Bangkok (private) — international programs                                                   | -                                                                                                        |
 
-#### 🥈 Tier 2 — Strong Regional & Specialized
-
-| University | Faculty | Location | Notable Features |
-|---|---|---|---|
-| **Kasetsart University** | คณะวิศวกรรมศาสตร์ | Bangkok (Bang Khen) & Kamphaeng Saen | Thailand's largest engineering faculty by student count; strong in agricultural, water, environmental |
-| **Chiang Mai University** | คณะวิศวกรรมศาสตร์ | Chiang Mai | Northern hub; strong in Computer, Mechanical, Environmental |
-| **Thammasat University (SIIT)** | Sirindhorn International Institute of Technology | Pathum Thani (Rangsit) | All-English instruction; strong international focus; 3+1 programs abroad |
-| **Khon Kaen University** | คณะวิศวกรรมศาสตร์ | Khon Kaen | Northeast hub; strong in Civil, Mechanical |
-| **Prince of Songkla University** | คณะวิศวกรรมศาสตร์ | Hat Yai | Southern hub; strong in Chemical (oil & gas), Computer |
-| **Suranaree University of Technology** | สำนักวิชาวิศวกรรมศาสตร์ | Nakhon Ratchasima | Strong in manufacturing, production; cooperative education |
-| **Burapha University** | คณะวิศวกรรมศาสตร์ | Chonburi | EEC proximity — close to Map Ta Phut, Laem Chabang |
-
-#### 🥉 Tier 3 — Other Strong Programs
-
-| University | Location |
-|---|---|
-| **Naresuan University** | Phitsanulok |
-| **Mahasarakham University** | Maha Sarakham |
-| **Ubon Ratchathani University** | Ubon Ratchathani |
-| **Walailak University** | Nakhon Si Thammarat |
-| **Silpakorn University** | Nakhon Pathom |
-| **Rajamangala Universities of Technology (RMUT)** | 9 campuses nationwide — strong in vocational/technical engineering |
-| **Sripatum University** | Bangkok (private) |
-| **Assumption University (ABAC)** | Bangkok (private) — international programs |
-
-### 5 | Engineering Programs by Discipline — Best Choices
-
-| Discipline | Top Choices |
-|---|---|
-| **Civil** | Chulalongkorn, KMITL, Kasetsart, CMU, KKU |
-| **Mechanical** | KMUTNB, KMITL, Chulalongkorn, KMUTT, Suranaree |
-| **Electrical (Power)** | KMITL, Chulalongkorn, KMUTNB, CMU |
-| **Electrical (Electronics/Telecom)** | KMITL, KMUTT, Chulalongkorn |
-| **Computer** | Chulalongkorn, KMUTT, KMITL, Mahidol, CMU, SIIT |
-| **Industrial** | KMUTNB, KMITL, Chulalongkorn, Kasetsart |
-| **Chemical** | KMUTT, Chulalongkorn, KMITL, Kasetsart |
-| **Environmental** | KMUTT, Kasetsart, Chulalongkorn, CMU |
-| **Aerospace** | Kasetsart (only full program); KMITL (option) |
-| **Biomedical** | Mahidol, KMITL, Chulalongkorn |
-| **Robotics / Mechatronics** | KMITL, KMUTT, KMUTNB, CMU |
-| **International (English)** | SIIT (Thammasat), Chulalongkorn (ISE), KMITL (International), KMUTT (International), Mahidol |
 
 ### 6 | Tuition & Costs
 
