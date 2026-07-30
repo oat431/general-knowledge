@@ -1,5 +1,5 @@
 ---
-tags: [social-studies, geography, natural-disasters, environment, primary, lower-secondary]
+tags: [social-studies, geography, natural-disasters, environment, primary, lower-secondary, upper-secondary]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-07-26
 course_codes: ["ส13105", "ส21101", "ส22101", "ส23105"]
@@ -21,6 +21,7 @@ Natural Disasters and Environment covers the geographic processes that cause dis
 | **ป.1–3** | Weather safety, caring for environment, basic recycling |
 | **ป.4–6** | Types of natural disasters, causes and effects, local environmental issues, conservation basics |
 | **ม.1–3** | Disaster preparedness, climate change, environmental laws, sustainable development |
+| **ม.4–6** | Disaster management systems, environmental policy, climate adaptation, resilience planning |
 
 ---
 
@@ -112,3 +113,45 @@ Natural Disasters and Environment covers the geographic processes that cause dis
 - [[05_Geography_of_Thailand|Geography]] — Physical geography, climate
 - [[03_Economics_Fundamentals|Economics]] — Environmental economics
 - [[04_Thai_History|History]] — Historical disasters
+
+---
+
+## 9 | Upper Secondary (ม.4-6): Disaster Management
+
+### Disaster Management Cycle
+
+```mermaid
+flowchart LR
+    M["Mitigation<br/>การลดผลกระทบ<br/>Long-term prevention"] --> P["Preparedness<br/>การเตรียมการ<br/>Plans, warning systems"]
+    P --> R["Response<br/>การตอบสนอง<br/>Emergency rescue"]
+    R --> RC["Recovery<br/>การฟื้นฟู<br/>Rebuild, learn"]
+    RC --> M
+```
+
+| Phase | Thai | Activities |
+|---|---|---|
+| **Mitigation** | การลดผลกระทบ | Dams, building codes, zoning |
+| **Preparedness** | การเตรียมการ | Early warning, drills, supplies |
+| **Response** | การตอบสนอง | Rescue, evacuation, first aid |
+| **Recovery** | การฟื้นฟู | Rebuild, compensation, planning |
+
+### Thailand's Disaster Management System
+
+| Agency | Thai | Role |
+|---|---|---|
+| **DDPM** | กรมป้องกันและบรรเทาสาธารณภัย | National disaster management |
+| **Thai Meteorological Dept** | กรมอุตุนิยมวิทยา | Weather, tsunami warnings |
+| **Dept of Mineral Resources** | กรมทรัพยากรธรณี | Earthquake monitoring |
+| **Royal Thai Army** | กองทัพบกไทย | Emergency response |
+| **Foundation Thai Red Cross** | สภากาชาดไทย | Relief, first aid |
+
+### Climate Adaptation Strategies
+
+| Strategy | Thai | Thailand Application |
+|---|---|---|
+| **Infrastructure** | โครงสร้างพื้นฐาน | Flood walls, drainage upgrades |
+| **Nature-based** | ธรรมชาติเป็นฐาน | Mangrove restoration, urban green |
+| **Early warning** | ระบบเตือนภัย | Weather stations, SMS alerts |
+| **Community resilience** | ความยืดหยุ่นของชุมชน | Community disaster plans |
+| **Insurance** | การประกันภัย | Crop insurance, disaster funds |
+| **Relocation** | การย้ายที่อยู่ | Managed retreat from coasts |

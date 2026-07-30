@@ -41,22 +41,22 @@ Geography develops spatial literacy from simple map reading through advanced geo
 
 | # | Concept Area | Status | Files Created | Notes |
 |---|---|---|---|---|
-| 01 | Geography of Thailand | ✅ Done | `01_Geography_of_Thailand.md` | |
-| 02 | Natural Disasters and Environment | ✅ Done | `02_Natural_Disasters_and_Environment.md` | |
-| 03 | Map Skills and Geographic Tools | ✅ Done | `03_Map_Skills_and_Geographic_Tools.md` | |
-| 04 | Physical Geography — Landforms | ❌ Pending | — | |
-| 05 | Climate | ❌ Pending | — | |
-| 06 | Natural Resources | ❌ Pending | — | |
-| 07 | Population Geography | ❌ Pending | — | |
-| 08 | Settlement & Urbanization | ❌ Pending | — | |
-| 09 | Economic Geography | ❌ Pending | — | |
-| 10 | Environmental Conservation | ❌ Pending | — | |
-| 11 | Thailand's Regions | ❌ Pending | — | |
-| 12 | World Regions | ❌ Pending | — | |
-| 13 | Geographic Coordinates | ❌ Pending | — | |
-| 14 | Geographic Skills | ❌ Pending | — | |
+| 01 | Geography of Thailand | ✅ Done | `01_Geography_of_Thailand.md` | Updated with ม.4-6 |
+| 02 | Natural Disasters and Environment | ✅ Done | `02_Natural_Disasters_and_Environment.md` | Updated with ม.4-6 |
+| 03 | Map Skills and Geographic Tools | ✅ Done | `03_Map_Skills_and_Geographic_Tools.md` | Updated with ม.4-6 |
+| 04 | Physical Geography — Landforms | ✅ Done | `04_Physical_Geography.md` | Created 2026-07-30 |
+| 05 | Climate | ✅ Done | `05_Climate.md` | Created 2026-07-30 |
+| 06 | Natural Resources | ✅ Done | `06_Natural_Resources.md` | Created 2026-07-30 |
+| 07 | Population Geography | ✅ Done | `07_Population_Geography.md` | Created 2026-07-30 |
+| 08 | Settlement & Urbanization | ✅ Done | `08_Settlement_and_Urbanization.md` | Created 2026-07-30 |
+| 09 | Economic Geography | ✅ Done | `09_Economic_Geography.md` | Created 2026-07-30 |
+| 10 | Environmental Conservation | ✅ Done | `10_Environmental_Conservation.md` | Created 2026-07-30 |
+| 11 | Thailand's Regions | ✅ Done | `11_Thailand_Regions.md` | Created 2026-07-30 |
+| 12 | World Regions | ✅ Done | `12_World_Regions.md` | Created 2026-07-30 |
+| 13 | Geographic Coordinates | ✅ Done | `13_Geographic_Coordinates.md` | Created 2026-07-30 |
+| 14 | Geographic Skills | ✅ Done | `14_Geographic_Skills.md` | Created 2026-07-30 |
 
-**Completion: 3/14 (21%)**
+**Completion: 14/14 (100%)**
 
 ---
 

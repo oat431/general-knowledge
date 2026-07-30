@@ -1,5 +1,5 @@
 ---
-tags: [social-studies, geography, maps, skills, coordinates, primary, lower-secondary]
+tags: [social-studies, geography, maps, skills, coordinates, primary, lower-secondary, upper-secondary]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-07-26
 course_codes: ["ส11105", "ส12105", "ส13105", "ส21101", "ส22101", "ส23105"]
@@ -21,6 +21,7 @@ Map Skills teaches students to read, interpret, and create maps. From simple cla
 | **ป.1–3** | Classroom/school maps, directions (N, S, E, W), simple symbols |
 | **ป.4–6** | Map elements (title, legend, scale, compass), grid references, types of maps |
 | **ม.1–3** | Topographic maps, contour lines, coordinates (lat/long), GIS intro, GPS |
+| **ม.4–6** | GIS applications, remote sensing, spatial analysis, digital cartography |
 
 ---
 
@@ -120,3 +121,39 @@ Map Skills teaches students to read, interpret, and create maps. From simple cla
 - [[Social Studies - Overview|← Back to Social Studies]]
 - [[05_Geography_of_Thailand|Geography]] — Physical features on maps
 - [[08_Natural_Disasters_and_Environment|Natural Disasters]] — Mapping hazard zones
+
+---
+
+## 10 | Upper Secondary (ม.4-6): Advanced GIS and Remote Sensing
+
+### GIS Applications
+
+| Application | Thai | Description |
+|---|---|---|
+| **Urban planning** | การวางผังเมือง | Land use zoning, growth monitoring |
+| **Disaster management** | การจัดการภัยพิบัติ | Flood modeling, evacuation routing |
+| **Agriculture** | เกษตรกรรม | Crop monitoring, precision farming |
+| **Transportation** | การคมนาคม | Route optimization, traffic analysis |
+| **Epidemiology** | ระบาดวิทยา | Disease mapping, spread prediction |
+| **Business** | ธุรกิจ | Site selection, market analysis |
+| **Conservation** | การอนุรักษ์ | Habitat mapping, species tracking |
+
+### Remote Sensing (การรับรู้จากระยะไกล)
+
+| Platform | Thai | Resolution | Use |
+|---|---|---|---|
+| **Landsat** | แลนด์แซต | 30m | Land cover, free access |
+| **Sentinel** | เซนติเนล | 10-20m | European, free access |
+| **WorldView** | เวิลด์วิว | 0.3-0.5m | High-resolution commercial |
+| **MODIS** | โมดิส | 250m-1km | Daily global monitoring |
+| **Thai Earth Observation** | ดาวเทียมไทย | 2-20m | THEOS (2008) |
+
+### Digital Cartography
+
+| Trend | Thai | Description |
+|---|---|---|
+| **Web mapping** | แผนที่บนเว็บ | Google Maps, OpenStreetMap |
+| **3D visualization** | การมองเห็นสามมิติ | Google Earth, Cesium |
+| **Interactive maps** | แผนที่โต้ตอบ | Data dashboards |
+| **Story maps** | แผนที่เล่าเรื่อง | Narrative + geographic data |
+| **Crowdsourced mapping** | แผนที่โดยมวลชน | OpenStreetMap, WikiMapping |

@@ -1,5 +1,5 @@
 ---
-tags: [social-studies, geography, thailand-regions, maps, climate, primary, lower-secondary]
+tags: [social-studies, geography, thailand-regions, maps, climate, primary, lower-secondary, upper-secondary]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-07-26
 course_codes: ["ส11105", "ส12105", "ส13105", "ส21101", "ส22101", "ส23105"]
@@ -21,6 +21,7 @@ Geography of Thailand covers the physical and human geography of Thailand and th
 | **ป.1–3** | Classroom maps, directions, weather observation, local environment, seasons |
 | **ป.4–6** | Map skills (scale, direction, symbols), Thailand's physical features, climate zones, population, natural resources |
 | **ม.1–3** | Physical geography of continents, climate systems, natural disasters, population geography, economic geography |
+| **ม.4–6** | Geographic challenges, spatial analysis, Thailand in globalization, sustainability |
 
 ---
 
@@ -149,3 +150,37 @@ Geography of Thailand covers the physical and human geography of Thailand and th
 - [[04_Thai_History|Thai History]] — Historical geography, settlements
 - [[08_Natural_Resources|Natural Resources]] — Resource management
 - [[11_Environmental_Studies|Environmental Studies]] — Conservation
+
+---
+
+## 11 | Upper Secondary (ม.4-6): Geographic Challenges
+
+### Thailand's Geographic Challenges
+
+| Challenge | Thai | Description |
+|---|---|---|
+| **Bangkok sinking** | กรุงเทพทรุดตัว | 2cm/year + sea level rise |
+| **Water scarcity** | การขาดแคลนน้ำ | Dry season shortages |
+| **Climate change** | การเปลี่ยนแปลงสภาพภูมิอากาศ | Floods, droughts, sea level rise |
+| **Deforestation** | การตัดไม้ทำลายป่า | From 53% to 31% forest cover |
+| **Border disputes** | ปัญหาพรมแดน | Preah Vihear, overlapping zones |
+| **Migration pressure** | แรงกดดันการย้ายถิ่น | Foreign workers, climate refugees |
+
+### Thailand's Strategic Geographic Position
+
+| Advantage | Thai | Description |
+|---|---|---|
+| **Southeast Asia hub** | ศูนย์กลางอาเซียน | Central location in mainland SE Asia |
+| **Trade routes** | เส้นทางการค้า | Between India and China, Pacific and Indian Oceans |
+| **Maritime zones** | เขตทะเล | EEZ in Gulf and Andaman Sea |
+| **Diversity** | ความหลากหลาย | 6 geographic regions, multiple climates |
+
+### Geographic Information Systems for Thailand
+
+| Application | Thai | Description |
+|---|---|---|
+| **Disaster management** | การจัดการภัยพิบัติ | Flood modeling, evacuation planning |
+| **Urban planning** | การวางผังเมือง | Bangkok development monitoring |
+| **Agriculture** | เกษตรกรรม | Crop monitoring, precision farming |
+| **Conservation** | การอนุรักษ์ | National park management, species tracking |
+| **Infrastructure** | โครงสร้างพื้นฐาน | Highway, rail, pipeline routing |
