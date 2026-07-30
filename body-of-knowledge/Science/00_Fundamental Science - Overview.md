@@ -21,36 +21,36 @@ The curriculum develops scientific process skills (observing, hypothesizing, exp
 ## The ~22 Concept Areas
 
 ### 🔬 Process Skills
-- [[01_Scientific_Method]] — Observing, questioning, classifying, measuring, inferring, predicting, hypothesizing, experimenting, variables, data analysis, scientific writing
+- [[Fundamental/01_Scientific_Method]] — Observing, questioning, classifying, measuring, inferring, predicting, hypothesizing, experimenting, variables, data analysis, scientific writing
 
 ### 🧬 Life Science
-- [[02_Living_Things]] — Characteristics of life, classification (kingdoms, vertebrates/invertebrates), taxonomy (intro), binomial nomenclature, biodiversity
-- [[03_Cells]] — Cell as basic unit, cell structure (membrane, nucleus, cytoplasm), plant vs animal cells, organelles, osmosis/diffusion (intro)
-- [[04_Human_Body_Systems]] — Five senses, digestive, circulatory, respiratory, skeletal/muscular, nervous, excretory, endocrine, immune systems, homeostasis
-- [[05_Plants]] — Parts and functions, photosynthesis, reproduction (flowers, seeds), transport, transpiration, hormones, tropisms
-- [[06_Animals]] — Types (mammals, birds, reptiles, fish, amphibians, insects), habitats, life cycles, behavior, adaptation, metamorphosis
-- [[07_Ecosystems]] — Habitats, food chains/webs, producers/consumers/decomposers, energy flow, biotic/abiotic factors, symbiosis, nutrient cycles, conservation
-- [[08_Heredity_and_Evolution]] — Traits, genes (concept), variation, natural selection (intro), adaptation, fossils as evidence
+- [[Fundamental/02_Living_Things]] — Characteristics of life, classification (kingdoms, vertebrates/invertebrates), taxonomy (intro), binomial nomenclature, biodiversity
+- [[Fundamental/03_Cells]] — Cell as basic unit, cell structure (membrane, nucleus, cytoplasm), plant vs animal cells, organelles, osmosis/diffusion (intro)
+- [[Fundamental/04_Human_Body_Systems]] — Five senses, digestive, circulatory, respiratory, skeletal/muscular, nervous, excretory, endocrine, immune systems, homeostasis
+- [[Fundamental/05_Plants]] — Parts and functions, photosynthesis, reproduction (flowers, seeds), transport, transpiration, hormones, tropisms
+- [[Fundamental/06_Animals]] — Types (mammals, birds, reptiles, fish, amphibians, insects), habitats, life cycles, behavior, adaptation, metamorphosis
+- [[Fundamental/07_Ecosystems]] — Habitats, food chains/webs, producers/consumers/decomposers, energy flow, biotic/abiotic factors, symbiosis, nutrient cycles, conservation
+- [[Fundamental/08_Heredity_and_Evolution]] — Traits, genes (concept), variation, natural selection (intro), adaptation, fossils as evidence
 
 ### ⚗️ Physical Science — Chemistry
-- [[09_Matter_and_Properties]] — States of matter, properties (color, shape, texture, hardness, mass, volume, density), changing states, mixtures/solutions, separating mixtures, particle theory
-- [[10_Atoms_Elements_and_Compounds]] — Elements as building blocks, common elements (O, H, C, N, Fe), atomic structure (protons, neutrons, electrons), periodic table (intro), chemical formulas (intro), molecules
-- [[11_Chemical_Reactions]] — Observable signs, chemical equations (intro), conservation of mass, types of reactions, rusting, combustion
-- [[12_Acids_Bases_and_Salts]] — Properties, pH scale, indicators, neutralization, common acids/bases in daily life
+- [[Fundamental/09_Matter_and_Properties]] — States of matter, properties (color, shape, texture, hardness, mass, volume, density), changing states, mixtures/solutions, separating mixtures, particle theory
+- [[Fundamental/10_Atoms_Elements_and_Compounds]] — Elements as building blocks, common elements (O, H, C, N, Fe), atomic structure (protons, neutrons, electrons), periodic table (intro), chemical formulas (intro), molecules
+- [[Fundamental/11_Chemical_Reactions]] — Observable signs, chemical equations (intro), conservation of mass, types of reactions, rusting, combustion
+- [[Fundamental/12_Acids_Bases_and_Salts]] — Properties, pH scale, indicators, neutralization, common acids/bases in daily life
 
 ### ⚛️ Physical Science — Physics
-- [[13_Forces_and_Motion]] — Push/pull, simple machines (lever, pulley, inclined plane), gravity, friction, Newton's laws, F=ma, speed/velocity/acceleration, momentum (intro)
-- [[14_Energy]] — Forms (kinetic, potential, heat, light, sound, chemical, electrical), conversion, conservation, renewable/non-renewable, efficiency, sustainable energy
-- [[15_Heat_and_Temperature]] — Measuring temperature, scales (°C, °F), heat transfer (conduction, convection, radiation), expansion/contraction, conductors/insulators, specific heat (intro)
-- [[16_Light]] — Sources, shadows, reflection, refraction, colors, transparent/translucent/opaque, lenses, Snell's law (intro), the eye, optical instruments
-- [[17_Sound]] — Sources, vibration, pitch, volume, sound waves, frequency/amplitude, speed of sound, ultrasound
-- [[18_Electricity_and_Magnetism]] — Magnets (poles, attract/repel), static electricity, simple circuits (series/parallel), conductors/insulators, Ohm's law (intro), electromagnets, generators/motors
+- [[Fundamental/13_Forces_and_Motion]] — Push/pull, simple machines (lever, pulley, inclined plane), gravity, friction, Newton's laws, F=ma, speed/velocity/acceleration, momentum (intro)
+- [[Fundamental/14_Energy]] — Forms (kinetic, potential, heat, light, sound, chemical, electrical), conversion, conservation, renewable/non-renewable, efficiency, sustainable energy
+- [[Fundamental/15_Heat_and_Temperature]] — Measuring temperature, scales (°C, °F), heat transfer (conduction, convection, radiation), expansion/contraction, conductors/insulators, specific heat (intro)
+- [[Fundamental/16_Light]] — Sources, shadows, reflection, refraction, colors, transparent/translucent/opaque, lenses, Snell's law (intro), the eye, optical instruments
+- [[Fundamental/17_Sound]] — Sources, vibration, pitch, volume, sound waves, frequency/amplitude, speed of sound, ultrasound
+- [[Fundamental/18_Electricity_and_Magnetism]] — Magnets (poles, attract/repel), static electricity, simple circuits (series/parallel), conductors/insulators, Ohm's law (intro), electromagnets, generators/motors
 
 ### 🌍 Earth & Space Science
-- [[19_Rocks_Minerals_and_Soil]] — Rock types (igneous, sedimentary, metamorphic), rock cycle, minerals, soil composition, weathering, erosion, plate tectonics (intro), earthquakes, volcanoes
-- [[20_Weather_and_Climate]] — Weather observation, seasons, water cycle, weather instruments, cloud types, atmosphere layers, greenhouse effect, climate change, air pressure
-- [[21_Solar_System_and_Astronomy]] — Sun, Moon, stars, planets, Earth's rotation/revolution, Moon phases, constellations, star life cycle (overview), galaxies, light-years
-- [[22_Technology_and_Engineering]] — Tools, simple machines, engineering design process, materials science (intro), STEM applications
+- [[Fundamental/19_Rocks_Minerals_and_Soil]] — Rock types (igneous, sedimentary, metamorphic), rock cycle, minerals, soil composition, weathering, erosion, plate tectonics (intro), earthquakes, volcanoes
+- [[Fundamental/20_Weather_and_Climate]] — Weather observation, seasons, water cycle, weather instruments, cloud types, atmosphere layers, greenhouse effect, climate change, air pressure
+- [[Fundamental/21_Solar_System_and_Astronomy]] — Sun, Moon, stars, planets, Earth's rotation/revolution, Moon phases, constellations, star life cycle (overview), galaxies, light-years
+- [[Fundamental/22_Technology_and_Engineering]] — Tools, simple machines, engineering design process, materials science (intro), STEM applications
 
 ## Concept Area Progression
 
