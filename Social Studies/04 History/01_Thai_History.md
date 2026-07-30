@@ -1,5 +1,5 @@
 ---
-tags: [social-studies, history, thai-history, sukhothai, ayutthaya, rattanakosin, primary, lower-secondary]
+tags: [social-studies, history, thai-history, sukhothai, ayutthaya, rattanakosin, primary, lower-secondary, upper-secondary]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-07-26
 course_codes: ["ส11104", "ส12104", "ส13104", "ส21101", "ส22101", "ส23104"]
@@ -21,6 +21,7 @@ Thai History covers the major periods from prehistoric settlements through the c
 | **ป.1–3** | Family timeline, important days, stories of important kings, national heroes |
 | **ป.4–6** | Thai history periods overview (Sukhothai → Rattanakosin), key monarchs, historical method basics |
 | **ม.1–3** | Detailed political/social/cultural development per period, historical evidence, world history connections |
+| **ม.4–6** | Critical analysis, historiographical debate, comparative period assessment |
 
 ---
 
@@ -149,3 +150,47 @@ flowchart LR
 - [[02_Democracy_and_Government|Democracy]] — Evolution of Thai governance
 - [[07_Thai_Culture|Thai Culture]] — Cultural development across periods
 - [[10_World_History|World History]] — Thailand in world context
+
+---
+
+## 10 | Upper Secondary (ม.4-6): Historiography and Critical Analysis
+
+### Thai Historiography (ประวัติศาสตร์นิพนธ์ไทย)
+
+| Era | Thai | Approach | Key Figures |
+|---|---|---|---|
+| **Traditional** | ดั้งเดิม | Royal chronicles, moral lessons | Court scribes |
+| **Reform era** | ยุคปฏิรูป | Scientific history | Prince Damrong |
+| **Nationalist** | ชาตินิยม | Nation-building narrative | Luang Wichit Wathakan |
+| **Modern academic** | วิชาการสมัยใหม่ | Critical, multi-perspective | Nidhi Eoseewong, Charnvit Kasetsiri |
+
+### Critical Debates in Thai History
+
+| Topic | Debate |
+|---|---|
+| **Ramkhamhaeng Inscription** | Authentic 13th century or later forgery? |
+| **"First" Thai kingdom** | Sukhothai or earlier entities? |
+| **Ayutthaya's decline** | Internal decay or external Burmese strength? |
+| **King Taksin's downfall** | Mental illness or political framing? |
+| **1932 Revolution** | Genuine democracy movement or elite power transfer? |
+| **Thai neutrality** | Did Thailand truly "escape" colonization or make concessions? |
+
+### Comparative Period Assessment
+
+| Period | Governance | Economy | Culture | Legacy |
+|---|---|---|---|---|
+| **Sukhothai** | Paternal | Subsistence + trade | Thai script, Buddhism | Cultural foundation |
+| **Ayutthaya** | Sakdina | Global trade | Court culture, literature | Bureaucratic model |
+| **Thonburi** | Military | Recovery | Survival | National reunification |
+| **Rattanakosin** | Modernizing | Modern economy | Modern Thai identity | Modern Thailand |
+
+### Thailand in World History (ม.4-6)
+
+| Connection | Description |
+|---|---|
+| **Indianization** | Hindu-Buddhist cultural influence |
+| **China trade** | Centuries of tribute and commerce |
+| **European contact** | 16th century onward, Bowring Treaty |
+| **WWII** | Japanese alliance, Free Thai Movement |
+| **Cold War** | US ally, domino theory, Vietnam War |
+| **Globalization** | Economic integration, cultural exchange |

@@ -1,5 +1,5 @@
 ---
-tags: [social-studies, history, world-history, ancient-civilizations, primary, lower-secondary]
+tags: [social-studies, history, world-history, ancient-civilizations, primary, lower-secondary, upper-secondary]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-07-26
 course_codes: ["ส12104", "ส13104", "ส21101", "ส22101", "ส23104"]
@@ -21,6 +21,7 @@ World History covers major civilizations and events that shaped the modern world
 | **ป.1–3** | Not formally introduced |
 | **ป.4–6** | Ancient civilizations intro (Egypt, Greece, Rome, China) |
 | **ม.1–3** | Age of Exploration, Renaissance, Industrial Revolution, World Wars, Cold War, Southeast Asian history |
+| **ม.4–6** | 20th-21st century history, historiography, global interconnectedness, post-Cold War world |
 
 ---
 
@@ -130,3 +131,49 @@ World History covers major civilizations and events that shaped the modern world
 - [[04_Thai_History|Thai History]] — Thailand in world context
 - [[05_Geography_of_Thailand|Geography]] — Geographic factors in history
 - [[09_ASEAN_Studies|ASEAN Studies]] — Southeast Asian cooperation
+
+---
+
+## 9 | Upper Secondary (ม.4-6): Modern World History
+
+### Post-Cold War World (1991–present)
+
+| Event | Thai | Year | Impact |
+|---|---|---|---|
+| **USSR dissolution** | สหภาพโซเวียตล่มสลาย | 1991 | End of Cold War, unipolar world |
+| **9/11 attacks** | เหตุการณ์ 9/11 | 2001 | Global War on Terror |
+| **Global Financial Crisis** | วิกฤตการเงินโลก | 2008 | Global recession |
+| **Arab Spring** | ฤดูใบไม้ผลิอาหรับ | 2010-2012 | Middle East uprisings |
+| **Rise of China** | จีนก้าวขึ้นสู่อำนาจ | 2010s | New superpower rivalry |
+| **COVID-19 pandemic** | โรคระบาดโควิด-19 | 2020-2023 | Global health, economic crisis |
+| **Russia-Ukraine War** | สงครามรัสเซีย-ยูเครน | 2022-present | European security crisis |
+
+### Third Industrial Revolution (Digital Age)
+
+| Development | Thai | Period | Impact |
+|---|---|---|---|
+| **Internet** | อินเทอร์เน็ต | 1990s | Information revolution |
+| **Mobile technology** | โทรศัพท์มือถือ | 2000s | Global connectivity |
+| **Social media** | สื่อสังคมออนไลน์ | 2000s-2010s | Communication, politics |
+| **Artificial Intelligence** | ปัญญาประดิษฐ์ | 2010s-present | Automation, transformation |
+
+### Historiography (ประวัติศาสตร์นิพนธ์)
+
+| School | Thai | Approach |
+|---|---|---|
+| **Traditional** | ดั้งเดิม | Political, military, "great men" |
+| **Marxist** | มาร์กซิสต์ | Class struggle, economic forces |
+| **Annales School** | อานาล | Long-term social, cultural history |
+| **Postcolonial** | หลังอาณานิคม | Perspectives of colonized peoples |
+| **Feminist** | สตรีนิยม | Women's experiences in history |
+| **World/Global** | โลก | Interconnected, comparative |
+
+### Global Interconnectedness
+
+| Theme | Thai | Description |
+|---|---|---|
+| **Globalization** | โลกาภิวัตน์ | Economic, cultural integration |
+| **Climate change** | การเปลี่ยนแปลงสภาพภูมิอากาศ | Environmental history |
+| **Migration** | การย้ายถิ่น | People movement throughout history |
+| **Technology transfer** | การถ่ายทอดเทคโนโลยี | Ideas spreading across cultures |
+| **Pandemics** | การระบาดของโรค | Black Death, Spanish flu, COVID-19 |

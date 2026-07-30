@@ -42,23 +42,23 @@ History builds chronological understanding from personal and local history throu
 
 | # | Concept Area | Status | Files Created | Notes |
 |---|---|---|---|---|
-| 01 | Thai History | ✅ Done | `01_Thai_History.md` | |
-| 02 | World History and Civilizations | ✅ Done | `02_World_History_and_Civilizations.md` | |
-| 03 | Historical Method | ✅ Done | `03_Historical_Method.md` | |
-| 04 | Prehistoric Thailand | ❌ Pending | — | |
-| 05 | Sukhothai Period | ❌ Pending | — | |
-| 06 | Ayutthaya Period | ❌ Pending | — | |
-| 07 | Thonburi Period | ❌ Pending | — | |
-| 08 | Rattanakosin Period | ❌ Pending | — | |
-| 09 | Important Monarchs | ❌ Pending | — | |
-| 10 | Local History | ❌ Pending | — | |
-| 11 | Historical Figures | ❌ Pending | — | |
-| 12 | Ancient Civilizations | ❌ Pending | — | |
-| 13 | SE Asian History | ❌ Pending | — | |
-| 14 | Historical Sources | ❌ Pending | — | |
-| 15 | Time & Chronology | ❌ Pending | — | |
+| 01 | Thai History | ✅ Done | `01_Thai_History.md` | Updated with ม.4-6 |
+| 02 | World History and Civilizations | ✅ Done | `02_World_History_and_Civilizations.md` | Updated with ม.4-6 |
+| 03 | Historical Method | ✅ Done | `03_Historical_Method.md` | Updated with ม.4-6 |
+| 04 | Prehistoric Thailand | ✅ Done | `04_Prehistoric_Thailand.md` | Created 2026-07-30 |
+| 05 | Sukhothai Period | ✅ Done | `05_Sukhothai_Period.md` | Created 2026-07-30 |
+| 06 | Ayutthaya Period | ✅ Done | `06_Ayutthaya_Period.md` | Created 2026-07-30 |
+| 07 | Thonburi Period | ✅ Done | `07_Thonburi_Period.md` | Created 2026-07-30 |
+| 08 | Rattanakosin Period | ✅ Done | `08_Rattanakosin_Period.md` | Created 2026-07-30 |
+| 09 | Important Monarchs | ✅ Done | `09_Important_Monarchs.md` | Created 2026-07-30 |
+| 10 | Local History | ✅ Done | `10_Local_History.md` | Created 2026-07-30 |
+| 11 | Historical Figures | ✅ Done | `11_Historical_Figures.md` | Created 2026-07-30 |
+| 12 | Ancient Civilizations | ✅ Done | `12_Ancient_Civilizations.md` | Created 2026-07-30 |
+| 13 | SE Asian History | ✅ Done | `13_SE_Asian_History.md` | Created 2026-07-30 |
+| 14 | Historical Sources | ✅ Done | `14_Historical_Sources.md` | Created 2026-07-30 |
+| 15 | Time & Chronology | ✅ Done | `15_Time_and_Chronology.md` | Created 2026-07-30 |
 
-**Completion: 3/15 (20%)**
+**Completion: 15/15 (100%)**
 
 ---
 

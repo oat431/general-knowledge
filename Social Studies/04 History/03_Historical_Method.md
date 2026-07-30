@@ -1,5 +1,5 @@
 ---
-tags: [social-studies, history, historical-method, evidence, primary, lower-secondary]
+tags: [social-studies, history, historical-method, evidence, primary, lower-secondary, upper-secondary]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-07-26
 course_codes: ["ส11104", "ส12104", "ส13104", "ส21101", "ส22101", "ส23104"]
@@ -21,6 +21,7 @@ Historical Method teaches students how historians work — how they find, evalua
 | **ป.1–3** | What is history? (stories about the past), family history, important days |
 | **ป.4–6** | Types of evidence (primary/secondary), timeline skills, historical thinking basics |
 | **ม.1–3** | Source evaluation, historical interpretation, causation, periodization, historical research |
+| **ม.4–6** | Historiography, research methodology, epistemology of history, digital humanities |
 
 ---
 
@@ -100,3 +101,59 @@ Historical Method teaches students how historians work — how they find, evalua
 - [[Social Studies - Overview|← Back to Social Studies]]
 - [[04_Thai_History|Thai History]] — Applying the method to Thai history
 - [[07_World_History_and_Civilizations|World History]] — Applying to world events
+
+---
+
+## 9 | Upper Secondary (ม.4-6): Advanced Historical Method
+
+### Historiography (ประวัติศาสตร์นิพนธ์)
+
+| Concept | Thai | Description |
+|---|---|---|
+| **Historiography** | ประวัติศาสตร์นิพนธ์ | The study of how history is written |
+| **Historical consciousness** | จิตสำนึกทางประวัติศาสตร์ | Awareness of the past's influence on present |
+| **Historical empathy** | ความเห็นอกเห็นใจทางประวัติศาสตร์ | Understanding people in their own context |
+| **Presentism** | การตัดสินด้วยค่านิยมปัจจุบัน | Judging the past by today's standards (to avoid) |
+
+### Schools of Historical Thought
+
+| School | Approach | Key Thinkers |
+|---|---|---|
+| **Rankean** | "How it really was" — objective | Leopold von Ranke |
+| **Marxist** | Class struggle drives history | Karl Marx |
+| **Annales** | Long-term social history | Marc Bloch, Fernand Braudel |
+| **Postmodern** | History as narrative, subjective | Hayden White |
+| **Subaltern** | History from below | Ranajit Guha |
+| **Postcolonial** | Decentering Western narratives | Edward Said |
+
+### Historical Epistemology
+
+| Question | Consideration |
+|---|---|
+| **Can we know the past?** | History is always incomplete, interpreted |
+| **Objectivity vs subjectivity** | Historians strive for objectivity but have perspectives |
+| **Fact vs interpretation** | Facts exist; meanings are constructed |
+| **Causation in history** | Multiple causes, contingency, accident |
+| **Historical truth** | Provisional, always revisable with new evidence |
+
+### Research Methodology
+
+| Step | Thai | Description |
+|---|---|---|
+| **1. Research question** | คำถามวิจัย | What do you want to know? |
+| **2. Literature review** | การตรวจสอบเอกสาร | What do others say? |
+| **3. Source gathering** | รวบรวมแหล่งข้อมูล | Primary and secondary |
+| **4. Source criticism** | การวิจารณ์แหล่งข้อมูล | Evaluate authenticity, credibility |
+| **5. Analysis** | การวิเคราะห์ | Identify patterns, causes |
+| **6. Synthesis** | การสังเคราะห์ | Construct narrative/argument |
+| **7. Peer review** | การตรวจทาน | Other scholars check your work |
+
+### Digital Humanities (มนุษยศาสตร์ดิจิทัล)
+
+| Tool | Thai | Application |
+|---|---|---|
+| **Digitized archives** | คลังเอกสารดิจิทัล | Access historical documents online |
+| **Text mining** | การทำเหมืองข้อความ | Analyze large text corpora |
+| **GIS mapping** | การทำแผนที่ภูมิสารสนเทศ | Spatial analysis of history |
+| **Data visualization** | การแสดงผลข้อมูล | Timelines, networks, charts |
+| **Oral history digital** | ประวัติศาสตร์มุขปาฐะดิจิทัล | Record, preserve interviews |
