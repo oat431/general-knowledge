@@ -1,5 +1,5 @@
 ---
-tags: [social-studies, economics, sufficiency-economy, supply-demand, primary, lower-secondary]
+tags: [social-studies, economics, supply-demand, scarcity, primary, lower-secondary, upper-secondary]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-07-26
 course_codes: ["ส11103", "ส12103", "ส13103", "ส21101", "ส22101", "ส23103"]
@@ -21,6 +21,7 @@ Economics Fundamentals covers the core concepts students need to understand how 
 | **ป.1–3** | Needs vs wants, saving money, goods/services, family occupations |
 | **ป.4–6** | Supply/demand intro, factors of production, sufficiency economy intro, money and banking, cooperatives |
 | **ม.1–3** | Market mechanisms, economic systems, sufficiency economy depth, GDP, inflation, personal finance |
+| **ม.4–6** | Advanced microeconomics, macroeconomic models, behavioral economics, development economics |
 
 ---
 
@@ -140,7 +141,47 @@ $$\text{Savings} = \text{Income} - \text{Expenses}$$
 
 ---
 
-## 10 | Cross-Links
+## 10 | Upper Secondary (ม.4-6): Advanced Economics
+
+### Microeconomic Analysis
+
+| Concept | Thai | Description |
+|---|---|---|
+| **Elasticity** | ความยืดหยุ่น | Responsiveness to price changes |
+| **Marginal utility** | อรรถประโยชน์ส่วนเพิ่ม | Additional satisfaction from one more unit |
+| **Production functions** | ฟังก์ชันการผลิต | Relationship between inputs and outputs |
+| **Market structures** | โครงสร้างตลาด | Perfect competition, monopoly, oligopoly |
+
+### Macroeconomic Models
+
+| Model | Thai | Description |
+|---|---|---|
+| **Aggregate demand/supply** | อุปสงค์/อุปทานรวม | Economy-wide demand and supply |
+| **Fiscal multiplier** | ตัวคูณการคลัง | Impact of government spending |
+| **Phillips curve** | เส้นโค้งฟิลลิปส์ | Inflation-unemployment tradeoff |
+| **Business cycles** | วัฏจักรเศรษฐกิจ | Expansion, peak, contraction, trough |
+
+### Behavioral Economics
+
+| Concept | Thai | Description |
+|---|---|---|
+| **Bounded rationality** | เหตุผลแบบจำกัด | People make "good enough" decisions |
+| **Loss aversion** | ความเกลียดความสูญเสีย | Losses hurt more than gains please |
+| **Nudge theory** | ทฤษฎีการสะกิด | Gentle pushes toward better choices |
+| **Mental accounting** | บัญชีในใจ | People treat money differently by source |
+
+### Development Economics
+
+| Concept | Thai | Description |
+|---|---|---|
+| **Poverty traps** | กับดักความยากจน | Self-reinforcing poverty mechanisms |
+| **Human capital** | ทุนมนุษย์ | Skills, knowledge, health |
+| **Institutional economics** | เศรษฐศาสตร์สถาบัน | Role of institutions in development |
+| **Inclusive growth** | การเติบโตแบบครอบคลุม | Growth that benefits all |
+
+---
+
+## 11 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
 - [[04_Personal_Finance|Personal Finance]] — Practical money management

@@ -1,5 +1,5 @@
 ---
-tags: [social-studies, economics, personal-finance, budgeting, saving, primary, lower-secondary]
+tags: [social-studies, economics, personal-finance, budgeting, saving, primary, lower-secondary, upper-secondary]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-07-26
 course_codes: ["ส11103", "ส12103", "ส13103", "ส21101", "ส22101", "ส23103"]
@@ -21,6 +21,7 @@ Personal Finance teaches students practical money management skills. From saving
 | **ป.1–3** | Saving coins, needs vs wants, simple spending decisions |
 | **ป.4–6** | Banking basics, budgeting intro, saving accounts, cooperatives |
 | **ม.1–3** | Budget planning, interest calculations, taxation basics, debt awareness |
+| **ม.4–6** | Investment strategies, retirement planning, financial risk management, wealth building |
 
 ---
 
@@ -125,7 +126,70 @@ $$\text{Savings} = \text{Income} - \text{Expenses}$$
 
 ---
 
-## 9 | Cross-Links
+## 9 | Upper Secondary (ม.4-6): Advanced Personal Finance
+
+### Investment Strategies
+
+| Strategy | Thai | Description |
+|---|---|---|
+| **Diversification** | การกระจายความเสี่ยง | Spread investments across different assets |
+| **Asset allocation** | การจัดสรรสินทรัพย์ | Balance between stocks, bonds, cash |
+| **Dollar-cost averaging** | การลงทุนอย่างสม่ำเสมอ | Invest fixed amount regularly |
+| **Long-term investing** | การลงทุนระยะยาว | Compound growth over decades |
+
+### Investment Vehicles
+
+| Vehicle | Thai | Risk Level | Expected Return |
+|---|---|---|---|
+| **Savings account** | บัญชีออมทรัพย์ | Very Low | 0.5-2% |
+| **Government bonds** | พันธบัตรรัฐบาล | Low | 2-4% |
+| **Corporate bonds** | หุ้นกู้บริษัท | Medium | 3-6% |
+| **Stocks** | หุ้น | High | 8-12% (long-term) |
+| **Mutual funds** | กองทุนรวม | Medium-High | 5-10% |
+| **Real estate** | อสังหาริมทรัพย์ | Medium | 5-8% |
+| **Cryptocurrency** | สกุลเงินดิจิทัล | Very High | Highly volatile |
+
+### Retirement Planning
+
+| Concept | Thai | Description |
+|---|---|---|
+| **Provident fund** | กองทุนสำรองเลี้ยงชีพ | Employer-sponsored retirement savings |
+| **Social security** | ประกันสังคม | Government pension system |
+| **RMF/SSF** | กองทุนรวมเพื่อการเลี้ยงชีพ/ออมทรัพย์ | Tax-advantaged retirement funds |
+| **Rule of 72** | กฎ 72 | Years to double = 72 ÷ interest rate |
+
+### Financial Risk Management
+
+| Risk | Thai | Mitigation Strategy |
+|---|---|---|
+| **Market risk** | ความเสี่ยงจากตลาด | Diversification, long-term horizon |
+| **Inflation risk** | ความเสี่ยงจากเงินเฟ้อ | Invest in growth assets |
+| **Liquidity risk** | ความเสี่ยงจากสภาพคล่อง | Emergency fund, liquid assets |
+| **Credit risk** | ความเสี่ยงด้านเครดิต | Check credit ratings, diversify |
+| **Life risk** | ความเสี่ยงชีวิต | Insurance (life, health, disability) |
+
+### Wealth Building Principles
+
+| Principle | Thai | Description |
+|---|---|---|
+| **Pay yourself first** | จ่ายให้ตัวเองก่อน | Save/invest before spending |
+| **Live below means** | ใช้ชีวิตต่ำกว่ารายได้ | Avoid lifestyle inflation |
+| **Compound interest** | ดอกเบี้ยทบต้น | Einstein's "eighth wonder" |
+| **Time in market** | เวลาในตลาด | More important than timing the market |
+| **Financial independence** | อิสรภาพทางการเงิน | Passive income covers expenses |
+
+### Tax Optimization (ม.4-6)
+
+| Strategy | Thai | Description |
+|---|---|---|
+| **Tax deductions** | ค่าลดหย่อน | Reduce taxable income |
+| **Tax credits** | เครดิตภาษี | Direct reduction of tax owed |
+| **Tax-advantaged accounts** | บัญชีสิทธิประโยชน์ทางภาษี | RMF, SSF, provident funds |
+| **Tax-loss harvesting** | การขายขาดทุนเพื่อลดภาษี | Offset gains with losses |
+
+---
+
+## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
 - [[03_Economics_Fundamentals|Economics]] — Economic theory behind finance

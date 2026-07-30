@@ -41,22 +41,22 @@ Economics teaches students how societies manage scarce resources. The Thai curri
 
 | # | Concept Area | Status | Files Created | Notes |
 |---|---|---|---|---|
-| 01 | Economics Fundamentals | ✅ Done | `01_Economics_Fundamentals.md` | |
-| 02 | Personal Finance | ✅ Done | `02_Personal_Finance.md` | |
-| 03 | Sufficiency Economy Philosophy | ✅ Done | `03_Sufficiency_Economy_Philosophy.md` | |
-| 04 | Supply & Demand | ❌ Pending | — | |
-| 05 | Economic Systems | ❌ Pending | — | |
-| 06 | Production & Consumption | ❌ Pending | — | |
-| 07 | Money & Banking | ❌ Pending | — | |
-| 08 | Trade & Globalization | ❌ Pending | — | |
-| 09 | Government & Economy | ❌ Pending | — | |
-| 10 | Economic Indicators | ❌ Pending | — | |
-| 11 | ASEAN Economics | ❌ Pending | — | |
-| 12 | Economic Development | ❌ Pending | — | |
-| 13 | Cooperatives | ❌ Pending | — | |
-| 14 | Consumer Rights | ❌ Pending | — | |
+| 01 | Economics Fundamentals | ✅ Done | `01_Economics_Fundamentals.md` | Updated with ม.4-6 |
+| 02 | Personal Finance | ✅ Done | `02_Personal_Finance.md` | Updated with ม.4-6 |
+| 03 | Sufficiency Economy Philosophy | ✅ Done | `03_Sufficiency_Economy_Philosophy.md` | Updated with ม.4-6 |
+| 04 | Supply & Demand | ✅ Done | `04_Supply_and_Demand.md` | Created 2026-07-30 |
+| 05 | Economic Systems | ✅ Done | `05_Economic_Systems.md` | Created 2026-07-30 |
+| 06 | Production & Consumption | ✅ Done | `06_Production_and_Consumption.md` | Created 2026-07-30 |
+| 07 | Money & Banking | ✅ Done | `07_Money_and_Banking.md` | Created 2026-07-30 |
+| 08 | Trade & Globalization | ✅ Done | `08_Trade_and_Globalization.md` | Created 2026-07-30 |
+| 09 | Government & Economy | ✅ Done | `09_Government_and_Economy.md` | Created 2026-07-30 |
+| 10 | Economic Indicators | ✅ Done | `10_Economic_Indicators.md` | Created 2026-07-30 |
+| 11 | ASEAN Economics | ✅ Done | `11_ASEAN_Economics.md` | Created 2026-07-30 |
+| 12 | Economic Development | ✅ Done | `12_Economic_Development.md` | Created 2026-07-30 |
+| 13 | Cooperatives | ✅ Done | `13_Cooperatives.md` | Created 2026-07-30 |
+| 14 | Consumer Rights | ✅ Done | `14_Consumer_Rights.md` | Created 2026-07-30 |
 
-**Completion: 3/14 (21%)**
+**Completion: 14/14 (100%)**
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: [social-studies, economics, sufficiency-economy, king-rama-ix, primary, lower-secondary]
+tags: [social-studies, economics, sufficiency-economy, king-rama-ix, primary, lower-secondary, upper-secondary]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-07-26
 course_codes: ["ส11103", "ส12103", "ส13103", "ส21101", "ส22101", "ส23103"]
@@ -21,6 +21,7 @@ Sufficiency Economy Philosophy (SEP) is King Rama IX's guidance for balanced liv
 | **ป.1–3** | Sharing, not being greedy, saving, simple living |
 | **ป.4–6** | Three principles intro, moderation in spending, saving habits |
 | **ม.1–3** | Three principles detailed, two conditions, New Theory Agriculture, application in life and society |
+| **ม.4–6** | SEP and sustainable development, global application, SEP vs mainstream economics, case studies |
 
 ---
 
@@ -105,7 +106,69 @@ King Rama IX's agricultural philosophy for Thai farmers:
 
 ---
 
-## 9 | Cross-Links
+## 9 | Upper Secondary (ม.4-6): SEP in Global Context
+
+### SEP and Sustainable Development
+
+| SEP Principle | SDG Alignment | Application |
+|---|---|---|
+| **Moderation** | SDG 12: Responsible Consumption | Reduce waste, sustainable consumption |
+| **Reasonableness** | SDG 9: Industry & Innovation | Evidence-based decision making |
+| **Self-immunity** | SDG 13: Climate Action | Climate resilience, risk management |
+| **Knowledge** | SDG 4: Quality Education | Lifelong learning, research |
+| **Morality** | SDG 16: Peace & Justice | Good governance, anti-corruption |
+
+### SEP vs Mainstream Economics
+
+| Aspect | SEP | Mainstream Economics |
+|---|---|---|
+| **Goal** | Well-being, balance | Growth, profit maximization |
+| **Consumption** | Moderate, needs-based | Unlimited wants |
+| **Production** | Sustainable, local | Efficiency, scale |
+| **Risk** | Build immunity | Insurance, hedging |
+| **Success** | Happiness, sufficiency | GDP growth, income |
+
+### SEP in Business and Policy
+
+| Application | Thai | Example |
+|---|---|---|
+| **Corporate social responsibility** | ความรับผิดชอบต่อสังคม | Companies applying SEP principles |
+| **BCG Economy** | เศรษฐกิจ BCG | Bio-Circular-Green model |
+| **Community enterprises** | วิสาหกิจชุมชน | Local sustainable businesses |
+| **Royal projects** | โครงการหลวง | Doi Tung, Huai Hong Khrai |
+| **Education reform** | ปฏิรูปการศึกษา | SEP-integrated curriculum |
+
+### Global Recognition of SEP
+
+| Recognition | Description |
+|---|---|
+| **UN endorsement** | UN recognized SEP as development approach (2006) |
+| **South-South cooperation** | Thailand shares SEP with developing countries |
+| **Bhutan GNH** | Similar philosophy: Gross National Happiness |
+| **Degrowth movement** | Western critique of growth aligns with SEP |
+| **Circular economy** | SEP's "reduce, reuse, recycle" principles |
+
+### Case Studies (ม.4-6)
+
+| Case | Application | Outcome |
+|---|---|---|
+| **Doi Tung Development Project** | SEP in hill tribe communities | Poverty reduced, forest restored |
+| **Khok Nong Na Model** | New Theory Agriculture | Integrated farming, self-sufficiency |
+| **Sufficiency Economy Villages** | Community-level SEP | 23,000+ villages nationwide |
+| **PTT Group** | SEP in state enterprise | Sustainable energy transition |
+| **SCG** | SEP in private sector | Circular economy, ESG |
+
+### Critical Analysis of SEP
+
+| Perspective | Argument |
+|---|---|
+| **Support** | Culturally appropriate, sustainable, reduces inequality |
+| **Critique** | May limit growth, difficult to scale, vague implementation |
+| **Balance** | SEP as complement to, not replacement for, market economics |
+
+---
+
+## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
 - [[03_Economics_Fundamentals|Economics]] — Economic theory behind SEP
