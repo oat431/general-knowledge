@@ -62,6 +62,20 @@ This note covers oxidation–reduction (redox) reactions, half-reactions and bal
 
 ## 3 | Key Concepts
 
+```mermaid
+flowchart TD
+    A["Electrochemical Cells"] --> B["Galvanic / Voltaic"]
+    A --> C["Electrolytic"]
+    B --> D["Spontaneous — produces current"]
+    C --> E["Non-spontaneous — needs external power"]
+    B --> F["Anode — oxidation, negative"]
+    B --> G["Cathode — reduction, positive"]
+    C --> H["Anode — oxidation, positive"]
+    C --> I["Cathode — reduction, negative"]
+    B --> J["Salt Bridge — ion flow"]
+    B --> K["Electrolyte Solution"]
+```
+
 ### 3.1 Oxidation Numbers
 
 Rules:

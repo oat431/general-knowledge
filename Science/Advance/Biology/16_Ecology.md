@@ -68,11 +68,36 @@ Energy enters ecosystems as sunlight, captured by producers through photosynthes
 - **Pyramid of biomass**: dry mass at each level
 - **Pyramid of energy**: energy flow (always upright)
 
+```mermaid
+flowchart TD
+    SUN["Sun"] --> PROD["Producers and Plants"]
+    PROD --> PC["Primary Consumers"]
+    PC --> SC["Secondary Consumers"]
+    SC --> TC["Tertiary Consumers"]
+    PROD --> DEC1["Decomposers"]
+    PC --> DEC1
+    SC --> DEC1
+    DEC1 --> NUT["Nutrients to Soil"]
+    NUT --> PROD
+```
+
 ### 3.3 Food Chains and Food Webs
 
 A **food chain** is a linear sequence of organisms through which energy flows (e.g., grass → rabbit → fox → eagle). A **food web** is a network of interconnected food chains showing the complexity of feeding relationships. Most organisms occupy multiple trophic levels.
 
 ### 3.4 Biogeochemical Cycles (วัฏจักรสารเคมีในระบบนิเวศ)
+
+```mermaid
+flowchart TD
+    CYCLES["Biogeochemical Cycles"] --> WAT["Water Cycle"]
+    CYCLES --> CARB["Carbon Cycle"]
+    CYCLES --> NIT["Nitrogen Cycle"]
+    CYCLES --> PHOS["Phosphorus Cycle"]
+    WAT --> W1["Evaporation to Precipitation"]
+    CARB --> C1["Photosynthesis and Respiration"]
+    NIT --> N1["Fixation to Denitrification"]
+    PHOS --> P1["Weathering to Sedimentation"]
+```
 
 - **Water cycle**: evaporation → condensation → precipitation → runoff/infiltration
 - **Carbon cycle**: CO₂ fixation by photosynthesis, release by respiration, combustion, and decomposition; fossil fuels as carbon reservoirs

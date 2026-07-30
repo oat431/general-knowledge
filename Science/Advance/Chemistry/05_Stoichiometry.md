@@ -75,6 +75,15 @@ $$M_{\ce{Al2(SO4)3}} = 2(26.98) + 3(32.07 + 4 \times 16.00) = 342.17 \,\text{g/m
 
 ### 3.3 Balancing Chemical Equations
 
+```mermaid
+flowchart LR
+    A["Balanced Equation"] --> B["Mole Ratios"]
+    B --> C["Identify Limiting Reagent"]
+    C --> D["Theoretical Yield"]
+    D --> E["Compare to Actual Yield"]
+    E --> F["Percent Yield"]
+```
+
 **Balancing rules (กฎการดุล):**
 1. The number of atoms of each element must be equal on both sides (อะตอมแต่ละชนิดเท่ากันทั้ง 2 ข้าง)
 2. Net charge must be equal (for ionic equations) (ประจุสุทธิเท่ากัน)

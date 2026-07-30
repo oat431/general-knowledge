@@ -108,6 +108,19 @@ $$C = \kappa C_0$$
 
 The dielectric reduces the internal field, allowing more charge storage at the same voltage.
 
+```mermaid
+flowchart TD
+    A["Materials by Conductivity"] --> B["Conductors"]
+    A --> C["Insulators"]
+    A --> D["Semiconductors"]
+    B --> E["Free electrons move easily"]
+    B --> F["Metals: Cu, Al, Ag"]
+    C --> G["Electrons tightly bound"]
+    C --> H["Glass, rubber, plastic"]
+    D --> I["Intermediate conductivity"]
+    D --> J["Si, Ge — basis of electronics"]
+```
+
 ---
 
 ## 4 | Common Problem Types

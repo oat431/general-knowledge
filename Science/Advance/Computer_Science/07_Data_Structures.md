@@ -50,6 +50,19 @@ This note covers the core data structures required by the IPST curriculum (ว33
 
 ## 3 | Key Concepts
 
+```mermaid
+flowchart TD
+    DS["Data Structures<br/>โครงสร้างข้อมูล"] --> LINEAR["Linear"]
+    DS --> NONLINEAR["Non-Linear"]
+    LINEAR --> ARRAY["Array / List<br/>อาร์เรย์ / ลิสต์<br/>Indexed, O 1 access"]
+    LINEAR --> STACK["Stack สแต็ก<br/>LIFO"]
+    LINEAR --> QUEUE["Queue คิว<br/>FIFO"]
+    LINEAR --> TUPLE["Tuple ทูเพิล<br/>Immutable"]
+    NONLINEAR --> TREE["Tree ต้นไม้<br/>Hierarchical, root to leaves"]
+    NONLINEAR --> GRAPH["Graph กราฟ<br/>Vertices + Edges"]
+    NONLINEAR --> DICT["Dict / Hash Map<br/>พจนานุกรม<br/>Key to value, O 1 lookup"]
+```
+
 ### 3.1 Lists / Arrays (ลิสต์ / อาร์เรย์)
 
 A list (ลิสต์) is an ordered, mutable, zero-indexed sequence. Python lists are dynamic arrays — they grow and shrink automatically.

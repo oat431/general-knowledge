@@ -66,6 +66,18 @@ $$\text{sp}^3: \text{tetrahedral}, 109.5° \quad \text{sp}^2: \text{trigonal}, 1
 
 ### 3.2 Classes of Hydrocarbons
 
+```mermaid
+flowchart TD
+    A["Hydrocarbons"] --> B["Aliphatic"]
+    A --> C["Aromatic"]
+    B --> D["Alkanes — single bonds, saturated"]
+    B --> E["Alkenes — double bonds"]
+    B --> F["Alkynes — triple bonds"]
+    D --> G["Straight chain or branched"]
+    E --> H["Cyclic alkenes possible"]
+    C --> I["Benzene ring — delocalized pi e-"]
+```
+
 #### (1) Alkanes (อัลเคน) — CₙH₂ₙ₊₂
 
 All single bonds, **saturated** (อิ่มตัว).

@@ -54,6 +54,24 @@ Understanding biomolecule structure and function is critical for biochemistry, n
 
 ## 3 | Key Concepts
 
+```mermaid
+flowchart TD
+    BIO["Biomolecules"] --> CARB["Carbohydrates"]
+    BIO --> LIP["Lipids"]
+    BIO --> PROT["Proteins"]
+    BIO --> NUC["Nucleic Acids"]
+    CARB --> MONO["Monosaccharides"]
+    CARB --> DI["Disaccharides"]
+    CARB --> POLY["Polysaccharides"]
+    LIP --> FAT["Fats and Oils"]
+    LIP --> PHOS["Phospholipids"]
+    LIP --> STER["Steroids"]
+    PROT --> ENZ["Enzymes"]
+    PROT --> STRUCT["Structural Proteins"]
+    NUC --> DNA["DNA"]
+    NUC --> RNA["RNA"]
+```
+
 ### 3.1 Carbohydrates (คาร์โบไฮเดรต)
 
 Organic compounds with the general formula $C_n(H_2O)_n$. Classified by size:

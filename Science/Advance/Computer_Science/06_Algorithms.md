@@ -61,6 +61,19 @@ A valid algorithm is:
 4. **Output** — at least one output.
 5. **Effective (มีประสิทธิภาพ)** — each step is doable in finite time.
 
+```mermaid
+flowchart TD
+    ALGO["Algorithms<br/>อัลกอริทึม"] --> SEARCH["Searching การค้นหา"]
+    ALGO --> SORT["Sorting การเรียบลำดับ"]
+    SEARCH --> LIN["Linear Search ลำดับ<br/>O n — unsorted data"]
+    SEARCH --> BIN["Binary Search ทวิภาค<br/>O log n — sorted only"]
+    SORT --> BUBBLE["Bubble Sort ฟอง<br/>O n²"]
+    SORT --> SELECT["Selection Sort เลือก<br/>O n²"]
+    SORT --> INSERT["Insertion Sort แทรก<br/>O n²"]
+    SORT --> MERGE["Merge Sort ผสาน<br/>O n log n — divide and conquer"]
+```
+
+
 ### 3.2 Linear Search (การค้นหาแบบลำดับ)
 
 Check each element in turn until found or the list ends. Works on unsorted data.
@@ -188,7 +201,15 @@ Often a faster algorithm uses more memory. Merge sort runs in $O(n \log n)$ time
 ### Type 1: Trace a Search
 > Given `arr = [3, 7, 11, 15, 22]` and `target = 15`, trace binary search.
 
-**Solution:** `lo=0,hi=4 → mid=2 (11) → lo=3 → mid=3 (15) → found at index 3`. Two comparisons instead of four for linear search.
+**Solution:**
+
+```mermaid
+flowchart LR
+    L0["lo=0, hi=4<br/>mid=2 → arr&#91;2&#93;=11<br/>11 < 15 → go right"]
+    L0 --> L1["lo=3, hi=4<br/>mid=3 → arr&#91;3&#93;=15<br/>15 = 15 → FOUND at index 3"]
+```
+
+Two comparisons instead of four for linear search.
 
 ### Type 2: Sort by Hand, Then Code
 > Sort `[5, 2, 9, 1]` using bubble sort, showing each pass.

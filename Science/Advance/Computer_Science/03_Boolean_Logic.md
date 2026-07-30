@@ -77,6 +77,21 @@ A truth table lists every combination of inputs and the resulting output. For 2 
 
 Logic gates are the hardware realisations of Boolean operations. NAND and NOR are **universal gates (เกตสากล)** — any Boolean function can be built from them alone.
 
+```mermaid
+flowchart TD
+    GATES["Logic Gates<br/>วงจรตรรกะ"] --> BASIC["Basic Gates"]
+    GATES --> UNIV["Universal Gates<br/>เกตสากล"]
+    GATES --> SPEC["Special Gates"]
+    BASIC --> AND["AND และ<br/>True when both inputs True"]
+    BASIC --> OR["OR หรือ<br/>True when at least one True"]
+    BASIC --> NOT["NOT ไม่<br/>Inverts input"]
+    UNIV --> NAND["NAND<br/>NOT of AND<br/>Can build any circuit"]
+    UNIV --> NOR["NOR<br/>NOT of OR<br/>Can build any circuit"]
+    SPEC --> XOR["XOR เอกซ์คลูซีฟออร์<br/>True when exactly one True"]
+    SPEC --> XNOR["XNOR<br/>True when inputs match"]
+```
+
+
 | Gate | Symbol shape |
 |---|---|
 | AND | D-shape |

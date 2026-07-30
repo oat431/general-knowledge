@@ -72,6 +72,22 @@ Three fundamental principles:
 | Size | Typically 1-10 µm | Typically 10-100 µm |
 | Examples | Bacteria, Archaea | Animals, plants, fungi, protists |
 
+```mermaid
+flowchart TD
+    CELL["Cell Types"] --> PRO["Prokaryote"]
+    CELL --> EUK["Eukaryote"]
+    PRO --> BACT["Bacteria and Archaea"]
+    BACT --> NUCL["Nucleoid region"]
+    BACT --> NOORG["No membrane-bound organelles"]
+    EUK --> PLANT["Plant Cell"]
+    EUK --> ANIMAL["Animal Cell"]
+    EUK --> FUNGI["Fungal Cell"]
+    PLANT --> CW["Cell Wall and Chloroplasts"]
+    ANIMAL --> CEN["Centrioles"]
+    FUNGI --> CHITIN["Chitin Cell Wall"]
+    EUK --> TRUE["True Nucleus and Organelles"]
+```
+
 ### 3.3 Major Organelles and Their Functions
 
 **Nucleus (นิวเคลียส):** The largest organelle, bounded by a double membrane called the nuclear envelope (เยื่อหุ้มนิวเคลียส). Contains chromatin (โครมาติน) — DNA complexed with histone proteins. The nucleolus (นิวคลีโอลัส) within the nucleus is the site of ribosomal RNA synthesis. Nuclear pores regulate transport of molecules between nucleus and cytoplasm.

@@ -74,6 +74,17 @@ Three wave types are distinguished by how they move material:
 
 Because S-waves do not pass through liquids, their disappearance beyond ~103° from an earthquake revealed Earth's **liquid outer core (แก่นชั้นนอกที่เป็นของเหลว)**.
 
+```mermaid
+flowchart TD
+    SW["Seismic Waves<br/>คลื่นแผ่นดินไหว"] --> BODY["Body Waves"]
+    SW --> SURF["Surface Waves<br/>คลื่นพื้นผิว"]
+    BODY --> PW["P-wave ปฐมภูมิ<br/>Compressional, fastest<br/>Solid and liquid"]
+    BODY --> SWAVE["S-wave ทุติยภูมิ<br/>Shear, solids only<br/>~60% of P-wave speed"]
+    SURF --> RAY["Rayleigh Wave<br/>Ground roll"]
+    SURF --> LOVE["Love Wave<br/>Horizontal shear"]
+```
+
+
 ### 3.2 Measuring Earthquakes
 
 **Magnitude (ขนาด)** — energy released, measured on the **Richter scale (มาตราริกเตอร์)** or the more modern moment magnitude ($M_w$). It is logarithmic: each whole-number step represents ~31.6× energy and ~10× amplitude:
@@ -108,6 +119,17 @@ Volcano form is controlled by **magma viscosity (ความหนืดขอ�
 **Magma source controls type**:
 - Mid-ocean ridges and hotspots → basaltic, effusive.
 - Subduction zones → andesitic/rhyolitic, explosive.
+
+```mermaid
+flowchart TD
+    VOLC["Volcanoes<br/>ภูเขาไฟ"] --> SHIELD["Shield<br/>เกราะโล่<br/>Basaltic, fluid lava<br/>Broad gentle slopes"]
+    VOLC --> STRATO["Stratovolcano / Composite<br/>สตราโท/ผสม<br/>Andesitic, explosive<br/>Steep layered cone"]
+    VOLC --> CINDER["Cinder Cone<br/>กรวยเถ้า<br/>Pyroclastic<br/>Small steep cone"]
+    SHIELD --> EX1["Mauna Loa, Hawaii"]
+    STRATO --> EX2["Mount Fuji, Mt St Helens"]
+    CINDER --> EX3["Parícutin, Mexico"]
+```
+
 
 ### 3.5 The Pacific Ring of Fire (วงแหวนแห่งไฟ)
 

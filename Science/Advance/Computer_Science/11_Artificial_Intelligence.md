@@ -75,6 +75,22 @@ These terms are nested, not synonyms:
 - **ML** — algorithms that improve with data (linear regression, decision trees, SVMs, neural nets).
 - **DL** — neural networks with many layers; powers modern vision, language, and speech.
 
+```mermaid
+flowchart TD
+    AI["Artificial Intelligence<br/>ปัญญาประดิษฐ์"] --> RULE["Rule-based AI<br/>Expert systems, search"]
+    AI --> ML["Machine Learning<br/>การเรียนรู้ของเครื่อง"]
+    ML --> SUP["Supervised มีผู้สอน<br/>Labeled data"]
+    ML --> UNSUP["Unsupervised ไม่มีผู้สอน<br/>Find patterns"]
+    ML --> REINF["Reinforcement เสริมกำลัง<br/>Reward-based"]
+    ML --> DL["Deep Learning<br/>การเรียนรู้เชิงลึก"]
+    SUP --> CLASS["Classification จำแนก<br/>e.g. spam filter"]
+    SUP --> REGR["Regression ถดถอย<br/>e.g. price prediction"]
+    UNSUP --> CLUST["Clustering จัดกลุ่ม<br/>e.g. k-means"]
+    DL --> VISION["Computer Vision<br/>คอมพิวเตอร์วิทัศน์"]
+    DL --> NLP["Natural Language<br/>การประมวลผลภาษา"]
+```
+
+
 ### 3.2 Types of Machine Learning
 
 | Type | Thai | Data | Example |

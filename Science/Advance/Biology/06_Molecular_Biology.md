@@ -55,6 +55,16 @@ The discovery of DNA's double helix structure by Watson and Crick in 1953, based
 
 ## 3 | Key Concepts
 
+```mermaid
+flowchart LR
+    DNA["DNA"] --> REP["Replication"]
+    REP --> DNA
+    DNA --> TRANS["Transcription"]
+    TRANS --> RNA["mRNA"]
+    RNA --> TLATE["Translation"]
+    TLATE --> PROT["Protein"]
+```
+
 ### 3.1 DNA Structure (โครงสร้างดีเอ็นเอ)
 
 Watson and Crick's double helix model (1953):

@@ -75,6 +75,20 @@ $$\gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}$$
 
 Note that $\gamma \geq 1$, with $\gamma \to \infty$ as $v \to c$.
 
+```mermaid
+flowchart TD
+    A["Physics Frameworks"] --> B["Classical Mechanics"]
+    A --> C["Special Relativity"]
+    B --> D["Valid for v much less than c"]
+    B --> E["Galilean Transform"]
+    B --> F["Absolute Time and Space"]
+    C --> G["Valid for all v less than c"]
+    C --> H["Lorentz Transform"]
+    C --> I["Time Dilation"]
+    C --> J["Length Contraction"]
+    C --> K["Mass-Energy: E = mc²"]
+```
+
 ### 3.3 Time Dilation
 
 A clock moving relative to an observer ticks slower. If $\Delta t_0$ is the **proper time** (measured in the clock's rest frame), the time observed in a frame where the clock moves at speed $v$ is:

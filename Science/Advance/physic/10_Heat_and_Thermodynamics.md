@@ -57,6 +57,17 @@ For Thai high school physics, students learn the mechanisms of heat transfer, th
 
 ### 3.1 Heat Transfer
 
+```mermaid
+flowchart TD
+    A["Heat Transfer"] --> B["Conduction"]
+    A --> C["Convection"]
+    A --> D["Radiation"]
+    B --> E["Solids — direct contact"]
+    C --> F["Fluids — bulk motion"]
+    C --> G["Natural or Forced"]
+    D --> H["EM waves — no medium needed"]
+```
+
 **Conduction:** $Q = \frac{kA \Delta T \cdot t}{d}$ where $k$ is thermal conductivity, $A$ is area, $d$ is thickness, $t$ is time.
 
 **Convection:** Bulk fluid motion transports heat. Natural convection driven by density differences; forced convection driven by external means.
@@ -76,6 +87,18 @@ Heat gained = heat lost in isolated systems:
 $$Q = mc\Delta T, \qquad Q_{\text{phase}} = mL$$
 
 ### 3.4 Ideal Gas Law
+
+```mermaid
+flowchart TD
+    A["Thermodynamic Processes"] --> B["Isothermal"]
+    A --> C["Isobaric"]
+    A --> D["Isochoric"]
+    A --> E["Adiabatic"]
+    B --> F["T constant: P1V1 = P2V2"]
+    C --> G["P constant: V1/T1 = V2/T2"]
+    D --> H["V constant: P1/T1 = P2/T2"]
+    E --> I["Q = 0: PV^gamma = constant"]
+```
 
 $$PV = nRT = Nk_BT$$
 

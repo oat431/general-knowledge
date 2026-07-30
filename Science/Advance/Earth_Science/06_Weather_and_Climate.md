@@ -69,6 +69,16 @@ Earth's atmosphere has five principal layers, defined by temperature gradients:
 
 The **ionosphere** (ไอโอโนสเฟียร์) overlaps the mesosphere and thermosphere, where solar radiation ionizes gas molecules, enabling long-range radio communication.
 
+```mermaid
+flowchart TD
+    ATM["Atmosphere<br/>บรรยากาศ"] --> TROPO["Troposphere โทรโพสเฟียร์<br/>0–12 km, weather, T decreases"]
+    TROPO --> STRATO["Stratosphere สตราโทสเฟียร์<br/>12–50 km, ozone layer, T rises"]
+    STRATO --> MESO["Mesosphere มีโซสเฟียร์<br/>50–85 km, meteors burn up"]
+    MESO --> THERMO["Thermosphere เทอร์โมสเฟียร์<br/>85–600 km, auroras"]
+    THERMO --> EXO["Exosphere เอกโซสเฟียร์<br/>600–10000 km, satellites"]
+```
+
+
 ### 3.2 Atmospheric Pressure and Wind (ความกดอากาศและลม)
 
 Atmospheric pressure is the weight of air per unit area, measured with a barometer (บารอมิเตอร์). Standard sea-level pressure is $1013.25$ hPa. Pressure decreases with altitude following the barometric formula:

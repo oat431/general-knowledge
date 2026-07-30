@@ -44,6 +44,20 @@ Chemical bonds (พันธะเคมี) are the attractive forces (แร�
 
 ## 3 | Key Concepts
 
+```mermaid
+flowchart TD
+    A["Chemical Bonds"] --> B["Ionic"]
+    A --> C["Covalent"]
+    A --> D["Metallic"]
+    A --> E["Coordinate / Dative"]
+    C --> F["Polar Covalent"]
+    C --> G["Nonpolar Covalent"]
+    F --> H["delta-chi 0.4 to 1.7"]
+    G --> I["delta-chi less than 0.4"]
+    B --> J["Metal + Nonmetal"]
+    D --> K["Electron Sea Model"]
+```
+
 ### 3.1 Ionic Bond (พันธะไอออนิก)
 
 Formed by the transfer of electrons from a metal to a nonmetal, producing a positive ion (cation, ไอออนบวก) and a negative ion (anion, ไอออนลบ), which attract each other by electrostatic forces (แรงไฟฟ้าสถิต).

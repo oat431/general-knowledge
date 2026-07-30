@@ -58,6 +58,24 @@ Understanding human body systems is critical for medicine, health sciences, and 
 
 ## 3 | Key Concepts
 
+```mermaid
+flowchart TD
+    BODY["Human Body Systems"] --> DIG["Digestive"]
+    BODY --> CIRC["Circulatory"]
+    BODY --> RES["Respiratory"]
+    BODY --> EXC["Excretory"]
+    BODY --> NERV["Nervous"]
+    BODY --> ENDO["Endocrine"]
+    BODY --> REPRO["Reproductive"]
+    DIG --> DIGF["Breakdown and absorb food"]
+    CIRC --> CIRCF["Transport blood and oxygen"]
+    RES --> RESF["Gas exchange"]
+    EXC --> EXCF["Filter waste"]
+    NERV --> NERVF["Signal transmission"]
+    ENDO --> ENDOF["Hormone regulation"]
+    REPRO --> REPROF["Produce offspring"]
+```
+
 ### 3.1 Digestive System (ระบบย่อยอาหาร)
 
 The digestive tract (ทางเดินอาหาร) processes food through **mechanical digestion** (physical breakdown: chewing, churning) and **chemical digestion** (enzyme action). Key organs and enzymes:

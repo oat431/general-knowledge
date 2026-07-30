@@ -66,6 +66,21 @@ The cell cycle consists of interphase (ระยะอินเทอร์เ�
 
 **M Phase:** Mitosis + cytokinesis.
 
+```mermaid
+flowchart TD
+    CYCLE["Cell Cycle"] --> INTER["Interphase"]
+    CYCLE --> M["M Phase"]
+    INTER --> G1["G1 Growth"]
+    INTER --> S["S DNA Replication"]
+    INTER --> G2["G2 Preparation"]
+    M --> MITOSIS["Mitosis"]
+    M --> CYTO["Cytokinesis"]
+    MITOSIS --> P["Prophase"]
+    MITOSIS --> META["Metaphase"]
+    MITOSIS --> ANA["Anaphase"]
+    MITOSIS --> T["Telophase"]
+```
+
 **Cell Cycle Checkpoints:**
 1. **G1/S checkpoint:** Checks cell size, nutrients, DNA damage. Key regulators: p53 (tumor suppressor), cyclin-CDK complexes.
 2. **G2/M checkpoint:** Ensures DNA replication is complete and undamaged.

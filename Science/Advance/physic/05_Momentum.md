@@ -78,6 +78,19 @@ Internal forces (between objects in the system) always cancel by Newton's third 
 
 ### 3.4 Types of Collisions
 
+```mermaid
+flowchart TD
+    A["Collisions"] --> B["Elastic"]
+    A --> C["Inelastic"]
+    A --> D["Perfectly Inelastic"]
+    B --> E["Momentum: Conserved"]
+    B --> F["Kinetic Energy: Conserved"]
+    C --> G["Momentum: Conserved"]
+    C --> H["Kinetic Energy: Lost"]
+    D --> I["Objects Stick Together"]
+    D --> J["Maximum KE Lost"]
+```
+
 | Type | Momentum | Kinetic Energy |
 |---|---|---|
 | Elastic | Conserved | Conserved |

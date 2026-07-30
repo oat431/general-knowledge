@@ -94,6 +94,19 @@ In the 1960s, Harry Hess and Robert Dietz proposed that new oceanic crust forms 
 
 **Transform boundaries (ขอบเขตเลื่อนผ่านกัน)** — plates grind past each other; no magma, no trenches, but powerful earthquakes.
 
+```mermaid
+flowchart TD
+    PB["Plate Boundaries<br/>ขอบเขตแผ่นธรณีภาค"] --> DIV["Divergent แยกจากกัน"]
+    PB --> CONV["Convergent ชนกัน"]
+    PB --> TRANS["Transform เลื่อนผ่านกัน"]
+    DIV --> RIDGE["Mid-ocean Ridge<br/>Continental Rift<br/>e.g. Mid-Atlantic Ridge"]
+    CONV --> OO["Oceanic–Oceanic<br/>Island Arc + Trench<br/>e.g. Marianas"]
+    CONV --> OC["Oceanic–Continental<br/>Volcanic Arc<br/>e.g. Andes"]
+    CONV --> CC["Continental–Continental<br/>Mountain Belt<br/>e.g. Himalaya"]
+    TRANS --> SS["Strike-slip Fault<br/>e.g. San Andreas"]
+```
+
+
 ### 3.4 Driving Forces of Plate Motion
 
 Three mechanisms move plates, with relative contributions still debated:

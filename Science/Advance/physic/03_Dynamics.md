@@ -53,6 +53,22 @@ This note covers Newton's laws, types of forces (friction, normal, tension, weig
 
 ## 3 | Key Concepts
 
+```mermaid
+flowchart TD
+    A["Forces"] --> B["Contact Forces"]
+    A --> C["Field Forces"]
+    B --> D["Normal Force"]
+    B --> E["Friction"]
+    E --> F["Static"]
+    E --> G["Kinetic"]
+    B --> H["Tension"]
+    B --> I["Applied"]
+    B --> J["Spring"]
+    B --> K["Drag"]
+    C --> L["Gravitational"]
+    C --> M["Electromagnetic"]
+```
+
 ### 3.1 Newton's First Law (Law of Inertia)
 
 A body at rest stays at rest, and a body in motion continues in uniform motion, unless acted upon by a net external force:

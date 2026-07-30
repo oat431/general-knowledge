@@ -56,6 +56,18 @@ Adenosine triphosphate (ATP) powers virtually all cellular work: mechanical (mus
 
 ## 3 | Key Concepts
 
+```mermaid
+flowchart LR
+    SUN["Sunlight"] --> PHOTO["Photosynthesis"]
+    PHOTO --> GLUC["Glucose"]
+    GLUC --> RESP["Cellular Respiration"]
+    RESP --> ATP["ATP"]
+    PHOTO --> O2["O2 released"]
+    O2 --> RESP
+    RESP --> CO2["CO2 released"]
+    CO2 --> PHOTO
+```
+
 ### 3.1 ATP Structure and Function
 
 ATP consists of adenine (อะดีนีน), ribose sugar, and three phosphate groups. Energy is stored in the phosphoanhydride bonds between phosphate groups. When ATP is hydrolyzed:

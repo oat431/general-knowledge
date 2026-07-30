@@ -60,6 +60,20 @@ This note covers the three theories of acids and bases (Arrhenius, Brønsted-Low
 
 ### 3.1 Three Theories of Acids and Bases
 
+```mermaid
+flowchart TD
+    A["Acid-Base Theories"] --> B["Arrhenius 1884"]
+    A --> C["Bronsted-Lowry 1923"]
+    A --> D["Lewis 1923"]
+    B --> E["Acid produces H+ in water"]
+    B --> F["Base produces OH- in water"]
+    C --> G["Acid: H+ donor"]
+    C --> H["Base: H+ acceptor"]
+    D --> I["Acid: e- pair acceptor"]
+    D --> J["Base: e- pair donor"]
+    D --> K["Most General Theory"]
+```
+
 **Arrhenius Theory (1884):**
 - Acid: substance that produces $\ce{H+}$ in water (e.g. $\ce{HCl -> H+ + Cl-}$)
 - Base: substance that produces $\ce{OH-}$ in water (e.g. $\ce{NaOH -> Na+ + OH-}$)

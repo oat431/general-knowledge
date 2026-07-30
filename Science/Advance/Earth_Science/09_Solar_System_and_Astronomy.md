@@ -93,6 +93,21 @@ The **nebular hypothesis** (สมมติฐานเนบิวลา):
 - Terrestrial planets (ดาวเคราะห์หิน): small, dense, rocky, few moons
 - Gas/ice giants (ดาวเคราะห์ยักษ์): large, low density, many moons, ring systems
 
+```mermaid
+flowchart TD
+    SS["Solar System<br/>ระบบสุริยะ"] --> SUN["Sun ดวงอาทิตย์<br/>99.86% of mass"]
+    SS --> BODIES["Celestial Bodies"]
+    BODIES --> PLANETS["Planets ดาวเคราะห์"]
+    BODIES --> DWARF["Dwarf Planets<br/>เช่น Pluto, Ceres"]
+    BODIES --> SMALL["Small Bodies"]
+    PLANETS --> TERRES["Terrestrial ดาวเคราะห์หิน<br/>Mercury Venus Earth Mars"]
+    PLANETS --> GAS["Gas Giants ดาวเคราะห์แก๊ส<br/>Jupiter Saturn"]
+    PLANETS --> ICE["Ice Giants ดาวเคราะห์น้ำแข็ง<br/>Uranus Neptune"]
+    SMALL --> AST["Asteroids ดาวเคราะห์น้อย<br/>Main belt"]
+    SMALL --> COMET["Comets ดาวหาง<br/>Kuiper belt / Oort cloud"]
+```
+
+
 ### 3.3 Small Solar System Bodies (วัตถุขนาดเล็ก)
 
 | Body | Location | Composition | Key Feature |
@@ -125,6 +140,24 @@ $$4 \ce{H} \rightarrow \ce{He} + \text{energy}$$
 | Main sequence | Red dwarf | Yellow star | Blue giant |
 | Late stage | (Stays on MS) | **Red giant** (ดาวยักษ์แดง) | Red supergiant |
 | Death | White dwarf | Planetary nebula → **White dwarf** | **Supernova** → Neutron star or Black hole |
+
+```mermaid
+flowchart TD
+    NEB["Nebula<br/>เนบิวลา"] --> PROTO["Protostar"]
+    PROTO --> MS{Mass?}
+    MS -->|low, below 0.5 M☉| RED["Red Dwarf<br/>ดาวแคระแดง"]
+    MS -->|sun-like 0.5–8 M☉| YELLOW["Yellow Main Sequence<br/>ดาวฤกษ์สีเหลือง"]
+    MS -->|high above 8 M☉| BLUE["Blue Giant<br/>ดาวยักษ์น้ำเงิน"]
+    RED --> WD1["White Dwarf<br/>ดาวแคระขาว"]
+    YELLOW --> RG["Red Giant<br/>ดาวยักษ์แดง"]
+    RG --> PN["Planetary Nebula"]
+    PN --> WD1
+    BLUE --> RSG["Red Supergiant<br/>ดาวยักษ์ใหญ่แดง"]
+    RSG --> SN["Supernova<br/>ซูเปอร์โนวา"]
+    SN --> NS["Neutron Star<br/>ดาวนิวตรอน"]
+    SN --> BH["Black Hole<br/>หลุมดำ"]
+```
+
 
 ### 3.5 The H-R Diagram (แผนภาพดาวฤกษ์)
 

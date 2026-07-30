@@ -82,6 +82,19 @@ For a solenoid: $L = \mu_0 n^2 A l = \mu_0 N^2 A / l$
 
 **Mutual inductance:** $\mathcal{E}_2 = -M\frac{dI_1}{dt}$
 
+```mermaid
+flowchart TD
+    A["Electromagnetic Induction Applications"] --> B["Generators"]
+    A --> C["Transformers"]
+    A --> D["Inductors"]
+    B --> E["Mechanical to Electrical Energy"]
+    B --> F["AC Power Generation"]
+    C --> G["Step Up: Ns > Np"]
+    C --> H["Step Down: Ns < Np"]
+    D --> I["Energy Storage: U = 1/2 LI²"]
+    D --> J["LC Circuits and Tuning"]
+```
+
 ### 3.5 Generators
 
 A coil rotating in a magnetic field produces sinusoidal EMF:

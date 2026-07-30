@@ -57,6 +57,19 @@ Modern genetics extends Mendel's work to include non-Mendelian inheritance patte
 
 ## 3 | Key Concepts
 
+```mermaid
+flowchart TD
+    INH["Inheritance Patterns"] --> MEN["Mendelian"]
+    INH --> NONMEN["Non-Mendelian"]
+    MEN --> DOM["Complete Dominance"]
+    NONMEN --> INCDOM["Incomplete Dominance"]
+    NONMEN --> CODOM["Codominance"]
+    NONMEN --> SEX["Sex-Linked"]
+    NONMEN --> POLY["Polygenic"]
+    SEX --> XLINK["X-Linked Recessive"]
+    POLY --> MULTI["Multiple Genes one Trait"]
+```
+
 ### 3.1 Mendel's Laws of Inheritance
 
 Gregor Mendel worked with *Pisum sativum* (pea plants) and tracked 7 traits over multiple generations.

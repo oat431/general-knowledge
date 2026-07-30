@@ -77,6 +77,19 @@ $$P = ET + R + \Delta S$$
 
 where $P$ = precipitation, $ET$ = evapotranspiration, $R$ = runoff, $\Delta S$ = change in storage.
 
+```mermaid
+flowchart TD
+    OCEAN["Oceans มหาสมุทร<br/>97.25% of water"] -->|evaporation<br/>การระเหย| ATMOS["Atmosphere บรรยากาศ"]
+    PLANTS["Plants<br/>พืช"] -->|transpiration<br/>การคายระเหย| ATMOS
+    ATMOS -->|condensation<br/>การกลั่นตัว| CLOUDS["Clouds เมฆ"]
+    CLOUDS -->|precipitation<br/>การตกตะกอน| LAND["Land พื้นดิน"]
+    LAND -->|infiltration<br/>การซึม| GROUND["Groundwater น้ำใต้ดิน"]
+    LAND -->|runoff<br/>น้ำไหลบ่า| RIVERS["Rivers แม่น้ำ"]
+    RIVERS --> OCEAN
+    GROUND -->|base flow| RIVERS
+```
+
+
 ### 3.2 Earth's Water Distribution (การกระจายน้ำบนโลก)
 
 | Reservoir | Volume ($10^6$ km³) | % of Total |

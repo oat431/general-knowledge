@@ -59,6 +59,19 @@ The IPST (สสวท.) curriculum introduces computational thinking in ม.4 (
 
 **Algorithm Design (การออกแบบขั้นตอนวิธี)** develops a finite, ordered sequence of steps (ขั้นตอน) that produces the correct output for any valid input.
 
+```mermaid
+flowchart TD
+    CT["Computational Thinking<br/>ความคิดเชิงคำนวณ"] --> DEC["Decomposition การแบ่งแยก<br/>Break problem into subproblems"]
+    CT --> PAT["Pattern Recognition<br/>การจดจำรูปแบบ<br/>Find similarities and trends"]
+    CT --> ABS["Abstraction การสรุป/นามธรรม<br/>Focus on essentials, hide detail"]
+    CT --> ALG["Algorithm Design<br/>การออกแบบขั้นตอนวิธี<br/>Step-by-step solution"]
+    DEC --> SOLVE["Solution"]
+    PAT --> SOLVE
+    ABS --> SOLVE
+    ALG --> SOLVE
+```
+
+
 ### 3.2 Flowcharts (ผังงาน)
 
 Flowcharts are diagrams representing an algorithm using standard symbols:
@@ -140,19 +153,16 @@ print(2 * n)
 
 ### Type 3: Draw a Flowchart for Finding the Maximum of Two Numbers
 
-```
-START
-  ↓
-READ a, b
-  ↓
-[ a > b ? ] ──No──→ PRINT b
-  ↓ Yes
-PRINT a
-  ↓
-END
+```mermaid
+flowchart TD
+    START["START"] --> READ["READ a, b"]
+    READ --> CHECK{"a > b ?"}
+    CHECK -->|Yes| PRINT_A["PRINT a"]
+    CHECK -->|No| PRINT_B["PRINT b"]
+    PRINT_A --> END_NODE["END"]
+    PRINT_B --> END_NODE
 ```
 
----
 
 ## 5 | Cross-Links
 

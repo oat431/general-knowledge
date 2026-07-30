@@ -48,6 +48,21 @@ The periodic table (ตารางธาตุ) arranges the elements in order 
 
 ### 3.1 Structure of the Periodic Table (โครงสร้างตารางธาตุ)
 
+```mermaid
+flowchart TD
+    A["Elements"] --> B["Metals"]
+    A --> C["Nonmetals"]
+    A --> D["Metalloids"]
+    B --> E["Alkali Metals: Group 1"]
+    B --> F["Alkaline Earth: Group 2"]
+    B --> G["Transition Metals: Group 3-12"]
+    B --> H["Lanthanides and Actinides"]
+    C --> I["Halogens: Group 17"]
+    C --> J["Noble Gases: Group 18"]
+    C --> K["Other Nonmetals"]
+    D --> L["B, Si, Ge, As, Sb, Te"]
+```
+
 The modern periodic table contains **118 elements (ธาตุ)** arranged as:
 
 - **7 periods (คาบ)** (horizontal rows) — elements in the same period have the same number of electron shells (จำนวนชั้นอิเล็กตรอนเท่ากัน)

@@ -90,6 +90,17 @@ A **non-conservative force** (แรงไม่อนุรักษ์) does p
 
 ### 3.6 Conservation of Mechanical Energy
 
+```mermaid
+flowchart TD
+    A["Mechanical Energy"] --> B["Kinetic Energy KE"]
+    A --> C["Potential Energy PE"]
+    C --> D["Gravitational: mgh"]
+    C --> E["Elastic: 1/2 kx²"]
+    B --> F["1/2 mv²"]
+    A -->|"conservative forces only"| G["KE + PE = constant"]
+    H["Friction / Non-conservative"] --> I["Energy lost as Heat"]
+```
+
 When only conservative forces act, mechanical energy is conserved:
 
 $$E = KE + PE = \text{constant}$$

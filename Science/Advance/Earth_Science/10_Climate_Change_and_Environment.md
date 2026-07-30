@@ -102,6 +102,17 @@ The **greenhouse effect** (ปรากฏการณ์เรือนกร�
 
 **The imbalance:** Human activities add $\sim 11.5$ GtC/year, but natural sinks absorb only $\sim 5$ GtC/year → $\sim 5$ GtC accumulates in the atmosphere annually.
 
+```mermaid
+flowchart TD
+    ATM["Atmosphere CO2<br/>บรรยากาศ"] -->|photosynthesis<br/>การสังเคราะห์แสง| PLANTS["Plants / Biosphere<br/>พืชและสิ่งมีชีวิต"]
+    ATM -->|ocean absorption| OCEAN["Oceans<br/>มหาสมุทร"]
+    PLANTS -->|respiration + decomposition| ATM
+    PLANTS -->|burial over millions of years| FOSSIL["Fossil Fuels<br/>เชื้อเพลิงฟอสซิล"]
+    FOSSIL -->|combustion<br/>การเผาไหม้| ATM
+    OCEAN -->|release| ATM
+```
+
+
 ### 3.5 Carbon Footprint (ลายเท้าคาร์บอน)
 
 **Carbon footprint** = total greenhouse gas emissions caused by an individual, event, organization, or product, expressed as $\ce{CO2}$ equivalent ($\ce{CO2e}$).
@@ -129,6 +140,22 @@ The **greenhouse effect** (ปรากฏการณ์เรือนกร�
 | **Nuclear** (นิวเคลียร์) | Non-renewable | Low $\ce{CO2}$, high output | Waste, safety concerns |
 
 ### 3.7 Environmental Impacts in Thailand
+
+```mermaid
+flowchart TD
+    ENERGY["Energy Resources<br/>แหล่งพลังงาน"] --> RENEW["Renewable<br/>พลังงานหมุนเวียน"]
+    ENERGY --> NONRENEW["Non-Renewable<br/>พลังงานไม่หมุนเวียน"]
+    RENEW --> SOLAR["Solar แสงอาทิตย์"]
+    RENEW --> WIND["Wind ลม"]
+    RENEW --> HYDRO["Hydro น้ำ"]
+    RENEW --> BIO["Biomass ชีวมวล"]
+    RENEW --> GEO["Geothermal ความร้อนใต้พิภพ"]
+    NONRENEW --> COAL["Coal ถ่านหิน"]
+    NONRENEW --> OIL["Oil / Petroleum ปิโตรเลียม"]
+    NONRENEW --> GAS["Natural Gas ก๊าซธรรมชาติ"]
+    NONRENEW --> NUC["Nuclear นิวเคลียร์"]
+```
+
 
 | Issue | Impact | Region |
 |---|---|---|

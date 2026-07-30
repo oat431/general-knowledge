@@ -51,6 +51,20 @@ Understanding evolution is foundational to all modern biology — it unifies fie
 
 ## 3 | Key Concepts
 
+```mermaid
+flowchart TD
+    MECH["Mechanisms of Evolution"] --> NS["Natural Selection"]
+    MECH --> GD["Genetic Drift"]
+    MECH --> GF["Gene Flow"]
+    MECH --> MUT["Mutation"]
+    NS --> ADAPT["Adaptation"]
+    GD --> BOTT["Bottleneck and Founder Effect"]
+    GF --> MIGR["Migration of Alleles"]
+    MUT --> VAR["New Variation"]
+    ADAPT --> SPEC["Speciation"]
+    VAR --> SPEC
+```
+
 ### 3.1 Evidence for Evolution
 
 Evidence comes from five main lines. **Fossil evidence** (หลักฐานซากดึกดำบรรพ์) shows progressive changes in organisms over geological time, with transitional forms like *Archaeopteryx* linking reptiles and birds. **Comparative anatomy** reveals homologous structures (e.g., vertebrate forelimbs — same bones, different functions), analogous structures (e.g., wings of insects and birds — convergent evolution, การวิวัฒนาการมาบรรจบ), and vestigial structures (e.g., human appendix, pelvic bones in whales). **Molecular biology** shows that organisms sharing more DNA/protein sequences are more closely related. **Biogeography** explains species distribution patterns based on continental drift and island isolation. **Embryology** shows similar developmental stages across vertebrates.

@@ -109,6 +109,20 @@ Solve for $x$ (often requires approximation if $K$ is small or large).
 
 ### 3.6 Le Chatelier's Principle
 
+```mermaid
+flowchart TD
+    A["System at Equilibrium"] --> B["Disturbance Applied"]
+    B --> C["Concentration Change"]
+    B --> D["Pressure / Volume Change"]
+    B --> E["Temperature Change"]
+    C -->|"Reactant added"| F["Shift Right — products"]
+    C -->|"Product added"| G["Shift Left — reactants"]
+    D -->|"Pressure up"| H["Side with fewer gas moles"]
+    D -->|"Pressure down"| I["Side with more gas moles"]
+    E -->|"Temp up, endothermic"| J["Shift Right — K increases"]
+    E -->|"Temp up, exothermic"| K["Shift Left — K decreases"]
+```
+
 *"If a system at equilibrium is disturbed, it will shift in the direction that opposes the disturbance."*
 
 **Effects of changes:**

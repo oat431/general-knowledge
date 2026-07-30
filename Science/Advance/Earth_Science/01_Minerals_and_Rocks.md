@@ -122,6 +122,19 @@ Common parent → product pairs: limestone → marble; sandstone → quartzite; 
 
 The rock cycle is the continuous, interconnected transformation among the three rock families driven by Earth's internal heat and surface processes:
 
+```mermaid
+flowchart TD
+    MAGMA["Magma หนืด"] -->|cooling| IG_INTR["Intrusive Igneous<br/>หินอัคนีแทรกซ้อน<br/>e.g. Granite"]
+    LAVA["Lava ลาวา"] -->|rapid cooling| IG_EXTR["Extrusive Igneous<br/>หินอัคนีพุ่งออก<br/>e.g. Basalt"]
+    IG_INTR -->|weathering + lithification| SED["Sedimentary Rock<br/>หินตะกอน"]
+    IG_EXTR -->|weathering + lithification| SED
+    SED -->|heat and pressure| META["Metamorphic Rock<br/>หินแปร"]
+    IG_INTR -->|heat and pressure| META
+    META -->|melting| MAGMA
+    SED -->|melting| MAGMA
+```
+
+
 $$\text{magma} \xrightarrow{\text{cooling}} \text{igneous} \xrightarrow[\text{lithification}]{\text{weathering}} \text{sedimentary} \xrightarrow[\text{pressure}]{\text{heat}} \text{metamorphic} \xrightarrow{\text{melting}} \text{magma}$$
 
 Any rock type can be transformed into any other type; the cycle has no required starting point and is not a single closed loop but a network of possible paths.

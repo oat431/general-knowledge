@@ -44,6 +44,20 @@ Atomic structure (โครงสร้างอะตอม) is the fundamental
 
 ## 3 | Key Concepts
 
+```mermaid
+flowchart TD
+    A["Atomic Models Timeline"] --> B["Dalton: Solid Sphere"]
+    B --> C["Thomson: Plum Pudding"]
+    C --> D["Rutherford: Nuclear Model"]
+    D --> E["Bohr: Quantized Orbits"]
+    E --> F["Quantum Mechanical: Orbitals"]
+    B --> G["1808"]
+    C --> H["1897 — discovered electron"]
+    D --> I["1911 — discovered nucleus"]
+    E --> J["1913 — energy levels"]
+    F --> K["1926+ — probability clouds"]
+```
+
 ### 3.1 Subatomic Particles
 
 An atom (อะตอม) consists of three main subatomic particles (อนุภาคมูลฐาน):

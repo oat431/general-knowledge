@@ -104,6 +104,16 @@ The Internet uses the **TCP/IP** model — a stack of four layers, each with a r
 
 When you load a webpage, your data travels **down** the sender's stack, across the network, and **up** the receiver's stack — each layer adding/stripping its own header (encapsulation).
 
+```mermaid
+flowchart TD
+    TOP["Application Layer<br/>HTTP HTTPS DNS SMTP<br/>User-facing services"]
+    TOP -->|encapsulate| TR["Transport Layer<br/>TCP reliable / UDP fast<br/>Reliable delivery"]
+    TR -->|encapsulate| INET["Internet Layer<br/>IP, Routers<br/>Routing across networks"]
+    INET -->|encapsulate| NET["Network Access Layer<br/>Ethernet, Wi-Fi, Switches<br/>Physical transmission"]
+    NET -.->|transmit over wire or wireless| RECV["Receiver reads up the stack"]
+```
+
+
 ### 3.6 IP Addressing (การกำหนดที่อยู่ IP)
 
 An **IP address** (ที่อยู่ IP) uniquely identifies a device on a network.

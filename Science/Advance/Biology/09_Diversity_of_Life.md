@@ -56,6 +56,21 @@ The six-kingdom system divides life into Bacteria (แบคทีเรีย),
 
 The classification system uses eight major ranks: **Domain** (โดเมน) → **Kingdom** (อาณาจักร) → **Phylum** (ไฟลัม) → **Class** (ชั้น) → **Order** (อันดับ) → **Family** (วงศ์) → **Genus** (สกุล) → **Species** (ชนิด). A mnemonic: "**D**ear **K**ing **P**hilip **C**ame **O**ver **F**or **G**ood **S**oup." Each rank groups organisms by increasingly specific shared characteristics.
 
+```mermaid
+flowchart TD
+    LIFE["Life"] --> BACT["Domain Bacteria"]
+    LIFE --> ARCH["Domain Archaea"]
+    LIFE --> EUK["Domain Eukarya"]
+    BACT --> KB["Kingdom Bacteria"]
+    ARCH --> KA["Kingdom Archaea"]
+    EUK --> KP["Kingdom Protista"]
+    EUK --> KF["Kingdom Fungi"]
+    EUK --> KPL["Kingdom Plantae"]
+    EUK --> KA2["Kingdom Animalia"]
+    KPL --> MOS["Mosses to Angiosperms"]
+    KA2 --> INV["Invertebrates to Vertebrates"]
+```
+
 ### 3.2 Binomial Nomenclature
 
 Established by Carl Linnaeus (ลินเนียส), every species receives a two-part Latin name: the **genus** (capitalized) and **specific epithet** (lowercase), both italicized — e.g., *Homo sapiens*, *Escherichia coli*. This universal system eliminates confusion from common names, which vary by language and region.
