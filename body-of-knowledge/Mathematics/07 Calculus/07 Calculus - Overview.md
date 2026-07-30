@@ -18,12 +18,12 @@ Calculus is the mathematics of **change** — invented independently by Newton a
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 10 | [[Limits and Continuity]] | ลิมิตและความต่อเนื่อง | Limit definition, techniques, continuity, squeeze theorem, limits at infinity |
-| 11 | [[Differentiation]] | อนุพันธ์ | Derivative definition, rules (power, product, quotient, chain), implicit differentiation |
-| 12 | [[Applications of Differentiation]] | การประยุกต์อนุพันธ์ | Tangent lines, rate of change, maxima/minima, related rates, curve sketching, L'Hôpital's rule |
-| 13 | [[Integration]] | ปริพันธ์ | Antiderivatives, definite integrals, Fundamental Theorem, substitution, integration by parts |
-| 14 | [[Applications of Integration]] | การประยุกต์ปริพันธ์ | Area between curves, volume of revolution, arc length |
-| 15 | [[Differential Equations]] | สมการเชิงอนุพันธ์ | First-order ODEs, separation of variables, applications (growth, decay, motion) |
+| 14 | [[14_Limits_and_Continuity\|Limits and Continuity]] | ลิมิตและความต่อเนื่อง | Limit definition, techniques, continuity, squeeze theorem, limits at infinity |
+| 15 | [[15_Differentiation\|Differentiation]] | อนุพันธ์ | Derivative definition, rules (power, product, quotient, chain), implicit differentiation, maxima/minima, related rates, optimization |
+| 16 | [[16_Integration\|Integration]] | ปริพันธ์ | Antiderivatives, definite integrals, Fundamental Theorem, substitution, area and volume |
+| 23 | [[23_Differential_Equations\|Differential Equations]] | สมการเชิงอนุพันธ์ | First-order ODEs, separation of variables, applications (growth, decay, motion) |
+
+> **Note:** The original BOK listed 6 calculus topics. The consolidated curriculum merges "Applications of Differentiation" into [[15_Differentiation]] and "Applications of Integration" into [[16_Integration]].
 
 ---
 

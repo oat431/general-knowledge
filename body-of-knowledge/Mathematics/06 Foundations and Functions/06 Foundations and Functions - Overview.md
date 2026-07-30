@@ -18,15 +18,15 @@ This category covers the ม.4 curriculum — the bridge from fundamental mathem
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 01 | [[Sets and Logic]] | เซตและตรรกศาสตร์ | Set operations, Venn diagrams, propositions, truth tables, logical connectives, quantifiers |
-| 02 | [[Real Numbers and Inequalities]] | จำนวนจริงและอสมการ | Real number system, absolute value, linear/quadratic/rational inequalities |
-| 03 | [[Algebraic Expressions]] | พหุนาม | Polynomials, factoring, remainder & factor theorems |
-| 04 | [[Systems of Equations]] | ระบบสมการ | Linear/nonlinear systems, graphical methods |
-| 05 | [[Functions]] | ฟังก์ชัน | Domain/range, composition, inverse, piecewise, linear, quadratic, polynomial, rational |
-| 06 | [[Exponential and Logarithmic Functions]] | ฟังก์ชันเอกซ์โพเนนเชียลและลอการิทึม | Properties, graphs, equations, real-world applications (growth, decay, pH, Richter) |
-| 07 | [[Trigonometric Functions]] | ฟังก์ชันตรีโกณมิติ | Unit circle, radian measure, sin/cos/tan graphs, identities, inverse trig |
-| 08 | [[Sequences and Series]] | ลำดับและอนุกรม | Arithmetic, geometric, sigma notation, mathematical induction |
-| 09 | [[Trigonometric Equations]] | สมการตรีโกณมิติ | Solving trig equations, applications |
+| 01 | [[01_Sets_and_Logic\|Sets and Logic]] | เซตและตรรกศาสตร์ | Set operations, Venn diagrams, propositions, truth tables, logical connectives, quantifiers |
+| 02 | [[02_Real_Numbers_and_Inequalities\|Real Numbers and Inequalities]] | จำนวนจริงและอสมการ | Real number system, absolute value, linear/quadratic/rational inequalities |
+| 03 | [[03_Algebraic_Expressions\|Algebraic Expressions]] | พหุนาม | Polynomials, factoring, remainder & factor theorems |
+| 04 | [[04_Systems_of_Equations\|Systems of Equations]] | ระบบสมการ | Linear/nonlinear systems, graphical methods |
+| 05 | [[05_Functions\|Functions]] | ฟังก์ชัน | Domain/range, composition, inverse, piecewise, linear, quadratic, polynomial, rational |
+| 06 | [[06_Exponential_and_Logarithmic_Functions\|Exp and Log Functions]] | ฟังก์ชันเอกซ์โพเนนเชียลและลอการิทึม | Properties, graphs, equations, real-world applications (growth, decay, pH, Richter) |
+| 07 | [[07_Trigonometric_Functions\|Trigonometric Functions]] | ฟังก์ชันตรีโกณมิติ | Unit circle, radian measure, sin/cos/tan graphs, identities, inverse trig |
+| 08 | [[08_Sequences_and_Series\|Sequences and Series]] | ลำดับและอนุกรม | Arithmetic, geometric, sigma notation, mathematical induction |
+| 09 | [[09_Trigonometric_Equations\|Trigonometric Equations]] | สมการตรีโกณมิติ | Solving trig equations, applications |
 
 ---
 

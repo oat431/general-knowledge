@@ -18,9 +18,9 @@ Probability and Statistics at the advanced level transforms informal data sense 
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 17 | [[Probability]] | ความน่าจะเป็น | Counting principles, permutations, combinations, conditional probability, Bayes' theorem |
-| 18 | [[Probability Distributions]] | การแจกแจงความน่าจะเป็น | Binomial, Poisson, normal distributions, expected value, variance |
-| 19 | [[Statistics]] | สถิติ | Central tendency, dispersion, correlation, regression, sampling, hypothesis testing |
+| 17 | [[17_Probability\|Probability]] | ความน่าจะเป็น | Counting principles, permutations, combinations, conditional probability, Bayes' theorem |
+| 18 | [[18_Probability_Distributions\|Probability Distributions]] | การแจกแจงความน่าจะเป็น | Binomial, Poisson, normal distributions, expected value, variance |
+| 19 | [[19_Statistics\|Statistics]] | สถิติ | Central tendency, dispersion, correlation, regression, sampling, hypothesis testing |
 
 ---
 

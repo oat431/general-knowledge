@@ -18,10 +18,10 @@ This category extends algebra and geometry into higher dimensions — literally.
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 10 | [[Complex Numbers]] | จำนวนเชิงซ้อน | Imaginary unit i, operations, polar form (r∠θ), De Moivre's theorem, roots of unity |
-| 11 | [[Matrices and Determinants]] | เมทริกซ์และดีเทอร์มิแนนต์ | Matrix operations, inverses, Cramer's rule, systems of equations |
-| 12 | [[Analytic Geometry]] | เรขาคณิตวิเคราะห์ | Lines, circles, parabolas, ellipses, hyperbolas — equations and graphs |
-| 13 | [[Vectors]] | เวกเตอร์ | 2D/3D vectors, dot product, cross product, vector equations of lines and planes |
+| 10 | [[10_Complex_Numbers\|Complex Numbers]] | จำนวนเชิงซ้อน | Imaginary unit i, operations, polar form, De Moivre's theorem, roots of unity |
+| 11 | [[11_Matrices_and_Determinants\|Matrices and Determinants]] | เมทริกซ์และดีเทอร์มิแนนต์ | Matrix operations, inverses, Cramer's rule, systems of equations |
+| 12 | [[12_Analytic_Geometry\|Analytic Geometry]] | เรขาคณิตวิเคราะห์ | Lines, circles, parabolas, ellipses, hyperbolas — equations and graphs |
+| 13 | [[13_Vectors\|Vectors]] | เวกเตอร์ | 2D/3D vectors, dot product, cross product, vector equations of lines and planes |
 
 ---
 

@@ -18,10 +18,10 @@ The ม.6 curriculum brings together the most modern and applied branches of hig
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 20 | [[Discrete Mathematics]] | คณิตศาสตร์ไม่ต่อเนื่อง | Graph theory (vertices, edges, paths, trees), combinatorics, recurrence relations |
-| 21 | [[Mathematical Reasoning]] | การให้เหตุผลทางคณิตศาสตร์ | Direct proof, contradiction, contrapositive, mathematical induction |
-| 22 | [[Linear Programming]] | โปรแกรมเชิงเส้น | Optimization, constraints, feasible region, graphical method, simplex (intro) |
-| 23 | [[Differential Equations]] | สมการเชิงอนุพันธ์ | First-order ODEs, separation of variables, applications |
+| 20 | [[20_Discrete_Mathematics\|Discrete Mathematics]] | คณิตศาสตร์ไม่ต่อเนื่อง | Graph theory (vertices, edges, paths, trees), combinatorics, recurrence relations |
+| 21 | [[21_Mathematical_Reasoning\|Mathematical Reasoning]] | การให้เหตุผลทางคณิตศาสตร์ | Direct proof, contradiction, contrapositive, mathematical induction |
+| 22 | [[22_Linear_Programming\|Linear Programming]] | โปรแกรมเชิงเส้น | Optimization, constraints, feasible region, graphical method, simplex (intro) |
+| 23 | [[23_Differential_Equations\|Differential Equations]] | สมการเชิงอนุพันธ์ | First-order ODEs, separation of variables, applications |
 
 ---
 

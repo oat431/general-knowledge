@@ -31,17 +31,15 @@ Advanced Mathematics is organized into **5 categories** with detailed sub-overvi
 *\*Note: Topics 10–13 (Complex Numbers, Matrices, Vectors, Analytic Geometry) span across categories*
 
 ### 🔢 ม.4 (ค301) — Foundations & Functions
-
-### 🔢 ม.4 (ค301) — Foundations & Functions
 - [[01_Sets_and_Logic]] — Sets, subsets, unions, intersections, Venn diagrams, Cartesian products, propositions, truth tables, logical connectives
 - [[02_Real_Numbers_and_Inequalities]] — Real number system, absolute value, linear/quadratic/rational inequalities
 - [[03_Algebraic_Expressions]] — Polynomials, factoring, remainder & factor theorems, polynomial operations
 - [[04_Systems_of_Equations]] — Linear systems, nonlinear systems, graphical methods
 - [[05_Functions]] — Definition, domain/range, types (linear, quadratic, polynomial, rational), composition, inverse, piecewise
 - [[06_Exponential_and_Logarithmic_Functions]] — Properties, graphs, equations, real-world applications
-- [[07_Tigonometric_Functions]] — Unit circle, radian measure, graphs, identities, inverse trig functions
+- [[07_Trigonometric_Functions]] — Unit circle, radian measure, graphs, identities, inverse trig functions
 - [[08_Sequences_and_Series]] — Arithmetic, geometric sequences, sigma notation, mathematical induction
-- [[09_Tigonometric_Equations]] — Solving trig equations, applications
+- [[09_Trigonometric_Equations]] — Solving trig equations, applications
 
 ### 📈 ม.5 (ค302) — Calculus & Applied Math
 - [[10_Complex_Numbers]] — Imaginary unit, operations, polar form, De Moivre's theorem, roots
