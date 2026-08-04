@@ -14,6 +14,8 @@ tags: [overview, body-of-knowledge, math-sci, thai-language, social-studies, tha
 > - **Health & PE (สุขศึกษาและพลศึกษา):** 2 strands from ป.1 through ม.6
 > - **Career & Technology (การงานอาชีพ):** 5 strands from ป.1 through ม.6
 >
+> **Learner Development Activities (กิจกรรมพัฒนาผู้เรียน):** A separate curriculum component with Guidance and Counseling, Student Activities (including Scouts/Girl Guides), and Social and Public Benefit Activities from ป.1 through ม.6
+>
 > **Source:** Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)
 > **IPST Textbooks:** [ipst.ac.th](https://www.ipst.ac.th) — Free PDF math-sci textbooks
 
@@ -70,6 +72,22 @@ The Social Studies curriculum organized into **5 learning strands (สาระ�
 | 🌏 **สาระที่ 5** | ภูมิศาสตร์ | Geography | ~18 | Maps/GIS/remote sensing, physical geography (landforms, climate), human geography (population, settlement, economy), environment, Thailand's 6 regions, natural disasters |
 
 **Total: ~94 concept areas across 5 strands** | **Vault:** `Social Studies\\`
+
+---
+
+## 🧭 Learner Development Activities (กิจกรรมพัฒนาผู้เรียน)
+
+[[Student Development Activities - Overview|→ Full Overview]]
+
+Learner Development Activities are a **separate required curriculum component**, not a ninth academic learning area. They support whole-person development through three forms:
+
+| # | Form | Thai | Focus |
+|---|---|---|---|
+| 01 | Guidance and Counseling | กิจกรรมแนะแนว | Education, career, personal, social development, and life skills |
+| 02 | Student Activities | กิจกรรมนักเรียน | Scouts/Girl Guides, Red Cross Youth, clubs, leadership, participation |
+| 03 | Social and Public Benefit | กิจกรรมเพื่อสังคมและสาธารณประโยชน์ | Service, responsibility, community and environmental contribution |
+
+**Scope:** ป.1–ม.6 | **Implementation:** The three forms are national framework components; exact hours and activities vary by school.
 
 ---
 
