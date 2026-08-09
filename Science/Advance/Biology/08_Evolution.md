@@ -67,7 +67,37 @@ flowchart TD
 
 ### 3.1 Evidence for Evolution
 
-Evidence comes from five main lines. **Fossil evidence** (หลักฐานซากดึกดำบรรพ์) shows progressive changes in organisms over geological time, with transitional forms like *Archaeopteryx* linking reptiles and birds. **Comparative anatomy** reveals homologous structures (e.g., vertebrate forelimbs — same bones, different functions), analogous structures (e.g., wings of insects and birds — convergent evolution, การวิวัฒนาการมาบรรจบ), and vestigial structures (e.g., human appendix, pelvic bones in whales). **Molecular biology** shows that organisms sharing more DNA/protein sequences are more closely related. **Biogeography** explains species distribution patterns based on continental drift and island isolation. **Embryology** shows similar developmental stages across vertebrates.
+Evidence comes from five main lines. **Fossil evidence** (หลักฐานซากดึกดำบรรพ์) shows progressive changes in organisms over geological time, with transitional forms like *Archaeopteryx* linking reptiles and birds. **Comparative anatomy** reveals homologous structures (e.g., vertebrate forelimbs — same bones, different functions), analogous structures (e.g., wings of insects and birds — convergent evolution, การวิวัฒนาการมารบจบ), and vestigial structures (e.g., human appendix, pelvic bones in whales). **Molecular biology** shows that organisms sharing more DNA/protein sequences are more closely related. **Biogeography** explains species distribution patterns based on continental drift and island isolation. **Embryology** shows similar developmental stages across vertebrates.
+
+### 3.1.1 Patterns of Evolution
+
+Evolution can follow three distinct patterns, depending on whether species share a common ancestor and whether they evolve similar or different traits:
+
+**Divergent evolution** (วิวัฒนาการลู่ออก) occurs when related species evolve different traits from a common ancestor, adapting to different environments — e.g., Darwin's finches evolved 15+ species with different beak shapes for different foods from one ancestral finch.
+
+**Convergent evolution** (วิวัฒนาการลู่เข้า) occurs when unrelated species evolve similar traits through different genetic/developmental mechanisms, arriving at the same solution to a similar problem — e.g., bird wings and insect wings both enable flight, but evolved from completely different anatomical structures.
+
+**Parallel evolution** (วิวัฒนาการขนาน) occurs when unrelated species evolve similar traits through the same genetic/developmental mechanisms, having inherited the same ancestral "toolkit" — e.g., multiple plant species independently evolved white flowers by turning off the same pigment genes.
+
+**Co-evolution** (วิวัฒนาการร่วม) occurs when two or more species evolve in response to each other through close ecological interactions — e.g., predator-prey arms races (cheetahs and gazelles evolving speed), or mutualistic partnerships (orchids and their specific pollinators).
+
+```mermaid
+flowchart TD
+    ANCESTOR["Ancestral State"] --> DIV["Divergent Evolution"]
+    ANCESTOR --> CONV["Convergent Evolution"]
+    ANCESTOR --> PAR["Parallel Evolution"]
+    ANCESTOR --> COEVO["Co-evolution"]
+    
+    DIV --> DIV_EX["One ancestor → many species<br/>Different traits<br/>e.g. Darwin's finches"]
+    CONV --> CONV_EX["Many unrelated species → similar traits<br/>Different genes/mechanisms<br/>e.g. Bird wings vs insect wings"]
+    PAR --> PAR_EX["Many unrelated species → similar traits<br/>Same genes/mechanisms<br/>e.g. White flowers in different plants"]
+    COEVO --> COEVO_EX["Two or more species → mutual influence<br/>Arms races or partnerships<br/>e.g. Cheetah and gazelle"]
+    
+    style DIV fill:#e1f5ff
+    style CONV fill:#fff4e1
+    style PAR fill:#e8ffe1
+    style COEVO fill:#ffe1f4
+```
 
 ### 3.2 Darwin's Theory and Natural Selection
 
