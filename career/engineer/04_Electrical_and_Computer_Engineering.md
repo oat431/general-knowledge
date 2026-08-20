@@ -156,5 +156,5 @@ These two fields are at the heart of everything modern — from the power grid t
 - [[01_Engineering_Foundations]] — Math, physics, programming foundations
 - [[03_Mechanical_and_Industrial_Engineering]] — PLC and automation overlap with IE
 - [[06_Emerging_Engineering_Fields]] — AI, robotics, IoT
-- [[07_University_Guide_and_Career_Paths]] — Top EE/CE programs
+- [[00_University_Guide_and_Career_Paths]] — Top EE/CE programs
 - [[Engineer - Overview]] — Return to engineering overview

@@ -17,12 +17,12 @@ Modern Physics is where classical intuition breaks down. Einstein's relativity s
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 18 | [[Special Relativity]] | ทฤษฎีสัมพัทธภาพพิเศษ | Postulates, time dilation, length contraction, mass-energy equivalence (E=mc²) |
-| 19 | [[Quantum Physics]] | ฟิสิกส์ควอนตัม | Photoelectric effect, wave-particle duality, de Broglie, uncertainty principle |
-| 20 | [[Atomic Physics]] | ฟิสิกส์อะตอม | Bohr model, hydrogen atom, energy levels, emission/absorption spectra |
-| 21 | [[Nuclear Physics]] | ฟิสิกส์นิวเคลียร์ | Radioactivity, decay, half-life, fission, fusion, nuclear energy |
-| 22 | [[Particle Physics]] | ฟิสิกส์อนุภาค | Standard Model intro, quarks, leptons, fundamental forces |
-| 23 | [[Astrophysics]] | ดาราศาสตร์ฟิสิกส์ | Stars, stellar evolution, galaxies, Big Bang |
+| 18 | [[18_Special_Relativity|Special Relativity]] | ทฤษฎีสัมพัทธภาพพิเศษ | Postulates, time dilation, length contraction, mass-energy equivalence (E=mc²) |
+| 19 | [[19_Quantum_Physics|Quantum Physics]] | ฟิสิกส์ควอนตัม | Photoelectric effect, wave-particle duality, de Broglie, uncertainty principle |
+| 20 | [[20_Atomic_Physics|Atomic Physics]] | ฟิสิกส์อะตอม | Bohr model, hydrogen atom, energy levels, emission/absorption spectra |
+| 21 | [[21_Nuclear_Physics|Nuclear Physics]] | ฟิสิกส์นิวเคลียร์ | Radioactivity, decay, half-life, fission, fusion, nuclear energy |
+| 22 | [[22_Particle_Physics|Particle Physics]] | ฟิสิกส์อนุภาค | Standard Model intro, quarks, leptons, fundamental forces |
+| 23 | [[23_Astrophysics_and_Cosmology|Astrophysics]] | ดาราศาสตร์ฟิสิกส์ | Stars, stellar evolution, galaxies, Big Bang |
 
 ---
 
@@ -70,5 +70,5 @@ Modern Physics is where classical intuition breaks down. Einstein's relativity s
 ## Cross-Links
 
 - [[01_Physics - Overview|← Back to Physics]]
-- [[05 Mechanics|Mechanics]] — Classical physics contrasts with modern
-- [[07 Electricity and Magnetism|E&M]] — EM waves bridge to quantum
+- [[01_Mechanics_-_Overview|05 Mechanics]] — Classical physics contrasts with modern
+- [[03_Electricity_and_Magnetism_-_Overview|07 Electricity and Magnetism]] — EM waves bridge to quantum

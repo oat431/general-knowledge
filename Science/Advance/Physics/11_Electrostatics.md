@@ -160,4 +160,4 @@ $$V = k\frac{q}{r} = (8.99 \times 10^9)\frac{2 \times 10^{-6}}{0.3} = 59{,}933 \
 - [[10_Heat_and_Thermodynamics]] — Energy conservation applies to electric potential energy
 - [[12_Electric_Circuits]] — Capacitors discharge through resistors (RC circuits)
 - [[13_Magnetism]] — Moving charges create magnetic fields
-- [[Fundamental/06_Gravity]] — Compare inverse-square laws (Coulomb vs. Newton)
+- [[13_Forces_and_Motion]] — Compare inverse-square laws (Coulomb vs. Newton)

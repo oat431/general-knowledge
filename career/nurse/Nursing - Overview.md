@@ -112,5 +112,5 @@ flowchart TD
 
 ---
 
-> **Related Careers:** [[../lawyer/Law - Overview|Law]], [[../doctor/Medicine - Overview|Medicine]], [[../pharmacist/Pharmacy - Overview|Pharmacy]], [[../teacher/Teaching - Overview|Teaching]]
+> **Related Careers:** [[Lawyer - Overview|Law]], [[../doctor/Medicine - Overview|Medicine]], [[../pharmacist/Pharmacy - Overview|Pharmacy]], [[Teacher - Overview|Teaching]]
 > **Related Vaults:** [[body-of-knowledge/Science/04_Human_Body_Systems|Human Body Systems]], [[body-of-knowledge/Health and PE/Health and PE - Overview|Health & PE]]

@@ -19,19 +19,19 @@ Geology and Atmosphere covers the solid Earth and its gaseous envelope — the g
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 01 | [[Minerals and Rocks]] | แร่และหิน | Mineral identification, rock types (igneous, sedimentary, metamorphic), rock cycle |
-| 02 | [[Plate Tectonics]] | ธรณีแปรสัณฐาน | Continental drift, plate boundaries, seafloor spreading, Pangaea |
-| 03 | [[Earthquakes and Volcanoes]] | แผ่นดินไหวและภูเขาไฟ | Seismic waves (P, S), Richter/Mercalli scales, volcanic types, hazard zones |
-| 04 | [[Weathering and Erosion]] | การผุพังและการกัดเซาะ | Physical/chemical weathering, mass wasting, erosion by water/wind/ice |
-| 05 | [[Earth History]] | ประวัติของโลก | Geological time scale, fossils, radiometric dating, relative dating |
+| 01 | [[01_Minerals_and_Rocks|Minerals and Rocks]] | แร่และหิน | Mineral identification, rock types (igneous, sedimentary, metamorphic), rock cycle |
+| 02 | [[02_Plate_Tectonics|Plate Tectonics]] | ธรณีแปรสัณฐาน | Continental drift, plate boundaries, seafloor spreading, Pangaea |
+| 03 | [[03_Earthquakes_and_Volcanoes|Earthquakes and Volcanoes]] | แผ่นดินไหวและภูเขาไฟ | Seismic waves (P, S), Richter/Mercalli scales, volcanic types, hazard zones |
+| 04 | [[04_Weathering_and_Erosion|Weathering and Erosion]] | การผุพังและการกัดเซาะ | Physical/chemical weathering, mass wasting, erosion by water/wind/ice |
+| 05 | [[05_Earth_History|Earth History]] | ประวัติของโลก | Geological time scale, fossils, radiometric dating, relative dating |
 
 ### Atmosphere & Hydrosphere
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 06 | [[Weather and Climate]] | ลมฟ้าอากาศและภูมิอากาศ | Atmospheric layers, weather systems, fronts, pressure, climate zones |
-| 07 | [[Oceanography]] | สมุทรศาสตร์ | Ocean currents, tides, waves, thermohaline circulation, marine ecosystems |
-| 08 | [[Water Cycle and Hydrology]] | วัฏจักรน้ำและอุทกวิทยา | Hydrological cycle, groundwater, watersheds, water resources |
+| 06 | [[06_Weather_and_Climate|Weather and Climate]] | ลมฟ้าอากาศและภูมิอากาศ | Atmospheric layers, weather systems, fronts, pressure, climate zones |
+| 07 | [[07_Oceanography|Oceanography]] | สมุทรศาสตร์ | Ocean currents, tides, waves, thermohaline circulation, marine ecosystems |
+| 08 | [[08_Water_Cycle_and_Hydrology|Water Cycle and Hydrology]] | วัฏจักรน้ำและอุทกวิทยา | Hydrological cycle, groundwater, watersheds, water resources |
 
 ---
 
@@ -89,4 +89,4 @@ Geology and Atmosphere covers the solid Earth and its gaseous envelope — the g
 
 - [[04_Earth Science - Overview|← Back to Earth Science]]
 - [[00_Fundamental Science - Overview|Fundamental Science]]
-- [[03 Earth and Space Science|Fundamental Earth & Space Science (ป.1-ม.3)]]
+- [[03_Earth_and_Space_Science - Overview|03 Earth and Space Science]]

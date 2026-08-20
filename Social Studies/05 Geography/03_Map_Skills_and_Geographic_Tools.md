@@ -119,8 +119,8 @@ Map Skills teaches students to read, interpret, and create maps. From simple cla
 ## 9 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[05_Geography_of_Thailand|Geography]] — Physical features on maps
-- [[08_Natural_Disasters_and_Environment|Natural Disasters]] — Mapping hazard zones
+- [[01_Geography_of_Thailand|Geography]] — Physical features on maps
+- [[02_Natural_Disasters_and_Environment|Natural Disasters]] — Mapping hazard zones
 
 ---
 

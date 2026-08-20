@@ -263,4 +263,4 @@ $$\pi = MRT = 0.10 \times 0.0821 \times 298 = 2.45 \,\text{atm}$$
 - [[04_Intermolecular_Forces]] — "Like dissolves like" governs solubility
 - [[05_Stoichiometry]] — Moles are used in concentration calculations
 - [[07_Gases]] — Henry's Law concerns gases in solution
-- [[../../Advance/biology/05_Osmosis|Biology Osmosis]] — Applications of osmotic pressure
+- [[02_Cell_Membrane_and_Transport|Biology Osmosis]] — Applications of osmotic pressure

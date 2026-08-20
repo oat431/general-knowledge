@@ -20,9 +20,9 @@ Economics teaches students how societies manage scarce resources. The Thai curri
 
 | # | Concept Area | Thai | ป.1–3 | ป.4–6 | ม.1–3 | ม.4–6 |
 |---|---|---|---|---|---|---|
-| 01 | [[Economics Fundamentals]] | เศรษฐศาสตร์ฯ | Needs vs wants | Scarcity, factors | Market mechanisms | Micro/Macro economics |
-| 02 | [[Personal Finance]] | การเงินส่วนบุคคล | Saving money | Banking, budgeting | Interest, taxation | Financial planning, investment |
-| 03 | [[Sufficiency Economy Philosophy]] | เศรษฐกิจพอเพียง | Sharing | Three principles | + Two conditions | Development model |
+| 01 | [[01_Economics_Fundamentals]] | เศรษฐศาสตร์ฯ | Needs vs wants | Scarcity, factors | Market mechanisms | Micro/Macro economics |
+| 02 | [[02_Personal_Finance]] | การเงินส่วนบุคคล | Saving money | Banking, budgeting | Interest, taxation | Financial planning, investment |
+| 03 | [[03_Sufficiency_Economy_Philosophy]] | เศรษฐกิจพอเพียง | Sharing | Three principles | + Two conditions | Development model |
 | 04 | Supply & Demand | อุปสงค์ฯ | — | Basic concepts | Equilibrium, price | Elasticity, market structures |
 | 05 | Economic Systems | ระบบเศรษฐกิจ | — | Market, command, mixed | Comparative | Thai mixed economy analysis |
 | 06 | Production & Consumption | การผลิตฯ | Making things | Producers, consumers | GDP, national income | Economic indicators |

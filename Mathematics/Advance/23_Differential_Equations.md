@@ -186,4 +186,4 @@ $Q(t) = 20 - 10e^{-t/20}$
 - [[16_Integration]] — Solving ODEs requires integration
 - [[14_Limits_and_Continuity]] — Solutions as functions
 - [[06_Exponential_and_Logarithmic_Functions]] — Growth/decay solutions
-- [[01_Physics]] — Newton's laws, circuits, mechanics
+- [[01_Physics - Overview]] — Newton's laws, circuits, mechanics

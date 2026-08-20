@@ -194,10 +194,10 @@ $$\ce{ClO + O -> Cl + O2}$$
 
 ## 5 | Cross-Links
 
-- [[08_Gases]] — Gas laws in industrial processes
-- [[10_Chemical_Equilibrium]] — Le Chatelier equilibrium
+- [[07_Gases]] — Gas laws in industrial processes
+- [[09_Chemical_Equilibrium]] — Le Chatelier equilibrium
 - [[12_Reaction_Kinetics]] — Kinetics and catalysts
 - [[13_Electrochemistry]] — Hall–Héroult, electrorefining
-- [[11_Acids_Bases_Salts]] — $\ce{H2SO4, HNO3, NH3}$
+- [[12_Acids_Bases_and_Salts]] — $\ce{H2SO4, HNO3, NH3}$
 - [[15_Organic_Reactions]] — Cracking, polymerization
 - [[17_Polymers]] — Petrochemical products

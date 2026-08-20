@@ -128,4 +128,4 @@ Since the cell's water potential (-0.2 MPa) is lower than pure water (0 MPa), wa
 - [[01_Cell_Biology]] — cell structure foundation
 - [[03_Biomolecules]] — phospholipid and protein chemistry
 - [[04_Cell_Energy]] — ATP for active transport
-- [[../../Advance/Chemistry/05_Solutions|Chemistry: Solutions]] — concentration gradients and tonicity
+- [[06_Solutions|Chemistry: Solutions]] — concentration gradients and tonicity

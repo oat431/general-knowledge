@@ -83,4 +83,4 @@ Health and Physical Education combines two complementary strands: **health educa
 
 - [[Body of Knowledge - Overview|← Back to Body of Knowledge]]
 - [[Science/03_Biology - Overview|Biology]] — Human body, nutrition, disease
-- [[Social Studies/00_Social Studies - Overview|Social Studies]] — Consumer rights, laws on substances
+- [[Social Studies - Overview|Social Studies]] — Consumer rights, laws on substances

@@ -100,7 +100,7 @@ The ม.6 curriculum brings together the most modern and applied branches of hig
 ## Cross-Links
 
 - [[01_Advance Mathematics (Sci-Math) - Overview|← Back to Advanced Mathematics]]
-- [[06 Foundations and Functions|Foundations and Functions]] — Logic feeds into proof techniques
-- [[07 Calculus|Calculus]] — Differential equations connect to integration
-- [[08 Algebra and Geometry|Algebra and Geometry]] — Linear programming uses systems of inequalities
+- [[06 Foundations and Functions - Overview|06 Foundations and Functions]] — Logic feeds into proof techniques
+- [[07 Calculus - Overview|07 Calculus]] — Differential equations connect to integration
+- [[08 Algebra and Geometry - Overview|08 Algebra and Geometry]] — Linear programming uses systems of inequalities
 - **Computer Science** — Graph theory, combinatorics, and algorithms are CS fundamentals

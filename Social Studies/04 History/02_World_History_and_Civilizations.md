@@ -128,9 +128,9 @@ World History covers major civilizations and events that shaped the modern world
 ## 8 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[04_Thai_History|Thai History]] — Thailand in world context
-- [[05_Geography_of_Thailand|Geography]] — Geographic factors in history
-- [[09_ASEAN_Studies|ASEAN Studies]] — Southeast Asian cooperation
+- [[01_Thai_History|Thai History]] — Thailand in world context
+- [[01_Geography_of_Thailand|Geography]] — Geographic factors in history
+- [[03_ASEAN_Studies|ASEAN Studies]] — Southeast Asian cooperation
 
 ---
 

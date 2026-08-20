@@ -20,40 +20,40 @@ The progression moves from concrete to abstract: ป.1–3 students learn about 
 ## The ~22 Concept Areas
 
 ### 🗳️ Democracy & Governance
-- [[01_Democratic_Governance]] — การปกครองระบอบประชาธิปไตย: principles (sovereignty of the people, liberty, equality, rule of law), democracy with the King as Head of State (ระบอบประชาธิปไตยอันมีพระมหากษัตริย์ทรงเป็นประมุข), Thai democracy's unique character, comparison with other systems (authoritarian, totalitarian)
-- [[02_Constitutional_Monarchy]] — พระมหากษัตริย์ในระบอบประชาธิปไตย: the King's constitutional role, Royal prerogatives, the monarchy as unifying institution, royal projects and development initiatives
-- [[03_Separation_of_Powers]] — การแบ่งแยกอำนาจ: legislative branch (รัฐสภา: House of Representatives + Senate), executive branch (คณะรัฐมนตรี, Prime Minister), judicial branch (ศาล), checks and balances
-- [[04_Elections_and_Participation]] — การเลือกตั้งและการมีส่วนร่วม: electoral systems, voting rights, political parties, civil society participation, local political participation, referendums
+- [[01_Democracy_and_Government|01_Democratic_Governance]] — การปกครองระบอบประชาธิปไตย: principles (sovereignty of the people, liberty, equality, rule of law), democracy with the King as Head of State (ระบอบประชาธิปไตยอันมีพระมหากษัตริย์ทรงเป็นประมุข), Thai democracy's unique character, comparison with other systems (authoritarian, totalitarian)
+- [[01_Democracy_and_Government|02_Constitutional_Monarchy]] — พระมหากษัตริย์ในระบอบประชาธิปไตย: the King's constitutional role, Royal prerogatives, the monarchy as unifying institution, royal projects and development initiatives
+- [[06_Government_Structure|03_Separation_of_Powers]] — การแบ่งแยกอำนาจ: legislative branch (รัฐสภา: House of Representatives + Senate), executive branch (คณะรัฐมนตรี, Prime Minister), judicial branch (ศาล), checks and balances
+- [[01_Democracy_and_Government|04_Elections_and_Participation]] — การเลือกตั้งและการมีส่วนร่วม: electoral systems, voting rights, political parties, civil society participation, local political participation, referendums
 
 ### ⚖️ Law
-- [[05_Constitutional_Law]] — กฎหมายรัฐธรรมนูญ: constitution as supreme law, Thai constitutions (overview from 1932 to present, focus on current พ.ศ. 2560), constitutional rights and liberties, constitutional court
-- [[06_Criminal_Law]] — กฎหมายอาญา: definition of crime, types of offenses (ลหุโทษ, ความผิด misdemeanors, อาชญากรรม felonies), criminal procedure, arrests, juvenile justice, penalties, citizen's rights when interacting with police
-- [[07_Civil_and_Commercial_Law]] — กฎหมายแพ่งและพาณิชย์: persons (natural and juristic), contracts, property, torts, family law (marriage, divorce, adoption, inheritance), consumer protection
-- [[08_Legal_Hierarchy]] — ลำดับศักดิ์ของกฎหมาย: constitution → organic laws → acts of parliament → emergency decrees → royal decrees → ministerial regulations → local ordinances; understanding which law prevails
+- [[05_Thai_Constitution|05_Constitutional_Law]] — กฎหมายรัฐธรรมนูญ: constitution as supreme law, Thai constitutions (overview from 1932 to present, focus on current พ.ศ. 2560), constitutional rights and liberties, constitutional court
+- [[04_Rights_Duties_and_Laws|06_Criminal_Law]] — กฎหมายอาญา: definition of crime, types of offenses (ลหุโทษ, ความผิด misdemeanors, อาชญากรรม felonies), criminal procedure, arrests, juvenile justice, penalties, citizen's rights when interacting with police
+- [[04_Rights_Duties_and_Laws|07_Civil_and_Commercial_Law]] — กฎหมายแพ่งและพาณิชย์: persons (natural and juristic), contracts, property, torts, family law (marriage, divorce, adoption, inheritance), consumer protection
+- [[04_Rights_Duties_and_Laws|08_Legal_Hierarchy]] — ลำดับศักดิ์ของกฎหมาย: constitution → organic laws → acts of parliament → emergency decrees → royal decrees → ministerial regulations → local ordinances; understanding which law prevails
 
 ### 👤 Rights & Duties
-- [[09_Citizen_Rights_and_Duties]] — สิทธิและหน้าที่พลเมือง: rights guaranteed by the constitution (personal, political, economic, social, cultural), duties of Thai citizens (preserve the nation, religion, monarchy; obey laws; pay taxes; education; military service; protect national heritage; etc.)
-- [[10_Human_Rights]] — สิทธิมนุษยชน: UDHR overview, human rights categories (civil, political, economic, social, cultural), human rights in Thailand, children's rights, women's rights, minority rights, human rights mechanisms
+- [[04_Rights_Duties_and_Laws|09_Citizen_Rights_and_Duties]] — สิทธิและหน้าที่พลเมือง: rights guaranteed by the constitution (personal, political, economic, social, cultural), duties of Thai citizens (preserve the nation, religion, monarchy; obey laws; pay taxes; education; military service; protect national heritage; etc.)
+- [[04_Rights_Duties_and_Laws|10_Human_Rights]] — สิทธิมนุษยชน: UDHR overview, human rights categories (civil, political, economic, social, cultural), human rights in Thailand, children's rights, women's rights, minority rights, human rights mechanisms
 
 ### 🏛️ Government & Administration
-- [[11_Government_Structure]] — โครงสร้างการบริหารราชการ: central administration (กระทรวง ทบวง กรม), provincial administration (จังหวัด อำเภอ ตำบล หมู่บ้าน — officials appointed by central government), local government (องค์การบริหารส่วนจังหวัด/อบจ., เทศบาล, องค์การบริหารส่วนตำบล/อบต., กรุงเทพมหานคร, เมืองพัทยา)
-- [[12_Public_Policy]] — นโยบายสาธารณะ: policy-making process, public participation, policy analysis, budget allocation, major national policies (Thailand 4.0, national strategy 20 years)
+- [[06_Government_Structure|11_Government_Structure]] — โครงสร้างการบริหารราชการ: central administration (กระทรวง ทบวง กรม), provincial administration (จังหวัด อำเภอ ตำบล หมู่บ้าน — officials appointed by central government), local government (องค์การบริหารส่วนจังหวัด/อบจ., เทศบาล, องค์การบริหารส่วนตำบล/อบต., กรุงเทพมหานคร, เมืองพัทยา)
+- [[06_Government_Structure|12_Public_Policy]] — นโยบายสาธารณะ: policy-making process, public participation, policy analysis, budget allocation, major national policies (Thailand 4.0, national strategy 20 years)
 
 ### 👥 Social Institutions & Norms
-- [[13_Social_Institutions]] — สถาบันทางสังคม: family (หน้าที่, ประเภท), education (formal/non-formal/informal), religion, government, economy, media — functions, interrelationships, changes in modern society
-- [[14_Social_Norms_and_Status]] — บรรทัดฐานทางสังคมและสถานภาพ: types of social norms (วิถีประชา/folkways, จารีต/mores, กฎหมาย/laws), sanctions, social status (ascribed vs achieved), social roles, role conflict
-- [[15_Socialization]] — การขัดเกลาทางสังคม: agents of socialization (family, school, peers, media, religion), direct and indirect socialization, socialization across the life course, resocialization
-- [[16_Social_Problems]] — ปัญหาสังคม: crime, drugs, poverty, inequality, corruption, human trafficking, domestic violence, cybercrime — analysis, causes, solutions, role of citizens and state
+- [[07_Social_Institutions|13_Social_Institutions]] — สถาบันทางสังคม: family (หน้าที่, ประเภท), education (formal/non-formal/informal), religion, government, economy, media — functions, interrelationships, changes in modern society
+- [[08_Social_Norms_and_Status|14_Social_Norms_and_Status]] — บรรทัดฐานทางสังคมและสถานภาพ: types of social norms (วิถีประชา/folkways, จารีต/mores, กฎหมาย/laws), sanctions, social status (ascribed vs achieved), social roles, role conflict
+- [[09_Socialization|15_Socialization]] — การขัดเกลาทางสังคม: agents of socialization (family, school, peers, media, religion), direct and indirect socialization, socialization across the life course, resocialization
+- [[13_Conflict_Resolution|16_Social_Problems]] — ปัญหาสังคม: crime, drugs, poverty, inequality, corruption, human trafficking, domestic violence, cybercrime — analysis, causes, solutions, role of citizens and state
 
 ### 🎭 Thai Culture
-- [[17_Thai_Culture_and_Traditions]] — วัฒนธรรมและประเพณีไทย: meaning of "culture" (วัฒนธรรม), types (material/non-material), Thai national culture, regional cultures (4 ภาค: เหนือ, อีสาน, กลาง, ใต้), important national traditions (สงกรานต์, ลอยกระทง, วันสำคัญของชาติ), Thai etiquette (มารยาทไทย), cultural preservation
-- [[18_Cultural_Change]] — การเปลี่ยนแปลงทางวัฒนธรรม: cultural diffusion, acculturation, modernization and Westernization effects, globalization's impact on Thai culture, balancing tradition and change, cultural diversity within Thailand
-- [[19_National_Identity]] — เอกลักษณ์ของชาติ: nation, religion, monarchy (ชาติ ศาสนา พระมหากษัตริย์); national symbols (flag, anthem, emblem); Thai language and culture as identity markers; pride in being Thai
+- [[02_Thai_Culture_and_Traditions|17_Thai_Culture_and_Traditions]] — วัฒนธรรมและประเพณีไทย: meaning of "culture" (วัฒนธรรม), types (material/non-material), Thai national culture, regional cultures (4 ภาค: เหนือ, อีสาน, กลาง, ใต้), important national traditions (สงกรานต์, ลอยกระทง, วันสำคัญของชาติ), Thai etiquette (มารยาทไทย), cultural preservation
+- [[10_Culture_and_Change|18_Cultural_Change]] — การเปลี่ยนแปลงทางวัฒนธรรม: cultural diffusion, acculturation, modernization and Westernization effects, globalization's impact on Thai culture, balancing tradition and change, cultural diversity within Thailand
+- [[02_Thai_Culture_and_Traditions|19_National_Identity]] — เอกลักษณ์ของชาติ: nation, religion, monarchy (ชาติ ศาสนา พระมหากษัตริย์); national symbols (flag, anthem, emblem); Thai language and culture as identity markers; pride in being Thai
 
 ### 🌏 ASEAN & International
-- [[20_ASEAN_Studies]] — อาเซียนศึกษา: ASEAN history (Bangkok Declaration 1967 → ASEAN Charter 2008), three pillars (ASEAN Political-Security Community, ASEAN Economic Community, ASEAN Socio-Cultural Community), member states, ASEAN symbols, benefits and challenges for Thailand, Thailand's role in ASEAN
-- [[21_International_Relations]] — ความสัมพันธ์ระหว่างประเทศ: diplomacy types, international organizations (UN, WHO, WTO, IMF, World Bank), international law, Thailand's foreign policy, global issues (climate change, terrorism, pandemics, refugees)
-- [[22_Media_Literacy]] — การรู้เท่าทันสื่อ: types of media, media influence, identifying bias and propaganda, fact-checking, responsible media consumption, digital citizenship, cyberbullying prevention, privacy in digital age
+- [[03_ASEAN_Studies|20_ASEAN_Studies]] — อาเซียนศึกษา: ASEAN history (Bangkok Declaration 1967 → ASEAN Charter 2008), three pillars (ASEAN Political-Security Community, ASEAN Economic Community, ASEAN Socio-Cultural Community), member states, ASEAN symbols, benefits and challenges for Thailand, Thailand's role in ASEAN
+- [[11_International_Relations|21_International_Relations]] — ความสัมพันธ์ระหว่างประเทศ: diplomacy types, international organizations (UN, WHO, WTO, IMF, World Bank), international law, Thailand's foreign policy, global issues (climate change, terrorism, pandemics, refugees)
+- [[12_Media_Literacy|22_Media_Literacy]] — การรู้เท่าทันสื่อ: types of media, media influence, identifying bias and propaganda, fact-checking, responsible media consumption, digital citizenship, cyberbullying prevention, privacy in digital age
 
 ---
 

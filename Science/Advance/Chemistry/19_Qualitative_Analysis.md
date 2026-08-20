@@ -166,7 +166,7 @@ $$\ce{CuSO4 + NaOH -> Cu(OH)2 (s) + Na2SO4}$$
 
 ## 5 | Cross-Links
 
-- [[11_Acids_Bases_Salts]] — Acid–base neutralization reactions
+- [[12_Acids_Bases_and_Salts]] — Acid–base neutralization reactions
 - [[12_Reaction_Kinetics]] — Kinetics of precipitation reactions
 - [[13_Electrochemistry]] — Analysis by electrode
 - [[16_Organic_Compounds_by_Functional_Group]] — Tests for functional groups

@@ -18,12 +18,12 @@ Mechanics is the study of **motion and its causes**. For Thai วิทย์-�
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 01 | [[Measurement and Scientific Method]] | การวัดและวิธีทางวิทยาศาสตร์ | SI units, significant figures, error analysis |
-| 02 | [[Kinematics]] | จลนศาสตร์ | Displacement, velocity, acceleration, projectile motion, free fall |
-| 03 | [[Dynamics]] | พลศาสตร์ | Newton's 3 laws, friction, inclined planes, circular motion |
-| 04 | [[Work, Energy, and Power]] | งาน พลังงาน และกำลัง | KE, PE, work-energy theorem, conservation, power |
-| 05 | [[Momentum]] | โมเมนตัม | Impulse, conservation, elastic/inelastic collisions |
-| 06 | [[Rotational Motion]] | การเคลื่อนที่แบบหมุน | Torque, angular velocity, moment of inertia, angular momentum |
+| 01 | [[01_Measurement_and_Scientific_Method|Measurement and Scientific Method]] | การวัดและวิธีทางวิทยาศาสตร์ | SI units, significant figures, error analysis |
+| 02 | [[02_Kinematics|Kinematics]] | จลนศาสตร์ | Displacement, velocity, acceleration, projectile motion, free fall |
+| 03 | [[03_Dynamics|Dynamics]] | พลศาสตร์ | Newton's 3 laws, friction, inclined planes, circular motion |
+| 04 | [[04_Work_Energy_and_Power|Work, Energy, and Power]] | งาน พลังงาน และกำลัง | KE, PE, work-energy theorem, conservation, power |
+| 05 | [[05_Momentum|Momentum]] | โมเมนตัม | Impulse, conservation, elastic/inelastic collisions |
+| 06 | [[06_Rotational_Motion|Rotational Motion]] | การเคลื่อนที่แบบหมุน | Torque, angular velocity, moment of inertia, angular momentum |
 
 ---
 
@@ -89,6 +89,6 @@ Mechanics is the study of **motion and its causes**. For Thai วิทย์-�
 ## Cross-Links
 
 - [[01_Physics - Overview|← Back to Physics]]
-- [[06 Thermodynamics and Waves|Thermodynamics & Waves]]
-- [[07 Electricity and Magnetism|Electricity & Magnetism]]
-- [[08 Modern Physics|Modern Physics]]
+- [[02_Thermodynamics_and_Waves_-_Overview|06 Thermodynamics and Waves]]
+- [[03_Electricity_and_Magnetism_-_Overview|07 Electricity and Magnetism]]
+- [[04_Modern_Physics_-_Overview|08 Modern Physics]]

@@ -222,4 +222,4 @@ def scan(host, ports):
 - [[10_Databases]] — databases run as server software over networks
 - [[11_Artificial_Intelligence]] — AI services delivered over client-server APIs
 - [[12_Digital_Citizenship]] — cybersecurity threats and safe online behavior
-- [[../../Fundamental/03_Number_Systems|Mathematics: Number Systems]] — binary/hex for IP and addressing
+- [[01_Numbers_and_Numeration|Mathematics: Number Systems]] — binary/hex for IP and addressing

@@ -221,4 +221,4 @@ Since $\Delta < 0$ and $A \neq C$: **Ellipse**
 - [[Fundamental/16_Coordinate_Plane]] — Coordinate geometry foundation
 - [[13_Vectors]] — Vector representation of conics
 - [[15_Differentiation]] — Tangent lines to curves
-- [[01_Physics]] — Projectile motion (parabolas), orbits (ellipses)
+- [[01_Physics - Overview]] — Projectile motion (parabolas), orbits (ellipses)

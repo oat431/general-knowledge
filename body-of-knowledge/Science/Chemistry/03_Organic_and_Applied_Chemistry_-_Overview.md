@@ -17,14 +17,14 @@ Organic chemistry is the chemistry of **carbon-based compounds** — the molecul
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 14 | [[Organic Fundamentals]] | เคมีอินทรีย์เบื้องต้น | Functional groups, IUPAC nomenclature, isomerism |
-| 15 | [[Hydrocarbons]] | ไฮโดรคาร์บอน | Alkanes, alkenes, alkynes, aromatic, reactions |
-| 16 | [[Oxygen-Containing Compounds]] | สารประกอบที่มีออกซิเจน | Alcohols, ethers, aldehydes, ketones, carboxylic acids, esters |
-| 17 | [[Nitrogen-Containing Compounds]] | สารประกอบที่มีไนโตรเจน | Amines, amides, amino acids |
-| 18 | [[Polymers]] | พอลิเมอร์ | Addition/condensation polymers, natural/synthetic, plastics |
-| 19 | [[Biochemistry]] | ชีวเคมี | Carbohydrates, lipids, proteins, nucleic acids, enzymes |
-| 20 | [[Qualitative Analysis]] | การวิเคราะห์เชิงคุณภาพ | Identifying ions, systematic analysis |
-| 21 | [[Industrial Chemistry]] | เคมีอุตสาหกรรม | Industrial processes, materials, environmental chemistry |
+| 14 | [[14_Organic_Fundamentals|Organic Fundamentals]] | เคมีอินทรีย์เบื้องต้น | Functional groups, IUPAC nomenclature, isomerism |
+| 15 | [[16_Organic_Compounds_by_Functional_Group|Hydrocarbons]] | ไฮโดรคาร์บอน | Alkanes, alkenes, alkynes, aromatic, reactions |
+| 16 | [[16_Organic_Compounds_by_Functional_Group|Oxygen-Containing Compounds]] | สารประกอบที่มีออกซิเจน | Alcohols, ethers, aldehydes, ketones, carboxylic acids, esters |
+| 17 | [[16_Organic_Compounds_by_Functional_Group|Nitrogen-Containing Compounds]] | สารประกอบที่มีไนโตรเจน | Amines, amides, amino acids |
+| 18 | [[17_Polymers|Polymers]] | พอลิเมอร์ | Addition/condensation polymers, natural/synthetic, plastics |
+| 19 | [[18_Biochemistry|Biochemistry]] | ชีวเคมี | Carbohydrates, lipids, proteins, nucleic acids, enzymes |
+| 20 | [[19_Qualitative_Analysis|Qualitative Analysis]] | การวิเคราะห์เชิงคุณภาพ | Identifying ions, systematic analysis |
+| 21 | [[20_Industrial_and_Applied_Chemistry|Industrial Chemistry]] | เคมีอุตสาหกรรม | Industrial processes, materials, environmental chemistry |
 
 ---
 
@@ -63,6 +63,6 @@ Organic chemistry is the chemistry of **carbon-based compounds** — the molecul
 ## Cross-Links
 
 - [[02_Chemistry - Overview|← Back to Chemistry]]
-- [[09 Chemical Foundations|Chemical Foundations]]
-- [[10 Reactions and Equilibrium|Reactions & Equilibrium]]
+- [[01_Chemical_Foundations_-_Overview|09 Chemical Foundations]]
+- [[02_Reactions_and_Equilibrium_-_Overview|10 Reactions and Equilibrium]]
 - [[03_Biology - Overview|Biology]] — Biochemistry bridges to biology

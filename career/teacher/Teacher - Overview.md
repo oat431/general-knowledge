@@ -133,4 +133,4 @@ Issued by คุรุสภา, three domains:
 
 ---
 
-> **Related Careers:** [[../nurse/Nursing - Overview|Nursing]], [[../psychologist/Psychologist - Overview|Psychologist]], [[../lawyer/Law - Overview|Law]]
+> **Related Careers:** [[../nurse/Nursing - Overview|Nursing]], [[../psychologist/Psychologist - Overview|Psychologist]], [[Lawyer - Overview|Law]]

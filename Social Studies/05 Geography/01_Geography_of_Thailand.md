@@ -147,9 +147,9 @@ Geography of Thailand covers the physical and human geography of Thailand and th
 ## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[04_Thai_History|Thai History]] — Historical geography, settlements
-- [[08_Natural_Resources|Natural Resources]] — Resource management
-- [[11_Environmental_Studies|Environmental Studies]] — Conservation
+- [[01_Thai_History|Thai History]] — Historical geography, settlements
+- [[06_Natural_Resources|Natural Resources]] — Resource management
+- [[10_Environmental_Conservation|Environmental Studies]] — Conservation
 
 ---
 

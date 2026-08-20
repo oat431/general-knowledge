@@ -18,11 +18,11 @@ Geometry and Measurement spans the visual and spatial side of mathematics. Stude
 
 | # | Concept Area | Thai Name | ป.1–3 | ป.4–6 | ม.1–3 |
 |---|---|---|---|---|---|
-| 12 | [[Geometry Shapes]] | เรขาคณิต | Basic 2D/3D shapes | Angles, triangles, quadrilaterals, symmetry | Angle relationships, Pythagoras, constructions |
-| 13 | [[Measurement]] | การวัด | Standard units, rulers | Unit conversion, compound units | Precision, significant figures |
-| 14 | [[Area and Perimeter]] | พื้นที่และเส้นรอบรูป | Counting squares | Rectangle, triangle formulas | Circles, composite shapes |
-| 15 | [[Volume and Surface Area]] | ปริมาตรและพื้นที่ผิว | — | Rectangular prisms | Prisms, cylinders, pyramids, cones, spheres |
-| 16 | [[Coordinate Plane]] | ระนาบพิกัด | — | First quadrant plotting | All 4 quadrants, slope, distance, midpoint |
+| 12 | [[12_Geometry_Shapes|Geometry Shapes]] | เรขาคณิต | Basic 2D/3D shapes | Angles, triangles, quadrilaterals, symmetry | Angle relationships, Pythagoras, constructions |
+| 13 | [[13_Measurement|Measurement]] | การวัด | Standard units, rulers | Unit conversion, compound units | Precision, significant figures |
+| 14 | [[14_Area_and_Perimeter|Area and Perimeter]] | พื้นที่และเส้นรอบรูป | Counting squares | Rectangle, triangle formulas | Circles, composite shapes |
+| 15 | [[15_Volume_and_Surface_Area|Volume and Surface Area]] | ปริมาตรและพื้นที่ผิว | — | Rectangular prisms | Prisms, cylinders, pyramids, cones, spheres |
+| 16 | [[16_Coordinate_Plane|Coordinate Plane]] | ระนาบพิกัด | — | First quadrant plotting | All 4 quadrants, slope, distance, midpoint |
 
 ---
 
@@ -121,5 +121,5 @@ flowchart TD
 ## Cross-Links
 
 - [[00_Fundamental Mathematics - Overview|← Back to Fundamental Mathematics]]
-- [[01 Numbers and Operations|Numbers and Operations]] — Measurement calculations use arithmetic
-- [[02 Algebra and Patterns|Algebra and Patterns]] — Coordinate plane connects algebra/geometry
+- [[01 Numbers and Operations - Overview|01 Numbers and Operations]] — Measurement calculations use arithmetic
+- [[02 Algebra and Patterns - Overview|02 Algebra and Patterns]] — Coordinate plane connects algebra/geometry

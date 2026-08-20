@@ -195,4 +195,4 @@ $= \pi\left[\left(8-\frac{8}{3}\right) - \left(-8+\frac{8}{3}\right)\right] = \p
 - [[15_Differentiation]] — Integration is reverse of differentiation
 - [[14_Limits_and_Continuity]] — Integral defined via limits (Riemann sums)
 - [[05_Functions]] — Area and volume from function graphs
-- [[01_Physics]] — Work, displacement from velocity, center of mass
+- [[01_Physics - Overview]] — Work, displacement from velocity, center of mass

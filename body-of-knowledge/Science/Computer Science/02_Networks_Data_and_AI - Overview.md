@@ -17,11 +17,11 @@ The ม.6 Computer Science curriculum opens up to the wider digital world — ho
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 09 | [[Computer Systems]] | ระบบคอมพิวเตอร์ | Hardware (CPU, memory, storage), OS basics, software types |
-| 10 | [[Networks and Internet]] | เครือข่ายและอินเทอร์เน็ต | TCP/IP, HTTP, DNS, client-server, web tech, cybersecurity basics |
-| 11 | [[Databases]] | ฐานข้อมูล | Relational model, SQL basics (SELECT, INSERT, UPDATE, DELETE), ER diagrams |
-| 12 | [[Artificial Intelligence]] | ปัญญาประดิษฐ์ | ML concepts, neural networks intro, AI applications, ethics of AI |
-| 13 | [[Digital Citizenship]] | พลเมืองดิจิทัล | Digital literacy, online safety, intellectual property, digital footprint |
+| 09 | [[09_Computer_Systems_and_Networks|Computer Systems]] | ระบบคอมพิวเตอร์ | Hardware (CPU, memory, storage), OS basics, software types |
+| 10 | [[09_Computer_Systems_and_Networks|Networks and Internet]] | เครือข่ายและอินเทอร์เน็ต | TCP/IP, HTTP, DNS, client-server, web tech, cybersecurity basics |
+| 11 | [[10_Databases|Databases]] | ฐานข้อมูล | Relational model, SQL basics (SELECT, INSERT, UPDATE, DELETE), ER diagrams |
+| 12 | [[11_Artificial_Intelligence|Artificial Intelligence]] | ปัญญาประดิษฐ์ | ML concepts, neural networks intro, AI applications, ethics of AI |
+| 13 | [[12_Digital_Citizenship|Digital Citizenship]] | พลเมืองดิจิทัล | Digital literacy, online safety, intellectual property, digital footprint |
 
 ---
 
@@ -110,4 +110,4 @@ The ม.6 Computer Science curriculum opens up to the wider digital world — ho
 ## Cross-Links
 
 - [[05_Computer Science - Overview|← Back to Computer Science]]
-- [[01 Programming and Algorithms|Programming & Algorithms]]
+- [[01_Programming_and_Algorithms - Overview|01 Programming and Algorithms]]

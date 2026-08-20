@@ -18,10 +18,10 @@ Earth and Space Science connects students to their planet and its place in the c
 
 | # | Concept Area | Thai | ป.1–3 | ป.4–6 | ม.1–3 |
 |---|---|---|---|---|---|
-| 19 | [[Rocks, Minerals, and Soil]] | หิน แร่ และดิน | Rock types, soil | Rock cycle, minerals | Plate tectonics, earthquakes |
-| 20 | [[Weather and Climate]] | ลมฟ้าอากาศ | Observation, seasons | Water cycle, instruments | Atmosphere, greenhouse effect |
-| 21 | [[Solar System and Astronomy]] | ระบบสุริยะและดาราศาสตร์ | Sun, Moon, stars | Planets, rotation/revolution | Galaxies, star life cycle |
-| 22 | [[Technology and Engineering]] | เทคโนโลยีและการออกแบบ | Tools, daily life | Simple machines, design process | STEM, materials |
+| 19 | [[19_Rocks_Minerals_Soil|Rocks, Minerals, and Soil]] | หิน แร่ และดิน | Rock types, soil | Rock cycle, minerals | Plate tectonics, earthquakes |
+| 20 | [[20_Weather_and_Climate|Weather and Climate]] | ลมฟ้าอากาศ | Observation, seasons | Water cycle, instruments | Atmosphere, greenhouse effect |
+| 21 | [[21_Solar_System_and_Astronomy|Solar System and Astronomy]] | ระบบสุริยะและดาราศาสตร์ | Sun, Moon, stars | Planets, rotation/revolution | Galaxies, star life cycle |
+| 22 | [[22_Technology_and_Engineering|Technology and Engineering]] | เทคโนโลยีและการออกแบบ | Tools, daily life | Simple machines, design process | STEM, materials |
 
 ---
 

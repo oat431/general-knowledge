@@ -160,4 +160,4 @@ print(len(s.encode("utf-8")))   # 18
 - [[01_Computational_Thinking]] — abstraction applied to data
 - [[03_Boolean_Logic]] — binary values as logical true/false
 - [[06_Algorithms]] — algorithms operate on binary data
-- [[../../Advance/Mathematics/Fundamental/02_Number_Systems|Mathematics: Number Systems]] — base conversion foundations
+- [[01_Numbers_and_Numeration|Mathematics: Number Systems]] — base conversion foundations

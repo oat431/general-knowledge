@@ -226,4 +226,4 @@ Max product = $100$
 - [[05_Functions]] — Analyzing function behavior
 - [[16_Integration]] — Integration reverses differentiation
 - [[12_Analytic_Geometry]] — Tangent lines to conics
-- [[01_Physics]] — Velocity, acceleration, related rates
+- [[01_Physics - Overview]] — Velocity, acceleration, related rates

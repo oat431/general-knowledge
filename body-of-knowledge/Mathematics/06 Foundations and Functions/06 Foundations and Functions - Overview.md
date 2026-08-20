@@ -54,6 +54,6 @@ This category covers the ม.4 curriculum — the bridge from fundamental mathem
 ## Cross-Links
 
 - [[01_Advance Mathematics (Sci-Math) - Overview|← Back to Advanced Mathematics]]
-- [[07 Calculus|Calculus]] — Functions are what calculus differentiates and integrates
-- [[08 Algebra and Geometry|Algebra and Geometry]] — Vectors extend function concepts to geometry
-- [[09 Probability and Statistics|Probability and Statistics]] — Distributions are special functions
+- [[07 Calculus - Overview|07 Calculus]] — Functions are what calculus differentiates and integrates
+- [[08 Algebra and Geometry - Overview|08 Algebra and Geometry]] — Vectors extend function concepts to geometry
+- [[09 Probability and Statistics - Overview|09 Probability and Statistics]] — Distributions are special functions

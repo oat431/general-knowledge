@@ -20,9 +20,9 @@ Geography develops spatial literacy from simple map reading through advanced geo
 
 | # | Concept Area | Thai | ป.1–3 | ป.4–6 | ม.1–3 | ม.4–6 |
 |---|---|---|---|---|---|---|
-| 01 | [[Geography of Thailand]] | ภูมิศาสตร์ไทย | Local environment | Six regions | Physical/human | Geographic challenges |
-| 02 | [[Natural Disasters and Environment]] | ภัยธรรมชาติฯ | Weather safety | Disaster types | Preparedness | Disaster management |
-| 03 | [[Map Skills and Geographic Tools]] | ทักษะแผนที่ | Simple maps | Scale, legend | Topographic, GIS | GIS applications, remote sensing |
+| 01 | [[01_Geography_of_Thailand]] | ภูมิศาสตร์ไทย | Local environment | Six regions | Physical/human | Geographic challenges |
+| 02 | [[02_Natural_Disasters_and_Environment]] | ภัยธรรมชาติฯ | Weather safety | Disaster types | Preparedness | Disaster management |
+| 03 | [[03_Map_Skills_and_Geographic_Tools]] | ทักษะแผนที่ | Simple maps | Scale, legend | Topographic, GIS | GIS applications, remote sensing |
 | 04 | Physical Geography — Landforms | ลักษณะภูมิประเทศ | — | Mountains, rivers | Plate tectonics | Geomorphology advanced |
 | 05 | Climate | ภูมิอากาศ | Seasons | Climate zones | Monsoons | Climatology, climate change |
 | 06 | Natural Resources | ทรัพยากรฯ | — | Resources in Thailand | Conservation | Resource management policy |

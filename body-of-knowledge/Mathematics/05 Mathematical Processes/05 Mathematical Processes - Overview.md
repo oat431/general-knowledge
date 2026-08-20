@@ -82,7 +82,7 @@ Mathematical Processes are the **"how"** of mathematics — the skills that make
 ## Cross-Links
 
 - [[00_Fundamental Mathematics - Overview|← Back to Fundamental Mathematics]]
-- [[01 Numbers and Operations|Numbers and Operations]]
-- [[02 Algebra and Patterns|Algebra and Patterns]]
-- [[03 Geometry and Measurement|Geometry and Measurement]]
-- [[04 Data Statistics and Probability|Data, Statistics, and Probability]]
+- [[01 Numbers and Operations - Overview|01 Numbers and Operations]]
+- [[02 Algebra and Patterns - Overview|02 Algebra and Patterns]]
+- [[03 Geometry and Measurement - Overview|03 Geometry and Measurement]]
+- [[04 Data Statistics and Probability - Overview|04 Data Statistics and Probability]]

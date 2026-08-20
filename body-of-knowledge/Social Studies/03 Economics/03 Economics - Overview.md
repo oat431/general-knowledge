@@ -20,36 +20,36 @@ The strand prepares students for both practical life (budgeting, saving, underst
 ## The ~16 Concept Areas
 
 ### 🏗️ Foundational Economics
-- [[01_Scarcity_and_Choice]] — ความขาดแคลนและการเลือก: unlimited wants vs limited resources, scarcity as the fundamental economic problem, opportunity cost, trade-offs, production possibility frontier (ม.4–6)
-- [[02_Factors_of_Production]] — ปัจจัยการผลิต: land (ที่ดิน — natural resources), labor (แรงงาน), capital (ทุน — physical and financial), entrepreneurship (ผู้ประกอบการ); factor rewards (rent, wages, interest, profit)
+- [[01_Economics_Fundamentals|01_Scarcity_and_Choice]] — ความขาดแคลนและการเลือก: unlimited wants vs limited resources, scarcity as the fundamental economic problem, opportunity cost, trade-offs, production possibility frontier (ม.4–6)
+- [[01_Economics_Fundamentals|02_Factors_of_Production]] — ปัจจัยการผลิต: land (ที่ดิน — natural resources), labor (แรงงาน), capital (ทุน — physical and financial), entrepreneurship (ผู้ประกอบการ); factor rewards (rent, wages, interest, profit)
 
 ### 📈 Market Mechanisms
-- [[03_Demand]] — อุปสงค์: law of demand, demand schedule and curve, determinants of demand (price, income, tastes, related goods, expectations, number of buyers), shifts vs movements, elasticity of demand
-- [[04_Supply]] — อุปทาน: law of supply, supply schedule and curve, determinants of supply (price, input costs, technology, taxes/subsidies, expectations, number of sellers), shifts vs movements, elasticity of supply
-- [[05_Market_Equilibrium]] — ดุลยภาพของตลาด: equilibrium price and quantity, surplus and shortage, price mechanism, government intervention (price floors/ceilings), market efficiency
-- [[06_Market_Structures]] — โครงสร้างตลาด: perfect competition, monopoly, monopolistic competition, oligopoly — characteristics, pricing, efficiency; Thai market examples (ม.4–6)
-- [[07_Market_Failure]] — ความล้มเหลวของตลาด: externalities (positive/negative), public goods, information asymmetry, monopoly power, income inequality — and government responses (ม.4–6)
+- [[04_Supply_and_Demand|03_Demand]] — อุปสงค์: law of demand, demand schedule and curve, determinants of demand (price, income, tastes, related goods, expectations, number of buyers), shifts vs movements, elasticity of demand
+- [[04_Supply_and_Demand|04_Supply]] — อุปทาน: law of supply, supply schedule and curve, determinants of supply (price, input costs, technology, taxes/subsidies, expectations, number of sellers), shifts vs movements, elasticity of supply
+- [[04_Supply_and_Demand|05_Market_Equilibrium]] — ดุลยภาพของตลาด: equilibrium price and quantity, surplus and shortage, price mechanism, government intervention (price floors/ceilings), market efficiency
+- [[04_Supply_and_Demand|06_Market_Structures]] — โครงสร้างตลาด: perfect competition, monopoly, monopolistic competition, oligopoly — characteristics, pricing, efficiency; Thai market examples (ม.4–6)
+- [[04_Supply_and_Demand|07_Market_Failure]] — ความล้มเหลวของตลาด: externalities (positive/negative), public goods, information asymmetry, monopoly power, income inequality — and government responses (ม.4–6)
 
 ### 👑 Sufficiency Economy (Thai Emphasis)
-- [[08_Sufficiency_Economy_Philosophy]] — ปรัชญาเศรษฐกิจพอเพียง: origins (King Bhumibol's speeches from 1974 onward), 3 core principles (พอประมาณ/moderation, มีเหตุผล/reasonableness, มีภูมิคุ้มกัน/self-immunity), 2 conditions (ความรู้/knowledge, คุณธรรม/ethics), New Theory agriculture, application at individual, community, and national levels, Sustainable Development Goals (SDGs) alignment
+- [[03_Sufficiency_Economy_Philosophy|08_Sufficiency_Economy_Philosophy]] — ปรัชญาเศรษฐกิจพอเพียง: origins (King Bhumibol's speeches from 1974 onward), 3 core principles (พอประมาณ/moderation, มีเหตุผล/reasonableness, มีภูมิคุ้มกัน/self-immunity), 2 conditions (ความรู้/knowledge, คุณธรรม/ethics), New Theory agriculture, application at individual, community, and national levels, Sustainable Development Goals (SDGs) alignment
 
 ### 💵 Money, Banking & Finance
-- [[09_Money_and_Banking]] — เงินและสถาบันการเงิน: functions of money (medium of exchange, unit of account, store of value), types of money (commodity, fiat, digital), central banking (Bank of Thailand: roles in monetary policy, financial stability, currency issuance), commercial banks, specialized financial institutions, fintech
-- [[10_Personal_Finance]] — การเงินส่วนบุคคล: budgeting (รายรับ-รายจ่าย), saving vs investing, types of savings (savings accounts, fixed deposits, government savings bonds), debt management (good vs bad debt), credit (credit cards, loans), financial planning (short/medium/long term), taxation basics (personal income tax — ภ.ง.ด. 90/91, VAT), insurance, retirement planning
-- [[11_Inflation_and_Deflation]] — เงินเฟ้อและเงินฝืด: definition, measurement (CPI), types (demand-pull, cost-push), effects on purchasing power, savers, borrowers; deflation risks; central bank responses
+- [[07_Money_and_Banking|09_Money_and_Banking]] — เงินและสถาบันการเงิน: functions of money (medium of exchange, unit of account, store of value), types of money (commodity, fiat, digital), central banking (Bank of Thailand: roles in monetary policy, financial stability, currency issuance), commercial banks, specialized financial institutions, fintech
+- [[02_Personal_Finance|10_Personal_Finance]] — การเงินส่วนบุคคล: budgeting (รายรับ-รายจ่าย), saving vs investing, types of savings (savings accounts, fixed deposits, government savings bonds), debt management (good vs bad debt), credit (credit cards, loans), financial planning (short/medium/long term), taxation basics (personal income tax — ภ.ง.ด. 90/91, VAT), insurance, retirement planning
+- [[10_Economic_Indicators|11_Inflation_and_Deflation]] — เงินเฟ้อและเงินฝืด: definition, measurement (CPI), types (demand-pull, cost-push), effects on purchasing power, savers, borrowers; deflation risks; central bank responses
 
 ### 🏭 Production, Consumption & Distribution
-- [[12_Production_and_Consumption]] — การผลิตและการบริโภค: production process (inputs → outputs), productivity, economies of scale, consumer behavior, consumer rights (5 consumer rights: right to information, right to choose, right to safety, right to be heard, right to compensation), advertising literacy, sustainable consumption
-- [[13_Economic_Systems]] — ระบบเศรษฐกิจ: traditional economy, command economy (สังคมนิยม/คอมมิวนิสต์), market economy (ทุนนิยม), mixed economy; characteristics, advantages, disadvantages; Thailand's mixed economy; comparison of North Korea, China, US, Scandinavian models
+- [[06_Production_and_Consumption|12_Production_and_Consumption]] — การผลิตและการบริโภค: production process (inputs → outputs), productivity, economies of scale, consumer behavior, consumer rights (5 consumer rights: right to information, right to choose, right to safety, right to be heard, right to compensation), advertising literacy, sustainable consumption
+- [[05_Economic_Systems|13_Economic_Systems]] — ระบบเศรษฐกิจ: traditional economy, command economy (สังคมนิยม/คอมมิวนิสต์), market economy (ทุนนิยม), mixed economy; characteristics, advantages, disadvantages; Thailand's mixed economy; comparison of North Korea, China, US, Scandinavian models
 
 ### 📊 Macroeconomics
-- [[14_National_Income]] — รายได้ประชาชาติ: GDP, GNP, NNP, national income calculation methods (expenditure, income, production approaches), nominal vs real GDP, GDP per capita, limitations of GDP as welfare measure, Thailand's GDP
-- [[15_Government_and_Economy]] — บทบาทรัฐบาลในระบบเศรษฐกิจ: fiscal policy (government spending + taxation — expansionary vs contractionary), monetary policy (interest rates, reserve requirements, open market operations), public goods, government budget (พระราชบัญญัติงบประมาณรายจ่ายประจำปี), national debt, Thailand's fiscal position
-- [[16_International_Economics]] — เศรษฐศาสตร์ระหว่างประเทศ: international trade theory (absolute advantage, comparative advantage), free trade vs protectionism (tariffs, quotas, subsidies), FTA (Free Trade Agreements), ASEAN Economic Community (AEC — in-depth from economics perspective), WTO, balance of payments, exchange rate systems, foreign direct investment (FDI), globalization debates
+- [[10_Economic_Indicators|14_National_Income]] — รายได้ประชาชาติ: GDP, GNP, NNP, national income calculation methods (expenditure, income, production approaches), nominal vs real GDP, GDP per capita, limitations of GDP as welfare measure, Thailand's GDP
+- [[09_Government_and_Economy|15_Government_and_Economy]] — บทบาทรัฐบาลในระบบเศรษฐกิจ: fiscal policy (government spending + taxation — expansionary vs contractionary), monetary policy (interest rates, reserve requirements, open market operations), public goods, government budget (พระราชบัญญัติงบประมาณรายจ่ายประจำปี), national debt, Thailand's fiscal position
+- [[08_Trade_and_Globalization|16_International_Economics]] — เศรษฐศาสตร์ระหว่างประเทศ: international trade theory (absolute advantage, comparative advantage), free trade vs protectionism (tariffs, quotas, subsidies), FTA (Free Trade Agreements), ASEAN Economic Community (AEC — in-depth from economics perspective), WTO, balance of payments, exchange rate systems, foreign direct investment (FDI), globalization debates
 
 ### 🔄 Additional Topics (woven across levels)
-- [[17_Economic_Development]] — การพัฒนาเศรษฐกิจ: developed vs developing countries, economic growth vs development, Human Development Index (HDI), inequality (Gini coefficient, Palma ratio), poverty, Thailand's development trajectory (from agrarian to NIC to middle-income trap), Thailand 4.0, sustainable development
-- [[18_Cooperatives_and_Community_Economy]] — สหกรณ์และเศรษฐกิจชุมชน: cooperative principles (ICA 7 principles), cooperative types in Thailand (agricultural, credit union, consumer, service, fishery), community enterprises (วิสาหกิจชุมชน), local economy strengthening
+- [[12_Economic_Development|17_Economic_Development]] — การพัฒนาเศรษฐกิจ: developed vs developing countries, economic growth vs development, Human Development Index (HDI), inequality (Gini coefficient, Palma ratio), poverty, Thailand's development trajectory (from agrarian to NIC to middle-income trap), Thailand 4.0, sustainable development
+- [[13_Cooperatives|18_Cooperatives_and_Community_Economy]] — สหกรณ์และเศรษฐกิจชุมชน: cooperative principles (ICA 7 principles), cooperative types in Thailand (agricultural, credit union, consumer, service, fishery), community enterprises (วิสาหกิจชุมชน), local economy strengthening
 
 ---
 

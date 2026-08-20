@@ -197,4 +197,4 @@ This is about $\alpha c \approx c/137$, where $\alpha \approx 1/137$ is the fine
 - [[19_Quantum_Physics]] — Quantization of energy is the foundation of atomic models
 - [[18_Special_Relativity]] — Fine structure corrections require relativistic treatment
 - [[21_Nuclear_Physics]] — The nucleus inside the atom; nuclear properties affect atomic spectra
-- [[17_Electromagnetic_Waves]] — Spectra are analyzed using EM wave properties
+- [[15_Electromagnetic_Waves]] — Spectra are analyzed using EM wave properties

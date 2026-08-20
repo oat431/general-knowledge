@@ -118,4 +118,4 @@ Religious Art and Architecture covers the artistic expressions of faith in Thail
 - [[Social Studies - Overview|← Back to Social Studies]]
 - [[01_Buddhist_Principles|Buddhist Principles]] — Doctrine expressed in art
 - [[02_Buddhist_Ceremonies_and_Meditation|Ceremonies]] — Art used in worship
-- [[06_Thai_Culture_and_Traditions|Thai Culture]] — Cultural heritage
+- [[02_Thai_Culture_and_Traditions|Thai Culture]] — Cultural heritage

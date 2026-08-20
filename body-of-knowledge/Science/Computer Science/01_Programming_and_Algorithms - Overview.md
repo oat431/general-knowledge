@@ -17,14 +17,14 @@ Programming and Algorithms is the technical core of computer science. Students l
 
 | # | Topic | Thai | Year | Key Content |
 |---|---|---|---|---|
-| 01 | [[Computational Thinking]] | การคิดเชิงคำนวณ | ม.4 | Decomposition, pattern recognition, abstraction, algorithm design |
-| 02 | [[Data Representation]] | การแทนข้อมูล | ม.4 | Binary, hex, ASCII/Unicode, image/sound representation |
-| 03 | [[Boolean Logic]] | ตรรกศาสตร์บูลีน | ม.4 | Logic gates, truth tables, Boolean algebra, Karnaugh maps |
-| 04 | [[Programming Fundamentals]] | การเขียนโปรแกรมเบื้องต้น | ม.4 | Variables, data types, I/O, control structures |
-| 05 | [[Functions and Modularity]] | ฟังก์ชันและการแยกส่วน | ม.5 | Parameters, return values, recursion, scope, libraries |
-| 06 | [[Algorithms]] | อัลกอริทึม | ม.5 | Sorting (bubble, selection, insertion, merge), searching (linear, binary), Big-O |
-| 07 | [[Data Structures]] | โครงสร้างข้อมูล | ม.5 | Arrays, lists, stacks, queues, dictionaries, trees, graphs intro |
-| 08 | [[Object-Oriented Programming]] | การเขียนโปรแกรมเชิงวัตถุ | ม.5 | Classes, objects, inheritance, encapsulation, polymorphism |
+| 01 | [[01_Computational_Thinking|Computational Thinking]] | การคิดเชิงคำนวณ | ม.4 | Decomposition, pattern recognition, abstraction, algorithm design |
+| 02 | [[02_Data_Representation|Data Representation]] | การแทนข้อมูล | ม.4 | Binary, hex, ASCII/Unicode, image/sound representation |
+| 03 | [[03_Boolean_Logic|Boolean Logic]] | ตรรกศาสตร์บูลีน | ม.4 | Logic gates, truth tables, Boolean algebra, Karnaugh maps |
+| 04 | [[04_Programming_Fundamentals|Programming Fundamentals]] | การเขียนโปรแกรมเบื้องต้น | ม.4 | Variables, data types, I/O, control structures |
+| 05 | [[05_Functions_and_Modularity|Functions and Modularity]] | ฟังก์ชันและการแยกส่วน | ม.5 | Parameters, return values, recursion, scope, libraries |
+| 06 | [[06_Algorithms|Algorithms]] | อัลกอริทึม | ม.5 | Sorting (bubble, selection, insertion, merge), searching (linear, binary), Big-O |
+| 07 | [[07_Data_Structures|Data Structures]] | โครงสร้างข้อมูล | ม.5 | Arrays, lists, stacks, queues, dictionaries, trees, graphs intro |
+| 08 | [[08_Object_Oriented_Programming|Object-Oriented Programming]] | การเขียนโปรแกรมเชิงวัตถุ | ม.5 | Classes, objects, inheritance, encapsulation, polymorphism |
 
 ---
 
@@ -92,4 +92,4 @@ Programming and Algorithms is the technical core of computer science. Students l
 ## Cross-Links
 
 - [[05_Computer Science - Overview|← Back to Computer Science]]
-- [[02 Networks and Data|Networks & Data]]
+- [[02_Networks_Data_and_AI - Overview|02 Networks and Data]]

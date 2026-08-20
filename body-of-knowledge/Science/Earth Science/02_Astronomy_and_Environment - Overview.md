@@ -19,7 +19,7 @@ Astronomy takes us beyond Earth — to planets, stars, and galaxies. Environment
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 09 | [[Solar System]] | ระบบสุริยะ | Planets, moons, asteroids, comets, formation theories |
+| 09 | [[09_Solar_System_and_Astronomy|Solar System]] | ระบบสุริยะ | Planets, moons, asteroids, comets, formation theories |
 | 10 | [[Stars and Galaxies]] | ดาวฤกษ์และกาแล็กซี | Stellar evolution, H-R diagram, galaxies, Big Bang, cosmology |
 | 11 | [[Space Exploration]] | การสำรวจอวกาศ | Telescopes, satellites, space missions, Thai space program |
 
@@ -27,7 +27,7 @@ Astronomy takes us beyond Earth — to planets, stars, and galaxies. Environment
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 12 | [[Climate Change]] | การเปลี่ยนแปลงสภาพภูมิอากาศ | Greenhouse effect, global warming, carbon cycle, mitigation |
+| 12 | [[10_Climate_Change_and_Environment|Climate Change]] | การเปลี่ยนแปลงสภาพภูมิอากาศ | Greenhouse effect, global warming, carbon cycle, mitigation |
 | 13 | [[Natural Resources]] | ทรัพยากรธรรมชาติ | Renewable/non-renewable, energy resources, minerals, forests |
 | 14 | [[Natural Hazards]] | ภัยพิบัติทางธรรมชาติ | Floods, tsunamis, landslides, drought, preparedness |
 
@@ -85,5 +85,5 @@ Astronomy takes us beyond Earth — to planets, stars, and galaxies. Environment
 ## Cross-Links
 
 - [[04_Earth Science - Overview|← Back to Earth Science]]
-- [[01 Geology and Atmosphere|Geology & Atmosphere]]
-- [[03 Earth and Space Science|Fundamental Earth & Space (ป.1-ม.3)]]
+- [[01_Geology_and_Atmosphere - Overview|01 Geology and Atmosphere]]
+- [[03_Earth_and_Space_Science - Overview|03 Earth and Space Science]]

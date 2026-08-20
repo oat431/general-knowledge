@@ -254,4 +254,4 @@ print("Accuracy:", accuracy_score(y_te, model.predict(X_te)))
 - [[08_Object_Oriented_Programming]] — ML models are OOP objects (`.fit()`, `.predict()`)
 - [[10_Databases]] — training data is often stored in databases
 - [[12_Digital_Citizenship]] — AI ethics, misinformation, responsible use
-- [[../../Fundamental/14_Probability|Mathematics: Probability]] — statistical foundations of ML
+- [[19_Probability|Mathematics: Probability]] — statistical foundations of ML

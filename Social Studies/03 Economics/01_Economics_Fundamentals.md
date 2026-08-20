@@ -184,6 +184,6 @@ $$\text{Savings} = \text{Income} - \text{Expenses}$$
 ## 11 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[04_Personal_Finance|Personal Finance]] — Practical money management
+- [[02_Personal_Finance|Personal Finance]] — Practical money management
 - [[06_Production_and_Consumption|Production & Consumption]] — How goods are made
-- [[09_ASEAN_Economics|ASEAN Economics]] — International trade
+- [[11_ASEAN_Economics|ASEAN Economics]] — International trade

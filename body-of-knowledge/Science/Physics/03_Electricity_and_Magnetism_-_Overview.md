@@ -18,11 +18,11 @@ Electricity and Magnetism (E&M) is the physics of **charges and fields**. From C
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 11 | [[Electrostatics]] | ไฟฟ้าสถิตย์ | Coulomb's law, electric field, Gauss's law, potential, capacitors |
-| 12 | [[Electric Circuits]] | วงจรไฟฟ้า | Ohm's law, series/parallel, Kirchhoff's laws, RC circuits |
-| 13 | [[Magnetism]] | แม่เหล็ก | Magnetic fields, force on charges/currents |
-| 14 | [[Electromagnetic Induction]] | การเหนี่ยวนำแม่เหล็กไฟฟ้า | Faraday's law, Lenz's law, generators, transformers, inductance |
-| 15 | [[Electromagnetic Waves]] | คลื่นแม่เหล็กไฟฟ้า | EM spectrum, properties, light as EM wave |
+| 11 | [[11_Electrostatics|Electrostatics]] | ไฟฟ้าสถิตย์ | Coulomb's law, electric field, Gauss's law, potential, capacitors |
+| 12 | [[12_Electric_Circuits|Electric Circuits]] | วงจรไฟฟ้า | Ohm's law, series/parallel, Kirchhoff's laws, RC circuits |
+| 13 | [[13_Magnetism|Magnetism]] | แม่เหล็ก | Magnetic fields, force on charges/currents |
+| 14 | [[14_Electromagnetic_Induction|Electromagnetic Induction]] | การเหนี่ยวนำแม่เหล็กไฟฟ้า | Faraday's law, Lenz's law, generators, transformers, inductance |
+| 15 | [[15_Electromagnetic_Waves|Electromagnetic Waves]] | คลื่นแม่เหล็กไฟฟ้า | EM spectrum, properties, light as EM wave |
 
 ---
 
@@ -79,5 +79,5 @@ Electricity and Magnetism (E&M) is the physics of **charges and fields**. From C
 ## Cross-Links
 
 - [[01_Physics - Overview|← Back to Physics]]
-- [[05 Mechanics|Mechanics]]
-- [[08 Modern Physics|Modern Physics]] — EM waves bridge to quantum physics
+- [[01_Mechanics_-_Overview|05 Mechanics]]
+- [[04_Modern_Physics_-_Overview|08 Modern Physics]] — EM waves bridge to quantum physics

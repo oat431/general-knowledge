@@ -183,4 +183,4 @@ $$t = 2 \times 5730 = 11{,}460\,\text{yr}$$
 - [[03_Earthquakes_and_Volcanoes]] — volcanic ash beds are key radiometric markers in sedimentary sequences
 - [[04_Weathering_and_Erosion]] — erosion produces unconformities; weathering destroys fossils
 - [[../../Fundamental/19_Rocks_Minerals_Soil]] — introduction to rocks and soil from ม.1-3
-- [[../../Advance/chemistry/05_Nuclear_Chemistry|Chemistry: Nuclear Chemistry]] — radioactive decay kinetics applied to geochronology
+- [[21_Nuclear_Physics|Chemistry: Nuclear Chemistry]] — radioactive decay kinetics applied to geochronology

@@ -192,5 +192,5 @@ $$\text{Savings} = \text{Income} - \text{Expenses}$$
 ## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[03_Economics_Fundamentals|Economics]] — Economic theory behind finance
-- [[02_Democracy_and_Government|Democracy]] — Taxation and government services
+- [[01_Economics_Fundamentals|Economics]] — Economic theory behind finance
+- [[01_Democracy_and_Government|Democracy]] — Taxation and government services

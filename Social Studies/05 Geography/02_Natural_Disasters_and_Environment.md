@@ -110,9 +110,9 @@ Natural Disasters and Environment covers the geographic processes that cause dis
 ## 8 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[05_Geography_of_Thailand|Geography]] — Physical geography, climate
-- [[03_Economics_Fundamentals|Economics]] — Environmental economics
-- [[04_Thai_History|History]] — Historical disasters
+- [[01_Geography_of_Thailand|Geography]] — Physical geography, climate
+- [[01_Economics_Fundamentals|Economics]] — Environmental economics
+- [[01_Thai_History|History]] — Historical disasters
 
 ---
 

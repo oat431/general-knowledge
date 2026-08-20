@@ -190,7 +190,7 @@ $$p = \gamma m_0 v = 1.898 \times 1.67 \times 10^{-27} \times 0.85 \times 3 \tim
 
 ## 5 | Cross-Links
 
-- [[17_Electromagnetic_Waves]] — Maxwell's equations predict c, motivating the second postulate
+- [[15_Electromagnetic_Waves]] — Maxwell's equations predict c, motivating the second postulate
 - [[19_Quantum_Physics]] — Relativistic quantum mechanics extends SR to quantum particles
 - [[21_Nuclear_Physics]] — Mass-energy equivalence explains nuclear binding energy and fission/fusion energy
 - [[23_Astrophysics_and_Cosmology]] — Relativistic effects are crucial in high-energy astrophysical phenomena

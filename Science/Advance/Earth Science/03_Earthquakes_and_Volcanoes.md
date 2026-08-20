@@ -182,5 +182,5 @@ $$t = \frac{1500 \times 10^{3}}{198} \approx 7576\,\text{s} \approx 2.1\,\text{h
 - [[02_Plate_Tectonics]] — plate boundaries are the source of nearly all earthquakes and volcanoes
 - [[01_Minerals_and_Rocks]] — volcanic rocks are the igneous products of eruptions
 - [[05_Earth_History]] — volcanic ash layers provide dating markers in the rock record
-- [[../../Advance/physic/02_Kinematics|Physics: Kinematics]] — wave speed, $v = \sqrt{gd}$, and energy relations
-- [[../../Advance/physic/08_Waves|Physics: Waves]] — longitudinal vs transverse waves, wave interference
+- [[../../Advance/Physics/02_Kinematics|Physics: Kinematics]] — wave speed, $v = \sqrt{gd}$, and energy relations
+- [[../../Advance/Physics/08_Waves|Physics: Waves]] — longitudinal vs transverse waves, wave interference

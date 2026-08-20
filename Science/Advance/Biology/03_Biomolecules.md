@@ -161,4 +161,4 @@ Base pairing rules: A-T (DNA) or A-U (RNA); G-C (both).
 - [[01_Cell_Biology]] — organelles that synthesize biomolecules
 - [[02_Cell_Membrane_and_Transport]] — phospholipid and protein roles in membranes
 - [[04_Cell_Energy]] — carbohydrates as energy source; enzymes in metabolic pathways
-- [[../../Advance/Chemistry/06_Organic_Chemistry|Chemistry: Organic Chemistry]] — carbon bonding and functional groups
+- [[14_Organic_Fundamentals|Chemistry: Organic Chemistry]] — carbon bonding and functional groups

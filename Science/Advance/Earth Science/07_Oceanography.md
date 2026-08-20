@@ -187,5 +187,5 @@ This is the average ocean salinity.
 - [[06_Weather_and_Climate]] — ocean–atmosphere interaction drives ENSO and monsoons
 - [[08_Water_Cycle_and_Hydrology]] — oceans are the largest reservoir in the water cycle
 - [[10_Climate_Change_and_Environment]] — ocean acidification and sea level rise
-- [[01_Earth_Structure]] — continental shelves and ocean floor geology
+- [[02_Plate_Tectonics]] — continental shelves and ocean floor geology
 - [[../../Advance/Biology/16_Ecology|Biology: Ecology]] — marine ecosystems and coral reefs

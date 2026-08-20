@@ -180,5 +180,5 @@ These two fields share foundations in chemistry, thermodynamics, and process des
 
 - [[01_Engineering_Foundations]] — Fluid mechanics, thermodynamics, chemistry
 - [[02_Civil_Engineering]] — Water resources and treatment overlap
-- [[07_University_Guide_and_Career_Paths]] — Top ChemE/EnvE programs
+- [[00_University_Guide_and_Career_Paths]] — Top ChemE/EnvE programs
 - [[Engineer - Overview]] — Return to engineering overview

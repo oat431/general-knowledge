@@ -171,6 +171,6 @@ King Rama IX's agricultural philosophy for Thai farmers:
 ## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[03_Economics_Fundamentals|Economics]] — Economic theory behind SEP
+- [[01_Economics_Fundamentals|Economics]] — Economic theory behind SEP
 - [[01_Buddhist_Principles|Buddhism]] — Buddhist values in SEP (moderation, wisdom)
-- [[05_Geography_of_Thailand|Geography]] — Agricultural application
+- [[01_Geography_of_Thailand|Geography]] — Agricultural application

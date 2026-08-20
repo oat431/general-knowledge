@@ -178,4 +178,4 @@ $2x - y + 4z = 12$
 - [[07_Trigonometric_Functions]] — Direction angles
 - [[11_Matrices_and_Determinants]] — Cross product via determinant
 - [[15_Differentiation]] — Gradient vectors
-- [[01_Physics]] — Force, velocity, acceleration vectors
+- [[01_Physics - Overview]] — Force, velocity, acceleration vectors

@@ -17,12 +17,12 @@ Reactions and Equilibrium is the ม.5 chemistry curriculum — where chemistry 
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 08 | [[Acids and Bases]] | กรด-เบส | Arrhenius, Brønsted-Lowry, Lewis, pH, buffers, titration |
-| 09 | [[Chemical Equilibrium]] | สมดุลเคมี | Le Chatelier, Kc, Kp, ICE tables |
-| 10 | [[Ionic Equilibrium]] | สมดุลไอออน | Ksp, common ion effect, precipitation |
-| 11 | [[Thermochemistry]] | เคมีความร้อน | Enthalpy, Hess's law, entropy, Gibbs free energy |
-| 12 | [[Reaction Kinetics]] | จลนพลศาสตร์ | Rate laws, activation energy, Arrhenius, catalysis |
-| 13 | [[Electrochemistry]] | เคมีไฟฟ้า | Redox, galvanic cells, Nernst, electrolysis, corrosion |
+| 08 | [[08_Acids_and_Bases|Acids and Bases]] | กรด-เบส | Arrhenius, Brønsted-Lowry, Lewis, pH, buffers, titration |
+| 09 | [[09_Chemical_Equilibrium|Chemical Equilibrium]] | สมดุลเคมี | Le Chatelier, Kc, Kp, ICE tables |
+| 10 | [[10_Ionic_Equilibrium|Ionic Equilibrium]] | สมดุลไอออน | Ksp, common ion effect, precipitation |
+| 11 | [[11_Thermochemistry|Thermochemistry]] | เคมีความร้อน | Enthalpy, Hess's law, entropy, Gibbs free energy |
+| 12 | [[12_Reaction_Kinetics|Reaction Kinetics]] | จลนพลศาสตร์ | Rate laws, activation energy, Arrhenius, catalysis |
+| 13 | [[13_Electrochemistry|Electrochemistry]] | เคมีไฟฟ้า | Redox, galvanic cells, Nernst, electrolysis, corrosion |
 
 ---
 
@@ -74,5 +74,5 @@ Reactions and Equilibrium is the ม.5 chemistry curriculum — where chemistry 
 ## Cross-Links
 
 - [[02_Chemistry - Overview|← Back to Chemistry]]
-- [[09 Chemical Foundations|Chemical Foundations]]
-- [[11 Organic and Applied Chemistry|Organic Chemistry]]
+- [[01_Chemical_Foundations_-_Overview|09 Chemical Foundations]]
+- [[03_Organic_and_Applied_Chemistry_-_Overview|11 Organic and Applied Chemistry]]

@@ -87,6 +87,6 @@ Probability and Statistics at the advanced level transforms informal data sense 
 ## Cross-Links
 
 - [[01_Advance Mathematics (Sci-Math) - Overview|← Back to Advanced Mathematics]]
-- [[04 Data Statistics and Probability|Fundamental Statistics]] — Foundation from ม.1-3
-- [[06 Foundations and Functions|Foundations and Functions]] — Functions describe distributions
-- [[07 Calculus|Calculus]] — Integration for continuous distributions (university level)
+- [[04 Data Statistics and Probability - Overview|04 Data Statistics and Probability]] — Foundation from ม.1-3
+- [[06 Foundations and Functions - Overview|06 Foundations and Functions]] — Functions describe distributions
+- [[07 Calculus - Overview|07 Calculus]] — Integration for continuous distributions (university level)

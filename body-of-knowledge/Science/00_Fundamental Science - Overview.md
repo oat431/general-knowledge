@@ -47,7 +47,7 @@ The curriculum develops scientific process skills (observing, hypothesizing, exp
 - [[Fundamental/18_Electricity_and_Magnetism]] — Magnets (poles, attract/repel), static electricity, simple circuits (series/parallel), conductors/insulators, Ohm's law (intro), electromagnets, generators/motors
 
 ### 🌍 Earth & Space Science
-- [[Fundamental/19_Rocks_Minerals_and_Soil]] — Rock types (igneous, sedimentary, metamorphic), rock cycle, minerals, soil composition, weathering, erosion, plate tectonics (intro), earthquakes, volcanoes
+- [[19_Rocks_Minerals_Soil|19_Rocks_Minerals_and_Soil]] — Rock types (igneous, sedimentary, metamorphic), rock cycle, minerals, soil composition, weathering, erosion, plate tectonics (intro), earthquakes, volcanoes
 - [[Fundamental/20_Weather_and_Climate]] — Weather observation, seasons, water cycle, weather instruments, cloud types, atmosphere layers, greenhouse effect, climate change, air pressure
 - [[Fundamental/21_Solar_System_and_Astronomy]] — Sun, Moon, stars, planets, Earth's rotation/revolution, Moon phases, constellations, star life cycle (overview), galaxies, light-years
 - [[Fundamental/22_Technology_and_Engineering]] — Tools, simple machines, engineering design process, materials science (intro), STEM applications

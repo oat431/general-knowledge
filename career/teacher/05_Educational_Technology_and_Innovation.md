@@ -190,5 +190,5 @@ Being an innovative teacher means:
 
 - [[02_Curriculum_and_Instruction]] — Technology integration in lesson design
 - [[04_Classroom_Management_and_Assessment]] — Digital assessment tools
-- [[07_University_Guide_and_Career_Paths]] — EdTech career paths
+- [[00_University_Guide_and_Career_Paths]] — EdTech career paths
 - [[Teacher - Overview]] — Return to teaching overview

@@ -18,13 +18,13 @@ Life Science introduces students to the living world — from recognizing plants
 
 | # | Concept Area | Thai | ป.1–3 | ป.4–6 | ม.1–3 |
 |---|---|---|---|---|---|
-| 02 | [[Living Things]] | สิ่งมีชีวิต | Characteristics, basic classification | Five kingdoms, vertebrates | Taxonomy, binomial nomenclature |
-| 03 | [[Cells]] | เซลล์ | — | Cell as unit, basic structure | Organelles, osmosis, cell division |
-| 04 | [[Human Body Systems]] | ระบบร่างกาย | Body parts, five senses | Digestive, circulatory, respiratory | Excretory, endocrine, immune, reproduction |
-| 05 | [[Plants]] | พืช | Parts, basic needs | Photosynthesis, reproduction | Hormones, tropisms |
-| 06 | [[Animals]] | สัตว์ | Types, habitats, life cycles | Behavior, adaptation | Body systems, evolution intro |
-| 07 | [[Ecosystems]] | ระบบนิเวศ | Habitats, food chains | Food webs, energy flow | Symbiosis, nutrient cycles |
-| 08 | [[Heredity and Evolution]] | พันธุกรรมและวิวัฒนาการ | — | — | Traits, natural selection, fossils |
+| 02 | [[02_Living_Things|Living Things]] | สิ่งมีชีวิต | Characteristics, basic classification | Five kingdoms, vertebrates | Taxonomy, binomial nomenclature |
+| 03 | [[03_Cells|Cells]] | เซลล์ | — | Cell as unit, basic structure | Organelles, osmosis, cell division |
+| 04 | [[04_Human_Body_Systems|Human Body Systems]] | ระบบร่างกาย | Body parts, five senses | Digestive, circulatory, respiratory | Excretory, endocrine, immune, reproduction |
+| 05 | [[05_Plants|Plants]] | พืช | Parts, basic needs | Photosynthesis, reproduction | Hormones, tropisms |
+| 06 | [[06_Animals|Animals]] | สัตว์ | Types, habitats, life cycles | Behavior, adaptation | Body systems, evolution intro |
+| 07 | [[07_Ecosystems|Ecosystems]] | ระบบนิเวศ | Habitats, food chains | Food webs, energy flow | Symbiosis, nutrient cycles |
+| 08 | [[08_Heredity_and_Evolution|Heredity and Evolution]] | พันธุกรรมและวิวัฒนาการ | — | — | Traits, natural selection, fossils |
 
 ---
 
@@ -89,6 +89,6 @@ flowchart TD
 ## Cross-Links
 
 - [[00_Fundamental Science - Overview|← Back to Fundamental Science]]
-- [[12 Cell and Molecular Biology|Cell & Molecular Biology (ม.4-6)]]
-- [[13 Genetics Evolution and Ecology|Genetics & Ecology (ม.4-6)]]
-- [[14 Organismal Biology and Biotechnology|Organismal Biology (ม.4-6)]]
+- [[01_Cell_and_Molecular_Biology - Overview|12 Cell and Molecular Biology]]
+- [[02_Genetics_Evolution_and_Ecology - Overview|13 Genetics Evolution and Ecology]]
+- [[03_Organismal_Biology_and_Biotechnology - Overview|14 Organismal Biology and Biotechnology]]

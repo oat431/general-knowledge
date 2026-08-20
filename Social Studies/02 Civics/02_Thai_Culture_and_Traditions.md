@@ -174,5 +174,5 @@ Thai Culture and Traditions explores the rich cultural heritage of Thailand — 
 
 - [[Social Studies - Overview|← Back to Social Studies]]
 - [[01_Buddhist_Principles|Buddhism]] — Religion shapes culture
-- [[04_Thai_History|Thai History]] — Historical development of culture
-- [[05_Geography_of_Thailand|Geography]] — Regional cultural differences
+- [[01_Thai_History|Thai History]] — Historical development of culture
+- [[01_Geography_of_Thailand|Geography]] — Regional cultural differences

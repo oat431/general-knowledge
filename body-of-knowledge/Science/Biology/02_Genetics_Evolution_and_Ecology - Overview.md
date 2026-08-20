@@ -17,14 +17,14 @@ This category spans the "big picture" of biology — from the diversity of life 
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 08 | [[Evolution]] | วิวัฒนาการ | Evidence, natural selection, speciation, Hardy-Weinberg |
-| 09 | [[Diversity of Life]] | ความหลากหลายทางชีวภาพ | Taxonomy, kingdoms, phylogenetics, cladistics |
-| 10 | [[Microbiology]] | จุลชีววิทยา | Bacteria, viruses, fungi, protists, archaea |
-| 11 | [[Plant Biology]] | ชีววิทยาของพืช | Structure, tissues, photosynthesis (detailed), transport, tropisms |
-| 12 | [[Animal Biology]] | ชีววิทยาของสัตว์ | Tissues, organ systems, invertebrate/vertebrate diversity |
-| 13 | [[Human Body Systems]] | ระบบร่างกายมนุษย์ | All 11 systems — digestive through reproductive |
-| 16 | [[Ecology]] | นิเวศวิทยา | Ecosystems, energy flow, biogeochemical cycles, populations |
-| 17 | [[Environmental Science]] | วิทยาศาสตร์สิ่งแวดล้อม | Biodiversity loss, pollution, climate change, sustainability |
+| 08 | [[08_Evolution|Evolution]] | วิวัฒนาการ | Evidence, natural selection, speciation, Hardy-Weinberg |
+| 09 | [[09_Diversity_of_Life|Diversity of Life]] | ความหลากหลายทางชีวภาพ | Taxonomy, kingdoms, phylogenetics, cladistics |
+| 10 | [[10_Microbiology|Microbiology]] | จุลชีววิทยา | Bacteria, viruses, fungi, protists, archaea |
+| 11 | [[11_Plant_Biology|Plant Biology]] | ชีววิทยาของพืช | Structure, tissues, photosynthesis (detailed), transport, tropisms |
+| 12 | [[12_Animal_Biology|Animal Biology]] | ชีววิทยาของสัตว์ | Tissues, organ systems, invertebrate/vertebrate diversity |
+| 13 | [[13_Human_Body_Systems|Human Body Systems]] | ระบบร่างกายมนุษย์ | All 11 systems — digestive through reproductive |
+| 16 | [[16_Ecology|Ecology]] | นิเวศวิทยา | Ecosystems, energy flow, biogeochemical cycles, populations |
+| 17 | [[17_Environmental_Science|Environmental Science]] | วิทยาศาสตร์สิ่งแวดล้อม | Biodiversity loss, pollution, climate change, sustainability |
 
 ---
 
@@ -76,5 +76,5 @@ $$p^2 + 2pq + q^2 = 1 \quad \text{and} \quad p + q = 1$$
 ## Cross-Links
 
 - [[03_Biology - Overview|← Back to Biology]]
-- [[12 Cell and Molecular Biology|Cell & Molecular Biology]]
-- [[14 Organismal Biology and Biotechnology|Organismal Biology]]
+- [[01_Cell_and_Molecular_Biology - Overview|12 Cell and Molecular Biology]]
+- [[03_Organismal_Biology_and_Biotechnology - Overview|14 Organismal Biology and Biotechnology]]

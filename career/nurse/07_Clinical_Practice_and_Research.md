@@ -202,5 +202,5 @@ flowchart TD
 ## Related Notes
 
 - [[06_Nursing_Administration_Ethics_and_Law]] — Quality improvement and audit
-- [[08_University_Guide_and_Career_Paths]] — Career progression to APN and beyond
+- [[00_University_Guide_and_Career_Paths]] — Career progression to APN and beyond
 - [[Nursing - Overview]] — Return to nursing overview

@@ -150,5 +150,5 @@ This domain covers the law governing cross-border relations and modern business 
 
 - [[02_Civil_and_Commercial_Law]] — Civil Code framework for contracts and companies
 - [[04_Constitutional_and_Administrative_Law]] — Public law foundations
-- [[07_University_Guide_and_Career_Paths]] — Corporate law career paths
+- [[00_University_Guide_and_Career_Paths]] — Corporate law career paths
 - [[Lawyer - Overview]] — Return to law overview

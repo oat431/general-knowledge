@@ -180,5 +180,5 @@ Not all psychologists treat mental disorders. Many apply psychological science t
 
 - [[01_Foundations_of_Psychology]] — Theoretical underpinnings for all specialties
 - [[06_Research_Methods_and_Ethics]] — Research skills needed for all applied work
-- [[07_University_Guide_and_Career_Paths]] — Where to study and work in each specialty
+- [[00_University_Guide_and_Career_Paths]] — Where to study and work in each specialty
 - [[Psychologist - Overview]] — Return to psychology overview

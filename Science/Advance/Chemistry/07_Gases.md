@@ -321,4 +321,4 @@ $$n = \frac{PV}{RT} = \frac{0.962 \times 0.250}{0.0821 \times 298} = 9.83 \times
 - [[06_Solutions]] — Henry's Law (gases in solution)
 - [[04_Intermolecular_Forces]] — IMFs affect the deviation of real gases from ideal
 - [[../../Advance/physics/02_Kinematics|Physics Kinematics]] — KMT uses kinematics
-- [[../../Advance/physics/05_Thermodynamics|Physics Thermodynamics]] — Temperature and kinetic energy
+- [[10_Heat_and_Thermodynamics|Physics Thermodynamics]] — Temperature and kinetic energy

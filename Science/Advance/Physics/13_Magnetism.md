@@ -144,4 +144,4 @@ $$\frac{F}{L} = \frac{\mu_0 I_1 I_2}{2\pi d} = \frac{(4\pi \times 10^{-7})(5)(5)
 - [[12_Electric_Circuits]] — Currents in wires produce magnetic fields
 - [[14_Electromagnetic_Induction]] — Changing magnetic fields induce EMF (Faraday's law)
 - [[15_Electromagnetic_Waves]] — Oscillating charges produce EM waves
-- [[Fundamental/06_Gravity]] — Field concept parallels gravitational fields
+- [[13_Forces_and_Motion]] — Field concept parallels gravitational fields

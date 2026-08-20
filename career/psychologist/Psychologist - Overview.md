@@ -125,4 +125,4 @@ Key provisions:
 
 ---
 
-> **Related Careers:** [[../nurse/Nursing - Overview|Nursing]], [[../doctor/Medicine - Overview|Medicine]], [[Psychiatrist|Psychiatry]], [[../teacher/Teaching - Overview|Teaching]], [[../social-worker/Social Work - Overview|Social Work]]
+> **Related Careers:** [[../nurse/Nursing - Overview|Nursing]], [[../doctor/Medicine - Overview|Medicine]], [[Psychiatrist|Psychiatry]], [[Teacher - Overview|Teaching]], [[../social-worker/Social Work - Overview|Social Work]]

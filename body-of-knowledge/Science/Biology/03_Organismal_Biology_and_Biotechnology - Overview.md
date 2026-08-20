@@ -17,11 +17,11 @@ The ม.6 biology curriculum brings together human physiology, cutting-edge biot
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 14 | [[Immune System]] | ระบบภูมิคุ้มกัน | Innate/adaptive, antibodies, vaccines, autoimmune, allergies |
-| 15 | [[Human Reproduction and Development]] | ระบบสืบพันธุ์และการเจริญเติบโต | Anatomy, fertilization, embryonic development, contraception |
-| 18 | [[Biotechnology]] | เทคโนโลยีชีวภาพ | Genetic engineering, PCR, gel electrophoresis, GMOs, cloning, gene therapy |
-| 19 | [[Behavioral Biology]] | ชีววิทยาของพฤติกรรม | Innate vs learned, migration, communication, social behavior |
-| 20 | [[Bioethics]] | จริยธรรมทางชีวภาพ | Cloning ethics, GMO debate, genetic privacy, stem cell research |
+| 14 | [[14_Immune_System|Immune System]] | ระบบภูมิคุ้มกัน | Innate/adaptive, antibodies, vaccines, autoimmune, allergies |
+| 15 | [[15_Human_Reproduction_and_Development|Human Reproduction and Development]] | ระบบสืบพันธุ์และการเจริญเติบโต | Anatomy, fertilization, embryonic development, contraception |
+| 18 | [[18_Biotechnology|Biotechnology]] | เทคโนโลยีชีวภาพ | Genetic engineering, PCR, gel electrophoresis, GMOs, cloning, gene therapy |
+| 19 | [[19_Behavioral_Biology|Behavioral Biology]] | ชีววิทยาของพฤติกรรม | Innate vs learned, migration, communication, social behavior |
+| 20 | [[20_Bioethics|Bioethics]] | จริยธรรมทางชีวภาพ | Cloning ethics, GMO debate, genetic privacy, stem cell research |
 
 ---
 
@@ -76,5 +76,5 @@ The ม.6 biology curriculum brings together human physiology, cutting-edge biot
 ## Cross-Links
 
 - [[03_Biology - Overview|← Back to Biology]]
-- [[12 Cell and Molecular Biology|Cell & Molecular Biology]]
-- [[13 Genetics Evolution and Ecology|Genetics & Ecology]]
+- [[01_Cell_and_Molecular_Biology - Overview|12 Cell and Molecular Biology]]
+- [[02_Genetics_Evolution_and_Ecology - Overview|13 Genetics Evolution and Ecology]]

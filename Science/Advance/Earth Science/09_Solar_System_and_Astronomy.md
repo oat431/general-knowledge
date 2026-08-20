@@ -232,8 +232,8 @@ $$T = \sqrt{64} = 8 \text{ years}$$
 
 ## 5 | Cross-Links
 
-- [[01_Earth_Structure]] — Earth's formation as a terrestrial planet
+- [[02_Plate_Tectonics]] — Earth's formation as a terrestrial planet
 - [[06_Weather_and_Climate]] — solar radiation drives atmospheric processes
 - [[10_Climate_Change_and_Environment]] — Milankovitch cycles and solar forcing
-- [[../../Fundamental/21_Astronomy_Basics]] — foundation from ม.1-3
-- [[../../Advance/Physics/17_Gravitation|Physics: Gravitation]] — Kepler's laws and orbital mechanics
+- [[21_Solar_System_and_Astronomy]] — foundation from ม.1-3
+- [[03_Dynamics|Physics: Gravitation]] — Kepler's laws and orbital mechanics

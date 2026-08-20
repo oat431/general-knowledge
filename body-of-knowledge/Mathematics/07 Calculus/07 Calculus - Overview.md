@@ -103,6 +103,6 @@ $$\frac{d}{dx} \int_a^x f(t)\,dt = f(x) \quad \text{and} \quad \int_a^b f'(x)\,d
 ## Cross-Links
 
 - [[01_Advance Mathematics (Sci-Math) - Overview|← Back to Advanced Mathematics]]
-- [[06 Foundations and Functions|Foundations and Functions]] — Functions are what calculus acts upon
-- [[10 Discrete and Advanced Topics|Discrete Math]] — Proof techniques used in calculus
+- [[06 Foundations and Functions - Overview|06 Foundations and Functions]] — Functions are what calculus acts upon
+- [[10 Discrete and Advanced Topics - Overview|10 Discrete and Advanced Topics]] — Proof techniques used in calculus
 - **Physics** — Calculus is the language of mechanics (velocity = dx/dt, acceleration = d²x/dt²)

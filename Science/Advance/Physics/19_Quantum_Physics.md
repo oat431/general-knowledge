@@ -186,5 +186,5 @@ This corresponds to a speed of roughly $5.8 \times 10^5$ m/s — significant at 
 
 - [[18_Special_Relativity]] — Photon energy-momentum uses relativistic relations
 - [[20_Atomic_Physics]] — Bohr model and quantized energy levels build on quantum ideas
-- [[17_Electromagnetic_Waves]] — Light as wave; photon theory adds particle nature
+- [[15_Electromagnetic_Waves]] — Light as wave; photon theory adds particle nature
 - [[22_Particle_Physics]] — Quantum field theory extends quantum physics to all particles

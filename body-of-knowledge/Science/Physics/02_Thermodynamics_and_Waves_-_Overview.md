@@ -18,10 +18,10 @@ This category bridges mechanics and modern physics. **Thermodynamics** studies h
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 07 | [[Oscillations]] | การสั่น | SHM (simple harmonic motion), springs, pendulums, damping |
-| 08 | [[Waves]] | คลื่น | Wave properties, types, superposition, standing waves, resonance |
-| 09 | [[Sound]] | เสียง | Speed of sound, Doppler effect, beats, musical acoustics |
-| 10 | [[Heat and Thermodynamics]] | ความร้อนและเทอร์โมไดนามิกส์ | Temperature, heat transfer, ideal gas, 1st & 2nd laws, entropy, engines |
+| 07 | [[07_Oscillations|Oscillations]] | การสั่น | SHM (simple harmonic motion), springs, pendulums, damping |
+| 08 | [[08_Waves|Waves]] | คลื่น | Wave properties, types, superposition, standing waves, resonance |
+| 09 | [[09_Sound|Sound]] | เสียง | Speed of sound, Doppler effect, beats, musical acoustics |
+| 10 | [[10_Heat_and_Thermodynamics|Heat and Thermodynamics]] | ความร้อนและเทอร์โมไดนามิกส์ | Temperature, heat transfer, ideal gas, 1st & 2nd laws, entropy, engines |
 | 12 | [[Fluid Mechanics]] | กลศาสตร์ของไหล | Pressure, Pascal, Archimedes, Bernoulli, viscosity |
 
 ---
@@ -77,6 +77,6 @@ This category bridges mechanics and modern physics. **Thermodynamics** studies h
 ## Cross-Links
 
 - [[01_Physics - Overview|← Back to Physics]]
-- [[05 Mechanics|Mechanics]]
-- [[07 Electricity and Magnetism|E&M]]
-- [[08 Modern Physics|Modern Physics]] — Wave-particle duality builds on wave concepts
+- [[01_Mechanics_-_Overview|05 Mechanics]]
+- [[03_Electricity_and_Magnetism_-_Overview|07 Electricity and Magnetism]]
+- [[04_Modern_Physics_-_Overview|08 Modern Physics]] — Wave-particle duality builds on wave concepts

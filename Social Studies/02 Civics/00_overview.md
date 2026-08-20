@@ -20,19 +20,19 @@ This strand teaches students how Thai society works — from local communities t
 
 | #   | Concept Area                    | Thai              | ป.1–3                 | ป.4–6                            | ม.1–3                   | ม.4–6                            |
 | --- | ------------------------------- | ----------------- | --------------------- | -------------------------------- | ----------------------- | -------------------------------- |
-| 01  | [[Democracy and Government]]    | ประชาธิปไตย       | Fairness, voting      | Principles, separation of powers | Constitutional monarchy | Political philosophy, ideologies |
-| 02  | [[Thai Culture and Traditions]] | วัฒนธรรมไทย       | Greetings, festivals  | Regional cultures                | Cultural change         | Cultural preservation, identity  |
-| 03  | [[ASEAN Studies]]               | อาเซียน           | Neighboring countries | Member states                    | Three pillars, AEC      | ASEAN analysis, challenges       |
-| 04  | [[Rights, Duties, and Laws]]    | สิทธิหน้าที่      | School rules          | Constitutional rights            | Criminal/civil law      | International law, human rights  |
-| 05  | [[Thai Constitution]]           | รัฐธรรมนูญ        | Laws protect people   | Key rights                       | Constitutional history  | Political philosophy             |
-| 06  | [[Government Structure]]        | โครงสร้างรัฐบาล   | King, basic           | Three branches                   | Detailed administration | Court system, legal procedures   |
-| 07  | [[Social Institutions]]         | สถาบันสังคม       | Family, school        | Religion, economy                | Functions               | Modern challenges                |
-| 08  | [[Social Norms and Status]]     | บรรทัดฐาน         | Polite behavior       | Social roles                     | Social stratification   | Social problems analysis         |
-| 09  | [[Socialization]]               | การขัดเกลาฯ       | Family influence      | School, peers                    | Agents of socialization | Digital socialization            |
-| 10  | [[Culture and Change]]          | วัฒนธรรมฯ         | Traditions            | Cultural diffusion               | Preservation            | Globalization effects            |
-| 11  | [[International Relations]]     | ความสัมพันธ์ฯ     | Neighbors             | UN, international orgs           | Foreign policy          | Global issues, diplomacy         |
-| 12  | [[Media Literacy]]              | การรู้เท่าทันสื่อ | TV, newspapers        | Internet safety                  | Bias, propaganda        | Digital citizenship              |
-| 13  | [[Conflict Resolution]]         | การแก้ไขฯ         | Sharing, compromise   | Negotiation                      | Peaceful protest        | Civil society participation      |
+| 01  | [[01_Democracy_and_Government]]    | ประชาธิปไตย       | Fairness, voting      | Principles, separation of powers | Constitutional monarchy | Political philosophy, ideologies |
+| 02  | [[02_Thai_Culture_and_Traditions]] | วัฒนธรรมไทย       | Greetings, festivals  | Regional cultures                | Cultural change         | Cultural preservation, identity  |
+| 03  | [[03_ASEAN_Studies]]               | อาเซียน           | Neighboring countries | Member states                    | Three pillars, AEC      | ASEAN analysis, challenges       |
+| 04  | [[04_Rights_Duties_and_Laws]]    | สิทธิหน้าที่      | School rules          | Constitutional rights            | Criminal/civil law      | International law, human rights  |
+| 05  | [[05_Thai_Constitution]]           | รัฐธรรมนูญ        | Laws protect people   | Key rights                       | Constitutional history  | Political philosophy             |
+| 06  | [[06_Government_Structure]]        | โครงสร้างรัฐบาล   | King, basic           | Three branches                   | Detailed administration | Court system, legal procedures   |
+| 07  | [[07_Social_Institutions]]         | สถาบันสังคม       | Family, school        | Religion, economy                | Functions               | Modern challenges                |
+| 08  | [[08_Social_Norms_and_Status]]     | บรรทัดฐาน         | Polite behavior       | Social roles                     | Social stratification   | Social problems analysis         |
+| 09  | [[09_Socialization]]               | การขัดเกลาฯ       | Family influence      | School, peers                    | Agents of socialization | Digital socialization            |
+| 10  | [[10_Culture_and_Change]]          | วัฒนธรรมฯ         | Traditions            | Cultural diffusion               | Preservation            | Globalization effects            |
+| 11  | [[11_International_Relations]]     | ความสัมพันธ์ฯ     | Neighbors             | UN, international orgs           | Foreign policy          | Global issues, diplomacy         |
+| 12  | [[12_Media_Literacy]]              | การรู้เท่าทันสื่อ | TV, newspapers        | Internet safety                  | Bias, propaganda        | Digital citizenship              |
+| 13  | [[13_Conflict_Resolution]]         | การแก้ไขฯ         | Sharing, compromise   | Negotiation                      | Peaceful protest        | Civil society participation      |
 
 ---
 

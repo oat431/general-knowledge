@@ -158,4 +158,4 @@ Both yield only 2 ATP per glucose (from glycolysis alone).
 - [[01_Cell_Biology]] — mitochondria and chloroplast structure
 - [[02_Cell_Membrane_and_Transport]] — ATP-driven active transport
 - [[05_Cell_Division]] — energy requirements for cell division
-- [[../../Advance/Chemistry/08_Thermochemistry|Chemistry: Thermochemistry]] — energy in chemical bonds
+- [[11_Thermochemistry|Chemistry: Thermochemistry]] — energy in chemical bonds

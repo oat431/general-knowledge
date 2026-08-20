@@ -245,4 +245,4 @@ $$(n-1) + (n-2) + \dots + 1 = \frac{n(n-1)}{2} = O(n^2)$$
 - [[01_Computational_Thinking]] — algorithm design is a pillar of CT
 - [[04_Programming_Fundamentals]] — loops and conditionals implement algorithms
 - [[05_Functions_and_Modularity]] — recursion enables merge sort and binary search
-- [[../../Advance/Mathematics/Fundamental/01_Logarithms|Mathematics: Logarithms]] — basis of $O(\log n)$ analysis
+- [[06_Exponential_and_Logarithmic_Functions|Mathematics: Logarithms]] — basis of $O(\log n)$ analysis

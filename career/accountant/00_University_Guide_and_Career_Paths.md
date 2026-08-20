@@ -201,4 +201,4 @@ flowchart TD
 - [[01_Financial_Accounting]] — The core foundation
 - [[03_Auditing_and_Assurance]] — CPA pathway details
 - [[04_Taxation]] — Tax specialization
-- [[../lawyer/Law - Overview|Law]] — Tax law overlaps
+- [[Lawyer - Overview|Law]] — Tax law overlaps

@@ -98,6 +98,6 @@ flowchart TD
 ## Cross-Links
 
 - [[01_Advance Mathematics (Sci-Math) - Overview|← Back to Advanced Mathematics]]
-- [[06 Foundations and Functions|Foundations and Functions]] — Functions underpin analytic geometry
-- [[07 Calculus|Calculus]] — Vectors essential for multivariable calculus
+- [[06 Foundations and Functions - Overview|06 Foundations and Functions]] — Functions underpin analytic geometry
+- [[07 Calculus - Overview|07 Calculus]] — Vectors essential for multivariable calculus
 - **Physics** — Vectors describe forces, velocity, acceleration; complex numbers in AC circuits

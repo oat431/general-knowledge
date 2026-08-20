@@ -153,4 +153,4 @@ $$v = \frac{d}{t} = \frac{100\,\text{km}}{5 \times 10^{6}\,\text{yr}} = 2 \times
 - [[01_Minerals_and_Rocks]] — subduction melts rock into magma; igneous activity at ridges
 - [[03_Earthquakes_and_Volcanoes]] — direct consequences of plate boundary motion
 - [[05_Earth_History]] — Pangaea breakup and Wilson cycle structure the geological timescale
-- [[../../Advance/physic/02_Kinematics|Physics: Kinematics]] — motion, velocity, and relative motion applied to plate speeds
+- [[../../Advance/Physics/02_Kinematics|Physics: Kinematics]] — motion, velocity, and relative motion applied to plate speeds

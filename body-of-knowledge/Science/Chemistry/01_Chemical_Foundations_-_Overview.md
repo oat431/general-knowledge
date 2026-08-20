@@ -17,13 +17,13 @@ Chemical Foundations covers the ม.4 chemistry curriculum — the building bloc
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 01 | [[Atomic Structure]] | โครงสร้างอะตอม | Subatomic particles, electron configuration, quantum numbers |
-| 02 | [[Periodic Table]] | ตารางธาตุ | Groups, periods, trends (EN, IE, atomic radius) |
-| 03 | [[Chemical Bonding]] | พันธะเคมี | Ionic, covalent, metallic, Lewis structures, VSEPR |
-| 04 | [[Intermolecular Forces]] | แรงระหว่างโมเลกุล | Van der Waals, H-bonding, dipole-dipole |
-| 05 | [[Stoichiometry]] | ปริมาณสารสัมพันธ์ | Mole (n = m/M), balancing, limiting reagent, % yield |
-| 06 | [[Solutions]] | สารละลาย | Molarity, molality, solubility, colligative properties |
-| 07 | [[Gases]] | ก๊าซ | Boyle, Charles, Avogadro, ideal gas law (PV=nRT) |
+| 01 | [[01_Atomic_Structure|Atomic Structure]] | โครงสร้างอะตอม | Subatomic particles, electron configuration, quantum numbers |
+| 02 | [[02_Periodic_Table|Periodic Table]] | ตารางธาตุ | Groups, periods, trends (EN, IE, atomic radius) |
+| 03 | [[03_Chemical_Bonding|Chemical Bonding]] | พันธะเคมี | Ionic, covalent, metallic, Lewis structures, VSEPR |
+| 04 | [[04_Intermolecular_Forces|Intermolecular Forces]] | แรงระหว่างโมเลกุล | Van der Waals, H-bonding, dipole-dipole |
+| 05 | [[05_Stoichiometry|Stoichiometry]] | ปริมาณสารสัมพันธ์ | Mole (n = m/M), balancing, limiting reagent, % yield |
+| 06 | [[06_Solutions|Solutions]] | สารละลาย | Molarity, molality, solubility, colligative properties |
+| 07 | [[07_Gases|Gases]] | ก๊าซ | Boyle, Charles, Avogadro, ideal gas law (PV=nRT) |
 
 ---
 
@@ -64,5 +64,5 @@ Chemical Foundations covers the ม.4 chemistry curriculum — the building bloc
 ## Cross-Links
 
 - [[02_Chemistry - Overview|← Back to Chemistry]]
-- [[10 Reactions and Equilibrium|Reactions & Equilibrium]]
-- [[11 Organic and Applied Chemistry|Organic Chemistry]]
+- [[02_Reactions_and_Equilibrium_-_Overview|10 Reactions and Equilibrium]]
+- [[03_Organic_and_Applied_Chemistry_-_Overview|11 Organic and Applied Chemistry]]

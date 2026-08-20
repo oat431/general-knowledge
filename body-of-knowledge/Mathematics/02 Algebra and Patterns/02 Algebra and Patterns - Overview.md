@@ -18,8 +18,8 @@ Algebra begins long before students see an **x**. It starts with pattern recogni
 
 | # | Concept Area | Thai Name | ป.1–3 | ป.4–6 | ม.1–3 |
 |---|---|---|---|---|---|
-| 10 | [[Patterns and Algebraic Thinking]] | แบบรูปและความสัมพันธ์ | Skip counting, repeating patterns | Geometric/numerical patterns, function machines | Linear/quadratic patterns, algebraic rules |
-| 11 | [[Basic Algebra]] | พีชคณิตเบื้องต้น | Missing number boxes (□) | Pre-algebra, one-step equations | Linear equations, inequalities, quadratics |
+| 10 | [[10_Patterns_and_Algebraic_Thinking|Patterns and Algebraic Thinking]] | แบบรูปและความสัมพันธ์ | Skip counting, repeating patterns | Geometric/numerical patterns, function machines | Linear/quadratic patterns, algebraic rules |
+| 11 | [[11_Basic_Algebra|Basic Algebra]] | พีชคณิตเบื้องต้น | Missing number boxes (□) | Pre-algebra, one-step equations | Linear equations, inequalities, quadratics |
 
 ---
 
@@ -98,5 +98,5 @@ flowchart TD
 ## Cross-Links
 
 - [[00_Fundamental Mathematics - Overview|← Back to Fundamental Mathematics]]
-- [[01 Numbers and Operations|Numbers and Operations]] — Algebra generalizes arithmetic
-- [[03 Geometry and Measurement|Geometry and Measurement]] — Coordinate plane connects algebra and geometry
+- [[01 Numbers and Operations - Overview|01 Numbers and Operations]] — Algebra generalizes arithmetic
+- [[03 Geometry and Measurement - Overview|03 Geometry and Measurement]] — Coordinate plane connects algebra and geometry

@@ -200,7 +200,7 @@ This means 2 double bonds, or 1 double bond + 1 ring, or 1 triple bond.
 ## 5 | Cross-Links
 
 - [[03_Chemical_Bonding]] — Covalent bonds and hybridization
-- [[04_Structure_of_Matter]] — Atomic structure
+- [[01_Atomic_Structure]] — Atomic structure
 - [[15_Organic_Reactions]] — Organic reactions (next)
 - [[16_Organic_Compounds_by_Functional_Group]] — Functional groups
 - [[19_Qualitative_Analysis]] — Qualitative analysis

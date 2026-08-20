@@ -117,4 +117,4 @@ flowchart TD
 
 ---
 
-> **Related Careers:** [[../lawyer/Law - Overview|Law]] (tax law, corporate law), [[../engineer/Engineer - Overview|Engineering]] (cost engineering), [[../psychologist/Psychologist - Overview|Psychology]] (forensic accounting)
+> **Related Careers:** [[Lawyer - Overview|Law]] (tax law, corporate law), [[../engineer/Engineer - Overview|Engineering]] (cost engineering), [[../psychologist/Psychologist - Overview|Psychology]] (forensic accounting)

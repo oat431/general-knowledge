@@ -20,36 +20,36 @@ The strand progresses from simple moral stories and etiquette in primary grades 
 ## The ~18 Concept Areas
 
 ### 🙏 Buddhist Foundation
-- [[01_Buddha_Biography]] — Buddha's life: birth (ประสูติ), renunciation (ออกผนวช), enlightenment (ตรัสรู้), first sermon (ปฐมเทศนา), passing (ปรินิพพาน); important events and locations
-- [[02_Buddhist_History]] — Buddhism's origins in India, spread to Sri Lanka and Southeast Asia, Buddhism in Thailand (Sukhothai through Rattanakosin), Buddhist councils (สังคายนา), Buddhist sects (นิกาย) in Thailand
-- [[03_Jataka_Tales]] — Buddhist birth stories (ชาดก): ทศชาติชาดก (the last 10 lives), selected Jataka tales taught as moral exemplars, พระเวสสันดรชาดก as the most celebrated
+- [[01_Buddhist_Principles|01_Buddha_Biography]] — Buddha's life: birth (ประสูติ), renunciation (ออกผนวช), enlightenment (ตรัสรู้), first sermon (ปฐมเทศนา), passing (ปรินิพพาน); important events and locations
+- [[01_Buddhist_Principles|02_Buddhist_History]] — Buddhism's origins in India, spread to Sri Lanka and Southeast Asia, Buddhism in Thailand (Sukhothai through Rattanakosin), Buddhist councils (สังคายนา), Buddhist sects (นิกาย) in Thailand
+- [[01_Buddhist_Principles|03_Jataka_Tales]] — Buddhist birth stories (ชาดก): ทศชาติชาดก (the last 10 lives), selected Jataka tales taught as moral exemplars, พระเวสสันดรชาดก as the most celebrated
 
 ### 📿 Buddhist Doctrine (พระธรรม)
-- [[04_Four_Noble_Truths]] — อริยสัจ 4: ทุกข์ (suffering), สมุทัย (cause), นิโรธ (cessation), มรรค (the Eightfold Path)
-- [[05_Eightfold_Path]] — มรรคมีองค์ 8: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration — grouped into ศีล (morality), สมาธิ (concentration), ปัญญา (wisdom)
-- [[06_Five_Aggregates]] — ขันธ์ 5: รูป (form), เวทนา (feeling), สัญญา (perception), สังขาร (mental formations), วิญญาณ (consciousness)
-- [[07_Three_Marks_of_Existence]] — ไตรลักษณ์: อนิจจัง (impermanence), ทุกขัง (suffering), อนัตตา (non-self)
-- [[08_Karma_and_Rebirth]] — กรรม: law of cause and effect, wholesome/unwholesome actions (กุศลกรรม/อกุศลกรรม), rebirth (การเวียนว่ายตายเกิด), realms of existence (ภูมิ)
-- [[09_Dependent_Origination]] — ปฏิจจสมุปบาท: the 12 links of dependent origination, arising and ceasing, middle path between eternalism and nihilism
+- [[01_Buddhist_Principles|04_Four_Noble_Truths]] — อริยสัจ 4: ทุกข์ (suffering), สมุทัย (cause), นิโรธ (cessation), มรรค (the Eightfold Path)
+- [[01_Buddhist_Principles|05_Eightfold_Path]] — มรรคมีองค์ 8: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration — grouped into ศีล (morality), สมาธิ (concentration), ปัญญา (wisdom)
+- [[01_Buddhist_Principles|06_Five_Aggregates]] — ขันธ์ 5: รูป (form), เวทนา (feeling), สัญญา (perception), สังขาร (mental formations), วิญญาณ (consciousness)
+- [[01_Buddhist_Principles|07_Three_Marks_of_Existence]] — ไตรลักษณ์: อนิจจัง (impermanence), ทุกขัง (suffering), อนัตตา (non-self)
+- [[01_Buddhist_Principles|08_Karma_and_Rebirth]] — กรรม: law of cause and effect, wholesome/unwholesome actions (กุศลกรรม/อกุศลกรรม), rebirth (การเวียนว่ายตายเกิด), realms of existence (ภูมิ)
+- [[01_Buddhist_Principles|09_Dependent_Origination]] — ปฏิจจสมุปบาท: the 12 links of dependent origination, arising and ceasing, middle path between eternalism and nihilism
 
 ### 🌸 Buddhist Ethics for Daily Life
-- [[10_Five_Precepts]] — เบญจศีล-เบญจธรรม: the five training rules (refrain from killing, stealing, sexual misconduct, false speech, intoxicants) and their positive counterparts (เมตตากรุณา, สัมมาอาชีวะ, กามสังวร, สัจจะ, สติสัมปชัญญะ)
-- [[11_Thirty_Eight_Blessings]] — มงคล 38: comprehensive life guidance from "ไม่คบคนพาล" (not associating with fools) through "จิตไม่หวั่นไหวในโลกธรรม" (mind unshaken by worldly conditions)
-- [[12_Dhamma_for_Social_Harmony]] — หลักธรรมเพื่อการอยู่ร่วมกัน: พรหมวิหาร 4 (เมตตา กรุณา มุทิตา อุเบกขา), สังคหวัตถุ 4 (ทาน ปิยวาจา อัตถจริยา สมานัตตตา), อิทธิบาท 4 (ฉันทะ วิริยะ จิตตะ วิมังสา), ฆราวาสธรรม 4 (สัจจะ ทมะ ขันติ จาคะ)
-- [[13_Dhamma_for_Success]] — หลักธรรมเพื่อความสำเร็จ: อิทธิบาท 4, อริยทรัพย์ 7, โลกธรรม 8, อบายมุข 6 (causes of ruin: การดื่มสุรา, เที่ยวกลางคืน, เที่ยวดูการละเล่น, เล่นการพนัน, คบคนชั่ว, เกียจคร้านการทำงาน)
-- [[14_Six_Directions]] — ทิศ 6: duties toward parents (ทิศเบื้องหน้า), teachers (ทิศเบื้องขวา), spouse (ทิศเบื้องหลัง), friends (ทิศเบื้องซ้าย), servants/employees (ทิศเบื้องล่าง), monks (ทิศเบื้องบน)
+- [[01_Buddhist_Principles|10_Five_Precepts]] — เบญจศีล-เบญจธรรม: the five training rules (refrain from killing, stealing, sexual misconduct, false speech, intoxicants) and their positive counterparts (เมตตากรุณา, สัมมาอาชีวะ, กามสังวร, สัจจะ, สติสัมปชัญญะ)
+- [[01_Buddhist_Principles|11_Thirty_Eight_Blessings]] — มงคล 38: comprehensive life guidance from "ไม่คบคนพาล" (not associating with fools) through "จิตไม่หวั่นไหวในโลกธรรม" (mind unshaken by worldly conditions)
+- [[01_Buddhist_Principles|12_Dhamma_for_Social_Harmony]] — หลักธรรมเพื่อการอยู่ร่วมกัน: พรหมวิหาร 4 (เมตตา กรุณา มุทิตา อุเบกขา), สังคหวัตถุ 4 (ทาน ปิยวาจา อัตถจริยา สมานัตตตา), อิทธิบาท 4 (ฉันทะ วิริยะ จิตตะ วิมังสา), ฆราวาสธรรม 4 (สัจจะ ทมะ ขันติ จาคะ)
+- [[01_Buddhist_Principles|13_Dhamma_for_Success]] — หลักธรรมเพื่อความสำเร็จ: อิทธิบาท 4, อริยทรัพย์ 7, โลกธรรม 8, อบายมุข 6 (causes of ruin: การดื่มสุรา, เที่ยวกลางคืน, เที่ยวดูการละเล่น, เล่นการพนัน, คบคนชั่ว, เกียจคร้านการทำงาน)
+- [[01_Buddhist_Principles|14_Six_Directions]] — ทิศ 6: duties toward parents (ทิศเบื้องหน้า), teachers (ทิศเบื้องขวา), spouse (ทิศเบื้องหลัง), friends (ทิศเบื้องซ้าย), servants/employees (ทิศเบื้องล่าง), monks (ทิศเบื้องบน)
 
 ### 🧘 Meditation & Mental Development
-- [[15_Meditation_Practice]] — การปฏิบัติสมาธิ: สมถกรรมฐาน (concentration meditation — 40 objects), วิปัสสนากรรมฐาน (insight meditation), อานาปานสติ (mindfulness of breathing), walking meditation (เดินจงกรม), benefits of meditation for physical and mental health
+- [[02_Buddhist_Ceremonies_and_Meditation|15_Meditation_Practice]] — การปฏิบัติสมาธิ: สมถกรรมฐาน (concentration meditation — 40 objects), วิปัสสนากรรมฐาน (insight meditation), อานาปานสติ (mindfulness of breathing), walking meditation (เดินจงกรม), benefits of meditation for physical and mental health
 
 ### 🕉️ Buddhist Scripture & Sacred Texts
-- [[16_Tipitaka]] — พระไตรปิฎก: structure (พระวินัยปิฎก, พระสุตตันตปิฎก, พระอภิธรรมปิฎก), important suttas (ธัมมจักกัปปวัตนสูตร, มงคลสูตร, กรณียเมตตสูตร, มหาสติปัฏฐานสูตร), Buddhist proverbs (พุทธศาสนสุภาษิต)
+- [[01_Buddhist_Principles|16_Tipitaka]] — พระไตรปิฎก: structure (พระวินัยปิฎก, พระสุตตันตปิฎก, พระอภิธรรมปิฎก), important suttas (ธัมมจักกัปปวัตนสูตร, มงคลสูตร, กรณียเมตตสูตร, มหาสติปัฏฐานสูตร), Buddhist proverbs (พุทธศาสนสุภาษิต)
 
 ### 🎑 Buddhist Ceremonies & Holy Days
-- [[17_Buddhist_Ceremonies]] — วันสำคัญทางพระพุทธศาสนา: มาฆบูชา (Magha Puja), วิสาขบูชา (Vesak), อาสาฬหบูชา (Asalha Puja), เข้าพรรษา (Buddhist Lent), ออกพรรษา (End of Lent), การเวียนเทียน, การทำบุญตักบาตร, การถวายสังฆทาน, การถวายผ้าป่า-กฐิน, Buddhist weddings and funerals
+- [[02_Buddhist_Ceremonies_and_Meditation|17_Buddhist_Ceremonies]] — วันสำคัญทางพระพุทธศาสนา: มาฆบูชา (Magha Puja), วิสาขบูชา (Vesak), อาสาฬหบูชา (Asalha Puja), เข้าพรรษา (Buddhist Lent), ออกพรรษา (End of Lent), การเวียนเทียน, การทำบุญตักบาตร, การถวายสังฆทาน, การถวายผ้าป่า-กฐิน, Buddhist weddings and funerals
 
 ### 🕌 Other Religions in Thailand
-- [[18_Other_Religions]] — ศาสนาอื่นในประเทศไทย:
+- [[03_Other_Religions|18_Other_Religions]] — ศาสนาอื่นในประเทศไทย:
   - **Islam:** Prophet Muhammad, Quran, 5 Pillars (การปฏิญาณตน, การละหมาด, การถือศีลอด, การบริจาคซะกาต, การประกอบพิธีฮัจญ์), 6 Articles of Faith (ศรัทธา 6), mosques and Islamic calendar
   - **Christianity:** Jesus Christ, Bible, Catholic vs Protestant denominations, major festivals (Christmas, Easter), churches in Thailand
   - **Hinduism:** Trimurti (Brahma, Vishnu, Shiva), key deities (พระพรหม, พระนารายณ์, พระอิศวร, พระคเณศ), influence on Thai culture

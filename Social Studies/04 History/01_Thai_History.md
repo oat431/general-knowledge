@@ -147,9 +147,9 @@ flowchart LR
 ## 9 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[02_Democracy_and_Government|Democracy]] — Evolution of Thai governance
-- [[07_Thai_Culture|Thai Culture]] — Cultural development across periods
-- [[10_World_History|World History]] — Thailand in world context
+- [[01_Democracy_and_Government|Democracy]] — Evolution of Thai governance
+- [[02_Thai_Culture_and_Traditions|Thai Culture]] — Cultural development across periods
+- [[02_World_History_and_Civilizations|World History]] — Thailand in world context
 
 ---
 

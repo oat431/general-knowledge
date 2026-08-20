@@ -208,5 +208,5 @@ Beyond the traditional disciplines lie engineering fields that are reshaping the
 - [[03_Mechanical_and_Industrial_Engineering]] → Robotics, Aerospace
 - [[04_Electrical_and_Computer_Engineering]] → AI, Data, IoT
 - [[05_Chemical_and_Environmental_Engineering]] → Renewable energy, Nanotech
-- [[07_University_Guide_and_Career_Paths]] — Where to study emerging fields
+- [[00_University_Guide_and_Career_Paths]] — Where to study emerging fields
 - [[Engineer - Overview]] — Return to engineering overview

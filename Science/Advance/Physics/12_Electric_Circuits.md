@@ -148,4 +148,4 @@ After 5 s, the capacitor is 63% charged.
 - [[11_Electrostatics]] — Capacitors store energy; potential difference drives current
 - [[13_Magnetism]] — Currents produce magnetic fields
 - [[14_Electromagnetic_Induction]] — Changing currents induce EMF (inductors)
-- [[Fundamental/07_Energy]] — Power is the rate of energy transfer
+- [[14_Energy]] — Power is the rate of energy transfer

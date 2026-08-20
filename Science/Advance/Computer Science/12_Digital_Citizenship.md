@@ -211,5 +211,5 @@ print(password_score("P@ssw0rd!2024"))   # (6, 'Strong')
 
 - [[09_Computer_Systems_and_Networks]] — network/security concepts underpin online safety
 - [[11_Artificial_Intelligence]] — AI ethics, deepfakes, misinformation
-- [[01_Introduction_to_Computer_Science]] — ethical computing from the start
+- [[01_Computational_Thinking]] — ethical computing from the start
 - [[../../Foundation/Society/03_Ethics|Social Science: Ethics]] — broader ethical reasoning

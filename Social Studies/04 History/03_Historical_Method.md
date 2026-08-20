@@ -99,8 +99,8 @@ Historical Method teaches students how historians work — how they find, evalua
 ## 8 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[04_Thai_History|Thai History]] — Applying the method to Thai history
-- [[07_World_History_and_Civilizations|World History]] — Applying to world events
+- [[01_Thai_History|Thai History]] — Applying the method to Thai history
+- [[02_World_History_and_Civilizations|World History]] — Applying to world events
 
 ---
 

@@ -18,9 +18,9 @@ Data literacy begins with simple tally marks in ป.1 and grows into formal prob
 
 | # | Concept Area | Thai Name | ป.1–3 | ป.4–6 | ม.1–3 |
 |---|---|---|---|---|---|
-| 17 | [[Sets]] | เซต | Sorting/classifying objects | Informal Venn diagrams | Notation, union, intersection, complement, Venn (2-3 sets) |
-| 18 | [[Statistics and Data Handling]] | สถิติ | Tally marks, pictographs | Bar/line/pie graphs, mean/median/mode | Frequency tables, histograms, stem-and-leaf |
-| 19 | [[Probability]] | ความน่าจะเป็น | Certain/likely/impossible vocabulary | Simple experiments | Theoretical/experimental, sample space, compound events |
+| 17 | [[17_Sets|Sets]] | เซต | Sorting/classifying objects | Informal Venn diagrams | Notation, union, intersection, complement, Venn (2-3 sets) |
+| 18 | [[18_Statistics_Data_Handling|Statistics and Data Handling]] | สถิติ | Tally marks, pictographs | Bar/line/pie graphs, mean/median/mode | Frequency tables, histograms, stem-and-leaf |
+| 19 | [[19_Probability|Probability]] | ความน่าจะเป็น | Certain/likely/impossible vocabulary | Simple experiments | Theoretical/experimental, sample space, compound events |
 
 ---
 
@@ -109,6 +109,6 @@ flowchart TD
 ## Cross-Links
 
 - [[00_Fundamental Mathematics - Overview|← Back to Fundamental Mathematics]]
-- [[01 Numbers and Operations|Numbers and Operations]] — Fractions and percentages in probability
-- [[02 Algebra and Patterns|Algebra and Patterns]] — Algebraic expressions in probability formulas
-- [[09 Probability and Statistics|Advanced Probability and Statistics]] — ม.4–ม.6 continuation
+- [[01 Numbers and Operations - Overview|01 Numbers and Operations]] — Fractions and percentages in probability
+- [[02 Algebra and Patterns - Overview|02 Algebra and Patterns]] — Algebraic expressions in probability formulas
+- [[09 Probability and Statistics - Overview|09 Probability and Statistics]] — ม.4–ม.6 continuation

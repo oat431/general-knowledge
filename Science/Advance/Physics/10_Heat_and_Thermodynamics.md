@@ -173,4 +173,4 @@ Internal energy increases by 300 J.
 - [[09_Sound]] — Temperature affects speed of sound
 - [[11_Electrostatics]] — Energy concepts carry over to electric potential energy
 - [[14_Electromagnetic_Induction]] — Transformers and generators are heat engine analogs
-- [[Fundamental/07_Energy]] — Conservation of energy underpins the first law
+- [[14_Energy]] — Conservation of energy underpins the first law

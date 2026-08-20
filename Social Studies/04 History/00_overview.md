@@ -20,9 +20,9 @@ History builds chronological understanding from personal and local history throu
 
 | # | Concept Area | Thai | ป.1–3 | ป.4–6 | ม.1–3 | ม.4–6 |
 |---|---|---|---|---|---|---|
-| 01 | [[Thai History]] | ประวัติศาสตร์ไทย | Stories of kings | Periods overview | Detailed development | Critical analysis, debate |
-| 02 | [[World History and Civilizations]] | ประวัติศาสตร์โลก | — | Ancient civilizations | Exploration, wars | 20th-21st century, historiography |
-| 03 | [[Historical Method]] | วิธีการทางฯ | What is history? | Evidence types | Source evaluation | Historiography, research |
+| 01 | [[01_Thai_History]] | ประวัติศาสตร์ไทย | Stories of kings | Periods overview | Detailed development | Critical analysis, debate |
+| 02 | [[02_World_History_and_Civilizations]] | ประวัติศาสตร์โลก | — | Ancient civilizations | Exploration, wars | 20th-21st century, historiography |
+| 03 | [[03_Historical_Method]] | วิธีการทางฯ | What is history? | Evidence types | Source evaluation | Historiography, research |
 | 04 | Prehistoric Thailand | ก่อนประวัติศาสตร์ | — | Stone/Metal Age | Ban Chiang | Archaeological analysis |
 | 05 | Sukhothai Period | สุโขทัย | Ramkhamhaeng stories | Key achievements | Political/cultural | Source criticism |
 | 06 | Ayutthaya Period | อยุธยา | — | Notable kings | Governance, trade | Historical debate |

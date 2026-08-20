@@ -17,13 +17,13 @@ Cell and Molecular Biology covers the ม.4 biology curriculum — the fundament
 
 | # | Topic | Thai | Key Content |
 |---|---|---|---|
-| 01 | [[Cell Biology]] | ชีววิทยาของเซลล์ | Prokaryote/eukaryote, organelles, cell theory |
-| 02 | [[Cell Membrane and Transport]] | เยื่อหุ้มเซลล์และการลำเลียง | Passive/active transport, osmosis, endocytosis |
-| 03 | [[Biomolecules]] | โมเลกุลชีวภาพ | Carbohydrates, lipids, proteins, nucleic acids, enzymes |
-| 04 | [[Cell Energy]] | พลังงานของเซลล์ | Photosynthesis, cellular respiration, ATP, glycolysis, Krebs, ETC |
-| 05 | [[Cell Division]] | การแบ่งเซลล์ | Mitosis, meiosis, cell cycle, cancer |
-| 06 | [[Molecular Biology]] | ชีววิทยาระดับโมเลกุล | DNA replication, transcription, translation, gene expression |
-| 07 | [[Genetics]] | พันธุศาสตร์ | Mendelian, non-Mendelian, pedigree, chromosomal abnormalities |
+| 01 | [[01_Cell_Biology|Cell Biology]] | ชีววิทยาของเซลล์ | Prokaryote/eukaryote, organelles, cell theory |
+| 02 | [[02_Cell_Membrane_and_Transport|Cell Membrane and Transport]] | เยื่อหุ้มเซลล์และการลำเลียง | Passive/active transport, osmosis, endocytosis |
+| 03 | [[03_Biomolecules|Biomolecules]] | โมเลกุลชีวภาพ | Carbohydrates, lipids, proteins, nucleic acids, enzymes |
+| 04 | [[04_Cell_Energy|Cell Energy]] | พลังงานของเซลล์ | Photosynthesis, cellular respiration, ATP, glycolysis, Krebs, ETC |
+| 05 | [[05_Cell_Division|Cell Division]] | การแบ่งเซลล์ | Mitosis, meiosis, cell cycle, cancer |
+| 06 | [[06_Molecular_Biology|Molecular Biology]] | ชีววิทยาระดับโมเลกุล | DNA replication, transcription, translation, gene expression |
+| 07 | [[07_Genetics|Genetics]] | พันธุศาสตร์ | Mendelian, non-Mendelian, pedigree, chromosomal abnormalities |
 
 ---
 
@@ -70,5 +70,5 @@ Cell and Molecular Biology covers the ม.4 biology curriculum — the fundament
 ## Cross-Links
 
 - [[03_Biology - Overview|← Back to Biology]]
-- [[13 Genetics Evolution and Ecology|Genetics & Evolution]]
-- [[14 Organismal Biology and Biotechnology|Organismal Biology]]
+- [[02_Genetics_Evolution_and_Ecology - Overview|13 Genetics Evolution and Ecology]]
+- [[03_Organismal_Biology_and_Biotechnology - Overview|14 Organismal Biology and Biotechnology]]

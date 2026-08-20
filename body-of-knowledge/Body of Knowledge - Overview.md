@@ -35,7 +35,7 @@ The Thai language curriculum organized into **5 learning strands (สาระ�
 | 📚 **สาระที่ ๔** | หลักการใช้ภาษาไทย | ~20 | ชนิดของคำ การสร้างคำ ระดับภาษา ฉันทลักษณ์ |
 | 📜 **สาระที่ ๕** | วรรณคดีและวรรณกรรม | ~15 | วรรณคดีไทยสมัยต่างๆ การวิเคราะห์วรรณกรรม |
 
-**Total: ~75 concept areas** | **Vault:** `Thai\`
+**Total: ~75 concept areas** | **Vault:** `ภาษาไทย\`
 
 ---
 
@@ -52,7 +52,7 @@ The English curriculum organized into **4 learning strands (สาระกา�
 | 🔗 **สาระที่ ๓** | ภาษากับกลุ่มสาระอื่น | ~4 | เชื่อมโยงคณิต วิทย์ สังคม ผ่านภาษาอังกฤษ |
 | 🌏 **สาระที่ ๔** | ภาษากับชุมชนและโลก | ~6 | อาชีพ อาเซียน สื่อออนไลน์ การสอบ |
 
-**Total: ~28 concept areas** | **Vault:** `English\`**
+**Total: ~28 concept areas** | **Vault:** `English Skill\`**
 **Supplementary:** [[English Skill Content|English Skill]] — teaching-ordered grammar/skills reference
 
 ---
@@ -71,7 +71,7 @@ The Social Studies curriculum organized into **5 learning strands (สาระ�
 | 📜 **สาระที่ 4** | ประวัติศาสตร์ | History | ~20 | Historical method, Thai history periods (Sukhothai, Ayutthaya, Thonburi, Rattanakosin), important monarchs, world civilizations, Southeast Asian history |
 | 🌏 **สาระที่ 5** | ภูมิศาสตร์ | Geography | ~18 | Maps/GIS/remote sensing, physical geography (landforms, climate), human geography (population, settlement, economy), environment, Thailand's 6 regions, natural disasters |
 
-**Total: ~94 concept areas across 5 strands** | **Vault:** `Social Studies\\`
+**Total: ~94 concept areas across 5 strands** | **Vault:** `Social Studies\`
 
 ---
 
@@ -196,7 +196,7 @@ Integrated mathematics covering ป.1 through ม.3 — the numerical fluency, g
 | **Data & Chance** | Sets, Statistics & Data Handling, Probability |
 | **Thinking** | Mathematical Processes & Problem Solving |
 
-**Vault:** `Fundamental Mathematics\` — ~20 concept area files | **Course codes:** ค111–ค116 (ป.1–6), ค211–ค213 (ม.1–3)
+**Vault:** `Mathematics/Fundamental\` — ~20 concept area files | **Course codes:** ค111–ค116 (ป.1–6), ค211–ค213 (ม.1–3)
 
 ### Fundamental Science — วิทยาศาสตร์พื้นฐาน
 
@@ -212,7 +212,7 @@ Integrated science covering ป.1 through ม.3 — physics, chemistry, biology,
 | **Physics** | Forces & Motion, Energy, Heat & Temperature, Light, Sound, Electricity & Magnetism |
 | **Earth & Space** | Rocks/Minerals/Soil, Weather/Climate, Solar System/Astronomy, Technology/Engineering |
 
-**Vault:** `Fundamental Science\` — ~22 concept area files | **Course codes:** ว111–ว116 (ป.1–6), ว211–ว213 (ม.1–3)
+**Vault:** `Science/Fundamental\` — ~22 concept area files | **Course codes:** ว111–ว116 (ป.1–6), ว211–ว213 (ม.1–3)
 
 ---
 
@@ -228,7 +228,7 @@ Integrated science covering ป.1 through ม.3 — physics, chemistry, biology,
 | **ม.5** | ค302 | Complex Numbers, Matrices, Analytic Geometry, Vectors, Limits, Calculus, Probability |
 | **ม.6** | ค303 | Probability Distributions, Statistics, Discrete Math, Proofs, Linear Programming, Diff Eq |
 
-**Vault:** `Mathematics\` — ~23 topic files
+**Vault:** `Mathematics/Advance\` — ~23 topic files
 
 ### Physics — ฟิสิกส์
 
@@ -240,7 +240,7 @@ Integrated science covering ป.1 through ม.3 — physics, chemistry, biology,
 | **ม.5** | ว302 | Electrostatics, DC Circuits, Magnetism, EM Induction, EM Waves, Optics, Wave Optics |
 | **ม.6** | ว303 | Special Relativity, Quantum Physics, Atomic Physics, Nuclear Physics, Particle Physics, Astrophysics |
 
-**Vault:** `Physics\` — ~23 topic files
+**Vault:** `Science/Advance/Physics\` — ~23 topic files
 
 ### Chemistry — เคมี
 
@@ -252,7 +252,7 @@ Integrated science covering ป.1 through ม.3 — physics, chemistry, biology,
 | **ม.5** | ว312 | Acids & Bases, Equilibrium, Ionic Equilibrium, Thermochemistry, Kinetics, Electrochemistry |
 | **ม.6** | ว313 | Organic Chemistry, Polymers, Biochemistry, Qualitative Analysis, Industrial Chemistry |
 
-**Vault:** `Chemistry\` — ~20 topic files
+**Vault:** `Science/Advance/Chemistry\` — ~20 topic files
 
 ### Biology — ชีววิทยา
 
@@ -264,7 +264,7 @@ Integrated science covering ป.1 through ม.3 — physics, chemistry, biology,
 | **ม.5** | ว322 | Evolution, Diversity, Microbiology, Plant Bio, Animal Bio, Human Body Systems |
 | **ม.6** | ว323 | Immune System, Reproduction, Ecology, Environmental Science, Biotechnology, Bioethics |
 
-**Vault:** `Biology\` — ~20 topic files
+**Vault:** `Science/Advance/Biology\` — ~20 topic files
 
 ### Computer Science — วิทยาการคำนวณ
 
@@ -276,7 +276,7 @@ Integrated science covering ป.1 through ม.3 — physics, chemistry, biology,
 | **ม.5** | ว332 | Functions, Algorithms, Data Structures, OOP |
 | **ม.6** | ว333 | Computer Systems, Networks, Databases, AI, Digital Citizenship |
 
-**Vault:** `Computer Science\` — ~12 topic files
+**Vault:** `Science/Advance/Computer Science\` — ~12 topic files
 
 ### Earth Science — วิทยาศาสตร์โลก
 
@@ -288,7 +288,7 @@ Integrated science covering ป.1 through ม.3 — physics, chemistry, biology,
 | **Atmosphere & Hydrosphere** | Weather/Climate, Oceanography, Water Cycle |
 | **Astronomy & Environment** | Solar System, Climate Change |
 
-**Vault:** `Earth Science\` — ~10 topic files
+**Vault:** `Science/Advance/Earth Science\` — ~10 topic files
 
 ---
 

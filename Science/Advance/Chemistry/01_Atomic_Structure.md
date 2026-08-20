@@ -190,4 +190,4 @@ $$\bar{A} = (0.7577 \times 35) + (0.2423 \times 37) = 35.48 \,\text{u}$$
 - [[../../Fundamental/10_Atoms_Elements_and_Compounds]] — Foundation of atoms from ม.1-3
 - [[02_Periodic_Table]] — Periodic table arranged by atomic number
 - [[03_Chemical_Bonding]] — Valence electrons determine bonding
-- [[../../Advance/physics/05_Quantum_Mechanics|Physics Quantum Mechanics]] — Deeper theory of quantum mechanics
+- [[19_Quantum_Physics|Physics Quantum Mechanics]] — Deeper theory of quantum mechanics

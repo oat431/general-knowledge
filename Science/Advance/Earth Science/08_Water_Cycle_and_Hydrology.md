@@ -221,5 +221,5 @@ A forested watershed would show a more gradual rise and longer recession.
 - [[06_Weather_and_Climate]] — precipitation is the input to the hydrological cycle
 - [[07_Oceanography]] — oceans are the largest water reservoir
 - [[10_Climate_Change_and_Environment]] — climate change alters precipitation patterns
-- [[02_Rocks_and_Minerals]] — rock types determine aquifer properties
+- [[01_Minerals_and_Rocks]] — rock types determine aquifer properties
 - [[../../Advance/Biology/16_Ecology|Biology: Ecology]] — water availability shapes ecosystems

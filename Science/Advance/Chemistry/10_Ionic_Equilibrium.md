@@ -185,4 +185,4 @@ $\ce{PbSO4}$ precipitates first (lower threshold).
 - [[05_Stoichiometry]] — mole calculations for precipitation yields
 - [[06_Solutions]] — concentration units, dilution
 - [[13_Electrochemistry]] — solubility and electrode potential (Nernst)
-- [[../Biology/02_Genetics_Evolution_and_Ecology|Biology]] — kidney stones, biomineralization
+- [[02_Genetics_Evolution_and_Ecology - Overview|Biology]] — kidney stones, biomineralization

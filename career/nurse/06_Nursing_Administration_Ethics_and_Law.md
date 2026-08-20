@@ -181,5 +181,5 @@ Issued by the Nursing Council under Section 25(5):
 
 - [[02_Nursing_Fundamentals]] — Documentation and the nursing process
 - [[05_Community_and_Public_Health_Nursing]] — Health policy context
-- [[08_University_Guide_and_Career_Paths]] — Career advancement into leadership roles
+- [[00_University_Guide_and_Career_Paths]] — Career advancement into leadership roles
 - [[Nursing - Overview]] — Return to nursing overview

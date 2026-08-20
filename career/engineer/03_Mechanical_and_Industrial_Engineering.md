@@ -191,5 +191,5 @@ These two disciplines power Thailand's manufacturing and automotive industries. 
 - [[01_Engineering_Foundations]] — Thermodynamics, dynamics, materials
 - [[04_Electrical_and_Computer_Engineering]] — PLC and automation
 - [[06_Emerging_Engineering_Fields]] — Robotics, mechatronics
-- [[07_University_Guide_and_Career_Paths]] — Top ME/IE programs
+- [[00_University_Guide_and_Career_Paths]] — Top ME/IE programs
 - [[Engineer - Overview]] — Return to engineering overview

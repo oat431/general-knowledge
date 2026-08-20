@@ -18,15 +18,15 @@ Numbers and Operations is the largest category in fundamental mathematics, cover
 
 | # | Concept Area | Thai Name | ป.1–3 | ป.4–6 | ม.1–3 |
 |---|---|---|---|---|---|
-| 01 | [[Numbers and Numeration]] | จำนวนและการนับ | Count to 100k, place value, Thai/Arabic numerals | Millions+, rounding, estimation | Real number system, scientific notation |
-| 02 | [[Arithmetic Operations]] | การดำเนินการทางคณิตศาสตร์ | +−×÷ basics, fact families | Multi-digit ops, PEMDAS, properties | Properties formalized, exponents |
-| 03 | [[Factors, Multiples, and Number Theory]] | ตัวประกอบและจำนวนเฉพาะ | Equal groups concept | GCF/LCM, primes | Divisibility rules, Euclidean algorithm |
-| 04 | [[Integers]] | จำนวนเต็ม | — | Negative numbers intro | Four operations, absolute value |
-| 05 | [[Fractions]] | เศษส่วน | Halves, thirds, quarters | Operations, mixed numbers | Complex operations, negative fractions |
-| 06 | [[Decimals]] | ทศนิยม | Money context (Baht/Satang) | Operations, converting | Terminating vs repeating |
-| 07 | [[Rational Numbers]] | จำนวนตรรกยะ | — | — | Formal definition, ℚ vs irrationals, ℝ |
-| 08 | [[Percentages]] | ร้อยละ | — | Concept, conversions | Increase/decrease, discount, profit, interest, VAT |
-| 09 | [[Ratios and Proportions]] | อัตราส่วนและสัดส่วน | — | Ratios, equivalent ratios | Direct/inverse proportion, scale, speed |
+| 01 | [[01_Numbers_and_Numeration|Numbers and Numeration]] | จำนวนและการนับ | Count to 100k, place value, Thai/Arabic numerals | Millions+, rounding, estimation | Real number system, scientific notation |
+| 02 | [[02_Arithmetic_Operations|Arithmetic Operations]] | การดำเนินการทางคณิตศาสตร์ | +−×÷ basics, fact families | Multi-digit ops, PEMDAS, properties | Properties formalized, exponents |
+| 03 | [[03_Factors_Multiples_and_Number_Theory|Factors, Multiples, and Number Theory]] | ตัวประกอบและจำนวนเฉพาะ | Equal groups concept | GCF/LCM, primes | Divisibility rules, Euclidean algorithm |
+| 04 | [[04_Integers|Integers]] | จำนวนเต็ม | — | Negative numbers intro | Four operations, absolute value |
+| 05 | [[05_Fractions|Fractions]] | เศษส่วน | Halves, thirds, quarters | Operations, mixed numbers | Complex operations, negative fractions |
+| 06 | [[06_Decimals|Decimals]] | ทศนิยม | Money context (Baht/Satang) | Operations, converting | Terminating vs repeating |
+| 07 | [[07_Rational_Numbers|Rational Numbers]] | จำนวนตรรกยะ | — | — | Formal definition, ℚ vs irrationals, ℝ |
+| 08 | [[08_Percentages|Percentages]] | ร้อยละ | — | Concept, conversions | Increase/decrease, discount, profit, interest, VAT |
+| 09 | [[09_Ratios_and_Proportions|Ratios and Proportions]] | อัตราส่วนและสัดส่วน | — | Ratios, equivalent ratios | Direct/inverse proportion, scale, speed |
 
 ---
 
@@ -126,6 +126,6 @@ flowchart TD
 ## Cross-Links
 
 - [[00_Fundamental Mathematics - Overview|← Back to Fundamental Mathematics]]
-- [[02 Algebra and Patterns|Algebra and Patterns]] — Algebra builds on arithmetic generalization
-- [[03 Geometry and Measurement|Geometry and Measurement]] — Measurement uses number operations
-- [[04 Data Statistics and Probability|Data, Statistics, and Probability]] — Statistics uses fractions, percentages, ratios
+- [[02 Algebra and Patterns - Overview|02 Algebra and Patterns]] — Algebra builds on arithmetic generalization
+- [[03 Geometry and Measurement - Overview|03 Geometry and Measurement]] — Measurement uses number operations
+- [[04 Data Statistics and Probability - Overview|04 Data Statistics and Probability]] — Statistics uses fractions, percentages, ratios
