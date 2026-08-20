@@ -27,14 +27,14 @@ Health and Physical Education combines two complementary strands: **health educa
 
 | # | Concept Area | Thai | ป.1–3 | ป.4–6 | ม.1–3 | ม.4–6 |
 |---|---|---|---|---|---|---|
-| 01 | [[Human Body and Growth]] | ร่างกายและการเจริญเติบโต | Body parts, senses, hygiene | Body systems overview | Puberty, reproductive health | Advanced physiology, aging |
-| 02 | [[Nutrition]] | โภชนาการ | Healthy vs junk food | 5 food groups, balanced diet | Meal planning, nutritional science | Dietary needs, food safety |
-| 03 | [[Disease Prevention]] | การป้องกันโรค | Hand washing, tooth brushing | Vaccines, hygiene, common diseases | Communicable/non-communicable diseases | Epidemiology basics, public health |
-| 04 | [[Mental Health]] | สุขภาพจิต | Identifying emotions | Stress and coping | Depression, anxiety awareness | Mental health management, self-care |
-| 05 | [[Safety]] | ความปลอดภัย | Stranger danger, road safety | First aid basics, water safety | CPR, disaster preparedness | Advanced first aid, emergency response |
-| 06 | [[Substance Abuse Prevention]] | การป้องกันสารเสพติด | Medicine vs drugs | Smoking, alcohol awareness | Drug types, effects, refusal skills | Addiction, laws, recovery |
-| 07 | [[Relationships and Sexual Health]] | สัมพันธภาพและเพศศึกษา | Family roles, friendship | Respect and boundaries | Dating, communication, consent | Healthy relationships, sexual health |
-| 08 | [[Consumer Health]] | สุขภาพผู้บริโภค | Choosing safe products | Reading food labels | Health advertising, healthcare rights | Health insurance, medical ethics |
+| 01 | [[01_Human_Body_and_Growth]] | ร่างกายและการเจริญเติบโต | Body parts, senses, hygiene | Body systems overview | Puberty, reproductive health | Advanced physiology, aging |
+| 02 | [[02_Nutrition]] | โภชนาการ | Healthy vs junk food | 5 food groups, balanced diet | Meal planning, nutritional science | Dietary needs, food safety |
+| 03 | [[03_Disease_Prevention]] | การป้องกันโรค | Hand washing, tooth brushing | Vaccines, hygiene, common diseases | Communicable/non-communicable diseases | Epidemiology basics, public health |
+| 04 | [[04_Mental_Health]] | สุขภาพจิต | Identifying emotions | Stress and coping | Depression, anxiety awareness | Mental health management, self-care |
+| 05 | [[05_Safety]] | ความปลอดภัย | Stranger danger, road safety | First aid basics, water safety | CPR, disaster preparedness | Advanced first aid, emergency response |
+| 06 | [[06_Substance_Abuse_Prevention]] | การป้องกันสารเสพติด | Medicine vs drugs | Smoking, alcohol awareness | Drug types, effects, refusal skills | Addiction, laws, recovery |
+| 07 | [[07_Relationships_and_Sexual_Health]] | สัมพันธภาพและเพศศึกษา | Family roles, friendship | Respect and boundaries | Dating, communication, consent | Healthy relationships, sexual health |
+| 08 | [[08_Consumer_Health]] | สุขภาพผู้บริโภค | Choosing safe products | Reading food labels | Health advertising, healthcare rights | Health insurance, medical ethics |
 
 ---
 
@@ -42,12 +42,12 @@ Health and Physical Education combines two complementary strands: **health educa
 
 | # | Concept Area | Thai | ป.1–3 | ป.4–6 | ม.1–3 | ม.4–6 |
 |---|---|---|---|---|---|---|
-| 09 | [[Movement Skills]] | ทักษะการเคลื่อนไหว | Running, jumping, throwing, catching | Complex movements, coordination | Sport-specific skills | Advanced athletic skills |
-| 10 | [[Games and Sports]] | เกมและกีฬา | Simple games, following rules | Basic sports (football, basketball) | Team sports, rules and tactics | Advanced strategy, officiating |
-| 11 | [[Thai Sports]] | กีฬาไทย | Traditional games | Takraw basics | Takraw, Thai boxing | Advanced Thai sports |
-| 12 | [[Fitness]] | สมรรถภาพทางกาย | Active play | Fitness testing, warm-up/cool-down | Training principles, personal fitness | Fitness planning, sports science |
-| 13 | [[Rhythmic Activities]] | กิจกรรมเข้าจังหวะ | Dancing to music | Aerobics, simple dance | Rhythmic gymnastics, social dance | Advanced dance, choreography |
-| 14 | [[Recreation]] | นันทนาการ | Playground activities | Outdoor games, hiking basics | Camping, outdoor education | Adventure sports, lifelong recreation |
+| 09 | [[09_Movement_Skills]] | ทักษะการเคลื่อนไหว | Running, jumping, throwing, catching | Complex movements, coordination | Sport-specific skills | Advanced athletic skills |
+| 10 | [[10_Games_and_Sports]] | เกมและกีฬา | Simple games, following rules | Basic sports (football, basketball) | Team sports, rules and tactics | Advanced strategy, officiating |
+| 11 | [[11_Thai_Sports]] | กีฬาไทย | Traditional games | Takraw basics | Takraw, Thai boxing | Advanced Thai sports |
+| 12 | [[12_Fitness]] | สมรรถภาพทางกาย | Active play | Fitness testing, warm-up/cool-down | Training principles, personal fitness | Fitness planning, sports science |
+| 13 | [[13_Rhythmic_Activities]] | กิจกรรมเข้าจังหวะ | Dancing to music | Aerobics, simple dance | Rhythmic gymnastics, social dance | Advanced dance, choreography |
+| 14 | [[14_Recreation]] | นันทนาการ | Playground activities | Outdoor games, hiking basics | Camping, outdoor education | Adventure sports, lifelong recreation |
 
 ---
 
