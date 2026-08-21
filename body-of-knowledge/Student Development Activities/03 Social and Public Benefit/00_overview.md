@@ -87,11 +87,11 @@ flowchart TD
 
 | # | Topic | Status | File | Notes |
 |---|---|---|---|---|
-| 01 | Self and School Responsibility | ✅ Done | `01_Self_and_School_Responsibility.md` | |
-| 02 | Community Service | ✅ Done | `02_Community_Service.md` | |
-| 03 | Environmental Service | ✅ Done | `03_Environmental_Service.md` | |
-| 04 | Public-Interest Projects | ✅ Done | `04_Public_Interest_Projects.md` | |
-| 05 | Reflection and Citizenship | ✅ Done | `05_Reflection_and_Citizenship.md` | |
+| 01 | Self and School Responsibility | ✅ Done | `Student Development/03 Social and Public Benefit/01_Self_and_School_Responsibility.md` | |
+| 02 | Community Service | ✅ Done | `Student Development/03 Social and Public Benefit/02_Community_Service.md` | |
+| 03 | Environmental Service | ✅ Done | `Student Development/03 Social and Public Benefit/03_Environmental_Service.md` | |
+| 04 | Public-Interest Projects | ✅ Done | `Student Development/03 Social and Public Benefit/04_Public_Interest_Projects.md` | |
+| 05 | Reflection and Citizenship | ✅ Done | `Student Development/03 Social and Public Benefit/05_Reflection_and_Citizenship.md` | |
 
 **Completion: 5/5 (100%) ✅**
 

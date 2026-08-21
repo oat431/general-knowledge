@@ -84,9 +84,9 @@ flowchart TD
 
 | Component | Overview | Topic notes | Status |
 |---|---|---|---|
-| Guidance and Counseling | ✅ Created | ✅ 5/5 complete | ✅ Complete |
-| Student Activities | ✅ Created | ✅ 5/5 complete | ✅ Complete |
-| Social and Public Benefit | ✅ Created | ✅ 5/5 complete | ✅ Complete |
+| Guidance and Counseling | ✅ Created | ✅ 5/5 complete → `Student Development/01 Guidance/` | ✅ Complete |
+| Student Activities | ✅ Created | ✅ 5/5 complete → `Student Development/02 Student Activities/` | ✅ Complete |
+| Social and Public Benefit | ✅ Created | ✅ 5/5 complete → `Student Development/03 Social and Public Benefit/` | ✅ Complete |
 
 **Completion: 3/3 components, 15/15 topic notes (100%) ✅**
 

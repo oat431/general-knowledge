@@ -73,11 +73,11 @@ A school may offer only some of these areas. This is why students in different s
 
 | # | Topic | Status | File | Notes |
 |---|---|---|---|---|
-| 01 | Scouts and Girl Guides | ✅ Done | `01_Scouts_and_Girl_Guides.md` | |
-| 02 | Red Cross Youth | ✅ Done | `02_Red_Cross_Youth.md` | |
-| 03 | Clubs | ✅ Done | `03_Clubs.md` | |
-| 04 | Student Organizations | ✅ Done | `04_Student_Organizations.md` | |
-| 05 | Leadership Activities | ✅ Done | `05_Leadership_Activities.md` | |
+| 01 | Scouts and Girl Guides | ✅ Done | `Student Development/02 Student Activities/01_Scouts_and_Girl_Guides.md` | |
+| 02 | Red Cross Youth | ✅ Done | `Student Development/02 Student Activities/02_Red_Cross_Youth.md` | |
+| 03 | Clubs | ✅ Done | `Student Development/02 Student Activities/03_Clubs.md` | |
+| 04 | Student Organizations | ✅ Done | `Student Development/02 Student Activities/04_Student_Organizations.md` | |
+| 05 | Leadership Activities | ✅ Done | `Student Development/02 Student Activities/05_Leadership_Activities.md` | |
 
 **Completion: 5/5 (100%) ✅**
 
