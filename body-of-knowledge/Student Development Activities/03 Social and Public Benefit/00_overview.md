@@ -87,13 +87,13 @@ flowchart TD
 
 | # | Topic | Status | File | Notes |
 |---|---|---|---|---|
-| 01 | Self and School Responsibility | ❌ Pending | — | Routines, care, reliability |
-| 02 | Community Service | ❌ Pending | — | Local needs and participation |
-| 03 | Environmental Service | ❌ Pending | — | Conservation and sustainability |
-| 04 | Public-Interest Projects | ❌ Pending | — | Planning and implementation |
-| 05 | Reflection and Citizenship | ❌ Pending | — | Learning evidence and civic identity |
+| 01 | Self and School Responsibility | ✅ Done | `01_Self_and_School_Responsibility.md` | |
+| 02 | Community Service | ✅ Done | `02_Community_Service.md` | |
+| 03 | Environmental Service | ✅ Done | `03_Environmental_Service.md` | |
+| 04 | Public-Interest Projects | ✅ Done | `04_Public_Interest_Projects.md` | |
+| 05 | Reflection and Citizenship | ✅ Done | `05_Reflection_and_Citizenship.md` | |
 
-**Completion: 0/5 (0%)**
+**Completion: 5/5 (100%) ✅**
 
 ---
 

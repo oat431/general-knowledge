@@ -73,13 +73,13 @@ A school may offer only some of these areas. This is why students in different s
 
 | # | Topic | Status | File | Notes |
 |---|---|---|---|---|
-| 01 | Scouts and Girl Guides | ❌ Pending | — | History, structure, skills, safety, service |
-| 02 | Red Cross Youth | ❌ Pending | — | Health, humanitarian values, first aid |
-| 03 | Clubs | ❌ Pending | — | Interest-based learning and school clubs |
-| 04 | Student Organizations | ❌ Pending | — | Student council and representation |
-| 05 | Leadership Activities | ❌ Pending | — | Planning, communication, responsibility |
+| 01 | Scouts and Girl Guides | ✅ Done | `01_Scouts_and_Girl_Guides.md` | |
+| 02 | Red Cross Youth | ✅ Done | `02_Red_Cross_Youth.md` | |
+| 03 | Clubs | ✅ Done | `03_Clubs.md` | |
+| 04 | Student Organizations | ✅ Done | `04_Student_Organizations.md` | |
+| 05 | Leadership Activities | ✅ Done | `05_Leadership_Activities.md` | |
 
-**Completion: 0/5 (0%)**
+**Completion: 5/5 (100%) ✅**
 
 ---
 

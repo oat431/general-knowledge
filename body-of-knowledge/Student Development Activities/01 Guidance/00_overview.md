@@ -67,13 +67,13 @@ The official OBEC guidance framework describes three broad developmental stages:
 
 | # | Topic | Status | File | Notes |
 |---|---|---|---|---|
-| 01 | Educational Guidance | ❌ Pending | — | Study habits, pathways, transition |
-| 02 | Career Guidance | ❌ Pending | — | Awareness, exploration, preparation |
-| 03 | Personal Guidance | ❌ Pending | — | Self, emotions, decisions |
-| 04 | Social Guidance | ❌ Pending | — | Relationships, cooperation, participation |
-| 05 | Life Skills and Well-being | ❌ Pending | — | Coping, safety, mental health |
+| 01 | Educational Guidance | ✅ Done | `01_Educational_Guidance.md` | |
+| 02 | Career Guidance | ✅ Done | `02_Career_Guidance.md` | |
+| 03 | Personal Guidance | ✅ Done | `03_Personal_Guidance.md` | |
+| 04 | Social Guidance | ✅ Done | `04_Social_Guidance.md` | |
+| 05 | Life Skills and Well-being | ✅ Done | `05_Life_Skills_and_Well-being.md` | |
 
-**Completion: 0/5 (0%)**
+**Completion: 5/5 (100%) ✅**
 
 ---
 
