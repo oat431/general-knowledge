@@ -9,6 +9,8 @@ tags: [overview, body-of-knowledge, english, primary, secondary, thai-curriculum
 > **Source:** Ministry of Education, Basic Education Core Curriculum B.E. 2551
 >
 > **Supplementary Notes:** [[English Skill Content|English Skill]] — a practical teaching reference organized by skill level (grammar → skills → exams), not by curriculum strand
+>
+> **Curriculum Content Notes:** `English Skill/` sections 16-19 — the 4-strand curriculum notes (24 concept areas, 2026-08-28), linked in each strand section below
 
 ## The 4 Learning Strands
 
@@ -21,7 +23,7 @@ The English curriculum is built around **4 strands (สาระการเร�
 | 3 | 🔗 **Language and Other Learning Areas** | ~4 | English across math, science, social studies, arts |
 | 4 | 🌏 **Language and Community & the World** | ~6 | Careers, ASEAN, online media, exams, lifelong learning |
 
-**Total: ~28 concept areas across 12 years (ป.1–ม.6)**
+**Total: 24 concept areas across 12 years (ป.1–ม.6) — all populated in `English Skill/` sections 16-19 (2026-08-28)**
 
 ---
 
@@ -83,6 +85,18 @@ flowchart LR
 
 ---
 
+
+### Curriculum Content Notes
+
+| # | Note | Covers |
+|---|---|---|
+| 01 | [[50 Listening and Speaking\|Listening and Speaking]] | Songs/games to lectures/debates; listening strategies |
+| 02 | [[51 Reading\|Reading]] | Phonics to critical reading; O-NET question types |
+| 03 | [[52 Writing\|Writing]] | Copying to essays/reports; process writing |
+| 04 | [[53 Grammar\|Grammar]] | Chunks → 12 tenses → passive/conditionals |
+| 05 | [[54 Vocabulary\|Vocabulary]] | First words → AWL, collocations, register |
+| 06 | [[55 Functions and Notions\|Social Formulas and Functions]] | Greetings → negotiation; Thai-English politeness |
+
 ## Strand 2: Language and Culture 🎭
 
 > Understanding the relationship between language and the culture of native speakers — using language with appropriate social etiquette for time, place, and occasion.
@@ -100,6 +114,18 @@ flowchart LR
 
 ---
 
+
+### Curriculum Content Notes
+
+| # | Note | Covers |
+|---|---|---|
+| 07 | [[56 Holidays and Festivals\|Holidays and Festivals]] | Anglo festivals, Thai comparison |
+| 08 | [[57 Social Etiquette\|Social Etiquette and Customs]] | Magic words → business etiquette; Thai-English contrasts |
+| 09 | [[58 Intercultural Communication\|Intercultural Communication]] | Direct/indirect, culture shock, repair strategies |
+| 10 | [[59 Digital Etiquette\|Digital Etiquette]] | Email registers, netiquette, digital footprint |
+| 11 | [[60 Language and Thai Culture\|Language and Thai Culture]] | Presenting Thai culture in English |
+| 12 | [[61 World Englishes\|World Englishes]] | Varieties, Kachru circles, intelligibility |
+
 ## Strand 3: Language and Other Learning Areas 🔗
 
 > Using English as a tool to learn content from other subject areas — mathematics, science, social studies, arts, and health education.
@@ -116,6 +142,18 @@ flowchart LR
 | **Technology** | Computer vocabulary, coding basics, online communication in English | ม.1–ม.6 |
 
 ---
+
+
+### Curriculum Content Notes
+
+| # | Note | Covers |
+|---|---|---|
+| 13 | [[62 English for Mathematics\|English for Mathematics]] | Operations vocabulary, word problems, graph language |
+| 14 | [[63 English for Science\|English for Science]] | Lab language, experiment reports, science texts |
+| 15 | [[64 English for Social Studies\|English for Social Studies]] | Geography/history/civics vocabulary, ASEAN content |
+| 16 | [[65 English for Arts and Music\|English for Arts and Music]] | Songs as method, describing art, Thai arts |
+| 17 | [[66 English for Health and PE\|English for Health and PE]] | Body/sports/health vocabulary, TPR |
+| 18 | [[67 English for Technology\|English for Technology]] | Devices → coding, AI tools |
 
 ## Strand 4: Language and Community & the World 🌏
 
@@ -143,6 +181,18 @@ flowchart LR
 | **Thai-Speaker Issues** | [[English Skill Content#08 Thai Speaker Challenges\|08 Thai Speaker Challenges]] — Common Mistakes, Pronunciation Guide, False Friends |
 
 ---
+
+
+### Curriculum Content Notes
+
+| # | Note | Covers |
+|---|---|---|
+| 19 | [[68 English for Careers\|English for Careers]] | CV, interviews, workplace English |
+| 20 | [[69 English for Exams\|English for Exams]] | O-NET, A-Level, IELTS, TOEFL, TOEIC, CU-TEP, TU-GET |
+| 21 | [[70 English Online\|English Online]] | Search, tools, AI practice, credibility |
+| 22 | [[71 English in the Community\|English in the Community]] | Directions, signs, tourist help |
+| 23 | [[72 ASEAN English\|ASEAN English]] | Member states, community pillars, regional English |
+| 24 | [[73 Lifelong English\|Lifelong English]] | Maintenance, media pathways, CEFR goals |
 
 ## How the 4 Strands Connect
 
@@ -197,6 +247,7 @@ flowchart TD
 
 - **Curriculum:** The Basic Education Core Curriculum B.E. 2551 (revised 2560) mandates English as the compulsory foreign language for all Thai students
 - **English Skill notes:** Organized by teaching progression (grammar → skills → exams), not by curriculum strand — use the cross-reference tables above to navigate between the two systems
+- **English Skill curriculum notes (2026-08-28):** 24 concept-area notes + 4 strand overviews under `English Skill/` sections 16-19, one per curriculum topic — linked in the Curriculum Content Notes table of each strand
 - **Key difference from Thai Language:** Thai is a first language — students are immersed in it daily. English is a foreign language — it requires deliberate environment creation and consistent exposure
 
 ## Related
@@ -204,3 +255,7 @@ flowchart TD
 - [[Body of Knowledge - Overview|← Back to Body of Knowledge]]
 - [[Thai Language - Overview|Thai Language — Overview]]
 - [[English Skill Content|English Skill — Supplementary Notes]]
+- [[English Skill/16 Language for Communication/00_overview|English Skill — Strand 1: Language for Communication]]
+- [[English Skill/17 Language and Culture/00_overview|English Skill — Strand 2: Language and Culture]]
+- [[English Skill/18 Language and Other Learning Areas/00_overview|English Skill — Strand 3: Language and Other Learning Areas]]
+- [[English Skill/19 Language and Community and the World/00_overview|English Skill — Strand 4: Language and Community and the World]]

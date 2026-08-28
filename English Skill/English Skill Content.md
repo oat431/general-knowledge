@@ -10,6 +10,7 @@ tags:
 A practical guide for teaching English to functioning adults who rarely speak English. Numbered in teaching order — start at 01 and work forward.
 
 Sections 01-08 build grammar foundation. Sections 09-14 prepare for TOEFL/IELTS. Section 15 prepares for TOEIC.
+Sections 16-19 cover the national 4-strand English curriculum (OBEC standards อ 1.1-อ 4.2), ป.1-ม.6.
 
 ---
 
@@ -108,6 +109,51 @@ Sections 01-08 build grammar foundation. Sections 09-14 prepare for TOEFL/IELTS.
 - [[47 TOEIC Listening Question Types]] — Parts 1-4: photographs, question-response, conversations, short talks — strategies for each
 - [[48 TOEIC Reading Strategies]] — Parts 5-7: incomplete sentences, text completion, reading comprehension — speed techniques
 - [[49 TOEIC Scoring & Strategy]] — Score levels, company requirements, study plans by target score, IELTS/TOEFL/TOEIC comparison
+
+
+## 16 Language for Communication
+
+The engine strand — อ 1.1-1.3: four skills plus grammar and vocabulary, from songs in ป.1 to debates and essays in ม.6. Section tracker: [[English Skill/16 Language for Communication/00_overview|16 Overview & Progress]]
+
+- [[50 Listening and Speaking]] — songs/games → lectures/debates; grade-band functions and listening strategies
+- [[51 Reading]] — phonics → critical reading; O-NET question types
+- [[52 Writing]] — letter formation → essays/reports; process writing cycle
+- [[53 Grammar]] — chunks → 12 tenses → passive/conditionals; PPP teaching and Thai interference
+- [[54 Vocabulary]] — first words → AWL, collocations, register; ~3,000-word target
+- [[55 Functions and Notions]] — greetings → negotiation; Thai politeness particles vs English formulas
+
+## 17 Language and Culture
+
+อ 2.1-2.2: native-speaker culture, etiquette (กาลเทศะ), and presenting Thai culture in English. Section tracker: [[English Skill/17 Language and Culture/00_overview|17 Overview & Progress]]
+
+- [[56 Holidays and Festivals]] — Anglo festivals, Thai comparison, cultural borrowing
+- [[57 Social Etiquette]] — magic words → business etiquette; wai vs handshake, small talk, tipping
+- [[58 Intercultural Communication]] — direct/indirect styles, culture shock, repair strategies
+- [[59 Digital Etiquette]] — email registers, netiquette rules, digital footprint
+- [[60 Language and Thai Culture]] — explaining Songkran, wai, and Thai food to foreigners
+- [[61 World Englishes]] — UK/US/AU/SG varieties, Kachru circles, intelligibility over imitation
+
+## 18 Language and Other Learning Areas
+
+อ 3.1: CLIL — English as the tool for learning other subjects. Section tracker: [[English Skill/18 Language and Other Learning Areas/00_overview|18 Overview & Progress]]
+
+- [[62 English for Mathematics]] — operations vocabulary, word problems, graph language
+- [[63 English for Science]] — lab language, experiment reports, กสพท. on-ramp
+- [[64 English for Social Studies]] — geography/history/civics vocabulary, ASEAN content
+- [[65 English for Arts and Music]] — songs as method, describing art, presenting khon
+- [[66 English for Health and PE]] — body/sports/health vocabulary, TPR legacy
+- [[67 English for Technology]] — devices → coding, AI tools, English as the interface language
+
+## 19 Language and Community and the World
+
+อ 4.1-4.2: real-world application — careers, exams, community, ASEAN, lifelong learning. Section tracker: [[English Skill/19 Language and Community and the World/00_overview|19 Overview & Progress]]
+
+- [[68 English for Careers]] — job ads, CV writing, interview question bank, workplace English
+- [[69 English for Exams]] — O-NET, A-Level, IELTS, TOEFL, TOEIC, CU-TEP, TU-GET map
+- [[70 English Online]] — searching, dictionaries vs translators, AI practice partners
+- [[71 English in the Community]] — directions, public signs, tourist help
+- [[72 ASEAN English]] — member states, community pillars, English as regional lingua franca
+- [[73 Lifelong English]] — maintenance portfolio, media pathways, CEFR self-assessment
 
 ---
 
