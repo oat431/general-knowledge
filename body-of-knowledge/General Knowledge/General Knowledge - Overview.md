@@ -23,7 +23,7 @@ Built for the same family the curriculum BOK serves: parents reading alongside t
 
 | # | Domain | Thai | Topics | Focus | Status |
 |---|---|---|---|---|---|
-| 1 | 🏛️ **Philosophy** | ปรัชญา | 22 (20 core + 2 optional) | The question-asking toolkit: reality, knowledge, ethics, logic, beauty | ❌ 0/22 built |
+| 1 | 🏛️ **Philosophy** | ปรัชญา | 22 (20 core + 2 optional) | The question-asking toolkit: reality, knowledge, ethics, logic, beauty | ✅ 22/22 built |
 | 2 | 📚 **World Literature** | วรรณกรรมโลก | 22 (20 core + 2 optional) | Great stories and traditions from Gilgamesh to modern world voices | ❌ 0/22 built |
 | 3 | 🛕 **World Religions and Mythology** | ศาสนาโลกและเทพปกรณัม | 20 (11 religions + 9 mythology) | How humanity has believed and storied the sacred | ❌ 0/20 built |
 
@@ -64,7 +64,7 @@ flowchart TD
 |---|---|---|
 | 0 | Baseline hygiene: 20 missing notes + ~92 broken links + duplicates + N1 | ⬜ pending |
 | 1 | Scaffolding: this BOK layer + book checklists in `checklist/` | ✅ BOK done (this file); checklists ⬜ pending |
-| 2 | Philosophy build: 22 topic notes in `General Knowledge/01 Philosophy/` | ⬜ pending |
+| 2 | Philosophy build: 22 topic notes in `Philosophy/` | ✅ done 2026-09-05 |
 | 3 | World Literature build: 22 topic notes | ⬜ pending |
 | 4 | World Religions and Mythology build: 20 topic notes | ⬜ pending |
 | 5 | Re-audit: link checker clean, new audit doc in `Audit/` | ⬜ pending |

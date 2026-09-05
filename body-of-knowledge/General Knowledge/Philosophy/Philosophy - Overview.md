@@ -2,14 +2,14 @@
 tags: [overview, body-of-knowledge, general-knowledge, philosophy, western-philosophy, eastern-philosophy, ethics, epistemology, lifelong-learning]
 source: "more-topic-proposal-20260905.md + canonical philosophy books (see Book Recommendations)"
 created: 2026-09-05
-status: "roadmap: 0/22 topic notes built"
+status: "complete: 22/22 topic notes built (2026-09-05)"
 ---
 
 # Philosophy — ปรัชญา
 
 > **Domain:** Philosophy for adult general knowledge (exam-free, no grade bands)
 > **Total Topics:** 22 (20 core + 2 optional)
-> **Content root:** `General Knowledge/01 Philosophy/` (files numbered 01-22)
+> **Content root:** `Philosophy/` in the general-knowledge vault (files numbered 01-22, plus `00_overview.md` progress tracker)
 > **Language policy:** English narrative with Thai terms in parentheses (default); user overrides per topic
 > **Source:** [[more-topic-proposal-20260905|More Topics Proposal 2026-09-05]]; canonical books listed below
 > **Note template:** see proposal section 4 (tags `general-knowledge` + `philosophy`, concepts tables, Mermaid timeline, Thai terminology, why it matters today, further reading, cross-links)
@@ -160,30 +160,30 @@ flowchart TD
 
 | # | Topic | Status | Content File | Notes |
 |---|---|---|---|---|
-| 01 | What Is Philosophy | ❌ Pending | — | Open with the branch map; adult relevance: spotting bad arguments in daily media |
-| 02 | Pre-Socratic Philosophers | ❌ Pending | — | Timeline from Thales to the atomists; link to Scientific Method note |
-| 03 | Socrates and the Socratic Method | ❌ Pending | — | Worked example of the method; the trial as context |
-| 04 | Plato | ❌ Pending | — | The cave explained with a modern example; The Republic summary |
-| 05 | Aristotle | ❌ Pending | — | Golden mean table; his science legacy and later corrections |
-| 06 | Hellenistic Philosophy | ❌ Pending | — | Highlight Stoicism and พอเพียง parallels (user's favorite bridge) |
-| 07 | Medieval Philosophy | ❌ Pending | — | Faith vs reason; Aquinas' five ways listed neutrally |
-| 08 | Islamic and Jewish Philosophy | ❌ Pending | — | Preservation story: Greek thought through Baghdad and Córdoba |
-| 09 | Renaissance and Humanism | ❌ Pending | — | The Prince as political realism, not villainy |
-| 10 | Rationalism | ❌ Pending | — | Cogito ergo sum; Spinoza's ethics; Leibniz' monads |
-| 11 | Empiricism | ❌ Pending | — | Hume's fork and the problem of induction |
-| 12 | Enlightenment and Social Contract | ❌ Pending | — | Three contract versions compared; link to Thai democracy civics |
-| 13 | Kant and German Idealism | ❌ Pending | — | Categorical imperative with a worked everyday case |
-| 14 | Utilitarianism and Ethical Theories | ❌ Pending | — | The three families compared in one table; trolley problem variants |
-| 15 | Existentialism | ❌ Pending | — | Existence precedes essence; Camus' Sisyphus |
-| 16 | Pragmatism | ❌ Pending | — | What pragmatism means for learning and testing ideas |
-| 17 | Analytic Philosophy | ❌ Pending | — | Language games and clarity; why it matters in the AI era |
-| 18 | Political Philosophy and Justice | ❌ Pending | — | Rawls' veil of ignorance; liberty vs equality trade-off |
-| 19 | Philosophy of Science | ❌ Pending | — | Falsification and paradigms; why science revises itself |
-| 20 | Eastern Philosophy Beyond Thailand | ❌ Pending | — | Confucian ren, Daoist wu-wei, Zen; contrast table with Buddhism |
-| 21 | Philosophy of Mind and AI | ❌ Pending | — | Optional; consciousness debates; what AI does and does not think |
-| 22 | Applied Ethics Today | ❌ Pending | — | Optional; bioethics, tech ethics, climate ethics, Stoic revival |
+| 01 | What Is Philosophy | ✅ Done | `01_What_Is_Philosophy.md` | Open with the branch map; adult relevance: spotting bad arguments in daily media |
+| 02 | Pre-Socratic Philosophers | ✅ Done | `02_Pre_Socratic_Philosophers.md` | Timeline from Thales to the atomists; link to Scientific Method note |
+| 03 | Socrates and the Socratic Method | ✅ Done | `03_Socrates_and_the_Socratic_Method.md` | Worked example of the method; the trial as context |
+| 04 | Plato | ✅ Done | `04_Plato.md` | The cave explained with a modern example; The Republic summary |
+| 05 | Aristotle | ✅ Done | `05_Aristotle.md` | Golden mean table; his science legacy and later corrections |
+| 06 | Hellenistic Philosophy | ✅ Done | `06_Hellenistic_Philosophy.md` | Highlight Stoicism and พอเพียง parallels (user's favorite bridge) |
+| 07 | Medieval Philosophy | ✅ Done | `07_Medieval_Philosophy.md` | Faith vs reason; Aquinas' five ways listed neutrally |
+| 08 | Islamic and Jewish Philosophy | ✅ Done | `08_Islamic_and_Jewish_Philosophy.md` | Preservation story: Greek thought through Baghdad and Córdoba |
+| 09 | Renaissance and Humanism | ✅ Done | `09_Renaissance_and_Humanism.md` | The Prince as political realism, not villainy |
+| 10 | Rationalism | ✅ Done | `10_Rationalism.md` | Cogito ergo sum; Spinoza's ethics; Leibniz' monads |
+| 11 | Empiricism | ✅ Done | `11_Empiricism.md` | Hume's fork and the problem of induction |
+| 12 | Enlightenment and Social Contract | ✅ Done | `12_Enlightenment_and_Social_Contract.md` | Three contract versions compared; link to Thai democracy civics |
+| 13 | Kant and German Idealism | ✅ Done | `13_Kant_and_German_Idealism.md` | Categorical imperative with a worked everyday case |
+| 14 | Utilitarianism and Ethical Theories | ✅ Done | `14_Utilitarianism_and_Ethical_Theories.md` | The three families compared in one table; trolley problem variants |
+| 15 | Existentialism | ✅ Done | `15_Existentialism.md` | Existence precedes essence; Camus' Sisyphus |
+| 16 | Pragmatism | ✅ Done | `16_Pragmatism.md` | What pragmatism means for learning and testing ideas |
+| 17 | Analytic Philosophy | ✅ Done | `17_Analytic_Philosophy.md` | Language games and clarity; why it matters in the AI era |
+| 18 | Political Philosophy and Justice | ✅ Done | `18_Political_Philosophy_and_Justice.md` | Rawls' veil of ignorance; liberty vs equality trade-off |
+| 19 | Philosophy of Science | ✅ Done | `19_Philosophy_of_Science.md` | Falsification and paradigms; why science revises itself |
+| 20 | Eastern Philosophy Beyond Thailand | ✅ Done | `20_Eastern_Philosophy_Beyond_Thailand.md` | Confucian ren, Daoist wu-wei, Zen; contrast table with Buddhism |
+| 21 | Philosophy of Mind and AI | ✅ Done | `21_Philosophy_of_Mind_and_AI.md` | Optional; consciousness debates; what AI does and does not think |
+| 22 | Applied Ethics Today | ✅ Done | `22_Applied_Ethics_Today.md` | Optional; bioethics, tech ethics, climate ethics, Stoic revival |
 
-**Completion: 0/22 (0%)**
+**Completion: 22/22 (100%)**
 
 ## Related
 
