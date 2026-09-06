@@ -2,14 +2,14 @@
 tags: [overview, body-of-knowledge, general-knowledge, world-literature, classics, novels, poetry, lifelong-learning]
 source: "more-topic-proposal-20260905.md + the literary works themselves (see Book Recommendations)"
 created: 2026-09-05
-status: "roadmap: 0/22 topic notes built"
+status: "complete: 22/22 topic notes built (2026-09-06)"
 ---
 
 # World Literature — วรรณกรรมโลก
 
 > **Domain:** World literature for adult general knowledge (exam-free, no grade bands)
 > **Total Topics:** 22 (20 core + 2 optional)
-> **Content root:** `General Knowledge/02 World Literature/` (files numbered 01-22)
+> **Content root:** `World Literature/` in the general-knowledge vault (files numbered 01-22, plus `00_overview.md` progress tracker)
 > **Language policy:** English narrative with Thai terms in parentheses (default); user overrides per topic. Quotes from works may keep original language with translation
 > **Source:** [[more-topic-proposal-20260905|More Topics Proposal 2026-09-05]]; the works themselves in translation
 > **Note template:** see proposal section 4 (tags `general-knowledge` + `world-literature`, concepts tables, Mermaid timeline, Thai terminology, why it matters today, further reading, cross-links)
@@ -173,34 +173,34 @@ flowchart TD
 
 ## Progress Tracker (Build Contract)
 
-> **Contract for the next educator:** create one note per row, exactly these file names, in `General Knowledge/02 World Literature/`. Follow the proposal's note template (section 4). Write in the Language column's language. Add the Cross-links column's wikilinks. Each note includes a short passage in the original/translation as a taste of the work. Mark rows ✅ Done with the created file name, then update the completion count.
+> **Contract for the next educator:** create one note per row, exactly these file names, in `World Literature/` (flat root, mirroring Philosophy). Follow the proposal's note template (section 4). Write in the Language column's language. Add the Cross-links column's wikilinks. Each note includes a short passage in the original/translation as a taste of the work. Mark rows ✅ Done with the created file name, then update the completion count.
 
 | # | Topic | Status | Content File | Notes |
 |---|---|---|---|---|
-| 01 | How to Read Literature | ❌ Pending | — | The reading toolkit; make it the gateway note |
-| 02 | Ancient Epics | ❌ Pending | — | Gilgamesh, Iliad, Odyssey: hero's journey preview |
-| 03 | Greek Drama | ❌ Pending | — | Oedipus Rex plot and the tragic pattern |
-| 04 | Roman Literature | ❌ Pending | — | Aeneid as empire's founding story |
-| 05 | Dante and the Medieval World | ❌ Pending | — | Divine Comedy structure; Inferno highlights |
-| 06 | Shakespeare | ❌ Pending | — | Hamlet or Macbeth deep dive + sonnets |
-| 07 | Cervantes and the Early Novel | ❌ Pending | — | The windmills scene; why the novel form was born |
-| 08 | Enlightenment Literature | ❌ Pending | — | Candide as satire; Swift's modest proposal |
-| 09 | Goethe and German Literature | ❌ Pending | — | Faust's bargain; Werther's storm |
-| 10 | Russian Literature | ❌ Pending | — | Big souls: War and Peace scale, Crime and Punishment psychology |
-| 11 | French 19th Century | ❌ Pending | — | Les Misérables links to the musical notes in oralita_md |
-| 12 | English 19th Century | ❌ Pending | — | Austen irony, Dickens' London, Brontë passion |
-| 13 | American Classics | ❌ Pending | — | Moby-Dick, Huckleberry Finn, Gatsby |
-| 14 | Modernism | ❌ Pending | — | Metamorphosis as entry point; stream of consciousness |
-| 15 | Dystopian Fiction | ❌ Pending | — | 1984 and the media-literacy connection |
-| 16 | Magical Realism and Latin America | ❌ Pending | — | One Hundred Years of Solitude as the door |
-| 17 | Asian Literature | ❌ Pending | — | Murakami and Kawabata first; haiku as form |
-| 18 | African and Middle Eastern Literature | ❌ Pending | — | Things Fall Apart first |
-| 19 | Poetry of the World | ❌ Pending | — | Sample each poet with one short poem |
-| 20 | Children's Classics and Folk Tales | ❌ Pending | — | The parent-child track's favorite note |
-| 21 | ASEAN and Southeast Asian Literature | ❌ Pending | — | Optional; regional neighbors |
-| 22 | Literary Movements Overview | ❌ Pending | — | Optional; may become the folder's 00_overview instead |
+| 01 | How to Read Literature | ✅ Done | 01_How_to_Read_Literature.md | The reading toolkit; make it the gateway note |
+| 02 | Ancient Epics | ✅ Done | 02_Ancient_Epics.md | Gilgamesh, Iliad, Odyssey: hero's journey preview |
+| 03 | Greek Drama | ✅ Done | 03_Greek_Drama.md | Oedipus Rex plot and the tragic pattern |
+| 04 | Roman Literature | ✅ Done | 04_Roman_Literature.md | Aeneid as empire's founding story |
+| 05 | Dante and the Medieval World | ✅ Done | 05_Dante_and_the_Medieval_World.md | Divine Comedy structure; Inferno highlights |
+| 06 | Shakespeare | ✅ Done | 06_Shakespeare.md | Hamlet or Macbeth deep dive + sonnets |
+| 07 | Cervantes and the Early Novel | ✅ Done | 07_Cervantes_and_the_Early_Novel.md | The windmills scene; why the novel form was born |
+| 08 | Enlightenment Literature | ✅ Done | 08_Enlightenment_Literature.md | Candide as satire; Swift's modest proposal |
+| 09 | Goethe and German Literature | ✅ Done | 09_Goethe_and_German_Literature.md | Faust's bargain; Werther's storm |
+| 10 | Russian Literature | ✅ Done | 10_Russian_Literature.md | Big souls: War and Peace scale, Crime and Punishment psychology |
+| 11 | French 19th Century | ✅ Done | 11_French_19th_Century.md | Les Misérables links to the musical notes in oralita_md |
+| 12 | English 19th Century | ✅ Done | 12_English_19th_Century.md | Austen irony, Dickens' London, Brontë passion |
+| 13 | American Classics | ✅ Done | 13_American_Classics.md | Moby-Dick, Huckleberry Finn, Gatsby |
+| 14 | Modernism | ✅ Done | 14_Modernism.md | Metamorphosis as entry point; stream of consciousness |
+| 15 | Dystopian Fiction | ✅ Done | 15_Dystopian_Fiction.md | 1984 and the media-literacy connection |
+| 16 | Magical Realism and Latin America | ✅ Done | 16_Magical_Realism_and_Latin_America.md | One Hundred Years of Solitude as the door |
+| 17 | Asian Literature | ✅ Done | 17_Asian_Literature.md | Murakami and Kawabata first; haiku as form |
+| 18 | African and Middle Eastern Literature | ✅ Done | 18_African_and_Middle_Eastern_Literature.md | Things Fall Apart first |
+| 19 | Poetry of the World | ✅ Done | 19_Poetry_of_the_World.md | Sample each poet with one short poem |
+| 20 | Children's Classics and Folk Tales | ✅ Done | 20_Childrens_Classics_and_Folk_Tales.md | The parent-child track's favorite note |
+| 21 | ASEAN and Southeast Asian Literature | ✅ Done | 21_ASEAN_and_Southeast_Asian_Literature.md | Optional; regional neighbors |
+| 22 | Literary Movements Overview | ✅ Done | 22_Literary_Movements_Overview.md | Optional; may become the folder's 00_overview instead |
 
-**Completion: 0/22 (0%)**
+**Completion: 22/22 (100%)**
 
 ## Related
 

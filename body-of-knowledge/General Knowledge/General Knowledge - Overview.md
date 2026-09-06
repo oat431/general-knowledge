@@ -2,7 +2,7 @@
 tags: [overview, body-of-knowledge, general-knowledge, philosophy, world-literature, world-religions, mythology, lifelong-learning]
 source: "more-topic-proposal-20260905.md (grill-me locked decisions, 2026-09-05)"
 created: 2026-09-05
-status: "roadmap: topic notes pending (0/62 built)"
+status: "building: 44/62 topic notes built (Philosophy 22, World Literature 22, Religions 0/20)"
 ---
 
 # General Knowledge — ความรู้ทั่วไป
@@ -24,7 +24,7 @@ Built for the same family the curriculum BOK serves: parents reading alongside t
 | # | Domain | Thai | Topics | Focus | Status |
 |---|---|---|---|---|---|
 | 1 | 🏛️ **Philosophy** | ปรัชญา | 22 (20 core + 2 optional) | The question-asking toolkit: reality, knowledge, ethics, logic, beauty | ✅ 22/22 built |
-| 2 | 📚 **World Literature** | วรรณกรรมโลก | 22 (20 core + 2 optional) | Great stories and traditions from Gilgamesh to modern world voices | ❌ 0/22 built |
+| 2 | 📚 **World Literature** | วรรณกรรมโลก | 22 (20 core + 2 optional) | Great stories and traditions from Gilgamesh to modern world voices | ✅ 22/22 built |
 | 3 | 🛕 **World Religions and Mythology** | ศาสนาโลกและเทพปกรณัม | 20 (11 religions + 9 mythology) | How humanity has believed and storied the sacred | ❌ 0/20 built |
 
 - [[Philosophy - Overview|→ Philosophy Full Overview]]
@@ -65,11 +65,11 @@ flowchart TD
 | 0 | Baseline hygiene: 20 missing notes + ~92 broken links + duplicates + N1 | ⬜ pending |
 | 1 | Scaffolding: this BOK layer + book checklists in `checklist/` | ✅ BOK done (this file); checklists ⬜ pending |
 | 2 | Philosophy build: 22 topic notes in `Philosophy/` | ✅ done 2026-09-05 |
-| 3 | World Literature build: 22 topic notes | ⬜ pending |
+| 3 | World Literature build: 22 topic notes in `World Literature/` | ✅ done 2026-09-06 |
 | 4 | World Religions and Mythology build: 20 topic notes | ⬜ pending |
 | 5 | Re-audit: link checker clean, new audit doc in `Audit/` | ⬜ pending |
 
-**Topic notes built: 0/62.** The domain overviews below are the build contracts: one numbered note per row, file names fixed, cross-links specified.
+**Topic notes built: 44/62** (Philosophy 22, World Literature 22; World Religions and Mythology 0/20). The domain overviews below are the build contracts: one numbered note per row, file names fixed, cross-links specified.
 
 ## Related
 
