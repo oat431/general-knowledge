@@ -68,14 +68,14 @@
 
 ## 📖 Books
 
-| Book | Author | Note |
-|---|---|---|
-| The Animator's Survival Kit | Richard Williams | The core textbook |
-| Cartoon Animation | Preston Blair | Cheap beginner classic |
-| The Animator's Workbook | Tony White | Exercise-based |
-| The Illusion of Life | Frank Thomas & Ollie Johnston | The 12 Principles from the source |
-| Drawn to Life (2 vols) | Walt Stanchfield | Gesture + acting for animators |
-| Learning Blender (3rd ed.) | Oliver Villar | Optional software book |
+| Book                        | Author                        | Note                              |
+| --------------------------- | ----------------------------- | --------------------------------- |
+| The Animator's Survival Kit | Richard Williams              | The core textbook                 |
+| Cartoon Animation           | Preston Blair                 | Cheap beginner classic            |
+| The Animator's Workbook     | Tony White                    | Exercise-based                    |
+| The Illusion of Life        | Frank Thomas & Ollie Johnston | The 12 Principles from the source |
+| Drawn to Life (2 vols)      | Walt Stanchfield              | Gesture + acting for animators    |
+| Learning Blender (3rd ed.)  | Oliver Villar                 | Optional software book            |
 
 ---
 
