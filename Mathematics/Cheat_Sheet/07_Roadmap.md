@@ -156,12 +156,12 @@ flowchart LR
     click R "[[05_Sets_Logic_and_Processes]]"
     click C "[[06_Calculus]]"
 
-    style Z fill:#1FB854,color:#fff
-    style L fill:#1EB88E,color:#fff
-    style S fill:#1FB8AB,color:#fff
-    style D fill:#1FB854,color:#fff
-    style R fill:#1EB88E,color:#fff
-    style C fill:#1FB8AB,color:#fff
+    style Z fill:#1FB854#000000
+    style L fill:#1EB88E#000C07
+    style S fill:#1FB8AB#010C0B
+    style D fill:#1FB854#000000
+    style R fill:#1EB88E#000C07
+    style C fill:#1FB8AB#010C0B
 ```
 
 **The 5 unlock gates into Calculus** (arrows converging on Limits):

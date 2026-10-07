@@ -93,10 +93,10 @@ flowchart TD
     PAR --> PAR_EX["Many unrelated species → similar traits<br/>Same genes/mechanisms<br/>e.g. White flowers in different plants"]
     COEVO --> COEVO_EX["Two or more species → mutual influence<br/>Arms races or partnerships<br/>e.g. Cheetah and gazelle"]
     
-    style DIV fill:#e1f5ff
-    style CONV fill:#fff4e1
-    style PAR fill:#e8ffe1
-    style COEVO fill:#ffe1f4
+    style DIV fill:#1FB854,color:#000000
+    style CONV fill:#1EB88E,color:#000C07
+    style PAR fill:#1FB8AB,color:#010C0B
+    style COEVO fill:#19362D,color:#CDD3D1
 ```
 
 ### 3.2 Darwin's Theory and Natural Selection

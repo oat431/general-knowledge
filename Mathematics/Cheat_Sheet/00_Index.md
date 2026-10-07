@@ -28,12 +28,12 @@ flowchart LR
     D --> E["05 Sets, Logic &<br/>Processes"]
     E --> F["06 Calculus<br/>beyond practical"]
 
-    style A fill:#1FB854,color:#fff
-    style B fill:#1EB88E,color:#fff
-    style C fill:#1FB8AB,color:#fff
-    style D fill:#1FB854,color:#fff
-    style E fill:#1EB88E,color:#fff
-    style F fill:#1FB8AB,color:#fff
+    style A fill:#1FB854#000000
+    style B fill:#1EB88E#000C07
+    style C fill:#1FB8AB#010C0B
+    style D fill:#1FB854#000000
+    style E fill:#1EB88E#000C07
+    style F fill:#1FB8AB#010C0B
 ```
 
 | # | Rulebook | Covers | Level |
