@@ -22,7 +22,7 @@ Conjunctions connect words, phrases, and clauses. They're the glue that turns sh
 
 ---
 
-## 1. Coordinating Conjunctions — FANBOYS
+## 1. Coordinating Conjunctions: FANBOYS
 
 Join two equal (same-level) elements: word+word, phrase+phrase, clause+clause.
 
@@ -48,7 +48,7 @@ Join two equal (same-level) elements: word+word, phrase+phrase, clause+clause.
 
 ## 2. Subordinating Conjunctions
 
-Introduce dependent clauses — they make one clause subordinate (dependent) to another.
+Introduce dependent clauses: they make one clause subordinate (dependent) to another.
 
 | Category | Conjunction | Example |
 |----------|------------|---------|
@@ -96,7 +96,7 @@ Paired conjunctions that link balanced elements.
 
 ## ⚠️ Thai Speaker Traps
 
-Thai often uses paired connectors — `เพราะว่า...ก็เลย` (because...so) and `ถึงแม้ว่า...แต่ก็` (although...but). English forbids this.
+Thai often uses paired connectors: `เพราะว่า...ก็เลย` (because...so) and `ถึงแม้ว่า...แต่ก็` (although...but). English forbids this.
 
 | Thai Pattern | ❌ | ✅ |
 |-------------|------|-----|

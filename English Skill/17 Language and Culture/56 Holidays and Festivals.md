@@ -3,14 +3,14 @@ tags: [english, english-curriculum, language-and-culture, holidays, festivals, p
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ11101", "อ16101", "อ21101", "อ23101", "อ31101", "อ33101"]
-strand: "สาระที่ 2: ภาษาและวัฒนธรรม — มาตรฐาน อ 2.1"
+strand: "สาระที่ 2: ภาษาและวัฒนธรรม – มาตรฐาน อ 2.1"
 ---
 
-# Holidays and Festivals — วันสำคัญและเทศกาล
+# Holidays and Festivals: วันสำคัญและเทศกาล
 
 > *"Festivals are where language and culture meet: the words are English, the meanings are cultural."*
 
-Standard อ 2.1 asks students to understand the relationship between language and the culture of native speakers — and the most visible entry point is festivals (เทศกาล). Young learners meet Halloween and Christmas through songs and crafts in ป.ต้น; by ม.ปลาย they can compare festival meanings, describe how Thais adapt foreign celebrations, and discuss cultural borrowing. This note maps the festival calendar taught across bands and the cultural knowledge behind it.
+Standard อ 2.1 asks students to understand the relationship between language and the culture of native speakers: and the most visible entry point is festivals (เทศกาล). Young learners meet Halloween and Christmas through songs and crafts in ป.ต้น; by ม.ปลาย they can compare festival meanings, describe how Thais adapt foreign celebrations, and discuss cultural borrowing. This note maps the festival calendar taught across bands and the cultural knowledge behind it.
 
 ## 1 | Grade Band Breakdown
 
@@ -70,7 +70,7 @@ Standard อ 2.1 asks students to understand the relationship between language a
 ## 6 | Cross-Links
 
 - [[00_overview|Strand 2 Overview (BOK)]]
-- [[57 Social Etiquette|Social Etiquette]] — behavior rules at celebrations
-- [[60 Language and Thai Culture|Language and Thai Culture]] — presenting Thai culture in English
-- [[../16 Language for Communication/55 Functions and Notions|Functions and Notions]] — greeting formulas for festivals
+- [[57 Social Etiquette|Social Etiquette]]: behavior rules at celebrations
+- [[60 Language and Thai Culture|Language and Thai Culture]]: presenting Thai culture in English
+- [[../16 Language for Communication/55 Functions and Notions|Functions and Notions]]: greeting formulas for festivals
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

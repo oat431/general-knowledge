@@ -7,9 +7,9 @@ tags:
 - task1
 ---
 
-# IELTS Task 1 — Describing Data
+# IELTS Task 1: Describing Data
 
-IELTS Writing Task 1 gives you a **graph, chart, table, diagram, or map** and asks you to describe it in 150+ words (20 minutes). This is NOT an essay — it's a **report**.
+IELTS Writing Task 1 gives you a **graph, chart, table, diagram, or map** and asks you to describe it in 150+ words (20 minutes). This is NOT an essay: it's a **report**.
 
 ---
 
@@ -60,7 +60,7 @@ IELTS Writing Task 1 gives you a **graph, chart, table, diagram, or map** and as
 
 **The most important paragraph.** Without an overview, you cannot score above Band 5 for Task Achievement.
 
-**What to include:** The 2-3 most noticeable trends or patterns — NO specific numbers.
+**What to include:** The 2-3 most noticeable trends or patterns: NO specific numbers.
 
 | Signal | Example |
 |--------|---------|
@@ -76,7 +76,7 @@ IELTS Writing Task 1 gives you a **graph, chart, table, diagram, or map** and as
 
 ## Paragraphs 3-4: Detailed Description
 
-Group your data logically. Don't describe every number — select key data points.
+Group your data logically. Don't describe every number: select key data points.
 
 ### Grouping Strategies
 
@@ -152,7 +152,7 @@ Group your data logically. Don't describe every number — select key data point
 |------|---------|-----|
 | No overview | Band 5 ceiling for Task Achievement | Always write 2-3 overview sentences |
 | Copying the question | Penalized for not paraphrasing | Change at least 3-4 words |
-| Describing every number | Too detailed, no clear pattern | Select key data points — highest, lowest, biggest change |
+| Describing every number | Too detailed, no clear pattern | Select key data points: highest, lowest, biggest change |
 | No comparisons | Just listing numbers | Always compare: "higher than," "double," "in contrast" |
 | Using "I" or giving opinions | Task 1 is a report, not an essay | Never say "I think" or "In my opinion" |
 

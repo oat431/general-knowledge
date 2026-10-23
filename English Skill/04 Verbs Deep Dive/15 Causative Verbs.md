@@ -8,7 +8,7 @@ tags:
 
 # Causative Verbs
 
-Causative verbs express that someone **causes** something to happen — but they may or may not do it themselves. The core four are: **make, have, let, get** (plus **help**).
+Causative verbs express that someone **causes** something to happen: but they may or may not do it themselves. The core four are: **make, have, let, get** (plus **help**).
 
 ---
 
@@ -34,7 +34,7 @@ Causative verbs express that someone **causes** something to happen — but they
 
 ## Detailed Usage
 
-### Make — Force or Cause
+### Make: Force or Cause
 
 > make + person + **V1** (no "to")
 
@@ -45,9 +45,9 @@ Causative verbs express that someone **causes** something to happen — but they
 | He **made** me **feel** stupid. | Caused an emotional state |
 
 ⚠️ In passive voice, "make" takes "to":
-> I **was made to apologize**. (passive — "to" appears)
+> I **was made to apologize**. (passive: "to" appears)
 
-### Have — Arrange or Authorize
+### Have: Arrange or Authorize
 
 > have + person + **V1** (no "to")
 
@@ -72,7 +72,7 @@ When you arrange for something to be done **to** an object:
 
 > "I cut my hair." = I did it myself. "I had my hair cut." = someone else did it.
 
-### Let — Allow / Permit
+### Let: Allow / Permit
 
 > let + person + **V1** (no "to")
 
@@ -83,7 +83,7 @@ When you arrange for something to be done **to** an object:
 | Don't **let** him **get** away with that. | Allow |
 | She won't **let** her children **watch** TV. | Doesn't allow |
 
-### Get — Persuade / Convince
+### Get: Persuade / Convince
 
 > get + person + **to V1** (with "to"!)
 
@@ -95,9 +95,9 @@ When you arrange for something to be done **to** an object:
 
 ---
 
-## Help — The Flexible One
+## Help: The Flexible One
 
-**Help** can take either V1 or to V1 — both are correct:
+**Help** can take either V1 or to V1: both are correct:
 
 | Both Correct | |
 |-------------|---|
@@ -122,7 +122,7 @@ When you arrange for something to be done **to** an object:
 
 ## ⚠️ Thai Speaker Traps
 
-Thai uses `ให้` (hâi) for many causative meanings — one word covers make/have/let/get.
+Thai uses `ให้` (hâi) for many causative meanings: one word covers make/have/let/get.
 
 | Thai | ❌ | ✅ |
 |------|---|---|

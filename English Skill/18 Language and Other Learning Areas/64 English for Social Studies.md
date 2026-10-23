@@ -3,14 +3,14 @@ tags: [english, english-curriculum, language-and-other-learning-areas, social-st
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ16101", "อ21101", "อ22101", "อ23101", "อ31101", "อ32101", "อ33101"]
-strand: "สาระที่ 3: ภาษากับกลุ่มสาระอื่น — มาตรฐาน อ 3.1"
+strand: "สาระที่ 3: ภาษากับกลุ่มสาระอื่น – มาตรฐาน อ 3.1"
 ---
 
-# English for Social Studies — ภาษาอังกฤษกับสังคมศึกษา
+# English for Social Studies: ภาษาอังกฤษกับสังคมศึกษา
 
 > *"Geography, history, and civics in English train the skill Thailand's graduates need most: explaining their country and region to the world."*
 
-Standard อ 3.1 extends English into social studies: geography vocabulary, historical timelines, civic concepts, and — critically for Thai students — **ASEAN knowledge in English**. Social studies content is often more language-dependent than math or science (abstract concepts, long texts), so this strand emphasizes reading strategies and content-specific vocabulary while building toward presentations about Thailand and Southeast Asia.
+Standard อ 3.1 extends English into social studies: geography vocabulary, historical timelines, civic concepts, and: critically for Thai students: **ASEAN knowledge in English**. Social studies content is often more language-dependent than math or science (abstract concepts, long texts), so this strand emphasizes reading strategies and content-specific vocabulary while building toward presentations about Thailand and Southeast Asia.
 
 ## 1 | Grade Band Breakdown
 
@@ -45,7 +45,7 @@ Standard อ 3.1 extends English into social studies: geography vocabulary, hist
 
 | Fact set | What students learn to say |
 |---|---|
-| Members | "ASEAN has ten member states" (Timor-Leste's accession in progress — teach the current official ten + observer status) |
+| Members | "ASEAN has ten member states" (Timor-Leste's accession in progress: teach the current official ten + observer status) |
 | Capitals | Bangkok, Hanoi, Jakarta, Kuala Lumpur, Manila, Singapore, Phnom Penh, Vientiane, Naypyidaw, Bandar Seri Begawan |
 | Pillars | Political-Security Community, Economic Community, Socio-Cultural Community |
 | Goals | peace, economic growth, cultural exchange in Southeast Asia |
@@ -87,7 +87,7 @@ Standard อ 3.1 extends English into social studies: geography vocabulary, hist
 ## 8 | Cross-Links
 
 - [[00_overview|Strand 3 Overview (BOK)]]
-- [[72 ASEAN English|ASEAN English]] — regional communication deep-dive
-- [[60 Language and Thai Culture|Language and Thai Culture]] — presenting Thailand
-- [[../../body-of-knowledge/Social Studies/Social Studies - Overview|Social Studies (BOK)]] — the content side
+- [[72 ASEAN English|ASEAN English]]: regional communication deep-dive
+- [[60 Language and Thai Culture|Language and Thai Culture]]: presenting Thailand
+- [[../../body-of-knowledge/Social Studies/Social Studies - Overview|Social Studies (BOK)]]: the content side
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

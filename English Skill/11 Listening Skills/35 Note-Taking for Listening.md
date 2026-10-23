@@ -18,7 +18,7 @@ IELTS and TOEFL listening sections play audio **only once**. You can't rewind. E
 | Test | Format | Challenge |
 |------|--------|-----------|
 | **IELTS** | 4 sections, 30 minutes, audio plays once | Must answer while listening |
-| **TOEFL** | 3-4 lectures + 2-3 conversations, 41-57 minutes | Long lectures (5 min) — can't remember everything |
+| **TOEFL** | 3-4 lectures + 2-3 conversations, 41-57 minutes | Long lectures (5 min): can't remember everything |
 
 ---
 
@@ -61,7 +61,7 @@ IELTS and TOEFL listening sections play audio **only once**. You can't rewind. E
 
 | Skip This | Why |
 |-----------|-----|
-| Full sentences | Too slow — use keywords |
+| Full sentences | Too slow: use keywords |
 | Articles (a, the) | Not needed for notes |
 | Common verbs (is, was, has) | Implied by context |
 | Words you already know | Focus on new/specific information |
@@ -101,9 +101,9 @@ Speed up your writing with consistent abbreviations:
 
 ### Before the Audio Starts (30 seconds)
 
-1. **Read the questions** — know what you need to listen for
-2. **Predict the topic** — from the question context
-3. **Prepare your paper** — draw a quick grid or list
+1. **Read the questions:** know what you need to listen for
+2. **Predict the topic:** from the question context
+3. **Prepare your paper:** draw a quick grid or list
 
 ### While Listening
 
@@ -119,9 +119,9 @@ Speed up your writing with consistent abbreviations:
 
 ### After the Audio (30 seconds)
 
-1. **Review your notes** — fill in any gaps from memory
-2. **Check your answers** — make sure they're complete
-3. **Move on** — don't dwell on missed questions
+1. **Review your notes:** fill in any gaps from memory
+2. **Check your answers:** make sure they're complete
+3. **Move on:** don't dwell on missed questions
 
 ---
 
@@ -129,8 +129,8 @@ Speed up your writing with consistent abbreviations:
 
 | Situation | Action |
 |-----------|--------|
-| Missed a word | Don't panic — keep listening for the next point |
-| Missed a whole sentence | Skip it — answer what you can and move on |
+| Missed a word | Don't panic; keep listening for the next point |
+| Missed a whole sentence | Skip it; answer what you can and move on |
 | Missed a whole section | Use context from surrounding questions to guess |
 | Don't know the answer | Make an educated guess and move on |
 

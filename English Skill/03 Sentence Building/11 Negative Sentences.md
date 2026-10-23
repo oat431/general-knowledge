@@ -83,7 +83,7 @@ For all verbs except `be`, modals, and perfect tenses:
 | **nobody / no one** | **Nobody** called. | = not anybody |
 | **nowhere** | I have **nowhere** to go. | = not anywhere |
 | **neither...nor** | I like **neither** coffee **nor** tea. | = not coffee and not tea |
-| **hardly / barely / scarcely** | I **hardly** know him. | Almost negative — means "almost not" |
+| **hardly / barely / scarcely** | I **hardly** know him. | Almost negative: means "almost not" |
 
 ### Double Negatives ❌
 
@@ -99,7 +99,7 @@ English does **not** allow double negatives:
 
 ## ⚠️ Thai Speaker Traps
 
-Thai uses `ไม่` (mâi) before the verb — simple and consistent. English is not.
+Thai uses `ไม่` (mâi) before the verb: simple and consistent. English is not.
 
 | Thai | ❌ | ✅ |
 |------|---|---|

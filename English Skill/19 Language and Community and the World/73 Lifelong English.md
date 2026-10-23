@@ -3,14 +3,14 @@ tags: [english, english-curriculum, language-atrophy, maintenance, lifelong, upp
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ31101", "อ32101", "อ33101"]
-strand: "สาระที่ 4: ภาษากับชุมชนและโลก — มาตรฐาน อ 4.2"
+strand: "สาระที่ 4: ภาษากับชุมชนและโลก – มาตรฐาน อ 4.2"
 ---
 
-# Lifelong English — ภาษาอังกฤษตลอดชีวิต
+# Lifelong English: ภาษาอังกฤษตลอดชีวิต
 
-> *"School gives you 12 years of English. Life after school gives you the rest — if you keep the engine running."*
+> *"School gives you 12 years of English. Life after school gives you the rest: if you keep the engine running."*
 
-Standard อ 4.2 makes lifelong learning (การเรียนรู้ตลอดชีวิต) an explicit goal: students should leave school able to **maintain and grow** their English without a teacher. This is the strategic answer to Thailand's known pattern — students study English for 12 years and lose much of it within a few years of leaving school when daily use stops. This note covers maintenance strategies, media English, and continued learning pathways.
+Standard อ 4.2 makes lifelong learning (การเรียนรู้ตลอดชีวิต) an explicit goal: students should leave school able to **maintain and grow** their English without a teacher. This is the strategic answer to Thailand's known pattern: students study English for 12 years and lose much of it within a few years of leaving school when daily use stops. This note covers maintenance strategies, media English, and continued learning pathways.
 
 ## 1 | Grade Band Breakdown
 
@@ -32,6 +32,7 @@ Standard อ 4.2 makes lifelong learning (การเรียนรู้ต�
 ## 3 | The Maintenance Portfolio
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     INPUT["Daily input<br/>podcasts, series, news,<br/>songs, reading"] --> OUTPUT["Some output<br/>journal, comments,<br/>voice notes, chat"]
     OUTPUT --> REVIEW["Periodic review<br/>vocabulary notebook,<br/>spaced repetition"]
@@ -95,7 +96,7 @@ flowchart LR
 ## 8 | Cross-Links
 
 - [[00_overview|Strand 4 Overview (BOK)]]
-- [[70 English Online|English Online]] — the toolkit for self-study
-- [[69 English for Exams|English for Exams]] — level goals need tests
-- [[54 Vocabulary|Vocabulary (Strand 1)]] — the notebook habit starts here
+- [[70 English Online|English Online]]: the toolkit for self-study
+- [[69 English for Exams|English for Exams]]: level goals need tests
+- [[54 Vocabulary|Vocabulary (Strand 1)]]: the notebook habit starts here
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

@@ -59,7 +59,7 @@ Parallel structure means keeping the same grammatical form in a list, comparison
 
 ## Paired Conjunctions (Correlatives)
 
-With `both...and`, `either...or`, `neither...nor`, `not only...but also` — what follows each part must be parallel.
+With `both...and`, `either...or`, `neither...nor`, `not only...but also`: what follows each part must be parallel.
 
 | ❌ | ✅ |
 |---|-----|
@@ -76,13 +76,13 @@ Words like `than` and `as...as` need parallel elements.
 | ❌ | ✅ |
 |---|-----|
 | Driving is faster **than** to walk. | **Driving** is faster **than** **walking**. |
-| Her English is better **than** me. | Her English is better **than** **mine**. (not "than me" — comparing English to English, not English to me) |
+| Her English is better **than** me. | Her English is better **than** **mine**. (not "than me": comparing English to English, not English to me) |
 
 ---
 
 ## ⚠️ Thai Speaker Traps
 
-Thai grammar doesn't require parallel forms — verbs don't conjugate, nouns don't have gerund/infinitive distinctions.
+Thai grammar doesn't require parallel forms: verbs don't conjugate, nouns don't have gerund/infinitive distinctions.
 
 | ❌ | ✅ |
 |---|-----|

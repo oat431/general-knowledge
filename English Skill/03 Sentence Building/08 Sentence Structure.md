@@ -35,7 +35,7 @@ One independent clause = one subject + one verb pair (minimum).
 | S + V + O + O | He **gave** me a gift. |
 | S + V + O + C | They **elected** him president. |
 
-> Simple doesn't mean short. "The old man with the red hat walked slowly to the store on the corner." — still a simple sentence (one main clause).
+> Simple doesn't mean short. "The old man with the red hat walked slowly to the store on the corner." Still a simple sentence (one main clause).
 
 ---
 

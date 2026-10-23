@@ -8,7 +8,7 @@ tags:
 
 # Phrasal Verbs
 
-A phrasal verb = verb + particle (preposition/adverb) that together create a meaning different from the individual words. They're everywhere in spoken English — and they're a nightmare for learners because you can't guess the meaning from the parts.
+A phrasal verb = verb + particle (preposition/adverb) that together create a meaning different from the individual words. They're everywhere in spoken English: and they're a nightmare for learners because you can't guess the meaning from the parts.
 
 ---
 
@@ -36,7 +36,7 @@ A phrasal verb = verb + particle (preposition/adverb) that together create a mea
 | **grow up** | become an adult | I **grew up** in Bangkok. |
 | **pass out** | faint | She **passed out** from the heat. |
 
-### 2. Transitive — Separable (Object Can Go in the Middle)
+### 2. Transitive: Separable (Object Can Go in the Middle)
 
 | Phrasal Verb | Meaning | Example |
 |-------------|---------|---------|
@@ -48,9 +48,9 @@ A phrasal verb = verb + particle (preposition/adverb) that together create a mea
 | **make up** | invent (story), reconcile | He **made** the story **up**. |
 | **figure out** | solve, understand | I can't **figure** this **out**. |
 
-> **With pronouns, MUST separate:** "Turn **it** on" ✅ — "Turn on it" ❌
+> **With pronouns, MUST separate:** "Turn **it** on" ✅: "Turn on it" ❌
 
-### 3. Transitive — Inseparable (Object Always After)
+### 3. Transitive: Inseparable (Object Always After)
 
 | Phrasal Verb | Meaning | Example |
 |-------------|---------|---------|
@@ -104,7 +104,7 @@ A phrasal verb = verb + particle (preposition/adverb) that together create a mea
 
 ## ⚠️ Thai Speaker Traps
 
-Thai doesn't have phrasal verbs — this is a concept you have to build from scratch.
+Thai doesn't have phrasal verbs: this is a concept you have to build from scratch.
 
 | ❌ | ✅ |
 |---|-----|
@@ -113,7 +113,7 @@ Thai doesn't have phrasal verbs — this is a concept you have to build from scr
 | I can't tolerate the noise. | I can't **put up with** the noise. |
 | She cares her mother. | She **looks after** her mother. |
 
-> **Pro tip:** Don't memorize lists. Learn phrasal verbs in **context** — one at a time, in a real sentence. Your brain remembers stories, not lists.
+> **Pro tip:** Don't memorize lists. Learn phrasal verbs in **context**: one at a time, in a real sentence. Your brain remembers stories, not lists.
 
 ---
 

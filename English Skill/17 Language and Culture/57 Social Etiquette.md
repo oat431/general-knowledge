@@ -3,14 +3,14 @@ tags: [english, english-curriculum, language-and-culture, etiquette, customs, pr
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ11101", "อ16101", "อ21101", "อ23101", "อ31101", "อ33101"]
-strand: "สาระที่ 2: ภาษาและวัฒนธรรม — มาตรฐาน อ 2.1, อ 2.2"
+strand: "สาระที่ 2: ภาษาและวัฒนธรรม – มาตรฐาน อ 2.1, อ 2.2"
 ---
 
-# Social Etiquette and Customs — มารยาททางสังคมและขนบธรรมเนียม
+# Social Etiquette and Customs: มารยาททางสังคมและขนบธรรมเนียม
 
-> *"Grammar makes a sentence correct; etiquette makes it appropriate. 'Give me the salt' is English — but it is not polite English."*
+> *"Grammar makes a sentence correct; etiquette makes it appropriate. 'Give me the salt' is English: but it is not polite English."*
 
-Standard อ 2.1 requires students to use language appropriate to time, place, occasion, and person (ใช้ภาษาสัมพันธ์กับกาลเทศะ); standard อ 2.2 adds courteous behavior (มารยาททางสังคม) in communication. The curriculum builds this from please/thank-you habits in ป.ต้น to dining etiquette, gift customs, and formal occasion behavior by ม.ปลาย — always with the Thai-English comparison in view, because Thai politeness rules do not transfer word-for-word.
+Standard อ 2.1 requires students to use language appropriate to time, place, occasion, and person (ใช้ภาษาสัมพันธ์กับกาลเทศะ); standard อ 2.2 adds courteous behavior (มารยาททางสังคม) in communication. The curriculum builds this from please/thank-you habits in ป.ต้น to dining etiquette, gift customs, and formal occasion behavior by ม.ปลาย: always with the Thai-English comparison in view, because Thai politeness rules do not transfer word-for-word.
 
 ## 1 | Grade Band Breakdown
 
@@ -24,6 +24,7 @@ Standard อ 2.1 requires students to use language appropriate to time, place, o
 ## 2 | Etiquette Domains Across Bands
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["ป.1-3<br/>Magic words<br/>please, thank you, sorry"] --> B["ป.4-6<br/>Daily courtesy<br/>table, gifts, visits"]
     B --> C["ม.1-3<br/>Social norms<br/>small talk, queuing, tipping"]
@@ -41,7 +42,7 @@ flowchart LR
 | Saying no directly | Avoid, hint instead | Acceptable with softener: "I'm afraid..." | Refusal formulas |
 | Feet and head | Feet lowest, head sacred | No strong rule | Avoid pointing feet at people |
 | Tipping | Not customary | Expected (US especially) | Restaurant dialog vocabulary |
-| Queuing | Flexible | Strict — jumping is serious rudeness | "Are you in the queue?" |
+| Queuing | Flexible | Strict: jumping is serious rudeness | "Are you in the queue?" |
 
 ## 4 | Small Talk: Safe and Unsafe Topics
 
@@ -87,7 +88,7 @@ Small talk formulas progress by band: ป.4–6 (Nice weather today!), ม.1–3
 ## 8 | Cross-Links
 
 - [[00_overview|Strand 2 Overview (BOK)]]
-- [[56 Holidays and Festivals|Holidays and Festivals]] — etiquette at celebrations
-- [[58 Intercultural Communication|Intercultural Communication]] — deeper culture analysis
-- [[../16 Language for Communication/55 Functions and Notions|Functions and Notions]] — polite formulas
+- [[56 Holidays and Festivals|Holidays and Festivals]]: etiquette at celebrations
+- [[58 Intercultural Communication|Intercultural Communication]]: deeper culture analysis
+- [[../16 Language for Communication/55 Functions and Notions|Functions and Notions]]: polite formulas
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

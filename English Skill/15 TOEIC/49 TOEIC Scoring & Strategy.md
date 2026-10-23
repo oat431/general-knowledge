@@ -93,7 +93,7 @@ Understanding how TOEIC is scored helps you set realistic goals and focus your p
 | Action | Why |
 |--------|-----|
 | Take 2-3 full practice tests | Know the format and your weak areas |
-| Practice with a timer | Build speed — TOEIC is fast |
+| Practice with a timer | Build speed: TOEIC is fast |
 | Study business vocabulary (see [[46 Business Vocabulary]]) | The #1 differentiator from IELTS/TOEFL |
 | Listen to business English daily | Podcasts, news (BBC Business, CNBC) |
 | Review grammar fundamentals | Parts 5-6 test grammar heavily |
@@ -119,10 +119,10 @@ Understanding how TOEIC is scored helps you set realistic goals and focus your p
 
 | Rule | Why |
 |------|-----|
-| **Never leave a blank** | No penalty for wrong answers — always guess |
+| **Never leave a blank** | No penalty for wrong answers: always guess |
 | **Don't change answers** | Your first instinct is usually right (unless you're sure) |
 | **Mark and move on** | Come back to hard questions if time allows |
-| **Fill the answer sheet as you go** | Don't wait until the end — you might run out of time |
+| **Fill the answer sheet as you go** | Don't wait until the end: you might run out of time |
 
 ---
 
@@ -170,8 +170,8 @@ Understanding how TOEIC is scored helps you set realistic goals and focus your p
 | Trap | Problem | Fix |
 |------|---------|-----|
 | Studying IELTS material for TOEIC | Different vocabulary and format | Use TOEIC-specific prep books (Barron's, ETS official) |
-| Ignoring Part 2 | 25 questions — fast and tricky | Practice Part 2 daily — it's the easiest to improve |
-| Not practicing with a timer | Real test is fast — 20 sec/question for Part 5 | Always practice under time pressure |
+| Ignoring Part 2 | 25 questions: fast and tricky | Practice Part 2 daily: it's the easiest to improve |
+| Not practicing with a timer | Real test is fast: 20 sec/question for Part 5 | Always practice under time pressure |
 | Focusing only on Listening | Reading is worth the same score | Split practice equally between L and R |
 | Not knowing business vocabulary | Can't understand the context | Study [[46 Business Vocabulary]] thoroughly |
 

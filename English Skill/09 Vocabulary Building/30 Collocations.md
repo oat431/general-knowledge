@@ -9,7 +9,7 @@ tags:
 
 # Collocations
 
-Collocations are words that naturally go together. Native speakers say "make a decision" — not "do a decision." Using the wrong combination sounds awkward, even if the grammar is correct.
+Collocations are words that naturally go together. Native speakers say "make a decision", not "do a decision." Using the wrong combination sounds awkward, even if the grammar is correct.
 
 ---
 
@@ -17,10 +17,10 @@ Collocations are words that naturally go together. Native speakers say "make a d
 
 | Test | How Collocations Are Scored |
 |------|----------------------------|
-| **IELTS Writing** | Lexical Resource (25% of score) — natural word combinations = higher band |
-| **IELTS Speaking** | Lexical Resource — "collocations with flexibility" = Band 7+ |
-| **TOEFL Writing** | Language Use — natural phrasing scores higher |
-| **TOEFL Speaking** | Language Use — awkward phrasing lowers score |
+| **IELTS Writing** | Lexical Resource (25% of score): natural word combinations = higher band |
+| **IELTS Speaking** | Lexical Resource: "collocations with flexibility" = Band 7+ |
+| **TOEFL Writing** | Language Use: natural phrasing scores higher |
+| **TOEFL Speaking** | Language Use: awkward phrasing lowers score |
 
 ---
 
@@ -74,7 +74,7 @@ The most tested type. Memorize these as pairs.
 | strongly opposed | **strongly** opposed ✅ | คัดค้านอย่างรุนแรง |
 | deeply affected | **deeply** affected ✅ | ได้รับผลกระทบอย่างลึกซึ้ง |
 
-> **Rule:** "Very" doesn't pair with extreme adjectives. You can't say "very unique" — it's either unique or it's not. Use "absolutely," "truly," or "completely" instead.
+> **Rule:** "Very" doesn't pair with extreme adjectives. You can't say "very unique": it's either unique or it's not. Use "absolutely," "truly," or "completely" instead.
 
 ### 4. Verb + Preposition
 
@@ -121,11 +121,11 @@ The most tested type. Memorize these as pairs.
 
 ## How to Learn Collocations
 
-1. **Learn in pairs, not singles** — Don't learn "make." Learn "make a decision," "make progress," "make an effort."
-2. **Use a collocations dictionary** — Oxford Collocations Dictionary or online: ozdic.com
-3. **Read academic texts** — Highlight natural word combinations.
-4. **Practice in writing** — Force yourself to use new collocations in essays.
-5. **Keep a collocation notebook** — Group by topic (education, health, environment).
+1. **Learn in pairs, not singles:** Don't learn "make." Learn "make a decision," "make progress," "make an effort."
+2. **Use a collocations dictionary:** Oxford Collocations Dictionary or online: ozdic.com
+3. **Read academic texts:** Highlight natural word combinations.
+4. **Practice in writing:** Force yourself to use new collocations in essays.
+5. **Keep a collocation notebook:** Group by topic (education, health, environment).
 
 ---
 

@@ -9,7 +9,7 @@ tags:
 
 # Inference & Implied Meaning
 
-Some questions don't test what the passage **says** — they test what the passage **implies**. This is the hardest reading skill: understanding meaning that isn't explicitly stated.
+Some questions don't test what the passage **says**: they test what the passage **implies**. This is the hardest reading skill: understanding meaning that isn't explicitly stated.
 
 ---
 
@@ -50,14 +50,14 @@ The answer isn't written word-for-word. You combine the information and **logica
 ### Step-by-Step Process
 
 ```
-1. Read the question — identify which paragraph or section
+1. Read the question – identify which paragraph or section
 2. Re-read that section carefully
-3. Look for CLUES — facts that suggest something
+3. Look for CLUES – facts that suggest something
 4. Connect the clues logically
 5. Eliminate answers that are:
    - Too extreme (always, never, all, none)
    - Not supported by any text
-   - Directly stated (not an inference — too easy)
+   - Directly stated (not an inference – too easy)
 6. Choose the answer that MUST be true based on the clues
 ```
 
@@ -86,7 +86,7 @@ The answer isn't written word-for-word. You combine the information and **logica
 ### ❌ A Bad Inference
 - Has no evidence in the text
 - Is too extreme (always, never, completely)
-- Is directly stated in the text (that's not inference — it's finding)
+- Is directly stated in the text (that's not inference: it's finding)
 - Uses outside knowledge that contradicts the passage
 
 ---
@@ -129,8 +129,8 @@ The answer isn't written word-for-word. You combine the information and **logica
 | Trap | Problem | Fix |
 |------|---------|-----|
 | Answering from personal knowledge | "I know EVs are good, so the answer is B" | Only use evidence from the passage |
-| Choosing the directly stated answer | "The passage says tax incentives — that's my answer!" | Inference questions want what's IMPLIED, not stated |
-| Picking extreme answers | "ALL Norwegians prefer EVs" | Look for words like "all," "never," "always" — usually wrong |
+| Choosing the directly stated answer | "The passage says tax incentives: that's my answer!" | Inference questions want what's IMPLIED, not stated |
+| Picking extreme answers | "ALL Norwegians prefer EVs" | Look for words like "all," "never," "always": usually wrong |
 | Not re-reading the relevant section | Going from memory | Always go back and re-read the specific paragraph |
 
 ---

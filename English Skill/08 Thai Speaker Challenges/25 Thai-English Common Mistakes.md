@@ -8,7 +8,7 @@ tags:
 
 # Thai-English Common Mistakes
 
-These errors come from the structural differences between Thai and English. Knowing them is half the battle — awareness lets you catch yourself before the mistake leaves your mouth (or keyboard).
+These errors come from the structural differences between Thai and English. Knowing them is half the battle: awareness lets you catch yourself before the mistake leaves your mouth (or keyboard).
 
 ---
 
@@ -28,7 +28,7 @@ Thai has no articles. English requires them.
 
 ## 2. No Tense Conjugation
 
-Thai verbs don't change for tense — time is shown by context words (เมื่อวาน, จะ, กำลัง, แล้ว). English requires the verb itself to change.
+Thai verbs don't change for tense: time is shown by context words (เมื่อวาน, จะ, กำลัง, แล้ว). English requires the verb itself to change.
 
 | ❌ Error | ✅ Correct |
 |---------|-----------|
@@ -43,7 +43,7 @@ Thai verbs don't change for tense — time is shown by context words (เมื�
 
 ## 3. Subject Omission
 
-Thai drops subjects when context is clear. English demands them — nearly every sentence needs a subject.
+Thai drops subjects when context is clear. English demands them: nearly every sentence needs a subject.
 
 | ❌ Error | ✅ Correct |
 |---------|-----------|
@@ -51,7 +51,7 @@ Thai drops subjects when context is clear. English demands them — nearly every
 | Is 5 o'clock. | **It** is 5 o'clock. |
 | Have 3 people. | **There** are 3 people. / **We** have 3 people. |
 
-> English uses **dummy subjects** — "it" and "there" — when no real subject exists. Thai doesn't need them.
+> English uses **dummy subjects**: "it" and "there": when no real subject exists. Thai doesn't need them.
 
 ---
 
@@ -82,7 +82,7 @@ Thai pairs connectors naturally: `เพราะว่า...ก็เลย` (b
 
 ## 6. Missing "Be" Before Adjectives
 
-Thai adjectives can function as verbs — `เขาสูง` (literally "he tall"). English needs `be`.
+Thai adjectives can function as verbs: `เขาสูง` (literally "he tall"). English needs `be`.
 
 | ❌ Error | ✅ Correct |
 |---------|-----------|

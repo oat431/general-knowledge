@@ -9,7 +9,7 @@ tags:
 
 # Word Families
 
-One root word can produce many forms. Knowing the family lets you switch between noun, verb, adjective, and adverb — essential for IELTS/TOEFL where you need to paraphrase.
+One root word can produce many forms. Knowing the family lets you switch between noun, verb, adjective, and adverb: essential for IELTS/TOEFL where you need to paraphrase.
 
 ---
 
@@ -240,7 +240,7 @@ Most English words change form with **prefixes** and **suffixes**:
 | Using wrong form | "The **analyse** shows..." | "The **analysis** shows..." (noun needed) |
 | Confusing -ic and -ical | "economical growth" | "**Economic** growth" (economical = efficient) |
 | Forgetting word families exist | Repeating "important" 5 times | Use: significance, significantly, signify |
-| Adding wrong suffix | "significanceness" | Not all combinations exist — check! |
+| Adding wrong suffix | "significanceness" | Not all combinations exist: check! |
 
 ---
 

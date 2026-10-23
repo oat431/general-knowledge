@@ -9,7 +9,7 @@ tags:
 
 # Register & Formality
 
-Register is the level of formality in your language. IELTS and TOEFL expect **academic register** in writing and speaking — not casual conversation English. Using "kids" in an essay is like wearing shorts to a job interview.
+Register is the level of formality in your language. IELTS and TOEFL expect **academic register** in writing and speaking: not casual conversation English. Using "kids" in an essay is like wearing shorts to a job interview.
 
 ---
 

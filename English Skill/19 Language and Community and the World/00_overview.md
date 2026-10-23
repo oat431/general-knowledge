@@ -5,29 +5,30 @@ created: 2026-08-28
 strand: "สาระที่ 4: ภาษากับชุมชนและโลก"
 ---
 
-# Language and Community and the World — ภาษากับชุมชนและโลก
+# Language and Community and the World: ภาษากับชุมชนและโลก
 
 > **Strand:** สาระที่ 4 | **Concept Areas:** 6 | **Duration:** 12 years (ป.1–ม.6)
 > **Standards covered:** อ 4.1 (use English in real-life situations in community and the world), อ 4.2 (use English as the basis for further education, careers, and lifelong learning)
 
 ## Overview
 
-Strand 4 (ภาษากับชุมชนและโลก) is where classroom English meets the outside world: helping a tourist, working a job, passing an exam, joining the ASEAN conversation, and keeping English alive after graduation. The OBEC standards frame it as real-life application (อ 4.1) and gateway to further education and careers (อ 4.2). It concentrates in the upper bands — community English from ม.ต้น, careers, exams, and lifelong-learning skills in ม.ปลาย — though its spirit (English is for real life) runs through the whole curriculum.
+Strand 4 (ภาษากับชุมชนและโลก) is where classroom English meets the outside world: helping a tourist, working a job, passing an exam, joining the ASEAN conversation, and keeping English alive after graduation. The OBEC standards frame it as real-life application (อ 4.1) and gateway to further education and careers (อ 4.2). It concentrates in the upper bands (community English from ม.ต้น, careers, exams, and lifelong-learning skills in ม.ปลาย), though its spirit (English is for real life) runs through the whole curriculum.
 
 ## Concept Areas
 
 | # | Concept Area | Thai | ป.1–3 | ป.4–6 | ม.1–3 | ม.4–6 |
 |---|---|---|---|---|---|---|
-| 19 | [[68 English for Careers]] | ภาษาอังกฤษเพื่ออาชีพ | — | — | Occupations, duties | Job ads, CV, interviews, workplace |
-| 20 | [[69 English for Exams]] | ภาษาอังกฤษเพื่อการสอบ | — | O-NET ป.6 basics | O-NET ม.3 | O-NET ม.6, A-Level, IELTS, TOEFL, TOEIC |
-| 21 | [[70 English Online]] | ภาษาอังกฤษกับโลกออนไลน์ | — | (via apps) | Search, dictionaries, videos | Credibility, MOOCs, AI tools |
-| 22 | [[71 English in the Community]] | ภาษาอังกฤษในชุมชน | — | — | Directions, signs, markets | Tourist help, local information |
-| 23 | [[72 ASEAN English]] | ภาษาอังกฤษกับอาเซียน | — | — | Members, capitals, facts | Community pillars, regional mobility |
-| 24 | [[73 Lifelong English]] | ภาษาอังกฤษตลอดชีวิต | — | — | Media habits, notebooks | Maintenance planning, CEFR goals |
+| 19 | [[68 English for Careers]] | ภาษาอังกฤษเพื่ออาชีพ | N/A | N/A | Occupations, duties | Job ads, CV, interviews, workplace |
+| 20 | [[69 English for Exams]] | ภาษาอังกฤษเพื่อการสอบ | N/A | O-NET ป.6 basics | O-NET ม.3 | O-NET ม.6, A-Level, IELTS, TOEFL, TOEIC |
+| 21 | [[70 English Online]] | ภาษาอังกฤษกับโลกออนไลน์ | N/A | (via apps) | Search, dictionaries, videos | Credibility, MOOCs, AI tools |
+| 22 | [[71 English in the Community]] | ภาษาอังกฤษในชุมชน | N/A | N/A | Directions, signs, markets | Tourist help, local information |
+| 23 | [[72 ASEAN English]] | ภาษาอังกฤษกับอาเซียน | N/A | N/A | Members, capitals, facts | Community pillars, regional mobility |
+| 24 | [[73 Lifelong English]] | ภาษาอังกฤษตลอดชีวิต | N/A | N/A | Media habits, notebooks | Maintenance planning, CEFR goals |
 
 ## How the Real-World Strand Works
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     SKILLS["Skills from Strand 1<br/>L S R W + grammar + vocabulary"] --> APPLY["Applied in contexts<br/>jobs, exams, community,<br/>online, ASEAN"]
     CULTURE["Judgment from Strand 2<br/>etiquette and appropriateness"] --> APPLY
@@ -35,7 +36,7 @@ flowchart LR
     APPLY --> LIFE["English that survives<br/>after graduation"]
 ```
 
-Strand 4 re-uses everything the other strands build and points it at real life — the curriculum's own statement that English is not a school subject but a life tool.
+Strand 4 re-uses everything the other strands build and points it at real life, the curriculum's own statement that English is not a school subject but a life tool.
 
 ## Progress Tracker
 

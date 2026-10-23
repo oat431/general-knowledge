@@ -5,14 +5,14 @@ created: 2026-08-28
 strand: "สาระที่ 1: ภาษาเพื่อการสื่อสาร"
 ---
 
-# Language for Communication — ภาษาเพื่อการสื่อสาร
+# Language for Communication: ภาษาเพื่อการสื่อสาร
 
 > **Strand:** สาระที่ 1 | **Concept Areas:** 6 | **Duration:** 12 years (ป.1–ม.6)
 > **Standards covered:** อ 1.1 (communicate for information exchange), อ 1.2 (understand and produce discourse), อ 1.3 (speak and write to present information)
 
 ## Overview
 
-Strand 1 (ภาษาเพื่อการสื่อสาร) is the engine of the English curriculum: the four skills plus the grammar and vocabulary that power them. The OBEC Basic Education Core Curriculum organizes it under three standards — อ 1.1 (interacting and exchanging information), อ 1.2 (interpreting and producing discourse), and อ 1.3 (presenting information orally and in writing). The strand follows a deliberate order: listening and speaking first (ป.1–3), reading and writing layered in from ป.4, grammar formalized from ม.ต้น, and academic-level composition by ม.ปลาย.
+Strand 1 (ภาษาเพื่อการสื่อสาร) is the engine of the English curriculum: the four skills plus the grammar and vocabulary that power them. The OBEC Basic Education Core Curriculum organizes it under three standards: อ 1.1 (interacting and exchanging information), อ 1.2 (interpreting and producing discourse), and อ 1.3 (presenting information orally and in writing). The strand follows a deliberate order: listening and speaking first (ป.1–3), reading and writing layered in from ป.4, grammar formalized from ม.ต้น, and academic-level composition by ม.ปลาย.
 
 ## Concept Areas
 
@@ -52,4 +52,4 @@ Strand 1 (ภาษาเพื่อการสื่อสาร) is the engi
 - [[../17 Language and Culture/00_overview|Strand 2: Language and Culture]]
 - [[../18 Language and Other Learning Areas/00_overview|Strand 3: Language and Other Learning Areas]]
 - [[../19 Language and Community and the World/00_overview|Strand 4: Language and Community and the World]]
-- [[English Skill Content|English Skill — Supplementary Notes]]
+- [[English Skill Content|English Skill: Supplementary Notes]]

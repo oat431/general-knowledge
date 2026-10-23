@@ -3,14 +3,14 @@ tags: [english, english-curriculum, language-and-other-learning-areas, technolog
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ21101", "อ22101", "อ23101", "อ31101", "อ32101", "อ33101"]
-strand: "สาระที่ 3: ภาษากับกลุ่มสาระอื่น — มาตรฐาน อ 3.1"
+strand: "สาระที่ 3: ภาษากับกลุ่มสาระอื่น – มาตรฐาน อ 3.1"
 ---
 
-# English for Technology — ภาษาอังกฤษกับเทคโนโลยี
+# English for Technology: ภาษาอังกฤษกับเทคโนโลยี
 
 > *"Almost every interface, error message, tutorial, and line of code a Thai student will ever use is in English. Technology makes English unavoidable."*
 
-Standard อ 3.1 connects English to technology and computing: device vocabulary early, then software and internet language, and by ม.ปลาย the working English of coding basics, AI tools, and online learning. For Thai students this is the strand with the highest real-world payoff — the digital world runs on English, and tech vocabulary is absorbed daily whether or not the classroom teaches it.
+Standard อ 3.1 connects English to technology and computing: device vocabulary early, then software and internet language, and by ม.ปลาย the working English of coding basics, AI tools, and online learning. For Thai students this is the strand with the highest real-world payoff: the digital world runs on English, and tech vocabulary is absorbed daily whether or not the classroom teaches it.
 
 ## 1 | Grade Band Breakdown
 
@@ -49,7 +49,7 @@ Standard อ 3.1 connects English to technology and computing: device vocabulary
 | Error messages | "Connection timed out," "File not found" |
 | Tutorials | YouTube and documentation overwhelmingly in English |
 | Programming languages | Keywords are English: `if`, `for`, `while`, `return` |
-| Online courses | MOOCs, Khan Academy, Coursera — English-first |
+| Online courses | MOOCs, Khan Academy, Coursera: English-first |
 | AI assistants | Prompts in English often give richer results |
 
 ## 5 | Classroom Activities
@@ -89,7 +89,7 @@ Standard อ 3.1 connects English to technology and computing: device vocabulary
 ## 8 | Cross-Links
 
 - [[00_overview|Strand 3 Overview (BOK)]]
-- [[70 English Online|English Online (Strand 4)]] — self-study with digital tools
-- [[59 Digital Etiquette|Digital Etiquette (Strand 2)]] — behavior in digital spaces
-- [[../../body-of-knowledge/Science/05_Computer Science - Overview|Computer Science (BOK)]] — the content side
+- [[70 English Online|English Online (Strand 4)]]: self-study with digital tools
+- [[59 Digital Etiquette|Digital Etiquette (Strand 2)]]: behavior in digital spaces
+- [[../../body-of-knowledge/Science/05_Computer Science - Overview|Computer Science (BOK)]]: the content side
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

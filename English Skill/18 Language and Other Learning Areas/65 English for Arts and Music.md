@@ -3,14 +3,14 @@ tags: [english, english-curriculum, language-and-other-learning-areas, arts, mus
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ11101", "อ14101", "อ16101", "อ21101", "อ31101"]
-strand: "สาระที่ 3: ภาษากับกลุ่มสาระอื่น — มาตรฐาน อ 3.1"
+strand: "สาระที่ 3: ภาษากับกลุ่มสาระอื่น – มาตรฐาน อ 3.1"
 ---
 
-# English for Arts and Music — ภาษาอังกฤษกับศิลปะและดนตรี
+# English for Arts and Music: ภาษาอังกฤษกับศิลปะและดนตรี
 
-> *"Songs are the oldest language-teaching technology — rhythm makes vocabulary memorable before grammar can explain it."*
+> *"Songs are the oldest language-teaching technology: rhythm makes vocabulary memorable before grammar can explain it."*
 
-Standard อ 3.1 links English to arts and music in two directions: music and art as a **delivery vehicle** for early English (songs, chants, colors, shapes) and as a **content domain** in later years (describing artworks, music genres, performances). For Thai students this is also the bridge to Thai cultural exports — describing khon, muay thai, and Thai pop in English builds on the vocabulary of สาระที่ 2.
+Standard อ 3.1 links English to arts and music in two directions: music and art as a **delivery vehicle** for early English (songs, chants, colors, shapes) and as a **content domain** in later years (describing artworks, music genres, performances). For Thai students this is also the bridge to Thai cultural exports: describing khon, muay thai, and Thai pop in English builds on the vocabulary of สาระที่ 2.
 
 ## 1 | Grade Band Breakdown
 
@@ -86,6 +86,6 @@ Standard อ 3.1 links English to arts and music in two directions: music and ar
 ## 8 | Cross-Links
 
 - [[00_overview|Strand 3 Overview (BOK)]]
-- [[60 Language and Thai Culture|Language and Thai Culture (Strand 2)]] — presenting Thai performing arts
-- [[../../body-of-knowledge/Arts/Arts - Overview|Arts (BOK)]] — the content side
+- [[60 Language and Thai Culture|Language and Thai Culture (Strand 2)]]: presenting Thai performing arts
+- [[../../body-of-knowledge/Arts/Arts - Overview|Arts (BOK)]]: the content side
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

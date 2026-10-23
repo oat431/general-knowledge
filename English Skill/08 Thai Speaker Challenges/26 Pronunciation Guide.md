@@ -14,7 +14,7 @@ English has sounds that don't exist in Thai. Mastering these makes the differenc
 
 ## Problem Sounds
 
-### 1. /θ/ (TH — voiceless) as in "**th**ink"
+### 1. /θ/ (TH: voiceless) as in "**th**ink"
 
 Put your tongue between your teeth and blow air. No vibration.
 
@@ -26,7 +26,7 @@ Put your tongue between your teeth and blow air. No vibration.
 
 > Practice: "I **think** I need **three** **things**."
 
-### 2. /ð/ (TH — voiced) as in "**th**is"
+### 2. /ð/ (TH: voiced) as in "**th**is"
 
 Same tongue position as /θ/, but vibrate your vocal cords.
 
@@ -58,7 +58,7 @@ Same mouth as /ʃ/, but vibrate. Rare in English but appears in common words.
 | televi**s**ion | televishun |
 | gara**g**e | garadge (hard g) |
 
-### 5. /r/ — The English R
+### 5. /r/: The English R
 
 NOT a rolling/flapping R like Thai. Curl your tongue back without touching the roof.
 
@@ -70,7 +70,7 @@ NOT a rolling/flapping R like Thai. Curl your tongue back without touching the r
 
 > Practice: "**R**ed **r**oses **r**un **r**ound the **r**oad."
 
-### 6. /l/ vs /r/ — The Classic Confusion
+### 6. /l/ vs /r/: The Classic Confusion
 
 | Word Pair | Meaning Difference |
 |-----------|-------------------|
@@ -81,7 +81,7 @@ NOT a rolling/flapping R like Thai. Curl your tongue back without touching the r
 
 > /l/: Tongue tip touches the roof behind teeth. /r/: Tongue curls back, no contact.
 
-### 7. Final Consonants — DON'T Drop Them!
+### 7. Final Consonants: DON'T Drop Them!
 
 Thai often drops or glottalizes final consonants. English pronounces them clearly.
 
@@ -110,7 +110,7 @@ Thai rarely has multiple consonants together at the start or end. English does.
 
 ### Word Stress
 
-English stresses certain syllables — wrong stress makes you hard to understand.
+English stresses certain syllables: wrong stress makes you hard to understand.
 
 | Word | ❌ Wrong Stress | ✅ Right Stress |
 |------|---------------|----------------|

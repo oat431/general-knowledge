@@ -3,14 +3,14 @@ tags: [english, english-curriculum, language-and-culture, world-englishes, varie
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ31101", "อ32101", "อ33101"]
-strand: "สาระที่ 2: ภาษาและวัฒนธรรม — มาตรฐาน อ 2.1"
+strand: "สาระที่ 2: ภาษาและวัฒนธรรม – มาตรฐาน อ 2.1"
 ---
 
-# World Englishes — ภาษาอังกฤษหลากหลายรูปแบบ
+# World Englishes: ภาษาอังกฤษหลากหลายรูปแบบ
 
-> *"There is no single 'correct' English anymore — there are many Englishes, each with its own accent, words, and rules of politeness."*
+> *"There is no single 'correct' English anymore; there are many Englishes, each with its own accent, words, and rules of politeness."*
 
-In upper secondary (ม.4–6) the curriculum widens the lens from British/American English to English as a world language: Australian, Singaporean, Indian, Filipino, and ASEAN varieties, plus the distinction between native-speaker English (ENL), second-language English (ESL), and foreign-language English (EFL — Thailand's category). The practical goal is **receptive competence**: understanding different varieties in listening and reading, and producing internationally intelligible English in speaking and writing.
+In upper secondary (ม.4–6) the curriculum widens the lens from British/American English to English as a world language: Australian, Singaporean, Indian, Filipino, and ASEAN varieties, plus the distinction between native-speaker English (ENL), second-language English (ESL), and foreign-language English (EFL, Thailand's category). The practical goal is **receptive competence**: understanding different varieties in listening and reading, and producing internationally intelligible English in speaking and writing.
 
 ## 1 | Grade Band Breakdown
 
@@ -24,7 +24,7 @@ In upper secondary (ม.4–6) the curriculum widens the lens from British/Ameri
 | Feature | British | American | Australian | Singaporean |
 |---|---|---|---|---|
 | Vocabulary: apartment | flat | apartment | flat/unit | flat/HDB |
-| Vocabulary: autumn | autumn | fall | autumn | — |
+| Vocabulary: autumn | autumn | fall | autumn | N/A |
 | Spelling | colour, centre, realise | color, center, realize | colour (UK-style) | UK + US mixed |
 | -ize / -ise | -ise preferred | -ize always | -ise preferred | mixed |
 | Vowel sound example | "can't" /kɑːnt/ | /kænt/ | /kɑːnt/ with rising intonation | syllable-timed rhythm |
@@ -35,11 +35,11 @@ In upper secondary (ม.4–6) the curriculum widens the lens from British/Ameri
 
 | Circle | Who | Examples | Thailand's position |
 |---|---|---|---|
-| Inner Circle | Native speakers | UK, US, Canada, Australia, NZ | — |
-| Outer Circle | Second-language countries (colonial history) | India, Singapore, Philippines, Malaysia | — |
-| Expanding Circle | Foreign-language countries | **Thailand**, Japan, Korea, China | Expanding Circle — English for international functions |
+| Inner Circle | Native speakers | UK, US, Canada, Australia, NZ | N/A |
+| Outer Circle | Second-language countries (colonial history) | India, Singapore, Philippines, Malaysia | N/A |
+| Expanding Circle | Foreign-language countries | **Thailand**, Japan, Korea, China | Expanding Circle: English for international functions |
 
-The curriculum's stance: Thai students learn standard English (usually British or American models in textbooks) but must be able to **understand all circles** — an ASEAN meeting involves Thai, Filipino, Singaporean, and Indian English in one room.
+The curriculum's stance: Thai students learn standard English (usually British or American models in textbooks) but must be able to **understand all circles**: an ASEAN meeting involves Thai, Filipino, Singaporean, and Indian English in one room.
 
 ## 4 | English in ASEAN
 
@@ -48,7 +48,7 @@ The curriculum's stance: Thai students learn standard English (usually British o
 | Singapore | Official language, education medium | Native-like variety; fast speech |
 | Philippines | Official language, education medium | Distinct accent; large BPO workforce |
 | Malaysia | Widely used second language | Manglish mixing is common |
-| Brunei | Widely used | — |
+| Brunei | Widely used | N/A |
 | Thailand | Foreign language (Expanding Circle) | Aim: intelligible internationally, confident in ASEAN settings |
 
 ## 5 | Practical Implications for Thai Learners
@@ -77,7 +77,7 @@ The curriculum's stance: Thai students learn standard English (usually British o
 ## 7 | Cross-Links
 
 - [[00_overview|Strand 2 Overview (BOK)]]
-- [[58 Intercultural Communication|Intercultural Communication]] — culture behind each variety
-- [[72 ASEAN English|ASEAN English]] — regional communication focus
-- [[37 Accent Recognition|English Skill: Accent Recognition]] — ear training
+- [[58 Intercultural Communication|Intercultural Communication]]: culture behind each variety
+- [[72 ASEAN English|ASEAN English]]: regional communication focus
+- [[37 Accent Recognition|English Skill: Accent Recognition]]: ear training
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

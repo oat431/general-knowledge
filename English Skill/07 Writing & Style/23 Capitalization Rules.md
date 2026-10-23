@@ -8,7 +8,7 @@ tags:
 
 # Capitalization Rules
 
-English capitalizes far more words than Thai. Getting capitalization wrong in formal writing looks careless — but the rules are systematic.
+English capitalizes far more words than Thai. Getting capitalization wrong in formal writing looks careless: but the rules are systematic.
 
 ---
 
@@ -30,7 +30,7 @@ English capitalizes far more words than Thai. Getting capitalization wrong in fo
 
 ## Title Capitalization
 
-For titles of books, movies, articles — capitalize major words:
+For titles of books, movies, articles: capitalize major words:
 
 | Capitalize | Don't Capitalize (unless first/last) |
 |-----------|-------------------------------------|
@@ -56,7 +56,7 @@ For titles of books, movies, articles — capitalize major words:
 
 ## ⚠️ Thai Speaker Traps
 
-Thai has no capitalization — this is a completely foreign concept.
+Thai has no capitalization: this is a completely foreign concept.
 
 | ❌ Common Error | ✅ Correct |
 |----------------|-----------|

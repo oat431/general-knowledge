@@ -8,16 +8,16 @@ tags:
 
 # False Friends & Direct Translation Pitfalls
 
-False friends are words that look similar in Thai and English but mean different things — or Thai expressions that don't translate directly. Direct translation is the #1 source of unnatural English.
+False friends are words that look similar in Thai and English but mean different things: or Thai expressions that don't translate directly. Direct translation is the #1 source of unnatural English.
 
 ---
 
-## False Friends — Similar Sound, Different Meaning
+## False Friends: Similar Sound, Different Meaning
 
 | Thai Word | Sounds Like... | But Means... | ❌ Wrong Usage | ✅ Correct |
 |-----------|---------------|--------------|---------------|-----------|
-| เช็ค (check) | check (verify) | Also: bill (restaurant) | Can I have the check? | Can I have the **bill**? (UK) / **check** (US — both OK in US) |
-| ฟรี (free) | free (no cost) | Same — but overused | Free gift, free service | **Complimentary** (more natural in formal contexts) |
+| เช็ค (check) | check (verify) | Also: bill (restaurant) | Can I have the check? | Can I have the **bill**? (UK) / **check** (US: both OK in US) |
+| ฟรี (free) | free (no cost) | Same: but overused | Free gift, free service | **Complimentary** (more natural in formal contexts) |
 | แอร์ (air) | air | Air conditioner | Turn on the air. | Turn on the **air conditioning** / **AC**. |
 | เวอร์ (over) | over | Exaggerated, over the top | That's so over! | That's **over the top**! |
 
@@ -27,7 +27,7 @@ False friends are words that look similar in Thai and English but mean different
 
 ### 1. "Same Same"
 
-Thai: `เหมือนๆ กัน` — natural in Thai, sounds childish/redundant in English.
+Thai: `เหมือนๆ กัน`: natural in Thai, sounds childish/redundant in English.
 
 | ❌ | ✅ |
 |---|-----|
@@ -58,11 +58,11 @@ Thai uses `ไป` (bpai) for many movement scenarios. English uses specific ver
 | I don't sure. | I'm **not sure**. |
 | I don't certain. | I'm **not certain**. |
 
-> "Sure" and "certain" are adjectives — they need "be" (am/is/are), not "do."
+> "Sure" and "certain" are adjectives: they need "be" (am/is/are), not "do."
 
 ### 5. "Can you...?" vs Politeness
 
-Thai uses `ขอ` (khǎw) for polite requests. English uses "Could" or "Would" — "Can" sounds demanding.
+Thai uses `ขอ` (khǎw) for polite requests. English uses "Could" or "Would": "Can" sounds demanding.
 
 | ❌ (too direct) | ✅ (polite) |
 |----------------|------------|

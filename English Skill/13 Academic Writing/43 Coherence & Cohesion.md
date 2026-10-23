@@ -24,7 +24,7 @@ Your ideas must follow a logical order. The reader should never think "why is th
 |------|---------|--------|
 | **One idea per paragraph** | Body 1 = only about education | Body 1 = education + health + environment |
 | **Logical order** | Introduction → Body 1 → Body 2 → Conclusion | Jumping between ideas randomly |
-| **Clear topic sentence** | "The main benefit of exercise is improved health." | (no topic sentence — reader confused) |
+| **Clear topic sentence** | "The main benefit of exercise is improved health." | (no topic sentence: reader confused) |
 | **Consistent focus** | Paragraph stays on topic | Paragraph drifts to unrelated ideas |
 
 ### Topic Sentences

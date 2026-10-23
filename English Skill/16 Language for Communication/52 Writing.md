@@ -3,14 +3,14 @@ tags: [english, english-curriculum, language-for-communication, writing, primary
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ11101", "อ16101", "อ21101", "อ23101", "อ31101", "อ33101"]
-strand: "สาระที่ 1: ภาษาเพื่อการสื่อสาร — มาตรฐาน อ 1.1, อ 1.2"
+strand: "สาระที่ 1: ภาษาเพื่อการสื่อสาร – มาตรฐาน อ 1.1, อ 1.2"
 ---
 
-# Writing — การเขียน
+# Writing: การเขียน
 
 > *"Writing is the last skill to arrive and the first one exams and employers demand."*
 
-Writing (การเขียน) enters the English curriculum after listening, speaking, and basic reading. In ป.1–3 it means forming letters and copying words; in ป.4–6 students write guided sentences, short messages, and simple paragraphs; ม.ต้น adds letters, emails, and descriptive paragraphs with connectors; ม.ปลาย brings essays, reports, summaries, formal emails, and resumes. Thai students write English with two extra burdens — English spelling (Thai spelling is far more regular) and spacing/capitalization conventions Thai script does not use — so the curriculum builds writing mechanics and expression side by side.
+Writing (การเขียน) enters the English curriculum after listening, speaking, and basic reading. In ป.1–3 it means forming letters and copying words; in ป.4–6 students write guided sentences, short messages, and simple paragraphs; ม.ต้น adds letters, emails, and descriptive paragraphs with connectors; ม.ปลาย brings essays, reports, summaries, formal emails, and resumes. Thai students write English with two extra burdens: English spelling (Thai spelling is far more regular) and spacing/capitalization conventions Thai script does not use: so the curriculum builds writing mechanics and expression side by side.
 
 ## 1 | Grade Band Breakdown
 
@@ -24,6 +24,7 @@ Writing (การเขียน) enters the English curriculum after listening
 ## 2 | The Writing Growth Path
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["ป.1-3<br/>Mechanics<br/>letters, copying, blanks"] --> B["ป.4-6<br/>Guided writing<br/>sentences and short paragraphs"]
     B --> C["ม.1-3<br/>Paragraphs<br/>structure and connectors"]
@@ -44,6 +45,7 @@ flowchart LR
 From ม.ต้น the curriculum expects students to treat writing as a process, not a one-shot task:
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     PLAN["1 Plan<br/>วางแผน ระดมความคิด"] --> DRAFT["2 Draft<br/>ร่างครั้งแรก"]
     DRAFT --> REVISE["3 Revise<br/>ปรับเนื้อหาและโครงสร้าง"]
@@ -88,7 +90,7 @@ flowchart LR
 ## 8 | Cross-Links
 
 - [[00_overview|Strand 1 Overview (BOK)]]
-- [[51 Reading|Reading]] — reading provides the models writing imitates
-- [[53 Grammar|Grammar]] — grammar accuracy is judged in writing first
-- [[40 Essay Structure|English Skill: Academic Writing]] — essays, IELTS/TOEFL tasks
+- [[51 Reading|Reading]]: reading provides the models writing imitates
+- [[53 Grammar|Grammar]]: grammar accuracy is judged in writing first
+- [[40 Essay Structure|English Skill: Academic Writing]]: essays, IELTS/TOEFL tasks
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

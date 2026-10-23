@@ -20,7 +20,7 @@ You see a **photo** and hear 4 statements. Choose the one that describes the pho
 
 | Step | Action |
 |------|--------|
-| 1 | Look at the photo before the audio starts — identify what's happening |
+| 1 | Look at the photo before the audio starts: identify what's happening |
 | 2 | Listen for **accurate** descriptions, not plausible ones |
 | 3 | Eliminate statements with wrong verbs, wrong prepositions, or wrong numbers |
 
@@ -54,7 +54,7 @@ You hear a **question** and 3 responses. Choose the best response.
 |------|--------|
 | 1 | Focus on the **first word** of the question (Who, What, Where, When, How) |
 | 2 | Match the response type to the question type |
-| 3 | Listen for **related words** — distractors use words from the question |
+| 3 | Listen for **related words**: distractors use words from the question |
 
 ### Question Type → Response Type
 
@@ -73,9 +73,9 @@ You hear a **question** and 3 responses. Choose the best response.
 
 | ❌ Trap | Why It's Wrong |
 |---------|---------------|
-| Q: "Where is the **file**?" A: "I'll **fill** it out." | **file** ≠ **fill** — similar sound, different meaning |
-| Q: "When is the **meeting**?" A: "He's **meting** the deadline." | **meeting** ≠ **meting** — sounds similar |
-| Q: "Who **wrote** the report?" A: "I'll **route** it to you." | **wrote** ≠ **route** — distractor |
+| Q: "Where is the **file**?" A: "I'll **fill** it out." | **file** ≠ **fill**, similar sound, different meaning |
+| Q: "When is the **meeting**?" A: "He's **meting** the deadline." | **meeting** ≠ **meting**, sounds similar |
+| Q: "Who **wrote** the report?" A: "I'll **route** it to you." | **wrote** ≠ **route**, distractor |
 
 > **Rule:** If a response uses a word that sounds like the question, it's usually WRONG. That's a distractor.
 
@@ -97,19 +97,19 @@ You hear a **conversation between 2-3 people** and answer 3 questions per conver
 
 | Question Type | What to Listen For |
 |--------------|-------------------|
-| **Main idea** | "What are they discussing?" — listen to the opening |
-| **Specific detail** | "When will the delivery arrive?" — listen for numbers/dates |
-| **Inference** | "What will the woman probably do next?" — listen to the end |
-| **Opinion** | "What does the man think about...?" — listen for "I think," "I believe" |
-| **Purpose** | "Why is the man calling?" — listen to the opening |
+| **Main idea** | "What are they discussing?" Listen to the opening |
+| **Specific detail** | "When will the delivery arrive?" Listen for numbers/dates |
+| **Inference** | "What will the woman probably do next?" Listen to the end |
+| **Opinion** | "What does the man think about...?" Listen for "I think," "I believe" |
+| **Purpose** | "Why is the man calling?" Listen to the opening |
 
 ### The 3 Questions Pattern
 
 | Question | Usually About |
 |----------|--------------|
-| **Question 1** | The opening — why they're talking |
+| **Question 1** | The opening: why they're talking |
 | **Question 2** | A detail in the middle |
-| **Question 3** | The ending — what happens next, or a conclusion |
+| **Question 3** | The ending: what happens next, or a conclusion |
 
 ---
 
@@ -134,7 +134,7 @@ You hear a **monologue** (one person speaking) and answer 3 questions per talk.
 | 1 | Read questions before audio |
 | 2 | Listen for the **main purpose** first (usually Q1) |
 | 3 | Listen for **specific details** (usually Q2-Q3) |
-| 4 | Pay extra attention to the **ending** — often contains the final answer |
+| 4 | Pay extra attention to the **ending**: often contains the final answer |
 
 ---
 
@@ -148,14 +148,14 @@ You hear a **monologue** (one person speaking) and answer 3 questions per talk.
 
 ### During the Audio
 
-- Don't stare at the test booklet — listen with your ears, not your eyes
+- Don't stare at the test booklet; listen with your ears, not your eyes
 - If you miss an answer, guess and move on immediately
 - Don't change your answer unless you're 100% sure
 
 ### After Each Section
 
 - Transfer answers immediately (TOEIC uses a separate answer sheet)
-- Don't wait until the end — you might run out of time
+- Don't wait until the end; you might run out of time
 
 ---
 
@@ -166,7 +166,7 @@ You hear a **monologue** (one person speaking) and answer 3 questions per talk.
 | Translating in your head | By the time you translate, the audio moved on | Practice listening in English without translating |
 | Falling for sound-alikes | "Where is the **suit**?" → "I'll **suit** it." (wrong) | The correct answer usually doesn't repeat the question word |
 | Not reading questions first | You don't know what to listen for | Always preview questions before audio starts (Parts 3-4) |
-| Panicking on Part 2 | Questions come fast — 25 in a row | Stay calm — guess if stuck and move on |
+| Panicking on Part 2 | Questions come fast; 25 in a row | Stay calm; guess if stuck and move on |
 
 ---
 

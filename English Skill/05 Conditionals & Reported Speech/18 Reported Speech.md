@@ -8,7 +8,7 @@ tags:
 
 # Reported Speech (Indirect Speech)
 
-Reported speech is how we tell someone what another person said — without quoting them word-for-word. It requires shifting tenses, pronouns, and time expressions backward.
+Reported speech is how we tell someone what another person said: without quoting them word-for-word. It requires shifting tenses, pronouns, and time expressions backward.
 
 ---
 
@@ -53,7 +53,7 @@ When the reporting verb is **past** (said, told, asked), the tense shifts BACK o
 ## When NOT to Backshift
 
 ### 1. Reporting verb is present/future
-> She **says** she **likes** coffee. (no backshift — "says" is present)
+> She **says** she **likes** coffee. (no backshift: "says" is present)
 
 ### 2. Still true / General truth
 > "The earth is round." → He said the earth **is** round. (still true)

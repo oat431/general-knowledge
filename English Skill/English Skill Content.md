@@ -5,9 +5,9 @@ tags:
 - teaching
 ---
 
-# English Skill — Content
+# English Skill: Content
 
-A practical guide for teaching English to functioning adults who rarely speak English. Numbered in teaching order — start at 01 and work forward.
+A practical guide for teaching English to functioning adults who rarely speak English. Numbered in teaching order; start at 01 and work forward.
 
 Sections 01-08 build grammar foundation. Sections 09-14 prepare for TOEFL/IELTS. Section 15 prepares for TOEIC.
 Sections 16-19 cover the national 4-strand English curriculum (OBEC standards อ 1.1-อ 4.2), ป.1-ม.6.
@@ -16,144 +16,144 @@ Sections 16-19 cover the national 4-strand English curriculum (OBEC standards �
 
 ## 01 Foundation
 
-- [[01 Parts of Speech]] — Nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, interjections
-- [[02 Articles]] — A/An/The — when to use which (and when Thai speakers skip them)
-- [[03 Subject-Verb Agreement]] — Singular/plural harmony — a concept Thai doesn't have
-- [[04 Countable vs Uncountable Nouns]] — Much/Many, Few/Little, and why "informations" is wrong
+- [[01 Parts of Speech]]: Nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, interjections
+- [[02 Articles]]: A/An/The, when to use which (and when Thai speakers skip them)
+- [[03 Subject-Verb Agreement]]: Singular/plural harmony, a concept Thai doesn't have
+- [[04 Countable vs Uncountable Nouns]]: Much/Many, Few/Little, and why "informations" is wrong
 
 ## 02 Tenses & Time
 
-- [[05 12 English Tense Overview]] — Master grid + decision flow. Then deep-dive into all 12 individual tenses (05.1–05.12)
-- [[06 Active vs Passive Voice]] — Who does vs who receives — and why Thai speakers avoid passive
-- [[07 Verb Forms]] — V1, V2, V3, Ving — the building blocks behind every tense
+- [[05 12 English Tense Overview]]: Master grid + decision flow. Then deep-dive into all 12 individual tenses (05.1–05.12)
+- [[06 Active vs Passive Voice]]: Who does vs who receives, and why Thai speakers avoid passive
+- [[07 Verb Forms]]: V1, V2, V3, Ving, the building blocks behind every tense
 
 ## 03 Sentence Building
 
-- [[08 Sentence Structure]] — Simple, Compound, Complex, Compound-Complex — stop writing robot sentences
-- [[09 Clauses]] — Relative clauses, noun clauses, adverbial clauses — how to connect ideas
-- [[10 Question Formation]] — Word order flips — why "You like coffee?" sounds like a beginner
-- [[11 Negative Sentences]] — Don't/doesn't/didn't — and the double negative trap
+- [[08 Sentence Structure]]: Simple, Compound, Complex, Compound-Complex. Stop writing robot sentences
+- [[09 Clauses]]: Relative clauses, noun clauses, adverbial clauses; how to connect ideas
+- [[10 Question Formation]]: Word order flips; why "You like coffee?" sounds like a beginner
+- [[11 Negative Sentences]]: Don't/doesn't/didn't, and the double negative trap
 
 ## 04 Verbs Deep Dive
 
-- [[12 Modals]] — Can/Could, May/Might, Must/Have to, Should — obligation, permission, certainty
-- [[13 Gerunds vs Infinitives]] — When to use -ing vs to+verb — "I enjoy to swim" is wrong
-- [[14 Phrasal Verbs]] — Verb+preposition — top 20 list for natural speech
-- [[15 Causative Verbs]] — Make/Have/Let/Get — arranging, forcing, permitting, persuading
+- [[12 Modals]]: Can/Could, May/Might, Must/Have to, Should; obligation, permission, certainty
+- [[13 Gerunds vs Infinitives]]: When to use -ing vs to+verb; "I enjoy to swim" is wrong
+- [[14 Phrasal Verbs]]: Verb+preposition, top 20 list for natural speech
+- [[15 Causative Verbs]]: Make/Have/Let/Get, arranging, forcing, permitting, persuading
 
 ## 05 Conditionals & Reported Speech
 
-- [[16 Conditionals]] — Zero through Mixed — "If I were you" vs "If I was you"
-- [[17 Wish and If Only]] — Expressing regret and desire — past, present, future
-- [[18 Reported Speech]] — Telling what someone said — tense backshifting, pronoun changes
+- [[16 Conditionals]]: Zero through Mixed, "If I were you" vs "If I was you"
+- [[17 Wish and If Only]]: Expressing regret and desire, past, present, future
+- [[18 Reported Speech]]: Telling what someone said; tense backshifting, pronoun changes
 
 ## 06 Connecting Ideas
 
-- [[19 Conjunctions]] — FANBOYS, subordinating, correlative — one connector, not two
-- [[20 Prepositions]] — In/On/At + 30+ common preposition patterns
-- [[21 Transition Words]] — However, Therefore, Meanwhile — guide your reader through your logic
+- [[19 Conjunctions]]: FANBOYS, subordinating, correlative; one connector, not two
+- [[20 Prepositions]]: In/On/At + 30+ common preposition patterns
+- [[21 Transition Words]]: However, Therefore, Meanwhile. Guide your reader through your logic
 
 ## 07 Writing & Style
 
-- [[22 Punctuation]] — Periods, commas, semicolons, apostrophes — the traffic signals of writing
-- [[23 Capitalization Rules]] — When to use big letters — a foreign concept for Thai speakers
-- [[24 Parallel Structure]] — Matching grammatical forms in lists and comparisons
+- [[22 Punctuation]]: Periods, commas, semicolons, apostrophes; the traffic signals of writing
+- [[23 Capitalization Rules]]: When to use big letters, a foreign concept for Thai speakers
+- [[24 Parallel Structure]]: Matching grammatical forms in lists and comparisons
 
 ## 08 Thai Speaker Challenges
 
-- [[25 Thai-English Common Mistakes]] — 9 error patterns from structural differences
-- [[26 Pronunciation Guide]] — /θ/, /ð/, /r/, /l/, final consonants, consonant clusters
-- [[27 False Friends & Direct Translation Pitfalls]] — "Same same," "I don't sure," and other traps
+- [[25 Thai-English Common Mistakes]]: 9 error patterns from structural differences
+- [[26 Pronunciation Guide]]: /θ/, /ð/, /r/, /l/, final consonants, consonant clusters
+- [[27 False Friends & Direct Translation Pitfalls]]: "Same same," "I don't sure," and other traps
 
 ---
 
 ## 09 Vocabulary Building
 
-- [[28 Academic Word List]] — 570 word families that appear in academic texts — the foundation of test vocabulary
-- [[29 Word Families]] — One root, many forms — suffixes and prefixes for noun/verb/adj/adv switching
-- [[30 Collocations]] — Words that naturally go together — "make a decision" not "do a decision"
-- [[31 Register & Formality]] — Informal vs academic English — "kids" → "children," "a lot of" → "numerous"
+- [[28 Academic Word List]]: 570 word families that appear in academic texts, the foundation of test vocabulary
+- [[29 Word Families]]: One root, many forms; suffixes and prefixes for noun/verb/adj/adv switching
+- [[30 Collocations]]: Words that naturally go together; "make a decision" not "do a decision"
+- [[31 Register & Formality]]: Informal vs academic English, "kids" → "children," "a lot of" → "numerous"
 
 ## 10 Reading Skills
 
-- [[32 Skimming & Scanning]] — Speed reading techniques — get the gist in 2 minutes, find facts in seconds
-- [[33 Inference & Implied Meaning]] — Reading between the lines — what the passage implies, not just says
-- [[34 Reading Question Strategies]] — Every question type has a specific strategy — True/False/Not Given, matching, completion
+- [[32 Skimming & Scanning]]: Speed reading techniques; get the gist in 2 minutes, find facts in seconds
+- [[33 Inference & Implied Meaning]]: Reading between the lines; what the passage implies, not just says
+- [[34 Reading Question Strategies]]: Every question type has a specific strategy; True/False/Not Given, matching, completion
 
 ## 11 Listening Skills
 
-- [[35 Note-Taking for Listening]] — Cornell system adapted for tests — abbreviations, keywords, what to write
-- [[36 Signposting & Discourse Markers]] — "However," "For example," "In conclusion" — your early warning system
-- [[37 Accent Recognition]] — British, American, Australian — how they differ and how to train your ear
+- [[35 Note-Taking for Listening]]: Cornell system adapted for tests; abbreviations, keywords, what to write
+- [[36 Signposting & Discourse Markers]]: "However," "For example," "In conclusion", your early warning system
+- [[37 Accent Recognition]]: British, American, Australian; how they differ and how to train your ear
 
 ## 12 Speaking Skills
 
-- [[38 Response Organization]] — IELTS Parts 1-3, TOEFL Tasks 1-4 — templates and timing for each
-- [[39 Fluency & Self-Correction]] — Smart fillers, connected speech, the 3-second rule for corrections
+- [[38 Response Organization]]: IELTS Parts 1-3, TOEFL Tasks 1-4; templates and timing for each
+- [[39 Fluency & Self-Correction]]: Smart fillers, connected speech, the 3-second rule for corrections
 
 ## 13 Academic Writing
 
-- [[40 Essay Structure]] — Introduction, body paragraphs (PEEL), conclusion — the 4-paragraph essay formula
-- [[41 IELTS Task 1 - Describing Data]] — Graphs, charts, tables, maps — language for trends and comparisons
-- [[42 TOEFL Integrated Writing]] — Reading + lecture summary — note-taking grid and response template
-- [[43 Coherence & Cohesion]] — Logical flow and smooth connections — 25% of your IELTS writing score
+- [[40 Essay Structure]]: Introduction, body paragraphs (PEEL), conclusion; the 4-paragraph essay formula
+- [[41 IELTS Task 1 - Describing Data]]: Graphs, charts, tables, maps; language for trends and comparisons
+- [[42 TOEFL Integrated Writing]]: Reading + lecture summary; note-taking grid and response template
+- [[43 Coherence & Cohesion]]: Logical flow and smooth connections, 25% of your IELTS writing score
 
 ## 14 Exam Strategies
 
-- [[44 Time Management]] — How to allocate time per section — the 2-minute rule, when to guess
-- [[45 Scoring Criteria]] — How IELTS and TOEFL actually score you — band descriptors, section weights, score comparison
+- [[44 Time Management]]: How to allocate time per section; the 2-minute rule, when to guess
+- [[45 Scoring Criteria]]: How IELTS and TOEFL actually score you; band descriptors, section weights, score comparison
 
 ## 15 TOEIC
 
-- [[46 Business Vocabulary]] — Workplace English: meetings, emails, finance, HR, travel — the vocabulary TOEIC actually tests
-- [[47 TOEIC Listening Question Types]] — Parts 1-4: photographs, question-response, conversations, short talks — strategies for each
-- [[48 TOEIC Reading Strategies]] — Parts 5-7: incomplete sentences, text completion, reading comprehension — speed techniques
-- [[49 TOEIC Scoring & Strategy]] — Score levels, company requirements, study plans by target score, IELTS/TOEFL/TOEIC comparison
+- [[46 Business Vocabulary]]: Workplace English: meetings, emails, finance, HR, travel; the vocabulary TOEIC actually tests
+- [[47 TOEIC Listening Question Types]]: Parts 1-4: photographs, question-response, conversations, short talks; strategies for each
+- [[48 TOEIC Reading Strategies]]: Parts 5-7: incomplete sentences, text completion, reading comprehension; speed techniques
+- [[49 TOEIC Scoring & Strategy]]: Score levels, company requirements, study plans by target score, IELTS/TOEFL/TOEIC comparison
 
 
 ## 16 Language for Communication
 
-The engine strand — อ 1.1-1.3: four skills plus grammar and vocabulary, from songs in ป.1 to debates and essays in ม.6. Section tracker: [[English Skill/16 Language for Communication/00_overview|16 Overview & Progress]]
+The engine strand, อ 1.1-1.3: four skills plus grammar and vocabulary, from songs in ป.1 to debates and essays in ม.6. Section tracker: [[English Skill/16 Language for Communication/00_overview|16 Overview & Progress]]
 
-- [[50 Listening and Speaking]] — songs/games → lectures/debates; grade-band functions and listening strategies
-- [[51 Reading]] — phonics → critical reading; O-NET question types
-- [[52 Writing]] — letter formation → essays/reports; process writing cycle
-- [[53 Grammar]] — chunks → 12 tenses → passive/conditionals; PPP teaching and Thai interference
-- [[54 Vocabulary]] — first words → AWL, collocations, register; ~3,000-word target
-- [[55 Functions and Notions]] — greetings → negotiation; Thai politeness particles vs English formulas
+- [[50 Listening and Speaking]]: songs/games → lectures/debates; grade-band functions and listening strategies
+- [[51 Reading]]: phonics → critical reading; O-NET question types
+- [[52 Writing]]: letter formation → essays/reports; process writing cycle
+- [[53 Grammar]]: chunks → 12 tenses → passive/conditionals; PPP teaching and Thai interference
+- [[54 Vocabulary]]: first words → AWL, collocations, register; ~3,000-word target
+- [[55 Functions and Notions]]: greetings → negotiation; Thai politeness particles vs English formulas
 
 ## 17 Language and Culture
 
 อ 2.1-2.2: native-speaker culture, etiquette (กาลเทศะ), and presenting Thai culture in English. Section tracker: [[English Skill/17 Language and Culture/00_overview|17 Overview & Progress]]
 
-- [[56 Holidays and Festivals]] — Anglo festivals, Thai comparison, cultural borrowing
-- [[57 Social Etiquette]] — magic words → business etiquette; wai vs handshake, small talk, tipping
-- [[58 Intercultural Communication]] — direct/indirect styles, culture shock, repair strategies
-- [[59 Digital Etiquette]] — email registers, netiquette rules, digital footprint
-- [[60 Language and Thai Culture]] — explaining Songkran, wai, and Thai food to foreigners
-- [[61 World Englishes]] — UK/US/AU/SG varieties, Kachru circles, intelligibility over imitation
+- [[56 Holidays and Festivals]]: Anglo festivals, Thai comparison, cultural borrowing
+- [[57 Social Etiquette]]: magic words → business etiquette; wai vs handshake, small talk, tipping
+- [[58 Intercultural Communication]]: direct/indirect styles, culture shock, repair strategies
+- [[59 Digital Etiquette]]: email registers, netiquette rules, digital footprint
+- [[60 Language and Thai Culture]]: explaining Songkran, wai, and Thai food to foreigners
+- [[61 World Englishes]]: UK/US/AU/SG varieties, Kachru circles, intelligibility over imitation
 
 ## 18 Language and Other Learning Areas
 
-อ 3.1: CLIL — English as the tool for learning other subjects. Section tracker: [[English Skill/18 Language and Other Learning Areas/00_overview|18 Overview & Progress]]
+อ 3.1: CLIL, English as the tool for learning other subjects. Section tracker: [[English Skill/18 Language and Other Learning Areas/00_overview|18 Overview & Progress]]
 
-- [[62 English for Mathematics]] — operations vocabulary, word problems, graph language
-- [[63 English for Science]] — lab language, experiment reports, กสพท. on-ramp
-- [[64 English for Social Studies]] — geography/history/civics vocabulary, ASEAN content
-- [[65 English for Arts and Music]] — songs as method, describing art, presenting khon
-- [[66 English for Health and PE]] — body/sports/health vocabulary, TPR legacy
-- [[67 English for Technology]] — devices → coding, AI tools, English as the interface language
+- [[62 English for Mathematics]]: operations vocabulary, word problems, graph language
+- [[63 English for Science]]: lab language, experiment reports, กสพท. on-ramp
+- [[64 English for Social Studies]]: geography/history/civics vocabulary, ASEAN content
+- [[65 English for Arts and Music]]: songs as method, describing art, presenting khon
+- [[66 English for Health and PE]]: body/sports/health vocabulary, TPR legacy
+- [[67 English for Technology]]: devices → coding, AI tools, English as the interface language
 
 ## 19 Language and Community and the World
 
-อ 4.1-4.2: real-world application — careers, exams, community, ASEAN, lifelong learning. Section tracker: [[English Skill/19 Language and Community and the World/00_overview|19 Overview & Progress]]
+อ 4.1-4.2: real-world application, careers, exams, community, ASEAN, lifelong learning. Section tracker: [[English Skill/19 Language and Community and the World/00_overview|19 Overview & Progress]]
 
-- [[68 English for Careers]] — job ads, CV writing, interview question bank, workplace English
-- [[69 English for Exams]] — O-NET, A-Level, IELTS, TOEFL, TOEIC, CU-TEP, TU-GET map
-- [[70 English Online]] — searching, dictionaries vs translators, AI practice partners
-- [[71 English in the Community]] — directions, public signs, tourist help
-- [[72 ASEAN English]] — member states, community pillars, English as regional lingua franca
-- [[73 Lifelong English]] — maintenance portfolio, media pathways, CEFR self-assessment
+- [[68 English for Careers]]: job ads, CV writing, interview question bank, workplace English
+- [[69 English for Exams]]: O-NET, A-Level, IELTS, TOEFL, TOEIC, CU-TEP, TU-GET map
+- [[70 English Online]]: searching, dictionaries vs translators, AI practice partners
+- [[71 English in the Community]]: directions, public signs, tourist help
+- [[72 ASEAN English]]: member states, community pillars, English as regional lingua franca
+- [[73 Lifelong English]]: maintenance portfolio, media pathways, CEFR self-assessment
 
 ---
 

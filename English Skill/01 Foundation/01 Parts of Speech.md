@@ -32,9 +32,9 @@ Every English word belongs to one of eight categories. Understanding these is th
 | Type | Example | Notes |
 |------|---------|-------|
 | Common | `city`, `book` | General things |
-| Proper | `London`, `Harry Potter` | Specific names — always capitalized |
-| Abstract | `love`, `happiness` | Ideas, feelings — can't touch |
-| Concrete | `table`, `water` | Physical things — can touch |
+| Proper | `London`, `Harry Potter` | Specific names: always capitalized |
+| Abstract | `love`, `happiness` | Ideas, feelings: can't touch |
+| Concrete | `table`, `water` | Physical things: can touch |
 | Collective | `team`, `family` | Group treated as one unit |
 
 ## 2. Pronouns

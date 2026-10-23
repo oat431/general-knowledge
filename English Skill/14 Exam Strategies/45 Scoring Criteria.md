@@ -9,7 +9,7 @@ tags:
 
 # Scoring Criteria
 
-Understanding how you're scored helps you focus your practice. Don't prepare blindly — know what the examiners are looking for.
+Understanding how you're scored helps you focus your practice. Don't prepare blindly: know what the examiners are looking for.
 
 ---
 
@@ -23,13 +23,13 @@ Understanding how you're scored helps you focus your practice. Don't prepare bli
 | **8** | Very Good | Occasional inaccuracies |
 | **7** | Good | Generally effective command |
 | **6** | Competent | Generally effective despite some inaccuracies |
-| **5** | Modest | Partial command — copes with overall meaning |
-| **4** | Limited | Frequent problems — not able to use complex language |
+| **5** | Modest | Partial command: copes with overall meaning |
+| **4** | Limited | Frequent problems: not able to use complex language |
 | **3** | Extremely Limited | Conveys only general meaning in familiar situations |
 | **2** | Intermittent | Great difficulty understanding spoken/written English |
 | **1** | Non-user | No ability to use the language |
 
-### IELTS Writing — Band Descriptors
+### IELTS Writing: Band Descriptors
 
 | Criterion | Weight | What Examiners Look For |
 |-----------|--------|------------------------|
@@ -47,7 +47,7 @@ Understanding how you're scored helps you focus your practice. Don't prepare bli
 | **Lexical Resource** | Adequate range, some errors | Sufficient range, occasional errors in word choice |
 | **Grammar** | Mix of simple and complex, some errors | Variety of complex structures, frequent error-free sentences |
 
-### IELTS Speaking — Band Descriptors
+### IELTS Speaking: Band Descriptors
 
 | Criterion | Weight | What Examiners Look For |
 |-----------|--------|------------------------|
@@ -97,7 +97,7 @@ Scored by number of correct answers out of 40:
 | **Speaking** | Clear, organized, detailed responses | Generally clear, some gaps | Difficult to understand |
 | **Writing** | Well-organized, accurate, detailed | Generally organized, some errors | Poorly organized, many errors |
 
-### TOEFL Writing — Scoring
+### TOEFL Writing: Scoring
 
 | Criterion | Integrated (0-5) | Independent (0-5) |
 |-----------|------------------|-------------------|
@@ -107,7 +107,7 @@ Scored by number of correct answers out of 40:
 | **2 (Weak)** | Major inaccuracies, poorly organized | Poorly organized, very limited |
 | **1 (Very Weak)** | Mostly copied from reading | Extremely limited or off-topic |
 
-### TOEFL Speaking — Scoring
+### TOEFL Speaking: Scoring
 
 | Criterion | What It Means |
 |-----------|--------------|
@@ -163,7 +163,7 @@ Scored by number of correct answers out of 40:
 | Focusing only on grammar | Grammar is only 25% of writing score | Also practice vocabulary, coherence, and task achievement |
 | Ignoring pronunciation | 25% of speaking score | Practice stress, intonation, and problem sounds (see [[26 Pronunciation Guide]]) |
 | Not knowing the format | Wasting time figuring out instructions | Take practice tests before the real exam |
-| Aiming for "perfect" English | Spending years preparing | Most universities accept IELTS 6.5 — that's achievable in 6-12 months |
+| Aiming for "perfect" English | Spending years preparing | Most universities accept IELTS 6.5: that's achievable in 6-12 months |
 
 ---
 

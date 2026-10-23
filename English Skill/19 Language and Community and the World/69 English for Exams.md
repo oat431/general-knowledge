@@ -3,14 +3,14 @@ tags: [english, english-curriculum, language-and-community, exams, o-net, ielts,
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ31101", "อ32101", "อ33101"]
-strand: "สาระที่ 4: ภาษากับชุมชนและโลก — มาตรฐาน อ 4.2"
+strand: "สาระที่ 4: ภาษากับชุมชนและโลก – มาตรฐาน อ 4.2"
 ---
 
-# English for Exams — ภาษาอังกฤษเพื่อการสอบ
+# English for Exams: ภาษาอังกฤษเพื่อการสอบ
 
 > *"Exams are the gate: O-NET for the system, IELTS/TOEFL/TOEIC for the world beyond it."*
 
-Standard อ 4.2 names lifelong learning and further education as goals — and in Thailand's system, those goals are reached through examinations. The curriculum itself references the major tests: O-NET measures the national curriculum at ป.6/ม.3/ม.6, while international tests (IELTS, TOEFL, TOEIC) and university tests (CU-TEP, TU-GET) gate scholarships, university programs, and employment. This note maps each exam to its role, structure, and the strand/skill preparation it demands.
+Standard อ 4.2 names lifelong learning and further education as goals, and in Thailand's system, those goals are reached through examinations. The curriculum itself references the major tests: O-NET measures the national curriculum at ป.6/ม.3/ม.6, while international tests (IELTS, TOEFL, TOEIC) and university tests (CU-TEP, TU-GET) gate scholarships, university programs, and employment. This note maps each exam to its role, structure, and the strand/skill preparation it demands.
 
 ## 1 | The Thai Exam Landscape
 
@@ -29,13 +29,13 @@ Standard อ 4.2 names lifelong learning and further education as goals — and 
 
 | Section | Coverage | Skills from the 4 strands |
 |---|---|---|
-| Listening | Short dialogs, announcements | Strand 1 — Listening |
-| Reading | Passages with vocabulary/main-idea/inference items | Strand 1 — Reading, Vocabulary |
-| Conversation | Dialogue completion, functional language | Strand 1 — Functions; Strand 2 — etiquette |
-| Grammar | Sentence completion, error identification | Strand 1 — Grammar |
-| Writing-lite | Occasional items on structure and ordering | Strand 1 — Writing |
+| Listening | Short dialogs, announcements | Strand 1: Listening |
+| Reading | Passages with vocabulary/main-idea/inference items | Strand 1: Reading, Vocabulary |
+| Conversation | Dialogue completion, functional language | Strand 1: Functions; Strand 2: etiquette |
+| Grammar | Sentence completion, error identification | Strand 1: Grammar |
+| Writing-lite | Occasional items on structure and ordering | Strand 1: Writing |
 
-**Item style:** 4-choice multiple choice; vocabulary from the core list; conversation items test pragmatic (polite/appropriate) responses — Strand 2 knowledge directly changes scores.
+**Item style:** 4-choice multiple choice; vocabulary from the core list; conversation items test pragmatic (polite/appropriate) responses; Strand 2 knowledge directly changes scores.
 
 ## 3 | International Tests at a Glance
 
@@ -49,6 +49,7 @@ Standard อ 4.2 names lifelong learning and further education as goals — and 
 ## 4 | How the Four Strands Feed Each Test
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     S1["Strand 1<br/>Skills: L S R W<br/>grammar vocabulary"] --> ONET["O-NET / A-Level"]
     S2["Strand 2<br/>etiquette and functions<br/>appropriate responses"] --> ONET
@@ -94,7 +95,7 @@ flowchart TD
 ## 8 | Cross-Links
 
 - [[00_overview|Strand 4 Overview (BOK)]]
-- [[73 Lifelong English|Lifelong English]] — exams as one step in continued learning
+- [[73 Lifelong English|Lifelong English]]: exams as one step in continued learning
 - [[44 Time Management|English Skill: Exam Strategies]]
 - [[45 Scoring Criteria|English Skill: Scoring Criteria]]
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

@@ -5,14 +5,14 @@ created: 2026-08-28
 strand: "สาระที่ 2: ภาษาและวัฒนธรรม"
 ---
 
-# Language and Culture — ภาษาและวัฒนธรรม
+# Language and Culture: ภาษาและวัฒนธรรม
 
 > **Strand:** สาระที่ 2 | **Concept Areas:** 6 | **Duration:** 12 years (ป.1–ม.6)
 > **Standards covered:** อ 2.1 (understand language-culture relationship of native speakers; use language appropriate to time, place, occasion), อ 2.2 (courteous participation in intercultural exchange)
 
 ## Overview
 
-Strand 2 (ภาษาและวัฒนธรรม) teaches that language cannot be separated from the culture of its speakers. The OBEC standards ask students to understand native-speaker cultures, use language with appropriate social etiquette (กาลเทศะ — the right words for the right time, place, occasion, and person), and participate courteously in intercultural exchange — including presenting Thai culture in English. The strand starts with festivals and magic words in primary and matures into intercultural analysis and digital etiquette in secondary.
+Strand 2 (ภาษาและวัฒนธรรม) teaches that language cannot be separated from the culture of its speakers. The OBEC standards ask students to understand native-speaker cultures, use language with appropriate social etiquette (กาลเทศะ: the right words for the right time, place, occasion, and person), and participate courteously in intercultural exchange, including presenting Thai culture in English. The strand starts with festivals and magic words in primary and matures into intercultural analysis and digital etiquette in secondary.
 
 ## Concept Areas
 
@@ -20,10 +20,10 @@ Strand 2 (ภาษาและวัฒนธรรม) teaches that language c
 |---|---|---|---|---|---|---|
 | 07 | [[56 Holidays and Festivals]] | วันสำคัญและเทศกาล | Festival songs, Halloween, Christmas | Major festivals, dates, symbols | Origins, comparisons | Cross-cultural analysis |
 | 08 | [[57 Social Etiquette]] | มารยาททางสังคม | Magic words | Table manners, gifts | Small talk, norms | Business etiquette |
-| 09 | [[58 Intercultural Communication]] | การสื่อสารระหว่างวัฒนธรรม | — | — | Direct/indirect, gestures | Dimensions, shock, repair |
-| 10 | [[59 Digital Etiquette]] | มารยาทในโลกออนไลน์ | — | — | Email basics, posting | Formal registers, footprint |
+| 09 | [[58 Intercultural Communication]] | การสื่อสารระหว่างวัฒนธรรม | N/A | N/A | Direct/indirect, gestures | Dimensions, shock, repair |
+| 10 | [[59 Digital Etiquette]] | มารยาทในโลกออนไลน์ | N/A | N/A | Email basics, posting | Formal registers, footprint |
 | 11 | [[60 Language and Thai Culture]] | ภาษากับวัฒนธรรมไทย | Naming Thai things | Customs in sentences | Explaining Thai culture | Comparative presentations |
-| 12 | [[61 World Englishes]] | ภาษาอังกฤษหลากหลายรูปแบบ | — | — | UK/US differences | Varieties, ASEAN, intelligibility |
+| 12 | [[61 World Englishes]] | ภาษาอังกฤษหลากหลายรูปแบบ | N/A | N/A | UK/US differences | Varieties, ASEAN, intelligibility |
 
 ## Official Standard Mapping
 
@@ -35,11 +35,12 @@ Strand 2 (ภาษาและวัฒนธรรม) teaches that language c
 ## The Culture Strand's Core Principle
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     LANG["Correct English<br/>ไวยากรณ์ถูก"] --> APPROP["Appropriate English<br/>กาลเทศะเหมาะสม"] --> INTER["Intercultural competence<br/>สื่อสารข้ามวัฒนธรรมได้"]
 ```
 
-Grammar alone is not enough: "Give me the salt" is grammatically perfect and socially rude. Strand 2 supplies what grammar cannot — the judgment of what to say, to whom, when, and where.
+Grammar alone is not enough: "Give me the salt" is grammatically perfect and socially rude. Strand 2 supplies what grammar cannot: the judgment of what to say, to whom, when, and where.
 
 ## Progress Tracker
 

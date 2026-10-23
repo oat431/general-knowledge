@@ -3,14 +3,14 @@ tags: [english, english-curriculum, language-and-community, community, direction
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ21101", "อ22101", "อ23101", "อ31101", "อ32101", "อ33101"]
-strand: "สาระที่ 4: ภาษากับชุมชนและโลก — มาตรฐาน อ 4.1"
+strand: "สาระที่ 4: ภาษากับชุมชนและโลก – มาตรฐาน อ 4.1"
 ---
 
-# English in the Community — ภาษาอังกฤษในชุมชน
+# English in the Community: ภาษาอังกฤษในชุมชน
 
-> *"For a Thai student, the first real English test is a lost tourist asking for directions — no multiple choice, no dictionary."*
+> *"For a Thai student, the first real English test is a lost tourist asking for directions: no multiple choice, no dictionary."*
 
-Standard อ 4.1 moves English out of the classroom into real life: helping tourists, reading signs and announcements, asking for and giving information in the community, and participating in community activities that use English. In tourism-heavy Thailand this strand has immediate, visible use — and it feeds national programs like Thailand's tourism-village and "English for tourists" initiatives.
+Standard อ 4.1 moves English out of the classroom into real life: helping tourists, reading signs and announcements, asking for and giving information in the community, and participating in community activities that use English. In tourism-heavy Thailand this strand has immediate, visible use: and it feeds national programs like Thailand's tourism-village and "English for tourists" initiatives.
 
 ## 1 | Grade Band Breakdown
 
@@ -34,6 +34,7 @@ Standard อ 4.1 moves English out of the classroom into real life: helping tour
 ## 3 | The Directions Toolkit
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     ASK["Ask: Excuse me,<br/>how do I get to...?"] --> LISTEN["Listen for keywords:<br/>left, right, straight,<br/>next to, opposite"]
     LISTEN --> CONFIRM["Confirm: So I turn left<br/>at the temple, correct?"]
@@ -94,7 +95,7 @@ flowchart LR
 ## 8 | Cross-Links
 
 - [[00_overview|Strand 4 Overview (BOK)]]
-- [[68 English for Careers|English for Careers]] — tourism careers build on this
-- [[60 Language and Thai Culture|Language and Thai Culture]] — explaining local culture
-- [[72 ASEAN English|ASEAN English]] — regional visitors
+- [[68 English for Careers|English for Careers]]: tourism careers build on this
+- [[60 Language and Thai Culture|Language and Thai Culture]]: explaining local culture
+- [[72 ASEAN English|ASEAN English]]: regional visitors
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

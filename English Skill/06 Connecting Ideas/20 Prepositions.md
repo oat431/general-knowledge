@@ -8,7 +8,7 @@ tags:
 
 # Prepositions
 
-Prepositions show relationships — where something is, when something happens, which direction it moves. They're small words (`in`, `on`, `at`, `to`, `for`, `with`) but getting them wrong immediately marks you as a non-native speaker.
+Prepositions show relationships: where something is, when something happens, which direction it moves. They're small words (`in`, `on`, `at`, `to`, `for`, `with`) but getting them wrong immediately marks you as a non-native speaker.
 
 ---
 
@@ -102,7 +102,7 @@ Prepositions show relationships — where something is, when something happens, 
 
 ## Preposition-Dependent Words
 
-Some words require specific prepositions — there's no rule, you must memorize them.
+Some words require specific prepositions: there's no rule, you must memorize them.
 
 ### Adjectives + Prepositions
 

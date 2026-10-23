@@ -3,14 +3,14 @@ tags: [english, english-curriculum, language-and-culture, netiquette, digital, l
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ21101", "อ22101", "อ23101", "อ31101", "อ32101", "อ33101"]
-strand: "สาระที่ 2: ภาษาและวัฒนธรรม — มาตรฐาน อ 2.1, อ 2.2"
+strand: "สาระที่ 2: ภาษาและวัฒนธรรม – มาตรฐาน อ 2.1, อ 2.2"
 ---
 
-# Digital Etiquette — มารยาทในโลกออนไลน์
+# Digital Etiquette: มารยาทในโลกออนไลน์
 
-> *"Online, your words ARE your face. No wai, no smile — just the text you chose to send."*
+> *"Online, your words ARE your face. No wai, no smile, just the text you chose to send."*
 
-Digital etiquette (มารยาทในโลกออนไลน์, netiquette) extends face-to-face courtesy into written digital communication: emails, chat, social media, comments, and class forums. The curriculum builds it from ม.ต้น (basic email structure, respectful posting) through ม.ปลาย (formal email conventions, tone management across platforms, digital footprint awareness). Thai students face specific friction points — Thai online chat uses different politeness rules than English chat, and English email formality levels are unforgiving in school and work contexts.
+Digital etiquette (มารยาทในโลกออนไลน์, netiquette) extends face-to-face courtesy into written digital communication: emails, chat, social media, comments, and class forums. The curriculum builds it from ม.ต้น (basic email structure, respectful posting) through ม.ปลาย (formal email conventions, tone management across platforms, digital footprint awareness). Thai students face specific friction points: Thai online chat uses different politeness rules than English chat, and English email formality levels are unforgiving in school and work contexts.
 
 ## 1 | Grade Band Breakdown
 
@@ -27,7 +27,7 @@ Digital etiquette (มารยาทในโลกออนไลน์, netiq
 | Semi-formal | Dear Korn, / Hi Anna, | Complete sentences, light contractions | Best, / Thanks, | Classmates, group projects |
 | Informal | Hey! / Hi! | Short, emoji and abbreviation OK | Cheers, / CU later, | Close friends, chat |
 
-**Register violation is the #1 digital etiquette error** — sending "Hey teach, where my grade at??" to a teacher reads as rude even without bad intent → [[31 Register & Formality]].
+**Register violation is the #1 digital etiquette error:** sending "Hey teach, where my grade at??" to a teacher reads as rude even without bad intent → [[31 Register & Formality]].
 
 ## 3 | Core Netiquette Rules
 
@@ -57,7 +57,7 @@ Digital etiquette (มารยาทในโลกออนไลน์, netiq
 | Error | Example | Fix |
 |---|---|---|
 | Chat style in email | "hi teacher, i want grade pls" | Full email format with subject → templates above |
-| Missing subject line | (empty) — email unseen or spam-filtered | "ม.5/2 Thanawat — Question about homework due Friday" |
+| Missing subject line | (empty): email unseen or spam-filtered | "ม.5/2 Thanawat: Question about homework due Friday" |
 | Over-apology or over-demand | "SORRY SORRY SORRY" / "ANSWER NOW" | Neutral professional tone |
 | Direct disagreement | "That's wrong." | "I might be misunderstanding, but I thought..." |
 | Emoji overload in formal mail | 😊🙏🙏 per line | Reserve emoji for informal channels |
@@ -89,8 +89,8 @@ Digital etiquette (มารยาทในโลกออนไลน์, netiq
 ## 8 | Cross-Links
 
 - [[00_overview|Strand 2 Overview (BOK)]]
-- [[57 Social Etiquette|Social Etiquette and Customs]] — face-to-face counterpart
-- [[31 Register & Formality|English Skill: Register & Formality]] — the core skill
-- [[70 English Online|English Online]] — digital tools and self-study
-- [[68 English for Careers|English for Careers]] — business email at work
+- [[57 Social Etiquette|Social Etiquette and Customs]]: face-to-face counterpart
+- [[31 Register & Formality|English Skill: Register & Formality]]: the core skill
+- [[70 English Online|English Online]]: digital tools and self-study
+- [[68 English for Careers|English for Careers]]: business email at work
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

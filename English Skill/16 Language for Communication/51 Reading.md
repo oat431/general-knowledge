@@ -3,14 +3,14 @@ tags: [english, english-curriculum, language-for-communication, reading, primary
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ11101", "อ16101", "อ21101", "อ23101", "อ31101", "อ33101"]
-strand: "สาระที่ 1: ภาษาเพื่อการสื่อสาร — มาตรฐาน อ 1.1"
+strand: "สาระที่ 1: ภาษาเพื่อการสื่อสาร – มาตรฐาน อ 1.1"
 ---
 
-# Reading — การอ่าน
+# Reading: การอ่าน
 
-> *"Reading is the skill Thai students can most easily grow outside the classroom — every text is a free teacher."*
+> *"Reading is the skill Thai students can most easily grow outside the classroom: every text is a free teacher."*
 
-Reading (การอ่าน) in the English curriculum begins only after listening and speaking are underway: ป.1–3 starts with the Latin alphabet, letter-sound relationships (phonics), and reading aloud simple words and sentences. From ป.4 onward reading becomes a source of new language — signs, stories, dialogs, advertisements — and by ม.ปลาย students read academic texts, news articles, and literature, and answer exam questions that require inference rather than word matching. Because Thai is written with its own script, English reading for Thai students involves building a **second writing system from zero**, which is why the early years move carefully.
+Reading (การอ่าน) in the English curriculum begins only after listening and speaking are underway: ป.1–3 starts with the Latin alphabet, letter-sound relationships (phonics), and reading aloud simple words and sentences. From ป.4 onward reading becomes a source of new language: signs, stories, dialogs, advertisements: and by ม.ปลาย students read academic texts, news articles, and literature, and answer exam questions that require inference rather than word matching. Because Thai is written with its own script, English reading for Thai students involves building a **second writing system from zero**, which is why the early years move carefully.
 
 ## 1 | Grade Band Breakdown
 
@@ -24,6 +24,7 @@ Reading (การอ่าน) in the English curriculum begins only after list
 ## 2 | The Reading Growth Path
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["ป.1-3<br/>Decoding<br/>phonics and aloud reading"] --> B["ป.4-6<br/>Comprehension<br/>main idea and details"]
     B --> C["ม.1-3<br/>Interpretation<br/>inference and organization"]
@@ -87,8 +88,8 @@ flowchart LR
 ## 8 | Cross-Links
 
 - [[00_overview|Strand 1 Overview (BOK)]]
-- [[50 Listening and Speaking|Listening and Speaking]] — spoken vocabulary is the base for reading
-- [[52 Writing|Writing]] — reading models become writing models
-- [[54 Vocabulary|Vocabulary]] — reading is the main source of new words
-- [[32 Skimming & Scanning|English Skill: Reading Skills]] — deep-dive strategies
+- [[50 Listening and Speaking|Listening and Speaking]]: spoken vocabulary is the base for reading
+- [[52 Writing|Writing]]: reading models become writing models
+- [[54 Vocabulary|Vocabulary]]: reading is the main source of new words
+- [[32 Skimming & Scanning|English Skill: Reading Skills]]: deep-dive strategies
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

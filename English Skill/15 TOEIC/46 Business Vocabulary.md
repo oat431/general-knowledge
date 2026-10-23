@@ -8,7 +8,7 @@ tags:
 
 # Business Vocabulary
 
-TOEIC tests **workplace English** — meetings, emails, travel, reports, schedules. If you only know academic vocabulary, TOEIC will feel foreign. This file covers the business words that appear most frequently.
+TOEIC tests **workplace English**: meetings, emails, travel, reports, schedules. If you only know academic vocabulary, TOEIC will feel foreign. This file covers the business words that appear most frequently.
 
 ---
 

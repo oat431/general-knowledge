@@ -8,7 +8,7 @@ tags:
 
 # Gerunds vs Infinitives
 
-When one verb follows another, the second verb takes either `-ing` (gerund) or `to + V1` (infinitive). There's no one rule — you must learn which verbs take which pattern.
+When one verb follows another, the second verb takes either `-ing` (gerund) or `to + V1` (infinitive). There's no one rule: you must learn which verbs take which pattern.
 
 ---
 
@@ -99,7 +99,7 @@ These verbs always take `Ving` after them:
 
 ## ⚠️ Thai Speaker Traps
 
-Thai verbs don't change form — the concept of choosing between -ing and to+verb doesn't exist.
+Thai verbs don't change form: the concept of choosing between -ing and to+verb doesn't exist.
 
 | ❌ | ✅ |
 |---|-----|

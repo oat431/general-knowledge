@@ -3,12 +3,12 @@ tags: [english, english-curriculum, language-and-community, online, self-study, 
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ21101", "อ22101", "อ23101", "อ31101", "อ32101", "อ33101"]
-strand: "สาระที่ 4: ภาษากับชุมชนและโลก — มาตรฐาน อ 3.1, อ 4.1, อ 4.2"
+strand: "สาระที่ 4: ภาษากับชุมชนและโลก – มาตรฐาน อ 3.1, อ 4.1, อ 4.2"
 ---
 
-# English Online — ภาษาอังกฤษกับโลกออนไลน์
+# English Online: ภาษาอังกฤษกับโลกออนไลน์
 
-> *"The internet is the only place a Thai student in Chiang Rai can talk to the whole world for free — in English."*
+> *"The internet is the only place a Thai student in Chiang Rai can talk to the whole world for free: in English."*
 
 English Online covers using the internet in English: searching effectively, using online dictionaries and translators wisely, learning with videos, apps, and AI tools, and communicating online in English. The curriculum treats online English as both a **tool for learning English** (อ 4.2 lifelong learning) and a **skill in itself** (อ 4.1 using English in real digital environments).
 
@@ -41,6 +41,7 @@ English Online covers using the internet in English: searching effectively, usin
 | First result trusted | Compare 2–3 sources |
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     Q["Question<br/>ในหัว"] --> K["Keywords<br/>2-4 words in English"]
     K --> S["Search<br/>compare results"]
@@ -95,7 +96,7 @@ flowchart LR
 ## 8 | Cross-Links
 
 - [[00_overview|Strand 4 Overview (BOK)]]
-- [[73 Lifelong English|Lifelong English]] — online tools power lifelong learning
-- [[59 Digital Etiquette|Digital Etiquette (Strand 2)]] — behavior rules online
-- [[67 English for Technology|English for Technology (Strand 3)]] — tech vocabulary
+- [[73 Lifelong English|Lifelong English]]: online tools power lifelong learning
+- [[59 Digital Etiquette|Digital Etiquette (Strand 2)]]: behavior rules online
+- [[67 English for Technology|English for Technology (Strand 3)]]: tech vocabulary
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

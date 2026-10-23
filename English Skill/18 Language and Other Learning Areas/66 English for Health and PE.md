@@ -3,10 +3,10 @@ tags: [english, english-curriculum, language-and-other-learning-areas, health, p
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ11101", "อ14101", "อ16101", "อ21101", "อ31101"]
-strand: "สาระที่ 3: ภาษากับกลุ่มสาระอื่น — มาตรฐาน อ 3.1"
+strand: "สาระที่ 3: ภาษากับกลุ่มสาระอื่น – มาตรฐาน อ 3.1"
 ---
 
-# English for Health and PE — ภาษาอังกฤษกับสุขศึกษาและพลศึกษา
+# English for Health and PE: ภาษาอังกฤษกับสุขศึกษาและพลศึกษา
 
 > *"Sports are the friendliest English classroom: rules must be communicated, and everyone wants to play."*
 
@@ -64,7 +64,7 @@ Standard อ 3.1 links English to health education and physical education: body 
 
 | Error | Example | Fix |
 |---|---|---|
-| "play" with all sports | "play swimming" | Go swimming / play football / do yoga — three verbs |
+| "play" with all sports | "play swimming" | Go swimming / play football / do yoga: three verbs |
 | Body-part articles | "I hurt my a leg" | Possessive: "my leg," no article → [[02 Articles]] |
 | Illness expressions | "I have fever" | "I have a fever / a cold / a headache" |
 | Advice modals | "You must to exercise" | should / must + base verb → [[12 Modals]] |
@@ -87,6 +87,6 @@ Standard อ 3.1 links English to health education and physical education: body 
 ## 8 | Cross-Links
 
 - [[00_overview|Strand 3 Overview (BOK)]]
-- [[../../body-of-knowledge/Health and PE/Health and PE - Overview|Health and PE (BOK)]] — the content side
-- [[../17 Language and Culture/57 Social Etiquette|Social Etiquette (Strand 2)]] — sportsmanship and fair play
+- [[../../body-of-knowledge/Health and PE/Health and PE - Overview|Health and PE (BOK)]]: the content side
+- [[../17 Language and Culture/57 Social Etiquette|Social Etiquette (Strand 2)]]: sportsmanship and fair play
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

@@ -28,9 +28,9 @@ Both IELTS and TOEFL are timed tests. Poor time management is the #1 reason stud
 
 | Passage | Suggested Time | Strategy |
 |---------|---------------|----------|
-| **Passage 1** (easiest) | 15-17 minutes | Get it done fast — save time for harder passages |
+| **Passage 1** (easiest) | 15-17 minutes | Get it done fast: save time for harder passages |
 | **Passage 2** (medium) | 18-20 minutes | Standard approach |
-| **Passage 3** (hardest) | 20-23 minutes | Spend more time here — it's worth the same marks |
+| **Passage 3** (hardest) | 20-23 minutes | Spend more time here: it's worth the same marks |
 
 #### Reading Time Budget
 
@@ -50,7 +50,7 @@ Per passage:
 |-----------|--------|
 | Can't find the answer after 2 minutes | Mark it, move on, come back later |
 | Between two answers | Pick the one with more evidence, move on |
-| Running out of time | Guess remaining answers — no penalty |
+| Running out of time | Guess remaining answers: no penalty |
 
 ### Writing: Task 2 Is Worth More
 
@@ -150,7 +150,7 @@ Never leave a blank answer. There's no penalty for wrong answers. If time is run
 
 | Trap | Problem | Fix |
 |------|---------|-----|
-| Spending too long on one reading question | Running out of time for easy questions | 2-minute rule — move on if stuck |
+| Spending too long on one reading question | Running out of time for easy questions | 2-minute rule: move on if stuck |
 | Writing Task 2 first | Running out of time for Task 1 | Write Task 1 first (it's shorter and easier) |
 | Not checking work | Losing marks to silly mistakes | Always leave 2-5 minutes for checking |
 | Panicking during listening | Missing the next audio while panicking | Accept missed answers and keep listening |

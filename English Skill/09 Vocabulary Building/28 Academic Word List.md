@@ -9,7 +9,7 @@ tags:
 
 # Academic Word List (AWL)
 
-The Academic Word List (Coxhead, 2000) contains **570 word families** that appear frequently across academic texts — regardless of subject. These words make up roughly **10%** of academic writing. If you master them, you can understand most university-level English.
+The Academic Word List (Coxhead, 2000) contains **570 word families** that appear frequently across academic texts: regardless of subject. These words make up roughly **10%** of academic writing. If you master them, you can understand most university-level English.
 
 ---
 
@@ -27,7 +27,7 @@ The Academic Word List (Coxhead, 2000) contains **570 word families** that appea
 
 The AWL is divided into **10 sublists**. Sublist 1 contains the most frequent words. Start there.
 
-### Sublist 1 — The Essentials
+### Sublist 1: The Essentials
 
 | Word | Part of Speech | Meaning | Example |
 |------|---------------|---------|---------|
@@ -96,11 +96,11 @@ The AWL is divided into **10 sublists**. Sublist 1 contains the most frequent wo
 
 ## How to Study the AWL
 
-1. **Learn in word families** — Don't just learn "analyse." Learn analysis, analyst, analytical, analytically. (See [[29 Word Families]])
-2. **Learn in context** — Don't memorize word lists. Read sentences. Write your own.
-3. **Learn collocations** — "conduct research" not "do research." (See [[30 Collocations]])
-4. **Review with spaced repetition** — Use Anki or similar tools. 20 words/day, reviewed weekly.
-5. **Practice in writing** — Use new words in essays. That's how they stick.
+1. **Learn in word families:** Don't just learn "analyse." Learn analysis, analyst, analytical, analytically. (See [[29 Word Families]])
+2. **Learn in context:** Don't memorize word lists. Read sentences. Write your own.
+3. **Learn collocations:** "conduct research" not "do research." (See [[30 Collocations]])
+4. **Review with spaced repetition:** Use Anki or similar tools. 20 words/day, reviewed weekly.
+5. **Practice in writing:** Use new words in essays. That's how they stick.
 
 ---
 

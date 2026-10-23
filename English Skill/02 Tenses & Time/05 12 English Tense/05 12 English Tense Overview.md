@@ -7,9 +7,9 @@ tags:
 - tenses
 ---
 
-# 12 English Tenses — Overview
+# 12 English Tenses: Overview
 
-English expresses time through 12 combinations: 3 times × 4 aspects. Use this as your index — each tense has its own deep-dive file.
+English expresses time through 12 combinations: 3 times × 4 aspects. Use this as your index: each tense has its own deep-dive file.
 
 ---
 

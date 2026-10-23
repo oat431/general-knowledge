@@ -8,7 +8,7 @@ tags:
 
 # Conditionals
 
-Conditionals express "if X, then Y" relationships. English has five main types — each with specific tense patterns and meanings. Using the wrong type completely changes what you're saying.
+Conditionals express "if X, then Y" relationships. English has five main types, each with specific tense patterns and meanings. Using the wrong type completely changes what you're saying.
 
 ---
 
@@ -20,25 +20,25 @@ Conditionals express "if X, then Y" relationships. English has five main types �
 | **First** | Present Simple | will + V1 | Real future possibility | ~50-90% |
 | **Second** | Past Simple | would + V1 | Unreal present/future | ~0-10% |
 | **Third** | Past Perfect | would have + V3 | Unreal past (regret) | 0% (impossible) |
-| **Mixed** | Combination | Combination | Past condition → present result | — |
+| **Mixed** | Combination | Combination | Past condition → present result | N/A |
 
 ---
 
-## Zero Conditional — Facts
+## Zero Conditional: Facts
 
 > **If + Present Simple, Present Simple**
 
-For things that are always true — scientific facts, rules, habits.
+For things that are always true: scientific facts, rules, habits.
 
 | Example | Meaning |
 |---------|---------|
-| If you **heat** ice, it **melts**. | Scientific fact — always true |
+| If you **heat** ice, it **melts**. | Scientific fact, always true |
 | If I **don't** eat breakfast, I **get** hungry. | Personal pattern |
 | If the light **is** red, you **stop**. | Rule |
 
 ---
 
-## First Conditional — Real Possibility
+## First Conditional: Real Possibility
 
 > **If + Present Simple, will + V1**
 
@@ -46,7 +46,7 @@ For real, possible future situations. You think there's a real chance.
 
 | Example | Meaning |
 |---------|---------|
-| If it **rains**, I **will take** an umbrella. | Real possibility — might rain |
+| If it **rains**, I **will take** an umbrella. | Real possibility, might rain |
 | If you **study**, you **will pass**. | Likely outcome |
 | If we **don't hurry**, we **'ll miss** the train. | Real risk |
 
@@ -56,7 +56,7 @@ For real, possible future situations. You think there's a real chance.
 
 ---
 
-## Second Conditional — Unreal Present/Future
+## Second Conditional: Unreal Present/Future
 
 > **If + Past Simple, would + V1**
 
@@ -68,16 +68,16 @@ For imaginary, unlikely, or impossible situations NOW or in the future.
 | If I **were** you, I **would apologize**. | I'm not you (giving advice) |
 | If she **lived** closer, we **would meet** more often. | She doesn't live close |
 
-⚠️ **"If I were"** — always use `were` for hypothetical "I" (subjunctive):
-> If I **were** rich... ✅ (NOT "If I was rich" in formal English — though common in speech)
+⚠️ **"If I were"**: always use `were` for hypothetical "I" (subjunctive):
+> If I **were** rich... ✅ (NOT "If I was rich" in formal English, though common in speech)
 
 ---
 
-## Third Conditional — Unreal Past (Regret)
+## Third Conditional: Unreal Past (Regret)
 
 > **If + Past Perfect, would have + V3**
 
-For imaginary situations in the PAST — things that didn't happen, can't be changed.
+For imaginary situations in the PAST: things that didn't happen, can't be changed.
 
 | Example | Reality |
 |---------|---------|
@@ -89,11 +89,11 @@ For imaginary situations in the PAST — things that didn't happen, can't be cha
 
 ---
 
-## Mixed Conditional — Past → Present
+## Mixed Conditional: Past → Present
 
 > **If + Past Perfect, would + V1**
 
-Past condition with a present result — very common in real speech.
+Past condition with a present result; very common in real speech.
 
 | Example | Meaning |
 |---------|---------|
@@ -116,11 +116,11 @@ Past condition with a present result — very common in real speech.
 
 ## ⚠️ Thai Speaker Traps
 
-Thai uses `ถ้า` (thâa) for ALL conditions — no tense shift. English requires specific tense back-shifting.
+Thai uses `ถ้า` (thâa) for ALL conditions; no tense shift. English requires specific tense back-shifting.
 
 | Thai Pattern | ❌ | ✅ |
 |-------------|------|-----|
-| ถ้าฉันรวย ฉันจะซื้อรถ | If I am rich, I will buy a car. (first cond.) | If I **were** rich, I **would buy** a car. (second cond. — I'm not rich) |
+| ถ้าฉันรวย ฉันจะซื้อรถ | If I am rich, I will buy a car. (first cond.) | If I **were** rich, I **would buy** a car. (second cond., I'm not rich) |
 | ถ้าฉันรู้ ฉันจะไม่ไป | If I knew, I will not go. | If I **had known**, I **wouldn't have gone**. (third cond.) |
 
 ---

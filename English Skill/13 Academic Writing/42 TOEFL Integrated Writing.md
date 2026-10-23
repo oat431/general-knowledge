@@ -9,7 +9,7 @@ tags:
 
 # TOEFL Integrated Writing
 
-TOEFL Writing Task 1 is **integrated writing** — you read a passage (3 min), listen to a lecture (2 min), then write a summary comparing them (20 min, 150-225 words).
+TOEFL Writing Task 1 is **integrated writing**: you read a passage (3 min), listen to a lecture (2 min), then write a summary comparing them (20 min, 150-225 words).
 
 The lecture **always challenges** the reading passage.
 
@@ -115,8 +115,8 @@ Fill in the Reading column during the 3-minute reading period. Fill in the Lectu
 |------|-----|
 | **Don't give your opinion** | You're summarizing, not arguing |
 | **Focus on the LECTURE** | The lecture is more important than the reading |
-| **Use specific details** | Don't be vague — include the lecturer's exact examples |
-| **Don't copy the reading** | Paraphrase — use your own words |
+| **Use specific details** | Don't be vague: include the lecturer's exact examples |
+| **Don't copy the reading** | Paraphrase: use your own words |
 | **Stay within 150-225 words** | Too short = missing info. Too long = time waste. |
 
 ---
@@ -135,8 +135,8 @@ Fill in the Reading column during the 3-minute reading period. Fill in the Lectu
 
 | Trap | Problem | Fix |
 |------|---------|-----|
-| Giving your own opinion | "I think solar energy is good." | Never give your opinion — just report what the reading and lecture say |
-| Focusing on the reading | Writing mostly about the reading | The lecture is more important — give it more space |
+| Giving your own opinion | "I think solar energy is good." | Never give your opinion: just report what the reading and lecture say |
+| Focusing on the reading | Writing mostly about the reading | The lecture is more important: give it more space |
 | Not taking notes | Forgetting the lecture details | Use the grid template while listening |
 | Missing a point | Only discussing 2 of 3 points | Always address all 3 points |
 | Copying from the reading | Penalized for not paraphrasing | Change the words and sentence structure |

@@ -8,7 +8,7 @@ tags:
 
 # Articles: A, An, The
 
-Articles are tiny words that cause huge problems — especially for Thai speakers (Thai has no articles). The choice between `a/an`, `the`, and no article depends on whether you're talking about something specific or general.
+Articles are tiny words that cause huge problems: especially for Thai speakers (Thai has no articles). The choice between `a/an`, `the`, and no article depends on whether you're talking about something specific or general.
 
 ---
 
@@ -22,7 +22,7 @@ Articles are tiny words that cause huge problems — especially for Thai speaker
 
 ---
 
-## A vs An — The Sound Rule
+## A vs An: The Sound Rule
 
 Use **a** before consonant **sounds**, **an** before vowel **sounds**.
 
@@ -96,7 +96,7 @@ Fill in `a`, `an`, `the`, or `—` (no article):
 2. She is ___ best student in class. → **the**
 3. ___ water in this glass is cold. → **The**
 4. He is ___ honest man. → **an** (silent h)
-5. I love ___ dogs. → **—** (general plural)
+5. I love ___ dogs. → **: ** (general plural)
 
 ---
 

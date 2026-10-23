@@ -23,7 +23,7 @@ IELTS Task 2 and TOEFL Independent Writing both require a well-organized essay. 
 | **Body 2** | Second main argument | 4-5 sentences (~80 words) | 5-6 sentences (~100 words) |
 | **Conclusion** | Summarize + restate position | 2-3 sentences (~40 words) | 3-4 sentences (~50 words) |
 
-> Some students prefer 3 body paragraphs. That's fine too — but 2 is safer for time management.
+> Some students prefer 3 body paragraphs. That's fine too: but 2 is safer for time management.
 
 ---
 
@@ -62,9 +62,9 @@ Hook/Background + Paraphrase the Question + Thesis Statement
 
 | ❌ Weak | Why |
 |---------|-----|
-| "This essay will discuss..." | Too mechanical — IELTS examiners don't like this |
-| "In this essay I will talk about..." | Same — too formulaic |
-| "Nowadays..." | Overused — try "In recent years..." or "Currently..." |
+| "This essay will discuss..." | Too mechanical: IELTS examiners don't like this |
+| "In this essay I will talk about..." | Same: too formulaic |
+| "Nowadays..." | Overused: try "In recent years..." or "Currently..." |
 
 ---
 
@@ -112,7 +112,7 @@ Summary + Restate Position + Final Thought (optional)
 | ❌ Weak | Why |
 |---------|-----|
 | "To sum up..." | Too informal for academic essays |
-| Introducing NEW ideas | The conclusion summarizes — it doesn't add |
+| Introducing NEW ideas | The conclusion summarizes: it doesn't add |
 | "In a nutshell..." | Too casual |
 
 ---
@@ -123,8 +123,8 @@ Before you start writing, spend 5 minutes planning:
 
 | Step | Time | What to Do |
 |------|------|-----------|
-| 1 | 1 min | Understand the question — what exactly is being asked? |
-| 2 | 1 min | Decide your position — agree, disagree, or partial? |
+| 1 | 1 min | Understand the question: what exactly is being asked? |
+| 2 | 1 min | Decide your position: agree, disagree, or partial? |
 | 3 | 1 min | Brainstorm 2-3 main arguments |
 | 4 | 1 min | Think of examples for each argument |
 | 5 | 1 min | Outline your 4 paragraphs |
@@ -140,7 +140,7 @@ Before you start writing, spend 5 minutes planning:
 | No clear thesis | "I think maybe social media is OK I guess." | State your position directly: "I believe social media is beneficial." |
 | Only one body paragraph | Not enough development | Always write at least 2 body paragraphs |
 | Listing without explaining | "It's good because A, B, C, D." | Pick 2 strong points and develop them fully |
-| Conclusion introduces new ideas | Confusing the reader | Only summarize — don't add new arguments |
+| Conclusion introduces new ideas | Confusing the reader | Only summarize: don't add new arguments |
 | No examples | Arguments feel weak | Every body paragraph needs one specific example |
 
 ---

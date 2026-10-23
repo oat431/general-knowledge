@@ -9,7 +9,7 @@ tags:
 
 # Fluency & Self-Correction
 
-Fluency isn't about speaking fast — it's about speaking **smoothly** without long pauses, excessive "uhh"s, or restarting sentences. Both IELTS and TOEFL score fluency directly.
+Fluency isn't about speaking fast; it's about speaking **smoothly** without long pauses, excessive "uhh"s, or restarting sentences. Both IELTS and TOEFL score fluency directly.
 
 ---
 
@@ -53,9 +53,9 @@ Making mistakes is normal. **How you correct them** affects your score.
 
 | Technique | Example |
 |-----------|---------|
-| **Quick fix** | "I goed— I **went** to the store yesterday." |
+| **Quick fix** | "I goed... I **went** to the store yesterday." |
 | **Rephrase** | "The weather was... how do I say... **extremely hot**." |
-| **Clarify** | "I live in the north— **northern** part of Thailand." |
+| **Clarify** | "I live in the north... **northern** part of Thailand." |
 
 ### ❌ Bad Self-Correction
 
@@ -101,7 +101,7 @@ Native speakers don't say each word separately. They link words together:
 | "Out of" | "Outta" |
 | "Got to" | "Gotta" |
 
-> **Note:** In IELTS/TOEFL Speaking, contractions and connected speech are **expected**. Don't say "I am going to" — say "I'm gonna." It sounds more natural.
+> **Note:** In IELTS/TOEFL Speaking, contractions and connected speech are **expected**. Don't say "I am going to"; say "I'm gonna." It sounds more natural.
 
 ---
 
@@ -122,8 +122,8 @@ Native speakers don't say each word separately. They link words together:
 |------|--------|
 | 1 | Pick a topic (e.g., "Describe your hometown") |
 | 2 | Record yourself speaking for 2 minutes |
-| 3 | Listen back — count your pauses and "uhh"s |
-| 4 | Re-record — try to reduce pauses by 50% |
+| 3 | Listen back: count your pauses and "uhh"s |
+| 4 | Re-record: try to reduce pauses by 50% |
 | 5 | Repeat until smooth |
 
 ### 3. 1-Minute Talk
@@ -132,7 +132,7 @@ Native speakers don't say each word separately. They link words together:
 |------|--------|
 | 1 | Set a timer for 1 minute |
 | 2 | Speak about any topic without stopping |
-| 3 | If you pause, use a filler — don't stop |
+| 3 | If you pause, use a filler; don't stop |
 | 4 | The goal: zero silence for 60 seconds |
 
 ### 4. Describe What You See
@@ -150,9 +150,9 @@ Native speakers don't say each word separately. They link words together:
 
 | Priority | When |
 |----------|------|
-| **Accuracy first** | IELTS Writing, TOEFL Writing — grammar errors cost marks |
-| **Fluency first** | IELTS Speaking, TOEFL Speaking — smooth delivery matters more |
-| **Both** | The goal — but in speaking, keep going even if you make a small error |
+| **Accuracy first** | IELTS Writing, TOEFL Writing: grammar errors cost marks |
+| **Fluency first** | IELTS Speaking, TOEFL Speaking: smooth delivery matters more |
+| **Both** | The goal, but in speaking, keep going even if you make a small error |
 
 > **Key insight:** A Band 7 speaker makes some errors but keeps talking fluently. A Band 5 speaker makes fewer errors but pauses constantly to think. Fluency wins.
 
@@ -165,7 +165,7 @@ Native speakers don't say each word separately. They link words together:
 | Stopping to think of the perfect word | Long silence while searching vocabulary | Use a simpler word and keep talking |
 | Speaking Thai in your head first | Delay = pauses | Practice thinking in English directly |
 | Over-correcting every mistake | "Sorry, I mean... sorry, that's wrong..." | Quick fix, then move on (3-second rule) |
-| Speaking too slowly | Sounds unnatural | Practice with a timer — aim for natural speed |
+| Speaking too slowly | Sounds unnatural | Practice with a timer: aim for natural speed |
 | Avoiding complex grammar | Only using simple sentences | Force yourself to use at least one complex structure per response |
 
 ---

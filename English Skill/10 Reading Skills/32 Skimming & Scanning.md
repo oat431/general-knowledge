@@ -13,7 +13,7 @@ Two essential reading speed techniques. IELTS gives you 60 minutes for 40 questi
 
 ---
 
-## Skimming — Getting the Gist
+## Skimming: Getting the Gist
 
 **Goal:** Understand the main idea and structure in 2–3 minutes.
 
@@ -21,10 +21,10 @@ Two essential reading speed techniques. IELTS gives you 60 minutes for 40 questi
 
 | Step | What to Read | Time |
 |------|-------------|------|
-| 1 | **Title** — tells you the topic | 5 sec |
-| 2 | **First paragraph** — usually introduces the main idea | 30 sec |
-| 3 | **First sentence of each body paragraph** — the topic sentence | 60 sec |
-| 4 | **Last paragraph** — usually summarizes or concludes | 30 sec |
+| 1 | **Title:** tells you the topic | 5 sec |
+| 2 | **First paragraph:** usually introduces the main idea | 30 sec |
+| 3 | **First sentence of each body paragraph:** the topic sentence | 60 sec |
+| 4 | **Last paragraph:** usually summarizes or concludes | 30 sec |
 | 5 | **Any bold/italic words, headings, lists** | 15 sec |
 
 ### What to Skip While Skimming
@@ -43,7 +43,7 @@ Two essential reading speed techniques. IELTS gives you 60 minutes for 40 questi
 
 ---
 
-## Scanning — Finding Specific Information
+## Scanning: Finding Specific Information
 
 **Goal:** Locate a specific fact, name, date, or keyword without reading the whole passage.
 
@@ -51,11 +51,11 @@ Two essential reading speed techniques. IELTS gives you 60 minutes for 40 questi
 
 | Step | Action |
 |------|--------|
-| 1 | **Read the question first** — know what you're looking for |
-| 2 | **Identify keywords** — names, dates, numbers, capitalized words |
-| 3 | **Move your eyes quickly** down the passage — don't read sentences |
-| 4 | **Stop when you spot the keyword** — read the surrounding sentence |
-| 5 | **Confirm the answer** — make sure it actually answers the question |
+| 1 | **Read the question first:** know what you're looking for |
+| 2 | **Identify keywords:** names, dates, numbers, capitalized words |
+| 3 | **Move your eyes quickly** down the passage; don't read sentences |
+| 4 | **Stop when you spot the keyword:** read the surrounding sentence |
+| 5 | **Confirm the answer:** make sure it actually answers the question |
 
 ### Scannable Information
 
@@ -119,8 +119,8 @@ Read this paragraph and answer in 15 seconds:
 
 | Trap | Problem | Fix |
 |------|---------|-----|
-| Reading every word | Too slow — you run out of time | Practice skimming: set a 2-minute timer per passage |
-| Translating in your head | Slows you down dramatically | Read in English, think in English — force it |
+| Reading every word | Too slow; you run out of time | Practice skimming: set a 2-minute timer per passage |
+| Translating in your head | Slows you down dramatically | Read in English, think in English; force it |
 | Ignoring paragraph structure | Missing the topic sentences | Always read the first sentence of each paragraph first |
 | Not reading the question first | You don't know what to look for | Always read questions before the passage |
 

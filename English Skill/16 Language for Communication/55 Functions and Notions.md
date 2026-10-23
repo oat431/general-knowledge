@@ -3,14 +3,14 @@ tags: [english, english-curriculum, language-for-communication, functions, socia
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ11101", "อ16101", "อ21101", "อ23101", "อ31101", "อ33101"]
-strand: "สาระที่ 1: ภาษาเพื่อการสื่อสาร — มาตรฐาน อ 1.2, อ 1.3"
+strand: "สาระที่ 1: ภาษาเพื่อการสื่อสาร – มาตรฐาน อ 1.2, อ 1.3"
 ---
 
-# Social Formulas and Functions — สำนวนการสื่อสารในชีวิตประจำวัน
+# Social Formulas and Functions: สำนวนการสื่อสารในชีวิตประจำวัน
 
 > *"Knowing 'water' is vocabulary; knowing 'Could I have some water, please?' is communication."*
 
-A function (หน้าที่ทางภาษา) is what you DO with language: requesting, inviting, apologizing, refusing, thanking, telephoning. The Thai curriculum weaves a functional syllabus through every band, because Thai and English perform these acts differently — Thai politeness runs on ครับ/ค่ะ particles, while English politeness runs on fixed formulas, modal verbs, and question shapes. This note tracks the functional syllabus across grades, from simple exchanges in ป.1 to negotiation and complaint handling in ม.ปลาย.
+A function (หน้าที่ทางภาษา) is what you DO with language: requesting, inviting, apologizing, refusing, thanking, telephoning. The Thai curriculum weaves a functional syllabus through every band, because Thai and English perform these acts differently: Thai politeness runs on ครับ/ค่ะ particles, while English politeness runs on fixed formulas, modal verbs, and question shapes. This note tracks the functional syllabus across grades, from simple exchanges in ป.1 to negotiation and complaint handling in ม.ปลาย.
 
 ## 1 | Grade Band Breakdown
 
@@ -24,6 +24,7 @@ A function (หน้าที่ทางภาษา) is what you DO with lang
 ## 2 | The Functional Growth Path
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["ป.1-3<br/>Survival formulas<br/>greetings, thanks, permission"] --> B["ป.4-6<br/>Daily transactions<br/>shopping, directions, phone"]
     B --> C["ม.1-3<br/>Interpersonal moves<br/>advice, complaint, appointments"]
@@ -53,7 +54,7 @@ flowchart LR
 
 | Aspect | Thai | English | Classroom implication |
 |---|---|---|---|
-| Politeness marker | ครับ / ค่ะ / นะ particles | No particles — politeness lives in words | Teach modal + please formulas explicitly |
+| Politeness marker | ครับ / ค่ะ / นะ particles | No particles: politeness lives in words | Teach modal + please formulas explicitly |
 | Directness | Indirect hints preferred | Direct requests acceptable with softeners | Practice "Could you possibly..." structures |
 | Saying no | Refusing directly is face-threatening | "I'm afraid..." + reason is polite | Drill refusal formulas with reasons |
 | Apologizing | ขอโทษ covers most cases | Gradient: sorry → I'm terribly sorry → I apologize | Match formula to severity |
@@ -98,8 +99,8 @@ flowchart LR
 ## 8 | Cross-Links
 
 - [[00_overview|Strand 1 Overview (BOK)]]
-- [[50 Listening and Speaking|Listening and Speaking]] — functions are performed through the audio-oral skills
-- [[56 Holidays and Festivals|Holidays and Festivals]] — cultural occasions where formulas appear
-- [[59 Digital Etiquette|Digital Etiquette]] — written digital functions
-- [[English Skill Content|English Skill]] — register and communication practice
+- [[50 Listening and Speaking|Listening and Speaking]]: functions are performed through the audio-oral skills
+- [[56 Holidays and Festivals|Holidays and Festivals]]: cultural occasions where formulas appear
+- [[59 Digital Etiquette|Digital Etiquette]]: written digital functions
+- [[English Skill Content|English Skill]]: register and communication practice
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

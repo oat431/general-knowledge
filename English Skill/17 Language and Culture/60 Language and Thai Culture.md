@@ -3,14 +3,14 @@ tags: [english, english-curriculum, language-and-culture, thai-culture, presenta
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ21101", "อ22101", "อ23101", "อ31101", "อ32101", "อ33101"]
-strand: "สาระที่ 2: ภาษาและวัฒนธรรม — มาตรฐาน อ 2.1, อ 2.2"
+strand: "สาระที่ 2: ภาษาและวัฒนธรรม – มาตรฐาน อ 2.1, อ 2.2"
 ---
 
-# Language and Thai Culture — ภาษากับวัฒนธรรมไทย
+# Language and Thai Culture: ภาษากับวัฒนธรรมไทย
 
 > *"The flip side of learning foreign culture: being able to present your own. A student who can explain Songkran in English becomes an ambassador."*
 
-The curriculum pairs culture learning with culture sharing: students learn Anglophone culture (อ 2.1) and learn to **present Thai culture in English** (อ 2.2, courteous participation in intercultural exchange). This note covers the language of explaining Thai food, festivals, customs, and etiquette to foreigners — from simple ป.4 sentences ("This is a temple. Take off your shoes.") to ม.ปลาย tourism-level presentations and cultural comparison essays.
+The curriculum pairs culture learning with culture sharing: students learn Anglophone culture (อ 2.1) and learn to **present Thai culture in English** (อ 2.2, courteous participation in intercultural exchange). This note covers the language of explaining Thai food, festivals, customs, and etiquette to foreigners: from simple ป.4 sentences ("This is a temple. Take off your shoes.") to ม.ปลาย tourism-level presentations and cultural comparison essays.
 
 ## 1 | Grade Band Breakdown
 
@@ -34,8 +34,8 @@ The curriculum pairs culture learning with culture sharing: students learn Anglo
 
 | Topic | Core vocabulary | Common learner problems |
 |---|---|---|
-| Food | pad thai, tom yum, som tam, spicy, fermented fish sauce | Untranslatable dishes: keep Thai name + explain ("som tam — a spicy green papaya salad") |
-| Festivals | Songkran, Loy Krathong, Yi Peng, water blessing | Translating ทำบุญ, รดน้ำดำหัว — explain function, not word-for-word |
+| Food | pad thai, tom yum, som tam, spicy, fermented fish sauce | Untranslatable dishes: keep Thai name + explain ("som tam: a spicy green papaya salad") |
+| Festivals | Songkran, Loy Krathong, Yi Peng, water blessing | Translating ทำบุญ, รดน้ำดำหัว: explain function, not word-for-word |
 | Religion | temple (wat), monk, alms giving, ordination | Buddhist terms in English; respectful register |
 | Etiquette | wai, respect for elders, hierarchy, saving face | "Saving face" concept in natural English |
 | Performing arts | khon masked dance, muay thai, luk thung | Describing art forms with limited vocabulary |
@@ -78,7 +78,7 @@ The curriculum pairs culture learning with culture sharing: students learn Anglo
 ## 7 | Cross-Links
 
 - [[00_overview|Strand 2 Overview (BOK)]]
-- [[56 Holidays and Festivals|Holidays and Festivals]] — Thai festivals in detail
-- [[72 ASEAN English|ASEAN English]] — regional cultural exchange
-- [[68 English for Careers|English for Careers]] — tourism careers use this daily
+- [[56 Holidays and Festivals|Holidays and Festivals]]: Thai festivals in detail
+- [[72 ASEAN English|ASEAN English]]: regional cultural exchange
+- [[68 English for Careers|English for Careers]]: tourism careers use this daily
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

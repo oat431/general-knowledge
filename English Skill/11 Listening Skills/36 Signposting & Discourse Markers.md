@@ -9,7 +9,7 @@ tags:
 
 # Signposting & Discourse Markers
 
-Speakers use **signpost words** to guide you through their ideas — like road signs. If you recognize them, you always know where the speaker is going.
+Speakers use **signpost words** to guide you through their ideas: like road signs. If you recognize them, you always know where the speaker is going.
 
 ---
 
@@ -59,7 +59,7 @@ Speakers use **signpost words** to guide you through their ideas — like road s
 | "A case in point is..." | Concrete example |
 | "Take X, for example..." | Specific example |
 
-> **When you hear an example**, note it — examples are often the basis for test questions.
+> **When you hear an example**, note it: examples are often the basis for test questions.
 
 ### 4. Contrast & Concession
 
@@ -91,7 +91,7 @@ Speakers use **signpost words** to guide you through their ideas — like road s
 
 | Signpost | Meaning |
 |----------|---------|
-| "The key point is..." | ⭐ IMPORTANT — write this down |
+| "The key point is..." | ⭐ IMPORTANT: write this down |
 | "What's crucial is..." | ⭐ Very important |
 | "I want to stress that..." | ⭐ Emphasis |
 | "It's worth noting that..." | ⭐ Notable |
@@ -160,10 +160,10 @@ When you hear a signpost, mark your notes:
 
 | Trap | Problem | Fix |
 |------|---------|-----|
-| Missing "however" | Thai uses contrast differently | Train your ear to catch "however" — pause and note the contrast |
+| Missing "however" | Thai uses contrast differently | Train your ear to catch "however": pause and note the contrast |
 | Not recognizing rephrasing | "In other words" sounds like new info | Realize it's the SAME point said differently |
-| Ignoring examples | Skipping "for instance" | Examples are often tested — note them |
-| Missing final summary | Tuning out at the end | The conclusion is often a question — stay alert |
+| Ignoring examples | Skipping "for instance" | Examples are often tested: note them |
+| Missing final summary | Tuning out at the end | The conclusion is often a question: stay alert |
 
 ---
 

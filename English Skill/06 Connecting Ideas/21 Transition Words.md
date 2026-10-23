@@ -8,7 +8,7 @@ tags:
 
 # Transition Words
 
-Transition words connect ideas between sentences and paragraphs. They guide the reader through your logic — without them, writing feels choppy and disconnected.
+Transition words connect ideas between sentences and paragraphs. They guide the reader through your logic: without them, writing feels choppy and disconnected.
 
 ---
 
@@ -66,7 +66,7 @@ Transition words connect ideas between sentences and paragraphs. They guide the 
 
 | Transition | Example |
 |-----------|---------|
-| **for example** | Many fruits are healthy — **for example**, apples and bananas. |
+| **for example** | Many fruits are healthy: **for example**, apples and bananas. |
 | **for instance** | Some countries, **for instance** Japan, have aging populations. |
 | **such as** | Citrus fruits **such as** oranges and lemons... |
 | **in fact** | He's not just smart. **In fact**, he's a genius. |

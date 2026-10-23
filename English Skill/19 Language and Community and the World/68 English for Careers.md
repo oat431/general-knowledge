@@ -3,12 +3,12 @@ tags: [english, english-curriculum, language-and-community, careers, business-en
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ31101", "อ32101", "อ33101"]
-strand: "สาระที่ 4: ภาษากับชุมชนและโลก — มาตรฐาน อ 4.1, อ 4.2"
+strand: "สาระที่ 4: ภาษากับชุมชนและโลก – มาตรฐาน อ 4.1, อ 4.2"
 ---
 
-# English for Careers — ภาษาอังกฤษเพื่ออาชีพ
+# English for Careers: ภาษาอังกฤษเพื่ออาชีพ
 
-> *"In the Thai job market, English is not a subject — it is a salary multiplier."*
+> *"In the Thai job market, English is not a subject: it is a salary multiplier."*
 
 Standard อ 4.1 requires students to use English in real-life situations in the community and workplace; standard อ 4.2 asks them to use English as the basis for further education and careers. The career English strand concentrates in ม.ปลาย: job advertisements, resumes/CVs, application letters, interviews, workplace communication (emails, meetings, phone), and the service-industry English that dominates Thailand's tourism economy.
 
@@ -88,7 +88,7 @@ Standard อ 4.1 requires students to use English in real-life situations in the
 ## 8 | Cross-Links
 
 - [[00_overview|Strand 4 Overview (BOK)]]
-- [[71 English in the Community|English in the Community]] — service encounters
-- [[73 Lifelong English|Lifelong English]] — careers keep demanding more English
+- [[71 English in the Community|English in the Community]]: service encounters
+- [[73 Lifelong English|Lifelong English]]: careers keep demanding more English
 - [[46 Business Vocabulary|English Skill: TOEIC Business Vocabulary]]
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

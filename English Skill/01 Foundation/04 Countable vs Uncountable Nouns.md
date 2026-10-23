@@ -59,8 +59,8 @@ English divides nouns into things you can count and things you can't. This affec
 | **a few** / **a little** | Some (enough) | Positive 🙂 |
 | **few** / **little** | Not enough (nearly none) | Negative 😟 |
 
-> "I have **a few** friends." (some — I'm okay)
-> "I have **few** friends." (almost none — I'm lonely)
+> "I have **a few** friends." (some: I'm okay)
+> "I have **few** friends." (almost none: I'm lonely)
 
 ---
 
@@ -78,8 +78,8 @@ Some nouns change meaning depending on countable vs uncountable use:
 | **experience** | Knowledge gained | An event (an experience) |
 | **chicken** | Food (meat) | The animal |
 
-> "I ate **chicken**." (uncountable — the meat)
-> "I saw **a chicken**." (countable — the animal)
+> "I ate **chicken**." (uncountable: the meat)
+> "I saw **a chicken**." (countable: the animal)
 
 ---
 
@@ -101,7 +101,7 @@ Use "unit" words:
 
 ## ⚠️ Thai Speaker Traps
 
-Thai doesn't distinguish countable/uncountable — classifiers (ลักษณะนาม) work differently.
+Thai doesn't distinguish countable/uncountable: classifiers (ลักษณะนาม) work differently.
 
 | Thai Pattern | ❌ Wrong | ✅ Correct |
 |-------------|---------|-----------|

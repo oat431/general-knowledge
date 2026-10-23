@@ -5,14 +5,14 @@ created: 2026-08-28
 strand: "สาระที่ 3: ภาษากับกลุ่มสาระอื่น"
 ---
 
-# Language and Other Learning Areas — ภาษากับกลุ่มสาระอื่น
+# Language and Other Learning Areas: ภาษากับกลุ่มสาระอื่น
 
 > **Strand:** สาระที่ 3 | **Concept Areas:** 6 | **Duration:** 12 years (ป.1–ม.6)
 > **Standard covered:** อ 3.1 (use English to search for, collect, and apply knowledge from other learning areas; use English as a tool for lifelong learning)
 
 ## Overview
 
-Strand 3 (ภาษากับกลุ่มสาระอื่น) is the Thai curriculum's version of **CLIL** — Content and Language Integrated Learning. Students use English as the tool for learning content from mathematics, science, social studies, arts, health, and technology. The logic is practical: the concepts already exist in the students' minds (in Thai); English supplies the vocabulary and language patterns to access the same knowledge in the world's dominant academic language — and to continue learning with it after school.
+Strand 3 (ภาษากับกลุ่มสาระอื่น) is the Thai curriculum's version of **CLIL**: Content and Language Integrated Learning. Students use English as the tool for learning content from mathematics, science, social studies, arts, health, and technology. The logic is practical: the concepts already exist in the students' minds (in Thai); English supplies the vocabulary and language patterns to access the same knowledge in the world's dominant academic language: and to continue learning with it after school.
 
 ## Concept Areas
 
@@ -28,13 +28,14 @@ Strand 3 (ภาษากับกลุ่มสาระอื่น) is the T
 ## How CLIL Works in This Strand
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     CONTENT["Content concept<br/>already known in Thai<br/>e.g. การหาค่าเฉลี่ย"] --> LANG["English vocabulary<br/>mean / average / add up"] --> USE["Use in task<br/>find the class's average<br/>height in English"]
     USE -->|"reinforces"| CONTENT
     USE -->|"expands"| LANG
 ```
 
-Each subject bridge follows the same pattern: concept first (in any language), vocabulary second, integrated task third — the language grows on the backbone of known content.
+Each subject bridge follows the same pattern: concept first (in any language), vocabulary second, integrated task third: the language grows on the backbone of known content.
 
 ## Progress Tracker
 

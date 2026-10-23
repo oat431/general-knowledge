@@ -3,14 +3,14 @@ tags: [english, english-curriculum, language-and-other-learning-areas, science, 
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ16101", "อ21101", "อ22101", "อ23101", "อ31101", "อ32101", "อ33101"]
-strand: "สาระที่ 3: ภาษากับกลุ่มสาระอื่น — มาตรฐาน อ 3.1"
+strand: "สาระที่ 3: ภาษากับกลุ่มสาระอื่น – มาตรฐาน อ 3.1"
 ---
 
-# English for Science — ภาษาอังกฤษกับวิทยาศาสตร์
+# English for Science: ภาษาอังกฤษกับวิทยาศาสตร์
 
 > *"Science already speaks English: most textbooks above ม.ปลาย level, every serious journal, and the entire internet of research."*
 
-Standard อ 3.1 connects English to science content: naming things scientifically, describing experiments, and reading science texts. For Thai students this strand is the on-ramp to STEM higher education — university science textbooks are in English, and the กสพท. admission path assumes science-English literacy. The curriculum builds it gently: animal/plant/body words in primary, lab processes and experiment language in ม.ต้น, and scientific articles with technical vocabulary in ม.ปลาย.
+Standard อ 3.1 connects English to science content: naming things scientifically, describing experiments, and reading science texts. For Thai students this strand is the on-ramp to STEM higher education: university science textbooks are in English, and the กสพท. admission path assumes science-English literacy. The curriculum builds it gently: animal/plant/body words in primary, lab processes and experiment language in ม.ต้น, and scientific articles with technical vocabulary in ม.ปลาย.
 
 ## 1 | Grade Band Breakdown
 
@@ -42,6 +42,7 @@ Standard อ 3.1 connects English to science content: naming things scientifical
 | Conclusion | The results show that... / Our hypothesis was supported because... | สรุปผล |
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["Question<br/>คำถาม"] --> B["Hypothesis<br/>สมมติฐาน"] --> C["Experiment<br/>การทดลอง"] --> D["Results<br/>ผลลัพธ์"] --> E["Conclusion<br/>บทสรุป"]
     E -->|"supports or<br/>rejects"| B
@@ -52,8 +53,8 @@ flowchart LR
 | Challenge | Strategy |
 |---|---|
 | Long technical words | Break into parts: photo- + -synthesis; micro- + -organism → [[29 Word Families]] |
-| Greek/Latin roots | bio = life, geo = earth, hydro = water, therm = heat — one root unlocks 20 words |
-| Passive voice everywhere | "Water is heated to 100°C" — passive is the science norm → [[06 Active vs Passive Voice]] |
+| Greek/Latin roots | bio = life, geo = earth, hydro = water, therm = heat: one root unlocks 20 words |
+| Passive voice everywhere | "Water is heated to 100°C": passive is the science norm → [[06 Active vs Passive Voice]] |
 | Cause-effect chains | Signal words: because, therefore, as a result, leads to → [[21 Transition Words]] |
 | Data statements | "increased by 15%", "three times higher than" → [[41 IELTS Task 1 - Describing Data]] |
 
@@ -94,7 +95,7 @@ flowchart LR
 ## 8 | Cross-Links
 
 - [[00_overview|Strand 3 Overview (BOK)]]
-- [[62 English for Mathematics|English for Mathematics]] — same CLIL approach
-- [[06 Active vs Passive Voice|English Skill: Passive Voice]] — the voice of science writing
-- [[../../body-of-knowledge/Science/00_Fundamental Science - Overview|Science (BOK)]] — the content side
+- [[62 English for Mathematics|English for Mathematics]]: same CLIL approach
+- [[06 Active vs Passive Voice|English Skill: Passive Voice]]: the voice of science writing
+- [[../../body-of-knowledge/Science/00_Fundamental Science - Overview|Science (BOK)]]: the content side
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

@@ -3,14 +3,14 @@ tags: [english, english-curriculum, language-for-communication, vocabulary, prim
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ11101", "อ16101", "อ21101", "อ23101", "อ31101", "อ33101"]
-strand: "สาระที่ 1: ภาษาเพื่อการสื่อสาร — มาตรฐาน อ 1.1"
+strand: "สาระที่ 1: ภาษาเพื่อการสื่อสาร – มาตรฐาน อ 1.1"
 ---
 
-# Vocabulary — คลังคำศัพท์
+# Vocabulary: คลังคำศัพท์
 
 > *"Grammar builds the frame; vocabulary fills the house. A learner with 2,000 words and weak grammar communicates more than one with perfect grammar and 200 words."*
 
-Vocabulary (คำศัพท์) is the only curriculum element that runs through every grade band from day one. ป.1–3 learns concrete first words (colors, numbers, family, animals, food) through pictures and songs; ป.4–6 expands into daily-life topic sets and simple word building; ม.ต้น adds phrasal verbs, idioms, and word families; ม.ปลาย layers the Academic Word List, collocation awareness, and register-sensitive word choice. The national syllabus keeps a core vocabulary of roughly 3,000 word families across basic education — enough for everyday communication and the base for exam English.
+Vocabulary (คำศัพท์) is the only curriculum element that runs through every grade band from day one. ป.1–3 learns concrete first words (colors, numbers, family, animals, food) through pictures and songs; ป.4–6 expands into daily-life topic sets and simple word building; ม.ต้น adds phrasal verbs, idioms, and word families; ม.ปลาย layers the Academic Word List, collocation awareness, and register-sensitive word choice. The national syllabus keeps a core vocabulary of roughly 3,000 word families across basic education, enough for everyday communication and the base for exam English.
 
 ## 1 | Grade Band Breakdown
 
@@ -24,6 +24,7 @@ Vocabulary (คำศัพท์) is the only curriculum element that runs thro
 ## 2 | The Vocabulary Growth Path
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["ป.1-3<br/>Concrete words<br/>pictures and songs"] --> B["ป.4-6<br<arg_value>/>Daily topics<br/>sets and opposites"]
     B --> C["ม.1-3<br/>Word building<br/>families, phrasal verbs, idioms"]
@@ -57,10 +58,10 @@ flowchart LR
 | Challenge | Thai | English Skill fix |
 |---|---|---|
 | False friends and direct translation | การแปลตรงตัว | [[27 False Friends & Direct Translation Pitfalls]] |
-| Wrong collocations | คำที่มาคู่กันผิด | [[30 Collocations]] — "make a decision," not "do a decision" |
-| One register fits all | ใช้คำเดิมทุกสถานการณ์ | [[31 Register & Formality]] — kids vs children |
-| Word-by-word guessing | การเดาทีละคำ | [[29 Word Families]] — build meaning from roots and affixes |
-| Exam vocabulary gaps | ศัพท์สอบไม่พอ | [[28 Academic Word List]] — 570 families for academic texts |
+| Wrong collocations | คำที่มาคู่กันผิด | [[30 Collocations]]: "make a decision," not "do a decision" |
+| One register fits all | ใช้คำเดิมทุกสถานการณ์ | [[31 Register & Formality]]: kids vs children |
+| Word-by-word guessing | การเดาทีละคำ | [[29 Word Families]]: build meaning from roots and affixes |
+| Exam vocabulary gaps | ศัพท์สอบไม่พอ | [[28 Academic Word List]]: 570 families for academic texts |
 
 ## 6 | Thai Terminology
 
@@ -80,8 +81,8 @@ flowchart LR
 ## 7 | Cross-Links
 
 - [[00_overview|Strand 1 Overview (BOK)]]
-- [[51 Reading|Reading]] — reading is the main source of new vocabulary
-- [[53 Grammar|Grammar]] — words are learned inside sentence patterns
-- [[28 Academic Word List|English Skill: Vocabulary Building]] — AWL, word families, collocations, register
+- [[51 Reading|Reading]]: reading is the main source of new vocabulary
+- [[53 Grammar|Grammar]]: words are learned inside sentence patterns
+- [[28 Academic Word List|English Skill: Vocabulary Building]]: AWL, word families, collocations, register
 - [[46 Business Vocabulary|English Skill: TOEIC Business Vocabulary]]
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

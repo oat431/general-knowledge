@@ -3,12 +3,12 @@ tags: [english, english-curriculum, language-for-communication, grammar, sentenc
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ16101", "อ21101", "อ22101", "อ23101", "อ31101", "อ32101", "อ33101"]
-strand: "สาระที่ 1: ภาษาเพื่อการสื่อสาร — มาตรฐาน อ 1.1, อ 1.2"
+strand: "สาระที่ 1: ภาษาเพื่อการสื่อสาร – มาตรฐาน อ 1.1, อ 1.2"
 ---
 
-# Grammar — หลักการใช้ภาษา (ไวยากรณ์)
+# Grammar: หลักการใช้ภาษา (ไวยากรณ์)
 
-> *"Grammar is not the goal of the Thai English curriculum — it is the scaffolding that makes communication accurate."*
+> *"Grammar is not the goal of the Thai English curriculum: it is the scaffolding that makes communication accurate."*
 
 The Basic Education Core Curriculum treats grammar (หลักการใช้ภาษา) as a tool inside communication, not a standalone subject: early years absorb sentence patterns through songs, chants, and dialogs long before any rule is named. Formal grammar teaching concentrates in ม.1–6, moving from sentence patterns and basic tenses to complex structures. This note maps the official grammar progression; the deep, rule-by-rule explanations live in [[English Skill Content|English Skill]] sections 01-15, cross-linked below.
 
@@ -16,7 +16,7 @@ The Basic Education Core Curriculum treats grammar (หลักการใช�
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | No explicit rules — chunks and patterns: "I am...", "This is...", "I can...", question words, plural -s absorbed through use |
+| **ป.1–3** | No explicit rules: chunks and patterns: "I am...", "This is...", "I can...", question words, plural -s absorbed through use |
 | **ป.4–6** | Basic sentence patterns (SVO), present simple and continuous, adverbs of frequency, comparatives, past simple introduced, prepositions of place and time |
 | **ม.1–3** | All 12 tenses in sequence, modals, question and negative formation, connectors, gerunds vs infinitives, relative clauses begin |
 | **ม.4–6** | Passive voice, conditionals, reported speech, advanced clause structure, causatives, subjunctive patterns ("If I were..."), register-appropriate structures |
@@ -24,6 +24,7 @@ The Basic Education Core Curriculum treats grammar (หลักการใช�
 ## 2 | The Grammar Progression
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["ป.1-3<br/>Chunks<br/>patterns without rules"] --> B["ป.4-6<br/>Patterns<br/>SVO, present, past simple"]
     B --> C["ม.1-3<br/>System<br/>12 tenses, modals, clauses"]
@@ -75,8 +76,8 @@ flowchart LR
 ## 7 | Cross-Links
 
 - [[00_overview|Strand 1 Overview (BOK)]]
-- [[52 Writing|Writing]] — grammar accuracy shows in writing
-- [[54 Vocabulary|Vocabulary]] — grammar patterns and words are learned together
-- [[English Skill Content|English Skill]] — the rule-by-rule reference sections 01-15
-- [[25 Thai-English Common Mistakes|Thai-English Common Mistakes]] — interference patterns in one place
+- [[52 Writing|Writing]]: grammar accuracy shows in writing
+- [[54 Vocabulary|Vocabulary]]: grammar patterns and words are learned together
+- [[English Skill Content|English Skill]]: the rule-by-rule reference sections 01-15
+- [[25 Thai-English Common Mistakes|Thai-English Common Mistakes]]: interference patterns in one place
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

@@ -9,7 +9,7 @@ tags:
 
 # Reading Question Strategies
 
-Knowing the question types helps you find answers faster. Each type has a specific strategy — treat them differently.
+Knowing the question types helps you find answers faster. Each type has a specific strategy: treat them differently.
 
 ---
 
@@ -25,7 +25,7 @@ The most common (and most confusing) type.
 | **False** | The passage contradicts the statement | Find evidence that disagrees |
 | **Not Given** | The passage doesn't mention it at all | No evidence either way |
 
-> **The trap:** "Not Given" feels wrong because students WANT to find an answer. If the passage doesn't say anything about it, it's Not Given — even if you think it's probably true.
+> **The trap:** "Not Given" feels wrong because students WANT to find an answer. If the passage doesn't say anything about it, it's Not Given: even if you think it's probably true.
 
 ### Example
 > **Passage:** "The university was founded in 1850 and has 15,000 students."
@@ -43,7 +43,7 @@ Match each paragraph to a summary heading.
 | Strategy | Steps |
 |----------|-------|
 | 1 | Read all headings first |
-| 2 | Skim each paragraph — focus on first and last sentences |
+| 2 | Skim each paragraph: focus on first and last sentences |
 | 3 | Match the **main idea**, not a detail |
 | 4 | Eliminate used headings |
 
@@ -64,7 +64,7 @@ Complete a sentence with words from the passage.
 
 | Rule | Detail |
 |------|--------|
-| **Word limit** | Usually "NO MORE THAN TWO/THREE WORDS" — obey this strictly |
+| **Word limit** | Usually "NO MORE THAN TWO/THREE WORDS": obey this strictly |
 | **Exact words** | Use words directly from the passage |
 | **Grammar** | The completed sentence must be grammatically correct |
 | **Spelling** | Must be spelled correctly |
@@ -86,7 +86,7 @@ Choose the correct answer from A, B, C, D.
 
 | Strategy | Steps |
 |----------|-------|
-| 1 | Read the question — don't read the options yet |
+| 1 | Read the question: don't read the options yet |
 | 2 | Find the relevant section in the passage |
 | 3 | Form your own answer first |
 | 4 | Match it to the options |
@@ -143,7 +143,7 @@ See [[33 Inference & Implied Meaning]] for full strategy.
 | Strategy | Steps |
 |----------|-------|
 | 1 | Re-read the sentence with the word |
-| 2 | Cover the word — what would fit? |
+| 2 | Cover the word: what would fit? |
 | 3 | Check each option in the sentence |
 | 4 | The one that makes sense in context is correct |
 
@@ -165,10 +165,10 @@ See [[33 Inference & Implied Meaning]] for full strategy.
 
 | Strategy | Steps |
 |----------|-------|
-| 1 | Read the sentence to insert — look for linking words |
+| 1 | Read the sentence to insert: look for linking words |
 | 2 | "This," "these," "such" → must refer to something BEFORE |
 | 3 | "However," "therefore" → must connect to what's BEFORE and AFTER |
-| 4 | Test each position — does it flow logically? |
+| 4 | Test each position: does it flow logically? |
 
 ### 8. Prose Summary
 
@@ -189,7 +189,7 @@ Select 3 sentences that summarize the passage.
 | 3 passages, 60 minutes | 2-3 passages, 54-72 minutes |
 | ~20 minutes per passage | ~18 minutes per passage |
 | Spend 2 min skimming, then answer | Same approach |
-| Mark difficult questions, come back | Same — don't get stuck |
+| Mark difficult questions, come back | Same: don't get stuck |
 
 ---
 

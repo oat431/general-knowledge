@@ -3,12 +3,12 @@ tags: [english, english-curriculum, language-and-community, asean, regional, low
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ21101", "อ22101", "อ23101", "อ31101", "อ32101", "อ33101"]
-strand: "สาระที่ 4: ภาษากับชุมชนและโลก — มาตรฐาน อ 4.1"
+strand: "สาระที่ 4: ภาษากับชุมชนและโลก – มาตรฐาน อ 4.1"
 ---
 
-# ASEAN English — ภาษาอังกฤษกับอาเซียน
+# ASEAN English: ภาษาอังกฤษกับอาเซียน
 
-> *"ASEAN's official working language is English — for a Thai student, the neighbors' English matters as much as London's."*
+> *"ASEAN's official working language is English: for a Thai student, the neighbors' English matters as much as London's."*
 
 Since the ASEAN Community launched, English functions as the region's working language: meetings, trade, tourism, and youth programs all run in English. The curriculum builds ASEAN knowledge from ม.ต้น (member states, capitals, simple cultural facts) to ม.ปลาย (the community's pillars, regional issues, cross-cultural communication with ASEAN neighbors, English as ASEAN's lingua franca).
 
@@ -40,7 +40,7 @@ Since the ASEAN Community launched, English functions as the region's working la
 
 | Reality | Consequence for Thai students |
 |---|---|
-| 11 countries, hundreds of local languages | No shared local language — English fills the gap |
+| 11 countries, hundreds of local languages | No shared local language: English fills the gap |
 | Diverse religions, scripts, calendars | English-language cultural literacy needed |
 | AEC labor mobility (skilled professions) | Workmates, clients, and partners from across the region |
 | Regional tourism flows | Service English for regional visitors |
@@ -52,7 +52,7 @@ Since the ASEAN Community launched, English functions as the region's working la
 |---|---|
 | Directness | Filipinos and Singaporeans may be more direct; mainland Southeast Asian cultures often more indirect |
 | Hierarchy | Respect for age/status is shared across the region, expressed differently |
-| Religion | Buddhist, Muslim, Catholic, and secular norms mix — calendar and food etiquette vary |
+| Religion | Buddhist, Muslim, Catholic, and secular norms mix: calendar and food etiquette vary |
 | English varieties | Filipino, Singaporean, Malaysian English are common in regional rooms → [[61 World Englishes]] |
 | Politeness formulas | Each country's greetings and courtesies deserve basic courtesy in kind |
 
@@ -92,7 +92,7 @@ Since the ASEAN Community launched, English functions as the region's working la
 ## 8 | Cross-Links
 
 - [[00_overview|Strand 4 Overview (BOK)]]
-- [[61 World Englishes|World Englishes (Strand 2)]] — varieties behind ASEAN English
-- [[64 English for Social Studies|English for Social Studies (Strand 3)]] — regional content knowledge
-- [[71 English in the Community|English in the Community]] — serving regional tourists
+- [[61 World Englishes|World Englishes (Strand 2)]]: varieties behind ASEAN English
+- [[64 English for Social Studies|English for Social Studies (Strand 3)]]: regional content knowledge
+- [[71 English in the Community|English in the Community]]: serving regional tourists
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

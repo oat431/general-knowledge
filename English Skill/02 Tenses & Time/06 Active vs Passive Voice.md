@@ -8,7 +8,7 @@ tags:
 
 # Active vs Passive Voice
 
-Voice tells us whether the subject **does** the action or **receives** it. Choosing the right voice makes your English sound natural — and wrong voice is a dead giveaway of a non-native speaker.
+Voice tells us whether the subject **does** the action or **receives** it. Choosing the right voice makes your English sound natural: and wrong voice is a dead giveaway of a non-native speaker.
 
 ---
 
@@ -36,7 +36,7 @@ Voice tells us whether the subject **does** the action or **receives** it. Choos
 | Future Simple | She **will write** a book. | A book **will be written**. |
 | Modals | She **can write** a book. | A book **can be written**. |
 
-**The pattern:** `be + V3` — just conjugate `be` to match the tense.
+**The pattern:** `be + V3`: just conjugate `be` to match the tense.
 
 ---
 
@@ -66,7 +66,7 @@ Voice tells us whether the subject **does** the action or **receives** it. Choos
 
 ## ⚠️ Thai Speaker Traps
 
-Thai uses `ถูก` (thùuk) for passive — but only for negative/unwanted events. English passive has no such restriction.
+Thai uses `ถูก` (thùuk) for passive: but only for negative/unwanted events. English passive has no such restriction.
 
 | Thai Mindset | ❌ Avoided (unnatural in English) | ✅ Natural English |
 |-------------|----------------------------------|-------------------|

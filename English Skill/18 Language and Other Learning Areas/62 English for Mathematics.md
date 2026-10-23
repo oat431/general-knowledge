@@ -3,14 +3,14 @@ tags: [english, english-curriculum, language-and-other-learning-areas, mathemati
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017)"
 created: 2026-08-28
 course_codes: ["อ14101", "อ16101", "อ21101", "อ23101", "อ31101", "อ33101"]
-strand: "สาระที่ 3: ภาษากับกลุ่มสาระอื่น — มาตรฐาน อ 3.1"
+strand: "สาระที่ 3: ภาษากับกลุ่มสาระอื่น – มาตรฐาน อ 3.1"
 ---
 
-# English for Mathematics — ภาษาอังกฤษกับคณิตศาสตร์
+# English for Mathematics: ภาษาอังกฤษกับคณิตศาสตร์
 
-> *"Math is a language of its own — and Thai students already study it. English just changes the words, not the logic."*
+> *"Math is a language of its own: and Thai students already study it. English just changes the words, not the logic."*
 
-Standard อ 3.1 asks students to use English to search, collect, and apply knowledge from other learning areas. Mathematics is the most natural bridge because the underlying concepts are already familiar: numbers, operations, shapes, and data. The English task is vocabulary and language patterns — reading a word problem, describing a graph, explaining a solution. This CLIL (Content and Language Integrated Learning) approach means math class vocabulary doubles as English practice, and English class gains real content.
+Standard อ 3.1 asks students to use English to search, collect, and apply knowledge from other learning areas. Mathematics is the most natural bridge because the underlying concepts are already familiar: numbers, operations, shapes, and data. The English task is vocabulary and language patterns: reading a word problem, describing a graph, explaining a solution. This CLIL (Content and Language Integrated Learning) approach means math class vocabulary doubles as English practice, and English class gains real content.
 
 ## 1 | Grade Band Breakdown
 
@@ -45,6 +45,7 @@ Standard อ 3.1 asks students to use English to search, collect, and apply know
 ## 4 | Reading a Word Problem: The 4-Step Frame
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["1 Read twice<br/>อ่านสองรอบ"] --> B["2 Find the question<br/>หาคำถามจริง"]
     B --> C["3 List the data<br/>จดตัวเลขและเงื่อนไข"]
@@ -94,7 +95,7 @@ flowchart LR
 ## 8 | Cross-Links
 
 - [[00_overview|Strand 3 Overview (BOK)]]
-- [[63 English for Science|English for Science]] — same CLIL method
-- [[41 IELTS Task 1 - Describing Data|English Skill: Describing Data]] — graph language in depth
-- [[../../body-of-knowledge/Mathematics/00_Fundamental Mathematics - Overview|Fundamental Mathematics (BOK)]] — the content side
+- [[63 English for Science|English for Science]]: same CLIL method
+- [[41 IELTS Task 1 - Describing Data|English Skill: Describing Data]]: graph language in depth
+- [[../../body-of-knowledge/Mathematics/00_Fundamental Mathematics - Overview|Fundamental Mathematics (BOK)]]: the content side
 - [[../../body-of-knowledge/English/English - Overview|English BOK Overview]]

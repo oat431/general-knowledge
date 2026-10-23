@@ -8,7 +8,7 @@ tags:
 
 # Subject-Verb Agreement
 
-In English, the subject and verb must match in number. Singular subjects take singular verbs; plural subjects take plural verbs. It sounds simple — but there are many traps.
+In English, the subject and verb must match in number. Singular subjects take singular verbs; plural subjects take plural verbs. It sounds simple: but there are many traps.
 
 ---
 
@@ -74,7 +74,7 @@ The subject comes **after** the verb.
 
 ## ⚠️ Thai Speaker Traps
 
-Thai verbs don't change form based on subject — this concept doesn't exist in Thai.
+Thai verbs don't change form based on subject: this concept doesn't exist in Thai.
 
 | Thai Pattern | ❌ Wrong | ✅ Correct |
 |-------------|---------|-----------|

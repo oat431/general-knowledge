@@ -92,7 +92,7 @@ Modal verbs express ability, possibility, permission, obligation, and advice. Th
 
 | Structure | Meaning | Example |
 |-----------|---------|---------|
-| **should have + V3** | Regret — right thing wasn't done | I **should have studied** harder. |
+| **should have + V3** | Regret: right thing wasn't done | I **should have studied** harder. |
 | **could have + V3** | Past possibility not taken | You **could have died**! |
 | **would have + V3** | Hypothetical past | I **would have called**, but I lost your number. |
 | **must have + V3** | Almost certain about past | She **must have been** tired. |

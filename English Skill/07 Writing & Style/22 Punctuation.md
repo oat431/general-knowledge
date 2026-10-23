@@ -8,7 +8,7 @@ tags:
 
 # Punctuation
 
-Punctuation marks are the traffic signals of writing — they tell the reader when to pause, stop, or pay attention. Wrong punctuation can completely change meaning.
+Punctuation marks are the traffic signals of writing: they tell the reader when to pause, stop, or pay attention. Wrong punctuation can completely change meaning.
 
 ---
 
@@ -25,7 +25,7 @@ Punctuation marks are the traffic signals of writing — they tell the reader wh
 | Exclamation mark | `!` | Strong emotion |
 | Quotation marks | `" "` or `' '` | Direct speech, titles |
 | Hyphen | `-` | Join words (compound adjectives) |
-| Dash | `—` | Parenthetical break — like this |
+| Dash | `—` | Parenthetical break: like this |
 | Parentheses | `( )` | Extra information |
 
 ---
@@ -34,9 +34,9 @@ Punctuation marks are the traffic signals of writing — they tell the reader wh
 
 - End declarative sentences: "She went home."
 - Abbreviations: "Mr.", "Dr.", "etc.", "e.g."
-- **One space** after a period (not two — that's a typewriter-era habit).
+- **One space** after a period (not two, that's a typewriter-era habit).
 
-## 2. Comma — The Most Misused Mark
+## 2. Comma: The Most Misused Mark
 
 ### Use Commas For:
 
@@ -55,7 +55,7 @@ Punctuation marks are the traffic signals of writing — they tell the reader wh
 |---------|-----------|-----|
 | I like coffee, and tea. | I like coffee and tea. | Not two independent clauses |
 | She said, that she was tired. | She said that she was tired. | No comma before "that" in reported speech |
-| The man, who called, was my boss. | The man who called was my boss. | Essential info — no commas |
+| The man, who called, was my boss. | The man who called was my boss. | Essential info: no commas |
 
 ### The Oxford Comma Debate
 
@@ -76,9 +76,9 @@ Punctuation marks are the traffic signals of writing — they tell the reader wh
 Also: separate complex list items that contain commas:
 > I've lived in Bangkok, Thailand**;** Tokyo, Japan**;** and Seoul, Korea.
 
-## 4. Colon — "Pay Attention, Here It Comes"
+## 4. Colon: "Pay Attention, Here It Comes"
 
-Use before a list, explanation, or quote — but only after a complete sentence.
+Use before a list, explanation, or quote: but only after a complete sentence.
 
 | ✅ | ❌ |
 |---|-----|
@@ -125,7 +125,7 @@ Use before a list, explanation, or quote — but only after a complete sentence.
 
 ## ⚠️ Thai Speaker Traps
 
-Thai writing has minimal punctuation — spaces separate clauses where English uses commas and periods.
+Thai writing has minimal punctuation: spaces separate clauses where English uses commas and periods.
 
 | Thai Pattern | ❌ English | ✅ English |
 |-------------|-----------|-----------|
