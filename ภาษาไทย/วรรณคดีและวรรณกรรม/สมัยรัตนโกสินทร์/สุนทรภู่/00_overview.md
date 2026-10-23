@@ -29,6 +29,7 @@ tags: [thai-language, literature, rattanakosin, sunthorn-phu, overview]
 ## ประวัติโดยสังเขป
 
 ```mermaid
+%%{init: {"theme":"base","themeVariables":{"fontFamily":"Sarabun, Leelawadee UI, system-ui, sans-serif","fontSize":"14px","background":"transparent","primaryColor":"#19362D","primaryTextColor":"#CDD3D1","primaryBorderColor":"#1FB854","secondaryColor":"#1EB88E","secondaryTextColor":"#000C07","secondaryBorderColor":"#17966F","tertiaryColor":"#1FB8AB","tertiaryTextColor":"#010C0B","tertiaryBorderColor":"#17908A","lineColor":"#7A8C87","textColor":"#CAC9C9","clusterBkg":"#161212","clusterBorder":"#3A5A50","edgeLabelBackground":"#1B1717"}}}%%
 flowchart TD
     A["เกิดที่กรุงเทพฯ
 พ.ศ. ๒๓๒๙"] --> B["วัยเยาว์
@@ -62,11 +63,11 @@ flowchart TD
 
 ## ผลงานสำคัญ
 
-| # | ชื่อผลงาน | ประเภทท | บทเรียน |
+| # | ชื่อผลงาน | ประเภท | บทเรียน |
 |---|---|---|---|
 | ๑ | พระอภัยมณี | เสภา | [[01_พระอภัยมณี]] |
-| ₂ | นิราศเมืองแกลง | นิราศ | [[02_นิราศเมืองแกลง]] |
-| ₃ | นิราศภูเขาทอง | นิราศ | [[03_นิราศภูเขาทอง]] |
+| ๒ | นิราศเมืองแกลง | นิราศ | [[02_นิราศเมืองแกลง]] |
+| ๓ | นิราศภูเขาทอง | นิราศ | [[03_นิราศภูเขาทอง]] |
 | ๔ | นิราศพระบาท | นิราศ | — |
 | ๕ | สุภาษิตสอนหญิง | สุภาษิต | — |
 
@@ -74,5 +75,5 @@ flowchart TD
 
 ## ดูเพิ่มเติม
 
-- [[00_overview|← กลับไปภาพรวมสมัยรัตนโกสินทร์]]
+- [[ภาษาไทย/วรรณคดีและวรรณกรรม/สมัยรัตนโกสินทร์/00_overview|← กลับไปภาพรวมสมัยรัตนโกสินทร์]]
 - [[01_พระอภัยมณี|พระอภัยมณี →]]

@@ -1,4 +1,5 @@
 ---
+title: "นิทานและตำนาน"
 tags: [thai-language, literature, folktale, legend, overview]
 era: "ทุกยุคสมัย"
 strand: "สาระที่ 5: วรรณคดีและวรรณกรรม"
@@ -21,9 +22,10 @@ strand: "สาระที่ 5: วรรณคดีและวรรณก�
 
 ---
 
-## ประเภททของนิทานและตำนาน
+## ประเภทของนิทานและตำนาน
 
 ```mermaid
+%%{init: {"theme":"base","themeVariables":{"fontFamily":"Sarabun, Leelawadee UI, system-ui, sans-serif","fontSize":"14px","background":"transparent","primaryColor":"#19362D","primaryTextColor":"#CDD3D1","primaryBorderColor":"#1FB854","secondaryColor":"#1EB88E","secondaryTextColor":"#000C07","secondaryBorderColor":"#17966F","tertiaryColor":"#1FB8AB","tertiaryTextColor":"#010C0B","tertiaryBorderColor":"#17908A","lineColor":"#7A8C87","textColor":"#CAC9C9","clusterBkg":"#161212","clusterBorder":"#3A5A50","edgeLabelBackground":"#1B1717"}}}%%
 flowchart TD
     A["นิทานและตำนาน"] --> B["นิทานพื้นบ้าน"]
     A --> C["นิทานชาดก"]
@@ -86,4 +88,4 @@ flowchart TD
 
 ## ดูเพิ่มเติม
 
-- [[00_ภาพรวม|← กลับไปภาพรวมวรรณคดี]]
+- [[ภาษาไทย/วรรณคดีและวรรณกรรม/00_ภาพรวม|← กลับไปภาพรวมวรรณคดี]]

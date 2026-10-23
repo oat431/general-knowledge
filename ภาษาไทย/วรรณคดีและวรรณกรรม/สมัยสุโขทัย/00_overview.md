@@ -1,4 +1,5 @@
 ---
+title: "วรรณคดีสมัยสุโขทัย"
 tags: [thai-language, literature, sukhothai, overview]
 era: "สมัยสุโขทัย"
 strand: "สาระที่ 5: วรรณคดีและวรรณกรรม"
@@ -26,6 +27,7 @@ strand: "สาระที่ 5: วรรณคดีและวรรณก�
 ## ลักษณะเด่นของวรรณคดีสุโขทัย
 
 ```mermaid
+%%{init: {"theme":"base","themeVariables":{"fontFamily":"Sarabun, Leelawadee UI, system-ui, sans-serif","fontSize":"14px","background":"transparent","primaryColor":"#19362D","primaryTextColor":"#CDD3D1","primaryBorderColor":"#1FB854","secondaryColor":"#1EB88E","secondaryTextColor":"#000C07","secondaryBorderColor":"#17966F","tertiaryColor":"#1FB8AB","tertiaryTextColor":"#010C0B","tertiaryBorderColor":"#17908A","lineColor":"#7A8C87","textColor":"#CAC9C9","clusterBkg":"#161212","clusterBorder":"#3A5A50","edgeLabelBackground":"#1B1717"}}}%%
 flowchart TD
     A["วรรณคดีสุโขทัย"] --> B["จารึก"]
     A --> C["วรรณคดีพุทธศาสนา"]
@@ -48,7 +50,7 @@ flowchart TD
 
 ## ผลงานสำคัญ
 
-| # | ชื่อผลงาน | ผู้แต่ง | ประเภทท | บทเรียน |
+| # | ชื่อผลงาน | ผู้แต่ง | ประเภท | บทเรียน |
 |---|---|---|---|---|
 | ๑ | ศิลาจารึกพ่อขุนรามคำแหง | พ่อขุนรามคำแหงมหาราช | จารึก | [[01_ศิลาจารึกพ่อขุนรามคำแหง]] |
 | ๒ | ไตรภูมิพระร่วง | พระมหาธรรมราชาลิไท | วรรณคดีพุทธศาสนา | [[02_ไตรภูมิพระร่วง]] |
@@ -58,5 +60,5 @@ flowchart TD
 
 ## ดูเพิ่มเติม
 
-- [[00_ภาพรวม|← กลับไปภาพรวมวรรณคดี]]
-- [[สมัยอยุธยา/00_overview|วรรณคดีสมัยอยุธยา →]]
+- [[ภาษาไทย/วรรณคดีและวรรณกรรม/00_ภาพรวม|← กลับไปภาพรวมวรรณคดี]]
+- [[ภาษาไทย/วรรณคดีและวรรณกรรม/สมัยอยุธยา/00_overview|วรรณคดีสมัยอยุธยา →]]

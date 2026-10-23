@@ -1,4 +1,5 @@
 ---
+title: "วรรณคดีสมัยอยุธยา"
 tags: [thai-language, literature, ayutthaya, overview]
 era: "สมัยอยุธยา"
 strand: "สาระที่ 5: วรรณคดีและวรรณกรรม"
@@ -26,6 +27,7 @@ strand: "สาระที่ 5: วรรณคดีและวรรณก�
 ## ลักษณะเด่นของวรรณคดีอยุธยา
 
 ```mermaid
+%%{init: {"theme":"base","themeVariables":{"fontFamily":"Sarabun, Leelawadee UI, system-ui, sans-serif","fontSize":"14px","background":"transparent","primaryColor":"#19362D","primaryTextColor":"#CDD3D1","primaryBorderColor":"#1FB854","secondaryColor":"#1EB88E","secondaryTextColor":"#000C07","secondaryBorderColor":"#17966F","tertiaryColor":"#1FB8AB","tertiaryTextColor":"#010C0B","tertiaryBorderColor":"#17908A","lineColor":"#7A8C87","textColor":"#CAC9C9","clusterBkg":"#161212","clusterBorder":"#3A5A50","edgeLabelBackground":"#1B1717"}}}%%
 flowchart TD
     A["วรรณคดีอยุธยา"] --> B["ตอนต้น"]
     A --> C["ตอนกลาง"]
@@ -48,7 +50,7 @@ flowchart TD
 
 ## ผลงานสำคัญ
 
-| # | ชื่อผลงาน | ผู้แต่ง | ประเภทท | บทเรียน |
+| # | ชื่อผลงาน | ผู้แต่ง | ประเภท | บทเรียน |
 |---|---|---|---|---|
 | ๑ | โองการแช่งน้ำ | ไม่ปรากฏ | คำสาบาน | [[01_โองการแช่งน้ำ]] |
 | ๒ | ลิลิตยวนพ่าย | ไม่ปรากฏ | ลิลิต | [[02_ลิลิตยวนพ่าย]] |
@@ -59,6 +61,6 @@ flowchart TD
 
 ## ดูเพิ่มเติม
 
-- [[00_ภาพรวม|← กลับไปภาพรวมวรรณคดี]]
-- [[สมัยสุโขทัย/00_overview|← วรรณคดีสมัยสุโขทัย]]
-- [[สมัยรัตนโกสินทร์/00_overview|วรรณคดีสมัยรัตนโกสินทร์ →]]
+- [[ภาษาไทย/วรรณคดีและวรรณกรรม/00_ภาพรวม|← กลับไปภาพรวมวรรณคดี]]
+- [[ภาษาไทย/วรรณคดีและวรรณกรรม/สมัยสุโขทัย/00_overview|← วรรณคดีสมัยสุโขทัย]]
+- [[ภาษาไทย/วรรณคดีและวรรณกรรม/สมัยรัตนโกสินทร์/00_overview|วรรณคดีสมัยรัตนโกสินทร์ →]]
