@@ -10,9 +10,9 @@ created: 2026-07-22
 course_codes: ["ค112", "ค113", "ค121", "ค122", "ค123", "ค211", "ค212", "ค213"]
 ---
 
-# Fractions — เศษส่วน
+# Fractions: เศษส่วน
 
-> *"Fractions are not broken numbers — they are numbers in their own right, fundamental to understanding division, ratio, proportion, and the rational number system."*
+> *"Fractions are not broken numbers; they are numbers in their own right, fundamental to understanding division, ratio, proportion, and the rational number system."*
 
 Understanding fractions as parts of a whole, as division, as ratios, and as numbers. Students progress from concrete fraction models using area and set representations to performing all operations with proper fractions, improper fractions, and mixed numbers. Fractions are the gateway to rational numbers, percentages, ratios, and algebra.
 
@@ -50,8 +50,8 @@ Understanding fractions as parts of a whole, as division, as ratios, and as numb
 | Thai | English | Definition |
 |---|---|---|
 | เศษส่วน | Fraction | $$\frac{a}{b}$$, b ≠ 0 |
-| ตัวเศษ | Numerator | Top number (a in a/b) — "how many parts" |
-| ตัวส่วน | Denominator | Bottom number (b in a/b) — "size of each part" |
+| ตัวเศษ | Numerator | Top number (a in a/b): "how many parts" |
+| ตัวส่วน | Denominator | Bottom number (b in a/b): "size of each part" |
 | เศษส่วนแท้ | Proper fraction | Numerator < Denominator (e.g., 3/4) |
 | เศษเกิน | Improper fraction | Numerator ≥ Denominator (e.g., 5/3) |
 | จำนวนคละ | Mixed number | Whole number + fraction (e.g., $$2\frac{1}{3}$$) |
@@ -118,7 +118,7 @@ $$N\frac{r}{d} = \frac{N \times d + r}{d}$$
 
 $$\frac{a}{c} + \frac{b}{c} = \frac{a + b}{c}$$
 
-**Different denominators — find LCD first:**
+**Different denominators: find LCD first:**
 
 $$\frac{2}{3} + \frac{3}{4} = \frac{2 \times 4}{3 \times 4} + \frac{3 \times 3}{4 \times 3} = \frac{8}{12} + \frac{9}{12} = \frac{17}{12} = 1\frac{5}{12}$$
 
@@ -188,10 +188,10 @@ $$\frac{3}{4} \times 200 = 150 \text{ Baht}$$
 
 ## 5 | Cross-Links
 
-- [[02_Arithmetic_Operations]] — Multiplication/division fluency is prerequisite
-- [[03_Factors_Multiples_and_Number_Theory]] — GCD for simplifying; LCM for common denominators
-- [[04_Integers]] — Negative fractions introduced at ม.1
-- [[06_Decimals]] — Fraction↔decimal conversion
-- [[07_Rational_Numbers]] — Fractions as the primary representation of rational numbers
-- [[08_Percentages]] — Fractions with denominator 100
-- [[09_Ratios_and_Proportions]] — Fractions as ratios
+- [[02_Arithmetic_Operations]]: Multiplication/division fluency is prerequisite
+- [[03_Factors_Multiples_and_Number_Theory]]: GCD for simplifying; LCM for common denominators
+- [[04_Integers]]: Negative fractions introduced at ม.1
+- [[06_Decimals]]: Fraction↔decimal conversion
+- [[07_Rational_Numbers]]: Fractions as the primary representation of rational numbers
+- [[08_Percentages]]: Fractions with denominator 100
+- [[09_Ratios_and_Proportions]]: Fractions as ratios

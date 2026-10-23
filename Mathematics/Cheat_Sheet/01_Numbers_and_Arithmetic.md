@@ -9,7 +9,7 @@ sources: ["[[Fundamental/01_Numbers_and_Numeration]]", "[[Fundamental/02_Arithme
 created: 2026-10-02
 ---
 
-# Numbers & Arithmetic — Cheat Sheet
+# Numbers & Arithmetic: Cheat Sheet
 
 > *Every rule you need to move numbers around: place value, operations, factors, signs, fractions, decimals, percents, ratios.*
 
@@ -18,6 +18,7 @@ created: 2026-10-02
 ### 1.1 Number-set hierarchy
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     R["ℝ Real numbers &#40;จำนวนจริง&#41;"]
     Q["ℚ Rational &#40;จำนวนตรรกยะ&#41;\nwrite as a/b, b ≠ 0"]

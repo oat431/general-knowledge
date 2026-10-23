@@ -11,9 +11,9 @@ created: 2026-07-30
 course_codes: ["ค301"]
 ---
 
-# Functions — ฟังก์ชัน
+# Functions: ฟังก์ชัน
 
-> *"A function is a rule that assigns to each input exactly one output — the central concept of modern mathematics."*
+> *"A function is a rule that assigns to each input exactly one output: the central concept of modern mathematics."*
 
 Functions are the unifying concept that connects algebra, geometry, and calculus. This topic formalizes the notion of a function, explores various types (linear, quadratic, polynomial, rational, piecewise), and introduces composition and inverse functions. Understanding functions is essential for all subsequent mathematics.
 
@@ -58,6 +58,7 @@ Functions are the unifying concept that connects algebra, geometry, and calculus
 ### Function Family Map
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     FUNC["Function f: A → B"] --> POLY["Polynomial Family"]
     FUNC --> RAT["Rational\nf&#40;x&#41; = P&#40;x&#41; / Q&#40;x&#41;"]
@@ -212,9 +213,9 @@ $f^{-1}(x) = \frac{3x+1}{x-2}$
 
 ## 5 | Cross-Links
 
-- [[01_Sets_and_Logic]] — Functions as relations (subsets of Cartesian products)
-- [[02_Real_Numbers_and_Inequalities]] — Domains defined by inequalities
-- [[06_Exponential_and_Logarithmic_Functions]] — Important function family
-- [[07_Trigonometric_Functions]] — Periodic functions
-- [[14_Limits_and_Continuity]] — Continuity of functions
-- [[15_Differentiation]] — Derivatives of functions
+- [[01_Sets_and_Logic]]: Functions as relations (subsets of Cartesian products)
+- [[02_Real_Numbers_and_Inequalities]]: Domains defined by inequalities
+- [[06_Exponential_and_Logarithmic_Functions]]: Important function family
+- [[07_Trigonometric_Functions]]: Periodic functions
+- [[14_Limits_and_Continuity]]: Continuity of functions
+- [[15_Differentiation]]: Derivatives of functions

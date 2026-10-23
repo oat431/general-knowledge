@@ -10,7 +10,7 @@ created: 2026-07-30
 course_codes: ["ค301"]
 ---
 
-# Systems of Equations — ระบบสมการ
+# Systems of Equations: ระบบสมการ
 
 > *"A single equation describes a constraint; a system of equations describes a world."*
 
@@ -177,7 +177,7 @@ $(x+3)(x-2) = 0 \Rightarrow x = -3$ or $x = 2$
 
 ## 5 | Cross-Links
 
-- [[Fundamental/11_Basic_Algebra]] — Linear equations foundation
-- [[03_Algebraic_Expressions]] — Polynomial manipulation
-- [[11_Matrices_and_Determinants]] — Matrix methods for systems
-- [[05_Functions]] — Intersection of function graphs
+- [[Fundamental/11_Basic_Algebra]]: Linear equations foundation
+- [[03_Algebraic_Expressions]]: Polynomial manipulation
+- [[11_Matrices_and_Determinants]]: Matrix methods for systems
+- [[05_Functions]]: Intersection of function graphs

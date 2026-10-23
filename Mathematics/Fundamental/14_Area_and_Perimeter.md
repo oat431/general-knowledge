@@ -11,9 +11,9 @@ created: 2026-07-22
 course_codes: ["ค111", "ค112", "ค113", "ค121", "ค122", "ค123", "ค211", "ค212", "ค213"]
 ---
 
-# Area and Perimeter — พื้นที่และเส้นรอบรูป
+# Area and Perimeter: พื้นที่และเส้นรอบรูป
 
-> *"From counting squares to deriving formulas — the study of area and perimeter teaches students that mathematics can quantify the space we inhabit."*
+> *"From counting squares to deriving formulas: the study of area and perimeter teaches students that mathematics can quantify the space we inhabit."*
 
 Area and perimeter are fundamental geometric measurements. Students progress from counting unit squares to applying and deriving formulas for increasingly complex shapes, including circles and composite figures.
 
@@ -87,7 +87,7 @@ Area and perimeter are fundamental geometric measurements. Students progress fro
 | **Square** | P = 4s |
 | **Circle (circumference)** | C = 2πr = πd |
 
-### 3.3 Triangle Area — Three Versions
+### 3.3 Triangle Area: Three Versions
 
 $$A = \frac{1}{2} \times b \times h$$
 
@@ -130,8 +130,8 @@ Rectangle area = 10 × 6 = 60. Semicircle = ½ × π × 3² = ½ × π × 9 ≈ 
 
 ## 5 | Cross-Links
 
-- [[12_Geometry_Shapes]] — Understanding shape properties is prerequisite
-- [[13_Measurement]] — Units and measurement skills
-- [[15_Volume_and_Surface_Area]] — Extending area to 3D (surface area)
-- [[03_Factors_Multiples_and_Number_Theory]] — GCF for tiling problems
-- [[05_Fractions]] — Fractional dimensions
+- [[12_Geometry_Shapes]]: Understanding shape properties is prerequisite
+- [[13_Measurement]]: Units and measurement skills
+- [[15_Volume_and_Surface_Area]]: Extending area to 3D (surface area)
+- [[03_Factors_Multiples_and_Number_Theory]]: GCF for tiling problems
+- [[05_Fractions]]: Fractional dimensions

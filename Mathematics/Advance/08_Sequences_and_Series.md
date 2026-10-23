@@ -11,7 +11,7 @@ created: 2026-07-30
 course_codes: ["ค301"]
 ---
 
-# Sequences and Series — ลำดับและอนุกรม
+# Sequences and Series: ลำดับและอนุกรม
 
 > *"A sequence is a journey step by step; a series is the sum of the journey."*
 
@@ -183,7 +183,7 @@ Divisible by 6 ✓
 
 ## 5 | Cross-Links
 
-- [[Fundamental/10_Patterns_and_Algebraic_Thinking]] — Pattern recognition foundation
-- [[14_Limits_and_Continuity]] — Infinite series and limits
-- [[06_Exponential_and_Logarithmic_Functions]] — Geometric growth
-- [[20_Discrete_Mathematics]] — Recurrence relations
+- [[Fundamental/10_Patterns_and_Algebraic_Thinking]]: Pattern recognition foundation
+- [[14_Limits_and_Continuity]]: Infinite series and limits
+- [[06_Exponential_and_Logarithmic_Functions]]: Geometric growth
+- [[20_Discrete_Mathematics]]: Recurrence relations

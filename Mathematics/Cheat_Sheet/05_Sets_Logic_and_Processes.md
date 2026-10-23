@@ -9,7 +9,7 @@ sources: ["[[Fundamental/17_Sets]]", "[[Fundamental/20_Mathematical_Processes]]"
 created: 2026-10-02
 ---
 
-# Sets, Logic & Processes — Cheat Sheet
+# Sets, Logic & Processes: Cheat Sheet
 
 > The rulebook about rulebooks: how collections are described, how statements are reasoned about, and how problems get solved.
 
@@ -217,6 +217,7 @@ Reasoning types:
 Selection guide:
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     START["Statement to prove"] --> TYPE{"What form?"}
     TYPE -->|"If P then Q"| Q1{"Derive Q from P directly?"}

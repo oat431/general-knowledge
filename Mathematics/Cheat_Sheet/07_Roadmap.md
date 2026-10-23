@@ -19,6 +19,7 @@ This roadmap shows the entire journey as **one dependency map**: each node is a 
 ## The Full Map
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     subgraph S0["Stage 0: Number Foundation (Zero)"]
         N1["Counting Numbers<br/>and Numeration"] --> N2["Four Operations<br/>+ - x ÷"]
@@ -141,6 +142,7 @@ flowchart TD
 ## The Same Journey as a Ladder
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     Z["🔢 Stage 0<br/>Numbers<br/>01"] --> L["🔤 Stage 1<br/>Algebra<br/>02"]
     L --> S["📐 Stage 2<br/>Geometry<br/>03"]
@@ -156,12 +158,12 @@ flowchart LR
     click R "[[05_Sets_Logic_and_Processes]]"
     click C "[[06_Calculus]]"
 
-    style Z fill:#1FB854#000000
-    style L fill:#1EB88E#000C07
-    style S fill:#1FB8AB#010C0B
-    style D fill:#1FB854#000000
-    style R fill:#1EB88E#000C07
-    style C fill:#1FB8AB#010C0B
+    style Z fill:#1FB854,color:#000000
+    style L fill:#1EB88E,color:#000C07
+    style S fill:#1FB8AB,color:#000C07
+    style D fill:#1FB854,color:#000000
+    style R fill:#1EB88E,color:#000C07
+    style C fill:#1FB8AB,color:#000C07
 ```
 
 **The 5 unlock gates into Calculus** (arrows converging on Limits):

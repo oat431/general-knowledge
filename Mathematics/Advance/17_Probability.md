@@ -10,9 +10,9 @@ created: 2026-07-30
 course_codes: ["ค302"]
 ---
 
-# Probability — ความน่าจะเป็น
+# Probability: ความน่าจะเป็น
 
-> *"Probability is the mathematics of uncertainty — quantifying what we cannot know with certainty."*
+> *"Probability is the mathematics of uncertainty: quantifying what we cannot know with certainty."*
 
 This topic extends the basic probability concepts from fundamental mathematics to advanced counting techniques, conditional probability, and Bayes' theorem. These tools are essential for statistics, data science, machine learning, and risk analysis.
 
@@ -46,7 +46,7 @@ This topic extends the basic probability concepts from fundamental mathematics t
 | แฟกทอเรียล | Factorial | $n!$ |
 | ความน่าจะเป็นแบบมีเงื่อนไข | Conditional probability | $P(A\|B)$ |
 | เหตุการณ์อิสระ | Independent events | $P(A \cap B) = P(A)P(B)$ |
-| ทฤษฎีบทเบส์ | Bayes' Theorem | — |
+| ทฤษฎีบทเบส์ | Bayes' Theorem | N/A |
 
 ---
 
@@ -55,6 +55,7 @@ This topic extends the basic probability concepts from fundamental mathematics t
 ### Counting Problem Decision Flow
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     START["Counting Problem"] --> Q1["Does order matter?"]
     Q1 -->|Yes| Q2["All items used?"]
@@ -168,8 +169,8 @@ $P(F_2|D) = \frac{(0.40)(0.05)}{(0.60)(0.02) + (0.40)(0.05)} = \frac{0.020}{0.01
 
 ## 5 | Cross-Links
 
-- [[Fundamental/17_Sets]] — Set operations in probability
-- [[Fundamental/19_Probability]] — Basic probability concepts
-- [[18_Probability_Distributions]] — Random variables and distributions
-- [[19_Statistics]] — Statistical inference builds on probability
-- [[01_Sets_and_Logic]] — Formal set operations
+- [[Fundamental/17_Sets]]: Set operations in probability
+- [[Fundamental/19_Probability]]: Basic probability concepts
+- [[18_Probability_Distributions]]: Random variables and distributions
+- [[19_Statistics]]: Statistical inference builds on probability
+- [[01_Sets_and_Logic]]: Formal set operations

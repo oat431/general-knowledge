@@ -11,9 +11,9 @@ created: 2026-07-22
 course_codes: ["ค111", "ค112", "ค113", "ค121", "ค122", "ค123", "ค211", "ค212", "ค213"]
 ---
 
-# Mathematical Processes — กระบวนการทางคณิตศาสตร์
+# Mathematical Processes: กระบวนการทางคณิตศาสตร์
 
-> *"Mathematics is not a spectator sport. The processes of problem-solving, reasoning, communication, and representation are the skills that make mathematical knowledge useful — they are what transforms knowing into doing."*
+> *"Mathematics is not a spectator sport. The processes of problem-solving, reasoning, communication, and representation are the skills that make mathematical knowledge useful; they are what transforms knowing into doing."*
 
 Mathematical processes are the cross-cutting skills woven throughout all other mathematics topics. They include problem-solving strategies, reasoning and proof, mathematical communication, making connections, and using multiple representations. These are not standalone topics but the "how" of doing mathematics at every level.
 
@@ -91,7 +91,7 @@ Mathematical processes are the cross-cutting skills woven throughout all other m
 
 > All squares have 4 right angles. Shape X is a square. Therefore, X has 4 right angles.
 
-### 4.3 Proof by Contradiction (การพิสูจน์โดยข้อขัดแย้ง) — ม.3
+### 4.3 Proof by Contradiction (การพิสูจน์โดยข้อขัดแย้ง): ม.3
 Assume the opposite and show it leads to a contradiction.
 
 > **Prove √2 is irrational:**
@@ -124,7 +124,7 @@ Good mathematical communication:
 | **Symbolic (equations)** | Precision; generalization |
 | **Verbal (words)** | Real-world context |
 
-**Example — Linear Function y = 2x + 1:**
+**Example: Linear Function y = 2x + 1:**
 
 | Representation | Form |
 |---|---|
@@ -137,8 +137,8 @@ Good mathematical communication:
 
 ## 7 | Cross-Links
 
-- [[10_Patterns_and_Algebraic_Thinking]] — Pattern recognition as a core strategy
-- [[11_Basic_Algebra]] — Writing equations is a key problem-solving strategy
-- [[16_Coordinate_Plane]] — Graphical representation
-- [[18_Statistics_Data_Handling]] — Data representation and interpretation
-- [[17_Sets]] — Logical reasoning connects to set theory
+- [[10_Patterns_and_Algebraic_Thinking]]: Pattern recognition as a core strategy
+- [[11_Basic_Algebra]]: Writing equations is a key problem-solving strategy
+- [[16_Coordinate_Plane]]: Graphical representation
+- [[18_Statistics_Data_Handling]]: Data representation and interpretation
+- [[17_Sets]]: Logical reasoning connects to set theory

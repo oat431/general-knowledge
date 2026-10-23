@@ -10,9 +10,9 @@ created: 2026-07-30
 course_codes: ["ค301"]
 ---
 
-# Algebraic Expressions — นิพจน์พีชคณิต
+# Algebraic Expressions: นิพจน์พีชคณิต
 
-> *"Polynomials are the atoms of algebra — every expression is built from them."*
+> *"Polynomials are the atoms of algebra: every expression is built from them."*
 
 This topic deepens students' understanding of algebraic manipulation by focusing on polynomial operations, factoring techniques, and the fundamental theorems that govern polynomial behavior. These skills are essential for solving equations, simplifying expressions, and understanding function behavior.
 
@@ -195,7 +195,7 @@ $$8 - 4k + 6 - 2 = 0 \Rightarrow 12 - 4k = 0 \Rightarrow k = 3$$
 
 ## 5 | Cross-Links
 
-- [[Fundamental/11_Basic_Algebra]] — Basic algebraic operations
-- [[04_Systems_of_Equations]] — Solving systems using factoring
-- [[05_Functions]] — Polynomial functions
-- [[15_Differentiation]] — Derivatives of polynomials
+- [[Fundamental/11_Basic_Algebra]]: Basic algebraic operations
+- [[04_Systems_of_Equations]]: Solving systems using factoring
+- [[05_Functions]]: Polynomial functions
+- [[15_Differentiation]]: Derivatives of polynomials

@@ -11,9 +11,9 @@ created: 2026-07-30
 course_codes: ["ค302"]
 ---
 
-# Limits and Continuity — ลิมิตและความต่อเนื่อง
+# Limits and Continuity: ลิมิตและความต่อเนื่อง
 
-> *"Calculus begins with the limit — the mathematical microscope that sees the infinitely small."*
+> *"Calculus begins with the limit: the mathematical microscope that sees the infinitely small."*
 
 The limit is the foundational concept of calculus. It describes the behavior of a function as the input approaches a specific value, without actually reaching it. This topic covers limit evaluation techniques, continuity, and the theorems that connect them. Mastering limits is essential before approaching derivatives and integrals.
 
@@ -46,7 +46,7 @@ The limit is the foundational concept of calculus. It describes the behavior of 
 | จุดไม่ต่อเนื่อง | Discontinuity | Jump, removable, infinite |
 | รูปยังไม่กำหนด | Indeterminate form | $0/0$, $\infty/\infty$ |
 | เส้น asymptote แนวนอน | Horizontal asymptote | $y = L$ |
-| ทฤษฎีบท sandwich | Squeeze theorem | — |
+| ทฤษฎีบท sandwich | Squeeze theorem | N/A |
 | ทฤษฎีบทค่ากลาง | Intermediate Value Theorem | IVT |
 
 ---
@@ -56,6 +56,7 @@ The limit is the foundational concept of calculus. It describes the behavior of 
 ### Continuity Decision Flow
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     START["Is f&#40;a&#41; defined?"] -->|No| DISC1["Discontinuity at x = a"]
     START -->|Yes| Q2["Does lim x→a f&#40;x&#41; exist?"]
@@ -105,7 +106,7 @@ $$= \lim_{x \to 0} \frac{(x+4) - 4}{x(\sqrt{x+4} + 2)} = \lim_{x \to 0} \frac{x}
 
 ### 3.4 Limits at Infinity
 
-**Rational functions — leading term analysis:**
+**Rational functions: leading term analysis:**
 
 $$\lim_{x \to \infty} \frac{a_n x^n + ...}{b_m x^m + ...}$$
 
@@ -200,7 +201,7 @@ For continuity: $6 + k = 5 \Rightarrow k = -1$
 
 ## 5 | Cross-Links
 
-- [[05_Functions]] — Function behavior and types
-- [[07_Trigonometric_Functions]] — Trig limits
-- [[15_Differentiation]] — Derivative defined as a limit
-- [[16_Integration]] — Definite integral defined as a limit of Riemann sums
+- [[05_Functions]]: Function behavior and types
+- [[07_Trigonometric_Functions]]: Trig limits
+- [[15_Differentiation]]: Derivative defined as a limit
+- [[16_Integration]]: Definite integral defined as a limit of Riemann sums

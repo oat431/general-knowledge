@@ -10,7 +10,7 @@ created: 2026-07-30
 course_codes: ["ค301"]
 ---
 
-# Trigonometric Equations — สมการตรีโกณมิติ
+# Trigonometric Equations: สมการตรีโกณมิติ
 
 > *"Solving trig equations requires understanding both algebra and the periodic nature of trig functions."*
 
@@ -177,7 +177,7 @@ $\cos\theta = 0 \Rightarrow \theta = \pi/2, 3\pi/2$
 
 ## 5 | Cross-Links
 
-- [[07_Trigonometric_Functions]] — Function properties and identities
-- [[03_Algebraic_Expressions]] — Factoring techniques
-- [[13_Vectors]] — Direction angles
-- [[16_Integration]] — Trig integrals
+- [[07_Trigonometric_Functions]]: Function properties and identities
+- [[03_Algebraic_Expressions]]: Factoring techniques
+- [[13_Vectors]]: Direction angles
+- [[16_Integration]]: Trig integrals

@@ -10,9 +10,9 @@ created: 2026-07-22
 course_codes: ["ค122", "ค123", "ค211", "ค212", "ค213"]
 ---
 
-# Coordinate Plane — ระนาบพิกัด
+# Coordinate Plane: ระนาบพิกัด
 
-> *"Descartes' coordinate plane is arguably the single most powerful idea in mathematics — it unites algebra and geometry, turning equations into pictures and shapes into numbers."*
+> *"Descartes' coordinate plane is arguably the single most powerful idea in mathematics; it unites algebra and geometry, turning equations into pictures and shapes into numbers."*
 
 The coordinate plane (or Cartesian plane) is a 2D grid system that allows positions to be described by ordered pairs (x, y). Students progress from plotting points in the first quadrant to working in all four quadrants and graphing linear relationships.
 
@@ -27,7 +27,7 @@ The coordinate plane (or Cartesian plane) is a 2D grid system that allows positi
 
 | Grade | Scope | Key Skills |
 |---|---|---|
-| **ป.4** | First quadrant | Introducing the coordinate plane — x-axis (horizontal), y-axis (vertical); plotting points with positive coordinates (x, y); reading coordinates from a graph |
+| **ป.4** | First quadrant | Introducing the coordinate plane: x-axis (horizontal), y-axis (vertical); plotting points with positive coordinates (x, y); reading coordinates from a graph |
 | **ป.5** | Patterns on grid | Plotting multiple points; connecting points to form shapes; reading and interpreting simple line graphs |
 | **ป.6** | Graph interpretation | Reading bar, line, and pie charts; extrapolating and interpolating from graphs |
 
@@ -48,8 +48,8 @@ The coordinate plane (or Cartesian plane) is a 2D grid system that allows positi
 | ระนาบพิกัด | Coordinate plane | Cartesian plane (ระบบพิกัดฉาก) |
 | แกน x | x-axis | Horizontal axis |
 | แกน y | y-axis | Vertical axis |
-| จุดกำเนิด | Origin | (0, 0) — where axes intersect |
-| คู่อันดับ | Ordered pair | (x, y) — a point's coordinates |
+| จุดกำเนิด | Origin | (0, 0): where axes intersect |
+| คู่อันดับ | Ordered pair | (x, y): a point's coordinates |
 | จตุภาค | Quadrant | One of four sections of coordinate plane |
 | ความชัน | Slope / Gradient | m in y = mx + c |
 | จุดตัดแกน | Intercept | Where graph crosses axis |
@@ -64,6 +64,7 @@ The coordinate plane (or Cartesian plane) is a 2D grid system that allows positi
 ### 3.1 The Four Quadrants
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px','quadrant1Fill':'#1FB854','quadrant2Fill':'#1EB88E','quadrant3Fill':'#00B5FF','quadrant4Fill':'#1FB8AB','quadrant1TextFill':'#000000','quadrant2TextFill':'#000000','quadrant3TextFill':'#000000','quadrant4TextFill':'#000000','quadrantPointFill':'#FFBE00','quadrantPointTextFill':'#000000','quadrantXAxisTextFill':'#CDD3D1','quadrantYAxisTextFill':'#CDD3D1'}}}%%
 quadrantChart
     title Coordinate Plane Quadrants
     x-axis "x ← negative" --> "x positive →"
@@ -88,7 +89,7 @@ To plot (x, y):
 2. Move x units horizontally (right if +, left if −)
 3. Move y units vertically (up if +, down if −)
 
-### 3.3 Slope (ความชัน) — ม.2
+### 3.3 Slope (ความชัน): ม.2
 
 > Slope = rise ÷ run = (y₂ − y₁) ÷ (x₂ − x₁)
 
@@ -99,19 +100,19 @@ To plot (x, y):
 | m = 0 | Horizontal line | `—` (flat) |
 | m = undefined | Vertical line | `\|` (straight up) |
 
-### 3.4 Linear Equation — Slope-Intercept Form
+### 3.4 Linear Equation: Slope-Intercept Form
 
 > y = mx + c
 
 Where:
-- **m** = slope — steepness and direction
-- **c** = y-intercept — where line crosses y-axis
+- **m** = slope: steepness and direction
+- **c** = y-intercept: where line crosses y-axis
 
 **Example:** y = 2x + 3
 - Slope m = 2: for every 1 unit right, go up 2
 - y-intercept c = 3: crosses y-axis at (0, 3)
 
-### 3.5 Distance and Midpoint — ม.3
+### 3.5 Distance and Midpoint: ม.3
 
 **Distance between two points (x₁, y₁) and (x₂, y₂):**
 
@@ -160,8 +161,8 @@ M = ((2+8)/2, (6+4)/2) = **(5, 5)**
 
 ## 5 | Cross-Links
 
-- [[04_Integers]] — Negative coordinates in QII, QIII, QIV
-- [[11_Basic_Algebra]] — Equations produce graphs
-- [[10_Patterns_and_Algebraic_Thinking]] — Patterns seen in graphs
-- [[12_Geometry_Shapes]] — Shapes on the coordinate plane
-- [[09_Ratios_and_Proportions]] — Slope as a rate of change
+- [[04_Integers]]: Negative coordinates in QII, QIII, QIV
+- [[11_Basic_Algebra]]: Equations produce graphs
+- [[10_Patterns_and_Algebraic_Thinking]]: Patterns seen in graphs
+- [[12_Geometry_Shapes]]: Shapes on the coordinate plane
+- [[09_Ratios_and_Proportions]]: Slope as a rate of change

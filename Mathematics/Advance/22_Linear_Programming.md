@@ -10,9 +10,9 @@ created: 2026-07-30
 course_codes: ["ค303"]
 ---
 
-# Linear Programming — กำหนดการเชิงเส้น
+# Linear Programming: กำหนดการเชิงเส้น
 
-> *"Linear programming finds the best outcome subject to given constraints — optimization made rigorous."*
+> *"Linear programming finds the best outcome subject to given constraints: optimization made rigorous."*
 
 Linear programming optimizes a linear objective function subject to linear constraints. This topic covers graphical methods for two-variable problems, the concept of feasible regions, and introduces the simplex method. Applications span economics, manufacturing, logistics, and resource allocation.
 
@@ -121,7 +121,7 @@ $Z$ values: $0, 25, 26, 18$
 $Z$ values: $45, 23, 32$
 **Minimum: $Z = 23$ at $(2, 3)$**
 
-### Type 3: Word Problem — Production
+### Type 3: Word Problem: Production
 > A factory makes product A ($x$ units, profit 300 baht/unit) and product B ($y$ units, profit 200 baht/unit). Each unit of A requires 2 hours of machine time and 1 hour of labor. Each unit of B requires 1 hour of machine time and 2 hours of labor. Available: 8 machine hours, 8 labor hours. Find optimal production.
 
 **Solution:**
@@ -149,7 +149,7 @@ $$2x + y \leq 8 \quad 	ext{(machine)}, \quad x + 2y \leq 8 \quad 	ext{(labor)}, 
 
 **Optimal:** Produce $8/3 \approx 2.67$ units of each. If integer solutions required, test $(2, 3)$ and $(3, 2)$: $Z(2,3) = 1200$, $Z(3,2) = 1300$. So $x = 3, y = 2$ gives integer optimum $Z = 1300$ baht.
 
-### Type 4: Word Problem — Diet (Minimization)
+### Type 4: Word Problem: Diet (Minimization)
 > Food X costs 4 baht/unit, Y costs 5 baht/unit. X provides 2 units of protein, Y provides 1 unit. X provides 1 unit of iron, Y provides 2 units. Minimum requirement: 8 units protein, 8 units iron. Find minimum cost.
 
 **Solution:**
@@ -179,7 +179,7 @@ $$2x + y \geq 8 \quad 	ext{(protein)}, \quad x + 2y \geq 8 \quad 	ext{(iron)}, \
 
 ## 5 | Cross-Links
 
-- [[04_Systems_of_Equations]] — Finding corner points
-- [[11_Matrices_and_Determinants]] — Simplex method uses matrices
-- [[12_Analytic_Geometry]] — Graphing constraints as lines
-- [[02_Real_Numbers_and_Inequalities]] — Linear inequalities
+- [[04_Systems_of_Equations]]: Finding corner points
+- [[11_Matrices_and_Determinants]]: Simplex method uses matrices
+- [[12_Analytic_Geometry]]: Graphing constraints as lines
+- [[02_Real_Numbers_and_Inequalities]]: Linear inequalities

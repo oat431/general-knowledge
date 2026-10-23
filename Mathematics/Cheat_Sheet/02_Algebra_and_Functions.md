@@ -9,7 +9,7 @@ sources: ["[[Fundamental/10_Patterns_and_Algebraic_Thinking]]", "[[Fundamental/1
 created: 2026-10-02
 ---
 
-# Algebra & Functions — Cheat Sheet
+# Algebra & Functions: Cheat Sheet
 
 > *The playbook of relationships: variables, equations, functions, and the moves that simplify them.*
 
@@ -121,6 +121,7 @@ Example: $3x + 2 = x + 10 \Rightarrow 2x = 8 \Rightarrow x = 4$. Check: $12+2 = 
 *When to use:* the universal first move for any one-variable equation.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     START["Equation to solve"] --> Q1{"Variable squared?"}
     Q1 -- "No" --> LIN["Linear: isolate x\n&#40;distribute, collect, divide&#41;"]

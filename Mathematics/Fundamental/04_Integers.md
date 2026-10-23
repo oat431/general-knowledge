@@ -10,9 +10,9 @@ created: 2026-07-22
 course_codes: ["ค122", "ค123", "ค211", "ค212", "ค213"]
 ---
 
-# Integers — จำนวนเต็ม
+# Integers: จำนวนเต็ม
 
-> *"The invention of negative numbers was one of the great conceptual leaps in mathematics — it turned subtraction into addition and opened the door to algebra."*
+> *"The invention of negative numbers was one of the great conceptual leaps in mathematics; it turned subtraction into addition and opened the door to algebra."*
 
 Integers extend the number system to include negative numbers and zero. Students learn to represent, compare, order, and perform all four operations with integers, building the essential foundation for algebra, coordinate geometry, and all higher mathematics.
 
@@ -71,6 +71,7 @@ $$\mathbb{Z} = \{\ldots, -3, -2, -1, 0, 1, 2, 3, \ldots\}$$
 ---
 title: Integer Number Line
 ---
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1FB854','primaryTextColor':'#CDD3D1','lineColor':'#1FB854','background':'#1B1717','gitBranchLabel0':'#CAC9C9','gitBranchLabel1':'#CAC9C9','gitBranchLabel2':'#CAC9C9','gitBranchLabel3':'#CAC9C9','commitLabelColor':'#000000','commitLabelBackground':'#1FB854','fontSize':'14px'}}}%%
 gitGraph
    commit id: "..." type: HIGHLIGHT
    commit id: "-3"
@@ -87,7 +88,7 @@ Numbers increase from **left to right**. Zero is highlighted as the origin. Dots
 
 ### 3.2 Absolute Value (ค่าสัมบูรณ์)
 
-The absolute value of a number is its **distance from zero** on the number line — always non-negative.
+The absolute value of a number is its **distance from zero** on the number line: always non-negative.
 
 | Expression | Value | Reason |
 |---|---|---|
@@ -117,7 +118,7 @@ $$a + (-a) = 0$$
 | −3 < 1 | −3 น้อยกว่า 1 | All negatives < positives |
 | 0 > −1 | 0 มากกว่า −1 | Zero is greater than any negative |
 
-### 3.5 Integer Operations — Sign Rules
+### 3.5 Integer Operations: Sign Rules
 
 #### Addition (การบวก)
 
@@ -211,9 +212,9 @@ $$-250 + 80 + (-120) = -250 + 80 - 120 = -290$$
 
 ## 5 | Cross-Links
 
-- [[01_Numbers_and_Numeration]] — Natural numbers are a subset of integers (ℕ ⊂ ℤ)
-- [[02_Arithmetic_Operations]] — Basic operation fluency with whole numbers
-- [[05_Fractions]] — Operations extend to negative fractions
-- [[07_Rational_Numbers]] — Integers as a subset of rational numbers (ℤ ⊂ ℚ)
-- [[11_Basic_Algebra]] — Solving equations with integers; generalizing sign rules
-- [[16_Coordinate_Plane]] — x and y axes extend into negative regions
+- [[01_Numbers_and_Numeration]]: Natural numbers are a subset of integers (ℕ ⊂ ℤ)
+- [[02_Arithmetic_Operations]]: Basic operation fluency with whole numbers
+- [[05_Fractions]]: Operations extend to negative fractions
+- [[07_Rational_Numbers]]: Integers as a subset of rational numbers (ℤ ⊂ ℚ)
+- [[11_Basic_Algebra]]: Solving equations with integers; generalizing sign rules
+- [[16_Coordinate_Plane]]: x and y axes extend into negative regions

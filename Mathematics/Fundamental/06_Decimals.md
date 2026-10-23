@@ -10,9 +10,9 @@ created: 2026-07-22
 course_codes: ["ค113", "ค121", "ค122", "ค123", "ค211", "ค212", "ค213"]
 ---
 
-# Decimals — ทศนิยม
+# Decimals: ทศนิยม
 
-> *"Decimals are simply fractions with denominators of 10, 100, 1000... — an elegant extension of the base-10 place value system that makes computation with fractional quantities as natural as working with whole numbers."*
+> *"Decimals are simply fractions with denominators of 10, 100, 1000..., an elegant extension of the base-10 place value system that makes computation with fractional quantities as natural as working with whole numbers."*
 
 Decimals extend the base-10 place value system to represent numbers smaller than one. Students learn to read, write, compare, and perform all operations with decimals, bridging the gap between whole numbers and the rational number system.
 
@@ -166,8 +166,8 @@ Move decimal 2 places: 840 ÷ 7 = **120**
 
 ## 5 | Cross-Links
 
-- [[01_Numbers_and_Numeration]] — Place value system is prerequisite
-- [[02_Arithmetic_Operations]] — Operation fluency required
-- [[05_Fractions]] — Fraction↔decimal equivalence
-- [[07_Rational_Numbers]] — Decimals as rational number representations
-- [[08_Percentages]] — Decimal↔percent conversions (multiply/divide by 100)
+- [[01_Numbers_and_Numeration]]: Place value system is prerequisite
+- [[02_Arithmetic_Operations]]: Operation fluency required
+- [[05_Fractions]]: Fraction↔decimal equivalence
+- [[07_Rational_Numbers]]: Decimals as rational number representations
+- [[08_Percentages]]: Decimal↔percent conversions (multiply/divide by 100)

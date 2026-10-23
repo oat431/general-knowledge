@@ -11,9 +11,9 @@ created: 2026-07-22
 course_codes: ["ค111", "ค112", "ค113", "ค121", "ค122", "ค123", "ค211", "ค212", "ค213"]
 ---
 
-# Patterns and Algebraic Thinking — รูปแบบและความสัมพันธ์
+# Patterns and Algebraic Thinking: รูปแบบและความสัมพันธ์
 
-> *"All of algebra begins with a simple observation: patterns exist. First we notice them. Then we describe them. Finally, we generalize them — and mathematics becomes a language for expressing relationships."*
+> *"All of algebra begins with a simple observation: patterns exist. First we notice them. Then we describe them. Finally, we generalize them, and mathematics becomes a language for expressing relationships."*
 
 Patterns and algebraic thinking form the bridge from arithmetic to algebra. Students progress from recognizing repeating patterns in early primary to writing algebraic expressions, equations, and analyzing functions in lower secondary. This is where mathematics shifts from computing specific answers to describing general relationships.
 
@@ -26,7 +26,7 @@ Patterns and algebraic thinking form the bridge from arithmetic to algebra. Stud
 | Grade | Scope | Key Skills |
 |---|---|---|
 | **ป.1** | Repeating patterns | Identifying and extending simple repeating patterns (e.g., 🟡🔵🟡🔵🟡🔵...); skip counting by 2, 5, 10 |
-| **ป.2** | Growing patterns | Recognizing patterns in numbers (e.g., 2, 4, 6, 8...); describing the rule in words; function machines (เครื่องคิดเลข) — "put a number in, get a number out" |
+| **ป.2** | Growing patterns | Recognizing patterns in numbers (e.g., 2, 4, 6, 8...); describing the rule in words; function machines (เครื่องคิดเลข): "put a number in, get a number out" |
 | **ป.3** | Pattern rules | Extending numerical and geometric patterns; finding the next term; expressing rules in simple words |
 
 ### ป.4–6 (Grades 4–6)
@@ -34,7 +34,7 @@ Patterns and algebraic thinking form the bridge from arithmetic to algebra. Stud
 | Grade | Scope | Key Skills |
 |---|---|---|
 | **ป.4** | Geometric and number patterns | Pattern analysis with shapes and numbers; finding the nth term for simple sequences; input/output tables (ตารางความสัมพันธ์) |
-| **ป.5** | Functional thinking | Finding the rule (function) from input/output tables; using variables (ตัวแปร) — represented by boxes or symbols like □ or △ |
+| **ป.5** | Functional thinking | Finding the rule (function) from input/output tables; using variables (ตัวแปร): represented by boxes or symbols like □ or △ |
 | **ป.6** | Pre-algebra | Writing simple algebraic expressions; understanding the equal sign as balance; introduction to solving simple equations using inverse operations |
 
 ### ม.1–3 (Grades 7–9)
@@ -131,13 +131,13 @@ Input (x) → [ f(x) = 2x + 1 ] → Output (y)
 | 2 | 2(2) + 1 | 5 |
 | 3 | 2(3) + 1 | 7 |
 
-### 3.6 Linear Functions (ฟังก์ชันเชิงเส้น) — ม.2
+### 3.6 Linear Functions (ฟังก์ชันเชิงเส้น): ม.2
 
 $$y = mx + c$$
 
 Where:
-- **m** = slope (ความชัน) — rate of change
-- **c** = y-intercept (จุดตัดแกน y) — where the line crosses y-axis
+- **m** = slope (ความชัน): rate of change
+- **c** = y-intercept (จุดตัดแกน y): where the line crosses y-axis
 
 ---
 
@@ -177,9 +177,9 @@ These are square numbers: 1², 2², 3², 4². 5th term = 5² = **25**.
 
 ## 5 | Cross-Links
 
-- [[02_Arithmetic_Operations]] — Patterns are built on repeated operations
-- [[11_Basic_Algebra]] — Formal algebra builds directly on pattern thinking
-- [[16_Coordinate_Plane]] — Graphing linear functions
-- [[09_Ratios_and_Proportions]] — Direct proportion as a linear pattern (y = kx)
-- [[17_Sets]] — Domain and range of functions as sets
-- [[20_Mathematical_Processes]] — Pattern recognition as a core mathematical process skill
+- [[02_Arithmetic_Operations]]: Patterns are built on repeated operations
+- [[11_Basic_Algebra]]: Formal algebra builds directly on pattern thinking
+- [[16_Coordinate_Plane]]: Graphing linear functions
+- [[09_Ratios_and_Proportions]]: Direct proportion as a linear pattern (y = kx)
+- [[17_Sets]]: Domain and range of functions as sets
+- [[20_Mathematical_Processes]]: Pattern recognition as a core mathematical process skill

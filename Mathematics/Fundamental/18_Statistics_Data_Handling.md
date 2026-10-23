@@ -10,9 +10,9 @@ created: 2026-07-22
 course_codes: ["ค111", "ค112", "ค113", "ค121", "ค122", "ค123", "ค211", "ค212", "ค213"]
 ---
 
-# Statistics and Data Handling — สถิติและการจัดการข้อมูล
+# Statistics and Data Handling: สถิติและการจัดการข้อมูล
 
-> *"In a world awash with data, statistics is the art of making sense of it — collecting, organizing, analyzing, and drawing meaningful conclusions from numbers."*
+> *"In a world awash with data, statistics is the art of making sense of it: collecting, organizing, analyzing, and drawing meaningful conclusions from numbers."*
 
 Statistics develops data literacy from the earliest grades. Students progress from simple tally marks and pictographs to calculating measures of central tendency and interpreting complex data displays. This topic builds critical thinking skills essential for science, social studies, and informed citizenship.
 
@@ -86,7 +86,7 @@ Statistics develops data literacy from the earliest grades. Students progress fr
 | **Mode** (ฐานนิยม) | Most frequent value | **7** (appears twice) |
 | **Range** (พิสัย) | Max − Min | 10 − 3 = **7** |
 
-> ⚠️ **Outliers** — the mean can be skewed by extreme values; the median is more robust.
+> ⚠️ **Outliers:** the mean can be skewed by extreme values; the median is more robust.
 
 ### 3.3 Choosing the Right Measure
 
@@ -99,7 +99,7 @@ Statistics develops data literacy from the earliest grades. Students progress fr
 ### 3.4 Interpreting Statistical Claims
 
 - **Correlation ≠ Causation** (ความสัมพันธ์ไม่ใช่สาเหตุ)
-- **Sample size matters** — small samples may be misleading
+- **Sample size matters:** small samples may be misleading
 - **Beware of cherry-picked data** and exaggerated axes on graphs
 
 ---
@@ -137,9 +137,9 @@ Sum = 5 × 12 = 60. Known sum = 10+11+13+14 = 48. Fifth = 60 − 48 = **12**.
 
 ## 5 | Cross-Links
 
-- [[02_Arithmetic_Operations]] — Computing means, sums
-- [[08_Percentages]] — Data in pie charts and percentages
-- [[17_Sets]] — Data classification with sets
-- [[19_Probability]] — Statistics and probability are deeply linked
-- [[16_Coordinate_Plane]] — Line graphs as plotting points
-- [[20_Mathematical_Processes]] — Data interpretation as a process skill
+- [[02_Arithmetic_Operations]]: Computing means, sums
+- [[08_Percentages]]: Data in pie charts and percentages
+- [[17_Sets]]: Data classification with sets
+- [[19_Probability]]: Statistics and probability are deeply linked
+- [[16_Coordinate_Plane]]: Line graphs as plotting points
+- [[20_Mathematical_Processes]]: Data interpretation as a process skill

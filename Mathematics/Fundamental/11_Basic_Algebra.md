@@ -10,11 +10,11 @@ created: 2026-07-22
 course_codes: ["ค211", "ค212", "ค213"]
 ---
 
-# Basic Algebra — พีชคณิตเบื้องต้น
+# Basic Algebra: พีชคณิตเบื้องต้น
 
 > *"Algebra is the moment mathematics stops being about numbers and starts being about relationships. It is the language in which all of higher mathematics is written."*
 
-Basic Algebra marks the transition from arithmetic (computing with known numbers) to algebra (reasoning about unknown quantities). This topic covers variables, expressions, equations, inequalities, and the properties that govern algebraic manipulation — the essential toolkit for all secondary mathematics and beyond.
+Basic Algebra marks the transition from arithmetic (computing with known numbers) to algebra (reasoning about unknown quantities). This topic covers variables, expressions, equations, inequalities, and the properties that govern algebraic manipulation: the essential toolkit for all secondary mathematics and beyond.
 
 ---
 
@@ -50,7 +50,7 @@ Basic Algebra marks the transition from arithmetic (computing with known numbers
 | คำตอบ | Solution | Value that satisfies the equation |
 | การแทนค่า | Substitution | Replacing variable with a value |
 | การแยกตัวประกอบ | Factoring | Expressing as a product |
-| วงเล็บ | Parentheses | ( ) — grouping symbols |
+| วงเล็บ | Parentheses | ( ), grouping symbols |
 | รากของสมการ | Root of equation | Solution |
 
 ---
@@ -171,9 +171,9 @@ Let w = width. Then l = w + 3. P = 2l + 2w = 26.
 
 ## 5 | Cross-Links
 
-- [[02_Arithmetic_Operations]] — Algebra as generalized arithmetic
-- [[10_Patterns_and_Algebraic_Thinking]] — Patterns lead to algebraic rules
-- [[04_Integers]] — Integer operations in equations
-- [[07_Rational_Numbers]] — Rational coefficients and solutions
-- [[16_Coordinate_Plane]] — Graphing linear equations
-- [[17_Sets]] — Solution sets
+- [[02_Arithmetic_Operations]]: Algebra as generalized arithmetic
+- [[10_Patterns_and_Algebraic_Thinking]]: Patterns lead to algebraic rules
+- [[04_Integers]]: Integer operations in equations
+- [[07_Rational_Numbers]]: Rational coefficients and solutions
+- [[16_Coordinate_Plane]]: Graphing linear equations
+- [[17_Sets]]: Solution sets

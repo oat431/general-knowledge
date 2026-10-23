@@ -11,9 +11,9 @@ created: 2026-07-22
 course_codes: ["ค211", "ค212", "ค213"]
 ---
 
-# Rational Numbers — จำนวนตรรกยะ
+# Rational Numbers: จำนวนตรรกยะ
 
-> *"Between any two rational numbers, there are infinitely many more — yet there are still gaps that only irrational numbers can fill. This is the beautiful tension at the heart of the real number system."*
+> *"Between any two rational numbers, there are infinitely many more; yet there are still gaps that only irrational numbers can fill. This is the beautiful tension at the heart of the real number system."*
 
 Rational numbers unify fractions, decimals, integers, and percentages under a single number system. This topic formalizes the definition, explores the relationship between rational and irrational numbers, and establishes the foundation for the real number system (ℝ).
 
@@ -32,7 +32,7 @@ Rational numbers unify fractions, decimals, integers, and percentages under a si
 | Grade | Scope | Key Skills |
 |---|---|---|
 | **ม.1** | Definition and representation | Rational numbers (จำนวนตรรกยะ) defined as a/b where a, b ∈ ℤ, b ≠ 0; expressing terminating and repeating decimals as fractions; comparing and ordering rational numbers; number line representation |
-| **ม.2** | Operations and properties | Operations with rational numbers; properties (closed under +, −, ×, ÷); density property — between any two rationals there exists another rational |
+| **ม.2** | Operations and properties | Operations with rational numbers; properties (closed under +, −, ×, ÷); density property: between any two rationals there exists another rational |
 | **ม.3** | Irrationals and real numbers | Introduction to irrational numbers (จำนวนอตรรกยะ); distinction: rationals CAN be written as a/b, irrationals CANNOT; examples (√2, π, e); real numbers (ℝ) = ℚ ∪ irrationals; rational approximation of irrationals |
 
 ---
@@ -87,7 +87,7 @@ x &= \frac{3}{9} = \frac{1}{3}
 | Closed under +, −, × | ✅ | Sum/difference/product of two rationals is rational |
 | Closed under ÷ | ✅ (except by 0) | Quotient of two rationals (b ≠ 0) is rational |
 | Density | ✅ Dense | Between any two rationals, there are infinitely many rationals |
-| Completeness | ❌ NOT complete | Gaps exist — filled by irrationals |
+| Completeness | ❌ NOT complete | Gaps exist: filled by irrationals |
 
 ### 3.4 Irrational Numbers
 
@@ -99,7 +99,7 @@ x &= \frac{3}{9} = \frac{1}{3}
 | √3 | Same proof as √2 | 1.73205081... |
 | π (Pi) | Proven irrational by Lambert (1761) | 3.14159265... |
 | e (Euler's number) | Proven irrational by Euler | 2.71828182... |
-| φ (Golden ratio) | (1+√5)/2 — contains √5 which is irrational | 1.61803399... |
+| φ (Golden ratio) | (1+√5)/2: contains √5 which is irrational | 1.61803399... |
 
 **Key distinction:**
 
@@ -112,6 +112,7 @@ x &= \frac{3}{9} = \frac{1}{3}
 ### 3.5 The Real Number System (ℝ)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     R["ℝ (Real Numbers)"]
     Q["ℚ (Rational Numbers)\nCan be written as a/b"]
@@ -171,10 +172,10 @@ Let x = 0.666..., then 10x = 6.666..., 9x = 6, x = 6/9 = **2/3**.
 
 ## 5 | Cross-Links
 
-- [[04_Integers]] — Integers are a subset of rational numbers (ℤ ⊂ ℚ)
-- [[05_Fractions]] — Primary representation of rational numbers
-- [[06_Decimals]] — Decimal representation of rational numbers
-- [[08_Percentages]] — Rational numbers expressed as per hundred
-- [[11_Basic_Algebra]] — Rational expressions and equations
-- [[17_Sets]] — The set hierarchy: ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ
-- [[01_Numbers_and_Numeration]] — Numbers at the most fundamental level
+- [[04_Integers]]: Integers are a subset of rational numbers (ℤ ⊂ ℚ)
+- [[05_Fractions]]: Primary representation of rational numbers
+- [[06_Decimals]]: Decimal representation of rational numbers
+- [[08_Percentages]]: Rational numbers expressed as per hundred
+- [[11_Basic_Algebra]]: Rational expressions and equations
+- [[17_Sets]]: The set hierarchy: ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ
+- [[01_Numbers_and_Numeration]]: Numbers at the most fundamental level

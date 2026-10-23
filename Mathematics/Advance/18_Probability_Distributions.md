@@ -10,9 +10,9 @@ created: 2026-07-30
 course_codes: ["ค303"]
 ---
 
-# Probability Distributions — การแจกแจงความน่าจะเป็น
+# Probability Distributions: การแจกแจงความน่าจะเป็น
 
-> *"A probability distribution describes the pattern of randomness — the shape of uncertainty."*
+> *"A probability distribution describes the pattern of randomness: the shape of uncertainty."*
 
 Probability distributions formalize how probabilities are assigned to outcomes. This topic covers discrete distributions (binomial, Poisson) and continuous distributions (normal), along with expected value and variance. These concepts form the backbone of statistical inference and data science.
 
@@ -38,7 +38,7 @@ Probability distributions formalize how probabilities are assigned to outcomes. 
 | Thai | English | Symbol |
 |---|---|---|
 | ตัวแปรสุ่ม | Random variable | $X$ |
-| การแจกแจง | Distribution | — |
+| การแจกแจง | Distribution | N/A |
 | การแจกแจงแบบไม่ต่อเนื่อง | Discrete distribution | PMF |
 | การแจกแจงแบบต่อเนื่อง | Continuous distribution | PDF |
 | ค่าคาดหวัง | Expected value / mean | $E(X)$, $\mu$ |
@@ -190,7 +190,7 @@ $\text{Var}(X) = 4.1 - 1.9^2 = 4.1 - 3.61 = 0.49$
 
 ## 5 | Cross-Links
 
-- [[17_Probability]] — Foundation probability concepts
-- [[19_Statistics]] — Statistical inference uses distributions
-- [[16_Integration]] — Continuous distributions use integrals
-- [[06_Exponential_and_Logarithmic_Functions]] — Poisson and normal use $e$
+- [[17_Probability]]: Foundation probability concepts
+- [[19_Statistics]]: Statistical inference uses distributions
+- [[16_Integration]]: Continuous distributions use integrals
+- [[06_Exponential_and_Logarithmic_Functions]]: Poisson and normal use $e$

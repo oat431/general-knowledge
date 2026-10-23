@@ -10,9 +10,9 @@ created: 2026-07-22
 course_codes: ["ค211", "ค212", "ค213"]
 ---
 
-# Sets — เซต
+# Sets: เซต
 
-> *"Set theory is the foundation of modern mathematics — a language for talking about collections, membership, and relationships between groups of things."*
+> *"Set theory is the foundation of modern mathematics: a language for talking about collections, membership, and relationships between groups of things."*
 
 Sets provide the formal language for talking about collections of objects. Introduced at the lower secondary level, set notation, operations, and Venn diagrams become essential tools for probability, statistics, logic, and all higher mathematics.
 
@@ -30,7 +30,7 @@ Sets provide the formal language for talking about collections of objects. Intro
 
 | Grade | Scope | Key Skills |
 |---|---|---|
-| **ม.1** | Set fundamentals | Set notation — roster form {a, b, c}, set-builder form {x \| condition}; universal set (U); empty set (∅); subset (⊂); element membership (∈); cardinality n(A) |
+| **ม.1** | Set fundamentals | Set notation: roster form {a, b, c}, set-builder form {x \| condition}; universal set (U); empty set (∅); subset (⊂); element membership (∈); cardinality n(A) |
 | **ม.2** | Set operations | Union (A ∪ B), intersection (A ∩ B), complement (A'); difference (A − B); Venn diagrams (2 and 3 sets); solving problems with Venn diagrams |
 | **ม.3** | Set applications | Sets in probability (sample space as set); sets in algebra (solution sets); sets in geometry (locus of points) |
 
@@ -80,14 +80,15 @@ $$A = \{x \mid x \text{ is a natural number and } 1 \leq x \leq 5\}$$
 
 | Operation | Definition | Venn Diagram |
 |---|---|---|
-| **Union (∪)** | All elements in A OR B (or both) | Overlapping circles — all area |
-| **Intersection (∩)** | Elements in BOTH A AND B | Overlapping circles — middle only |
+| **Union (∪)** | All elements in A OR B (or both) | Overlapping circles: all area |
+| **Intersection (∩)** | Elements in BOTH A AND B | Overlapping circles: middle only |
 | **Complement (A')** | Elements in U NOT in A | Everything outside circle A |
 | **Difference (A−B)** | Elements in A but NOT in B | A minus the overlap |
 
 ### 3.4 Venn Diagrams
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     subgraph U["Universal Set U"]
         subgraph A["Set A"]
@@ -133,7 +134,7 @@ A ∪ B = {1, 2, 3, 4, 5, 6}. A ∩ B = {3, 4}.
 ### Type 3: Complement
 > U = {1, 2, 3, 4, 5, 6, 7, 8}, A = {2, 4, 6}. Find A'.
 
-A' = {1, 3, 5, 7, 8} — all elements in U not in A.
+A' = {1, 3, 5, 7, 8}: all elements in U not in A.
 
 ### Type 4: Venn Diagram Problem
 > Of 100 students: 45 play football, 35 play basketball, 20 play both. How many play neither?
@@ -149,8 +150,8 @@ Use the inclusion-exclusion principle or Venn diagram to solve.
 
 ## 5 | Cross-Links
 
-- [[01_Numbers_and_Numeration]] — Number sets (ℕ, ℤ, ℚ, ℝ)
-- [[07_Rational_Numbers]] — Set hierarchy: ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ
-- [[18_Statistics_Data_Handling]] — Sets in data classification
-- [[19_Probability]] — Sample space as a set; events as subsets
-- [[11_Basic_Algebra]] — Solution sets of equations
+- [[01_Numbers_and_Numeration]]: Number sets (ℕ, ℤ, ℚ, ℝ)
+- [[07_Rational_Numbers]]: Set hierarchy: ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ
+- [[18_Statistics_Data_Handling]]: Sets in data classification
+- [[19_Probability]]: Sample space as a set; events as subsets
+- [[11_Basic_Algebra]]: Solution sets of equations

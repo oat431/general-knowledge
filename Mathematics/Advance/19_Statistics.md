@@ -10,9 +10,9 @@ created: 2026-07-30
 course_codes: ["ค303"]
 ---
 
-# Statistics — สถิติ
+# Statistics: สถิติ
 
-> *"Statistics is the science of learning from data — turning numbers into knowledge."*
+> *"Statistics is the science of learning from data: turning numbers into knowledge."*
 
 Statistics extends basic data handling to inferential methods: drawing conclusions about populations from samples. This topic covers measures of central tendency and dispersion, correlation, regression, sampling methods, and hypothesis testing.
 
@@ -41,7 +41,7 @@ Statistics extends basic data handling to inferential methods: drawing conclusio
 | กลุ่มตัวอย่าง | Sample | $n$ |
 | ค่าเฉลี่ย | Mean | $\bar{x}$, $\mu$ |
 | มัธยฐาน | Median | $\tilde{x}$ |
-| ฐานนิยม | Mode | — |
+| ฐานนิยม | Mode | N/A |
 | ความแปรปรวน | Variance | $s^2$, $\sigma^2$ |
 | ส่วนเบี่ยงเบนมาตรฐาน | Standard deviation | $s$, $\sigma$ |
 | ควอร์ไทล์ | Quartile | $Q_1, Q_2, Q_3$ |
@@ -49,7 +49,7 @@ Statistics extends basic data handling to inferential methods: drawing conclusio
 | การถดถอย | Regression | $\hat{y} = a + bx$ |
 | สมมุติฐานว่าง | Null hypothesis | $H_0$ |
 | สมมุติฐานทางเลือก | Alternative hypothesis | $H_1$ or $H_a$ |
-| ค่า p | p-value | — |
+| ค่า p | p-value | N/A |
 
 ---
 
@@ -116,7 +116,7 @@ For samples of size $n$ from a population with mean $\mu$ and standard deviation
 
 $$\bar{X} \sim N\left(\mu, \frac{\sigma^2}{n}\right)$$
 
-(approximately, for large $n$ — typically $n \geq 30$)
+(approximately, for large $n$, typically $n \geq 30$)
 
 ### 3.7 Hypothesis Testing
 
@@ -176,6 +176,6 @@ p-value $= P(Z < -2) = 0.0228 < 0.05$
 
 ## 5 | Cross-Links
 
-- [[Fundamental/18_Statistics_Data_Handling]] — Basic statistics foundation
-- [[18_Probability_Distributions]] — Normal distribution in inference
-- [[17_Probability]] — Probability basis for inference
+- [[Fundamental/18_Statistics_Data_Handling]]: Basic statistics foundation
+- [[18_Probability_Distributions]]: Normal distribution in inference
+- [[17_Probability]]: Probability basis for inference

@@ -10,7 +10,7 @@ created: 2026-07-30
 course_codes: ["ค301"]
 ---
 
-# Real Numbers and Inequalities — จำนวนจริงและอสมการ
+# Real Numbers and Inequalities: จำนวนจริงและอสมการ
 
 > *"The real number line is the stage on which all of calculus performs."*
 
@@ -47,8 +47,8 @@ This topic formalizes the real number system and extends students' understanding
 | ช่วง | Interval | (a, b), [a, b] |
 | ช่วงเปิด | Open interval | (a, b) |
 | ช่วงปิด | Closed interval | [a, b] |
-| สัจพจน์ของฟิลด์ | Field axioms | — |
-| สมบัติการเรียงลำดับ | Order properties | — |
+| สัจพจน์ของฟิลด์ | Field axioms | N/A |
+| สมบัติการเรียงลำดับ | Order properties | N/A |
 
 ---
 
@@ -193,8 +193,8 @@ $|x| - 3 = -2 \Rightarrow |x| = 1 \Rightarrow x = \pm 1$
 
 ## 5 | Cross-Links
 
-- [[Fundamental/01_Numbers_and_Numeration]] — Number system foundation
-- [[Fundamental/07_Rational_Numbers]] — Rational vs irrational
-- [[Fundamental/11_Basic_Algebra]] — Linear inequalities
-- [[05_Functions]] — Domains defined by inequalities
-- [[15_Differentiation]] — Finding critical points
+- [[Fundamental/01_Numbers_and_Numeration]]: Number system foundation
+- [[Fundamental/07_Rational_Numbers]]: Rational vs irrational
+- [[Fundamental/11_Basic_Algebra]]: Linear inequalities
+- [[05_Functions]]: Domains defined by inequalities
+- [[15_Differentiation]]: Finding critical points

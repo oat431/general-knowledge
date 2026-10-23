@@ -13,7 +13,7 @@ sources:
 created: 2026-10-02
 ---
 
-# Data, Probability & Statistics — Cheat Sheet
+# Data, Probability & Statistics: Cheat Sheet
 
 > The rulebook for turning raw numbers into decisions: collect data, describe it, then quantify uncertainty.
 
@@ -63,6 +63,7 @@ created: 2026-10-02
 | Box plot | : built from quartiles (ควอร์ไทล์) | Spread, skew, outliers | Comparing two classes |
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     START["What am I showing?"] --> Q1["Change over time?"]
     Q1 -->|Yes| LINE["Line graph\nแผนภูมิเส้น"]
@@ -256,6 +257,7 @@ $$C(n, r) = \binom{n}{r} = \frac{n!}{r!(n-r)!}$$
 *When to use:* Passwords, codes, dice rolled repeatedly.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     START["Counting problem"] --> Q1["Does order matter?"]
     Q1 -->|No| COMB["Combination\nC&#40;n,r&#41; = n! / r!&#40;n-r&#41;!"]

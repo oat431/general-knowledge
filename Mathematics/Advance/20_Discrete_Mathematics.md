@@ -11,11 +11,11 @@ created: 2026-07-30
 course_codes: ["ค303"]
 ---
 
-# Discrete Mathematics — คณิตศาสตร์ discrete
+# Discrete Mathematics: คณิตศาสตร์ discrete
 
-> *"Discrete mathematics studies structures that are separate and distinct — the mathematics of computation."*
+> *"Discrete mathematics studies structures that are separate and distinct: the mathematics of computation."*
 
-Discrete mathematics deals with countable, distinct structures rather than continuous quantities. This topic introduces graph theory, combinatorics, and recurrence relations — the mathematical foundations of computer science, algorithms, and network analysis.
+Discrete mathematics deals with countable, distinct structures rather than continuous quantities. This topic introduces graph theory, combinatorics, and recurrence relations: the mathematical foundations of computer science, algorithms, and network analysis.
 
 ---
 
@@ -194,7 +194,7 @@ $|A \cup B| = 50 + 33 - 16 = 67$
 
 ## 5 | Cross-Links
 
-- [[01_Sets_and_Logic]] — Set operations, logic
-- [[17_Probability]] — Counting principles
-- [[08_Sequences_and_Series]] — Recurrence relations
-- [[05_Computer Science - Overview]] — Algorithms, data structures
+- [[01_Sets_and_Logic]]: Set operations, logic
+- [[17_Probability]]: Counting principles
+- [[08_Sequences_and_Series]]: Recurrence relations
+- [[05_Computer Science - Overview]]: Algorithms, data structures

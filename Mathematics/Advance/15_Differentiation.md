@@ -11,9 +11,9 @@ created: 2026-07-30
 course_codes: ["ค302"]
 ---
 
-# Differentiation — การหาอนุพันธ์
+# Differentiation: การหาอนุพันธ์
 
-> *"The derivative measures change — how fast, how steep, how sensitive. It is calculus in action."*
+> *"The derivative measures change: how fast, how steep, how sensitive. It is calculus in action."*
 
 Differentiation is the process of finding the derivative, which measures the instantaneous rate of change of a function. This topic covers derivative rules, implicit differentiation, and applications including optimization, related rates, and curve analysis. It is the central tool of differential calculus.
 
@@ -56,6 +56,7 @@ Differentiation is the process of finding the derivative, which measures the ins
 ### Optimization Decision Flow
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     START["Find f prime&#40;x&#41;"] --> CRIT["Set f prime&#40;x&#41; = 0\nFind critical points"]
     CRIT --> TEST["Choose test method"]
@@ -222,8 +223,8 @@ Max product = $100$
 
 ## 5 | Cross-Links
 
-- [[14_Limits_and_Continuity]] — Derivative is a limit
-- [[05_Functions]] — Analyzing function behavior
-- [[16_Integration]] — Integration reverses differentiation
-- [[12_Analytic_Geometry]] — Tangent lines to conics
-- [[01_Physics - Overview]] — Velocity, acceleration, related rates
+- [[14_Limits_and_Continuity]]: Derivative is a limit
+- [[05_Functions]]: Analyzing function behavior
+- [[16_Integration]]: Integration reverses differentiation
+- [[12_Analytic_Geometry]]: Tangent lines to conics
+- [[01_Physics - Overview]]: Velocity, acceleration, related rates

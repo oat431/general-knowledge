@@ -11,7 +11,7 @@ created: 2026-07-22
 course_codes: ["ค122", "ค123", "ค211", "ค212", "ค213"]
 ---
 
-# Volume and Surface Area — ปริมาตรและพื้นที่ผิว
+# Volume and Surface Area: ปริมาตรและพื้นที่ผิว
 
 > *"Volume measures the space a 3D object occupies; surface area measures the 'skin' that wraps around it. Together they teach students to think in three dimensions."*
 
@@ -117,8 +117,8 @@ V = ⁴⁄₃ × π × 3³ = ⁴⁄₃ × π × 27 = **36π ≈ 113.1 cm³**.
 
 ## 5 | Cross-Links
 
-- [[12_Geometry_Shapes]] — 3D shapes and their properties
-- [[13_Measurement]] — Units and conversions
-- [[14_Area_and_Perimeter]] — Computing base areas; 2D prerequisite
-- [[05_Fractions]] — The ⅓ factor in pyramids/cones
-- [[11_Basic_Algebra]] — Solving for missing dimension
+- [[12_Geometry_Shapes]]: 3D shapes and their properties
+- [[13_Measurement]]: Units and conversions
+- [[14_Area_and_Perimeter]]: Computing base areas; 2D prerequisite
+- [[05_Fractions]]: The ⅓ factor in pyramids/cones
+- [[11_Basic_Algebra]]: Solving for missing dimension

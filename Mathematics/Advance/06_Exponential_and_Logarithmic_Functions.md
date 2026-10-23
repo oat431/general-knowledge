@@ -10,11 +10,11 @@ created: 2026-07-30
 course_codes: ["ค301"]
 ---
 
-# Exponential and Logarithmic Functions — ฟังก์ชันเอกซ์โพเนนเชียลและลอการิทึม
+# Exponential and Logarithmic Functions: ฟังก์ชันเอกซ์โพเนนเชียลและลอการิทึม
 
-> *"Exponential growth is the most powerful force in the universe — and logarithms are its decoder ring."*
+> *"Exponential growth is the most powerful force in the universe, and logarithms are its decoder ring."*
 
-Exponential and logarithmic functions model phenomena that grow or decay at rates proportional to their current value — from population growth and radioactive decay to compound interest and sound intensity. These functions are inverses of each other and form a critical bridge to calculus.
+Exponential and logarithmic functions model phenomena that grow or decay at rates proportional to their current value: from population growth and radioactive decay to compound interest and sound intensity. These functions are inverses of each other and form a critical bridge to calculus.
 
 ---
 
@@ -196,8 +196,8 @@ $t = \frac{8 \ln(0.25)}{-\ln 2} = \frac{8 \cdot (-2\ln 2)}{\ln 2} = 16$ days
 
 ## 5 | Cross-Links
 
-- [[05_Functions]] — Function properties and inverses
-- [[08_Sequences_and_Series]] — Geometric sequences relate to exponential growth
-- [[14_Limits_and_Continuity]] — Limits involving $e$
-- [[15_Differentiation]] — Derivatives of exponential and log functions
-- [[16_Integration]] — Integrals involving $1/x$
+- [[05_Functions]]: Function properties and inverses
+- [[08_Sequences_and_Series]]: Geometric sequences relate to exponential growth
+- [[14_Limits_and_Continuity]]: Limits involving $e$
+- [[15_Differentiation]]: Derivatives of exponential and log functions
+- [[16_Integration]]: Integrals involving $1/x$

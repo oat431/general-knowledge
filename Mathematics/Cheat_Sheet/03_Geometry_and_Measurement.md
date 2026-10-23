@@ -9,9 +9,9 @@ sources: ["[[Fundamental/12_Geometry_Shapes]]", "[[Fundamental/13_Measurement]]"
 created: 2026-10-02
 ---
 
-# Geometry & Measurement — Cheat Sheet
+# Geometry & Measurement: Cheat Sheet
 
-> *The space-and-measure rulebook: angles, shapes, areas, volumes, units, coordinates, and right-triangle trig — every formula with one quick play.*
+> *The space-and-measure rulebook: angles, shapes, areas, volumes, units, coordinates, and right-triangle trig: every formula with one quick play.*
 
 ---
 
@@ -71,6 +71,7 @@ $$\text{Interior sum} = (n - 2) \times 180^\circ$$
 ### Rule 1.5: Shape Classification Tree
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     S["2D Shapes"] --> T["Triangle &#40;สามเหลี่ยม&#41;"]
     S --> Q["Quadrilateral &#40;สี่เหลี่ยม&#41;"]

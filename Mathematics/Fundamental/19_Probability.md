@@ -10,9 +10,9 @@ created: 2026-07-22
 course_codes: ["ค123", "ค211", "ค212", "ค213"]
 ---
 
-# Probability — ความน่าจะเป็น
+# Probability: ความน่าจะเป็น
 
-> *"Probability is the mathematics of uncertainty — it quantifies our intuition about chance and equips us to make rational decisions in an unpredictable world."*
+> *"Probability is the mathematics of uncertainty; it quantifies our intuition about chance and equips us to make rational decisions in an unpredictable world."*
 
 Probability moves students from deterministic thinking (one right answer) to probabilistic thinking (a range of possible outcomes with different likelihoods). Students progress from describing events as certain, likely, or impossible to calculating theoretical and experimental probabilities.
 
@@ -21,7 +21,7 @@ Probability moves students from deterministic thinking (one right answer) to pro
 ## 1 | Grade Band Breakdown
 
 ### ป.1–3 (Grades 1–3)
-- Informal: language of chance — "certain" (แน่นอน), "likely" (อาจจะ), "unlikely" (ไม่น่าจะ), "impossible" (เป็นไปไม่ได้).
+- Informal: language of chance, "certain" (แน่นอน), "likely" (อาจจะ), "unlikely" (ไม่น่าจะ), "impossible" (เป็นไปไม่ได้).
 
 ### ป.4–6 (Grades 4–6)
 
@@ -63,6 +63,7 @@ Probability moves students from deterministic thinking (one right answer) to pro
 ### 3.1 The Probability Scale
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     subgraph Scale["Probability Scale: 0 (Impossible) ⟶ 0.5 (Even) ⟶ 1 (Certain)"]
         direction LR
@@ -95,7 +96,7 @@ flowchart LR
 
 ### 3.5 Probability Rules (ม.2)
 
-**The "OR" rule (addition — mutually exclusive events):**
+**The "OR" rule (addition, mutually exclusive events):**
 
 $$P(A \text{ or } B) = P(A) + P(B)$$
 
@@ -103,7 +104,7 @@ If events are **not** mutually exclusive:
 
 $$P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)$$
 
-**The "AND" rule (multiplication — independent events):**
+**The "AND" rule (multiplication, independent events):**
 
 $$P(A \text{ and } B) = P(A) \times P(B)$$
 
@@ -138,7 +139,7 @@ P(H) = 1/2, P(6) = 1/6. P(H AND 6) = 1/2 × 1/6 = **1/12**.
 P(heart) = 13/52, P(king) = 4/52, P(heart AND king) = 1/52 (king of hearts).
 P(heart OR king) = 13/52 + 4/52 − 1/52 = 16/52 = **4/13**.
 
-### Type 5: Conditional — Marbles Without Replacement
+### Type 5: Conditional: Marbles Without Replacement
 > Bag has 4 red, 6 blue. Draw two without replacement. P(both red)?
 
 P(1st red) = 4/10 = 2/5. P(2nd red \| 1st red) = 3/9 = 1/3. P(both red) = 2/5 × 1/3 = **2/15**.
@@ -147,9 +148,9 @@ P(1st red) = 4/10 = 2/5. P(2nd red \| 1st red) = 3/9 = 1/3. P(both red) = 2/5 ×
 
 ## 5 | Cross-Links
 
-- [[05_Fractions]] — Probability expressed as fractions
-- [[06_Decimals]] — Decimal and percent forms of probability
-- [[08_Percentages]] — Probability as percentage (e.g., 30% chance)
-- [[17_Sets]] — Sample space as a set; events as subsets
-- [[18_Statistics_Data_Handling]] — Experimental probability from data
-- [[02_Arithmetic_Operations]] — Counting favorable outcomes
+- [[05_Fractions]]: Probability expressed as fractions
+- [[06_Decimals]]: Decimal and percent forms of probability
+- [[08_Percentages]]: Probability as percentage (e.g., 30% chance)
+- [[17_Sets]]: Sample space as a set; events as subsets
+- [[18_Statistics_Data_Handling]]: Experimental probability from data
+- [[02_Arithmetic_Operations]]: Counting favorable outcomes

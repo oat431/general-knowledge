@@ -10,7 +10,7 @@ created: 2026-07-30
 course_codes: ["ค301"]
 ---
 
-# Sets and Logic — เซตและตรรกศาสตร์
+# Sets and Logic: เซตและตรรกศาสตร์
 
 > *"Logic is the beginning of wisdom, not the end. Sets provide the language; logic provides the rules."*
 
@@ -47,7 +47,7 @@ Sets and Logic form the foundational language of mathematics at the high school 
 | คอมพลีเมนต์ | Complement | A' |
 | ประพจน์ | Proposition | p, q, r |
 | ตัวเชื่อม | Connective | ∧, ∨, →, ↔, ~ |
-| ตารางค่าความจริง | Truth table | — |
+| ตารางค่าความจริง | Truth table | N/A |
 | สัจนิรันดร์ | Tautology | Always true |
 | ข้อขัดแย้ง | Contradiction | Always false |
 | สมมูล | Logical equivalence | ≡ |
@@ -186,7 +186,7 @@ So **95 students** like at least one subject.
 
 ## 5 | Cross-Links
 
-- [[Fundamental/17_Sets]] — Foundation from ม.1–3
-- [[02_Real_Numbers_and_Inequalities]] — Solution sets of inequalities
-- [[05_Functions]] — Functions as relations (subsets of Cartesian products)
-- [[21_Mathematical_Reasoning]] — Proof techniques build on logic
+- [[Fundamental/17_Sets]]: Foundation from ม.1–3
+- [[02_Real_Numbers_and_Inequalities]]: Solution sets of inequalities
+- [[05_Functions]]: Functions as relations (subsets of Cartesian products)
+- [[21_Mathematical_Reasoning]]: Proof techniques build on logic

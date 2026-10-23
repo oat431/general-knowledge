@@ -10,7 +10,7 @@ created: 2026-07-22
 course_codes: ["ค111", "ค112", "ค113", "ค121", "ค122", "ค123", "ค211", "ค212", "ค213"]
 ---
 
-# Numbers and Numeration — จำนวนและการนับ
+# Numbers and Numeration: จำนวนและการนับ
 
 > *"The concept of number is the foundation upon which all of mathematics is built."*
 
@@ -25,7 +25,7 @@ This note covers the foundational concept of number sense, place value, and nume
 | Grade | Scope | Key Skills |
 |---|---|---|
 | **ป.1** | Numbers 1–100 | Counting; reading/writing Hindu-Arabic and Thai numerals (เลขไทย ๑–๑๐๐); comparing; ordering; cardinal and ordinal numbers (จำนวนนับ, จำนวนเชิงอันดับที่); zero (ศูนย์) |
-| **ป.2** | Numbers up to 1,000 | Place value — ones, tens, hundreds (หลักหน่วย, หลักสิบ, หลักร้อย); expanded form; comparing using `>`, `<`, `=` |
+| **ป.2** | Numbers up to 1,000 | Place value: ones, tens, hundreds (หลักหน่วย, หลักสิบ, หลักร้อย); expanded form; comparing using `>`, `<`, `=` |
 | **ป.3** | Numbers up to 100,000 | Place value to ten-thousands (หลักหมื่น); reading/writing in both numeral systems; rounding to nearest ten/hundred/thousand |
 
 ### ป.4–6 (Grades 4–6)
@@ -41,7 +41,7 @@ This note covers the foundational concept of number sense, place value, and nume
 | Grade | Scope | Key Skills |
 |---|---|---|
 | **ม.1** | Scientific notation | สัญกรณ์วิทยาศาสตร์; real-world large numbers; significant figures |
-| **ม.2** | Number systems | Natural numbers (จำนวนนับ), whole numbers, integers (จำนวนเต็ม) — formal classification |
+| **ม.2** | Number systems | Natural numbers (จำนวนนับ), whole numbers, integers (จำนวนเต็ม): formal classification |
 | **ม.3** | Real numbers | Rational vs irrational distinction; real numbers (จำนวนจริง); number line representation; properties of real numbers |
 
 ---
@@ -104,8 +104,8 @@ Compare digits from the **leftmost (highest)** place value. The first differing 
 
 ### 3.5 Even and Odd
 
-- **Even numbers (จำนวนคู่):** Divisible by 2 — last digit is 0, 2, 4, 6, or 8
-- **Odd numbers (จำนวนคี่):** Not divisible by 2 — last digit is 1, 3, 5, 7, or 9
+- **Even numbers (จำนวนคู่):** Divisible by 2: last digit is 0, 2, 4, 6, or 8
+- **Odd numbers (จำนวนคี่):** Not divisible by 2: last digit is 1, 3, 5, 7, or 9
 
 ### 3.6 Prime and Composite Numbers
 
@@ -161,22 +161,22 @@ First 10 primes: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29
 
 ```
 ℝ (Real Numbers)
-├── ℚ (Rational Numbers) — can be written as a/b
+├── ℚ (Rational Numbers): can be written as a/b
 │   ├── ℤ (Integers)
 │   │   ├── {0}
 │   │   ├── Positive integers (ℤ⁺) ≡ ℕ (Natural numbers)
 │   │   └── Negative integers (ℤ⁻)
 │   └── Non-integer rationals (terminating or repeating decimals)
-└── Irrationals — cannot be written as a/b (e.g., √2, π)
+└── Irrationals: cannot be written as a/b (e.g., √2, π)
 ```
 
 ---
 
 ## 6 | Cross-Links
 
-- [[02_Arithmetic_Operations]] — Operations performed on numbers
-- [[03_Factors_Multiples_and_Number_Theory]] — Prime/composite classification and factorization
-- [[04_Integers]] — Extension of number system to negative numbers
-- [[06_Decimals]] — Place value extension to decimal fractions (tenths, hundredths)
-- [[07_Rational_Numbers]] — Classification of numbers as rational or irrational
-- [[05_Fractions]] — Numbers expressed as ratios
+- [[02_Arithmetic_Operations]]: Operations performed on numbers
+- [[03_Factors_Multiples_and_Number_Theory]]: Prime/composite classification and factorization
+- [[04_Integers]]: Extension of number system to negative numbers
+- [[06_Decimals]]: Place value extension to decimal fractions (tenths, hundredths)
+- [[07_Rational_Numbers]]: Classification of numbers as rational or irrational
+- [[05_Fractions]]: Numbers expressed as ratios

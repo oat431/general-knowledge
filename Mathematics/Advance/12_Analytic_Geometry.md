@@ -10,11 +10,11 @@ created: 2026-07-30
 course_codes: ["ค302"]
 ---
 
-# Analytic Geometry — เรขาคณิตวิเคราะห์
+# Analytic Geometry: เรขาคณิตวิเคราะห์
 
-> *"Analytic geometry bridges algebra and geometry — every curve is an equation, every equation is a curve."*
+> *"Analytic geometry bridges algebra and geometry: every curve is an equation, every equation is a curve."*
 
-Analytic geometry uses algebraic equations to describe geometric objects in the coordinate plane. This topic covers lines, circles, and conic sections (parabolas, ellipses, hyperbolas) — foundational for physics (orbital mechanics), engineering (antenna design), and computer graphics.
+Analytic geometry uses algebraic equations to describe geometric objects in the coordinate plane. This topic covers lines, circles, and conic sections (parabolas, ellipses, hyperbolas): foundational for physics (orbital mechanics), engineering (antenna design), and computer graphics.
 
 ---
 
@@ -37,7 +37,7 @@ Analytic geometry uses algebraic equations to describe geometric objects in the 
 
 | Thai | English | Symbol |
 |---|---|---|
-| เรขาคณิตวิเคราะห์ | Analytic geometry | — |
+| เรขาคณิตวิเคราะห์ | Analytic geometry | N/A |
 | ความชัน | Slope | $m$ |
 | วงกลม | Circle | $(x-h)^2 + (y-k)^2 = r^2$ |
 | พาราโบลา | Parabola | $y = ax^2 + bx + c$ |
@@ -46,9 +46,9 @@ Analytic geometry uses algebraic equations to describe geometric objects in the 
 | จุดโฟกัส | Focus | $F$ |
 | เส้นไดเรกตริกซ์ | Directrix | Directrix line |
 | จุดศูนย์กลาง | Center | $(h, k)$ |
-| จุดยอด | Vertex | — |
+| จุดยอด | Vertex | N/A |
 | ความเยื้องศูนย์กลาง | Eccentricity | $e$ |
-| เส้นกำกับ | Asymptote | — |
+| เส้นกำกับ | Asymptote | N/A |
 
 ---
 
@@ -57,6 +57,7 @@ Analytic geometry uses algebraic equations to describe geometric objects in the 
 ### The Conic Section Family
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     CONE["Double Cone"] --> ANGLE["Cutting Plane Angle"]
     ANGLE --> HORIZ["Perpendicular to axis"]
@@ -218,7 +219,7 @@ Since $\Delta < 0$ and $A \neq C$: **Ellipse**
 
 ## 5 | Cross-Links
 
-- [[Fundamental/16_Coordinate_Plane]] — Coordinate geometry foundation
-- [[13_Vectors]] — Vector representation of conics
-- [[15_Differentiation]] — Tangent lines to curves
-- [[01_Physics - Overview]] — Projectile motion (parabolas), orbits (ellipses)
+- [[Fundamental/16_Coordinate_Plane]]: Coordinate geometry foundation
+- [[13_Vectors]]: Vector representation of conics
+- [[15_Differentiation]]: Tangent lines to curves
+- [[01_Physics - Overview]]: Projectile motion (parabolas), orbits (ellipses)

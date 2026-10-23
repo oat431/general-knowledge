@@ -10,9 +10,9 @@ created: 2026-07-30
 course_codes: ["ค303"]
 ---
 
-# Mathematical Reasoning — การให้เหตุผลทางคณิตศาสตร์
+# Mathematical Reasoning: การให้เหตุผลทางคณิตศาสตร์
 
-> *"Mathematics is not about calculation — it is about proof. A proof is an argument that convinces."*
+> *"Mathematics is not about calculation; it is about proof. A proof is an argument that convinces."*
 
 Mathematical reasoning formalizes how mathematicians think and argue. This topic covers proof techniques (direct, contradiction, contrapositive, induction), strategies for approaching proofs, and the logical structure underlying all mathematics.
 
@@ -57,6 +57,7 @@ Mathematical reasoning formalizes how mathematicians think and argue. This topic
 ### Proof Technique Selection Guide
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     START["Statement to Prove"] --> TYPE["What form is the statement?"]
     TYPE -->|If P then Q| Q1["Can you derive Q from P directly?"]
@@ -186,7 +187,7 @@ $\blacksquare$
 
 ## 5 | Cross-Links
 
-- [[01_Sets_and_Logic]] — Logical connectives, quantifiers, truth tables
-- [[08_Sequences_and_Series]] — Mathematical induction
-- [[02_Real_Numbers_and_Inequalities]] — Proof properties of real numbers
-- [[20_Discrete_Mathematics]] — Graph theory proofs
+- [[01_Sets_and_Logic]]: Logical connectives, quantifiers, truth tables
+- [[08_Sequences_and_Series]]: Mathematical induction
+- [[02_Real_Numbers_and_Inequalities]]: Proof properties of real numbers
+- [[20_Discrete_Mathematics]]: Graph theory proofs

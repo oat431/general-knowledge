@@ -10,9 +10,9 @@ created: 2026-07-30
 course_codes: ["ค302"]
 ---
 
-# Integration — การอินทิเกรต
+# Integration: การอินทิเกรต
 
-> *"Integration is accumulation — adding up infinitely many infinitely small pieces."*
+> *"Integration is accumulation: adding up infinitely many infinitely small pieces."*
 
 Integration is the reverse process of differentiation. This topic covers antiderivatives, definite and indefinite integrals, the Fundamental Theorem of Calculus, and techniques for evaluating integrals. Applications include finding area, volume, and total accumulation from rates of change.
 
@@ -192,7 +192,7 @@ $= \pi\left[\left(8-\frac{8}{3}\right) - \left(-8+\frac{8}{3}\right)\right] = \p
 
 ## 5 | Cross-Links
 
-- [[15_Differentiation]] — Integration is reverse of differentiation
-- [[14_Limits_and_Continuity]] — Integral defined via limits (Riemann sums)
-- [[05_Functions]] — Area and volume from function graphs
-- [[01_Physics - Overview]] — Work, displacement from velocity, center of mass
+- [[15_Differentiation]]: Integration is reverse of differentiation
+- [[14_Limits_and_Continuity]]: Integral defined via limits (Riemann sums)
+- [[05_Functions]]: Area and volume from function graphs
+- [[01_Physics - Overview]]: Work, displacement from velocity, center of mass

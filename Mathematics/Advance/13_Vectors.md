@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ค302"]
 ---
 
-# Vectors — เวกเตอร์
+# Vectors: เวกเตอร์
 
-> *"Vectors are arrows with attitude — they carry both magnitude and direction, the language of physics and computer graphics."*
+> *"Vectors are arrows with attitude; they carry both magnitude and direction, the language of physics and computer graphics."*
 
 Vectors represent quantities with both magnitude and direction, essential for physics (forces, velocities), engineering (stress analysis), and computer science (3D graphics, machine learning). This topic covers vector operations, dot and cross products, and applications to geometry and physics.
 
@@ -175,7 +175,7 @@ $2x - y + 4z = 12$
 
 ## 5 | Cross-Links
 
-- [[07_Trigonometric_Functions]] — Direction angles
-- [[11_Matrices_and_Determinants]] — Cross product via determinant
-- [[15_Differentiation]] — Gradient vectors
-- [[01_Physics - Overview]] — Force, velocity, acceleration vectors
+- [[07_Trigonometric_Functions]]: Direction angles
+- [[11_Matrices_and_Determinants]]: Cross product via determinant
+- [[15_Differentiation]]: Gradient vectors
+- [[01_Physics - Overview]]: Force, velocity, acceleration vectors

@@ -10,11 +10,11 @@ created: 2026-07-30
 course_codes: ["ค301"]
 ---
 
-# Trigonometric Functions — ฟังก์ชันตรีโกณมิติ
+# Trigonometric Functions: ฟังก์ชันตรีโกณมิติ
 
-> *"Trigonometry is the mathematics of cycles, waves, and rotation — the language of periodic phenomena."*
+> *"Trigonometry is the mathematics of cycles, waves, and rotation: the language of periodic phenomena."*
 
-Trigonometric functions extend the basic ratios learned in geometry to functions defined on all real numbers via the unit circle. This topic covers radian measure, the six trig functions, their graphs, identities, and inverse functions — preparing students for calculus and physics applications.
+Trigonometric functions extend the basic ratios learned in geometry to functions defined on all real numbers via the unit circle. This topic covers radian measure, the six trig functions, their graphs, identities, and inverse functions, preparing students for calculus and physics applications.
 
 ---
 
@@ -206,8 +206,8 @@ $\cos(\pi/4) = \sqrt{2}/2$, so $\cos(\pi - \pi/4) = \cos(3\pi/4) = -\sqrt{2}/2$.
 
 ## 5 | Cross-Links
 
-- [[Fundamental/12_Geometry_Shapes]] — Basic angle concepts
-- [[09_Trigonometric_Equations]] — Solving trig equations
-- [[14_Limits_and_Continuity]] — Limits involving trig functions
-- [[15_Differentiation]] — Derivatives of trig functions
-- [[13_Vectors]] — Direction angles and components
+- [[Fundamental/12_Geometry_Shapes]]: Basic angle concepts
+- [[09_Trigonometric_Equations]]: Solving trig equations
+- [[14_Limits_and_Continuity]]: Limits involving trig functions
+- [[15_Differentiation]]: Derivatives of trig functions
+- [[13_Vectors]]: Direction angles and components

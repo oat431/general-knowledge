@@ -10,9 +10,9 @@ created: 2026-07-22
 course_codes: ["ค121", "ค122", "ค123", "ค211", "ค212", "ค213"]
 ---
 
-# Percentages — ร้อยละ
+# Percentages: ร้อยละ
 
-> *"Percent simply means 'per hundred' — a brilliantly simple idea that lets us compare quantities, measure change, and make financial decisions using a common scale."*
+> *"Percent simply means 'per hundred': a brilliantly simple idea that lets us compare quantities, measure change, and make financial decisions using a common scale."*
 
 Percentages are a special type of fraction with denominator 100. This topic covers the full spectrum: from understanding what a percentage means, through conversion between forms, to real-world applications including discounts, profit/loss, interest, and statistical interpretation.
 
@@ -160,9 +160,9 @@ Price before VAT = 2,140 ÷ 1.07 = **2,000 ฿**.
 
 ## 5 | Cross-Links
 
-- [[05_Fractions]] — Percentages are fractions with denominator 100
-- [[06_Decimals]] — Percent↔decimal conversions
-- [[07_Rational_Numbers]] — Percentages as rational numbers
-- [[09_Ratios_and_Proportions]] — Proportional reasoning in percentage problems
-- [[18_Statistics_Data_Handling]] — Percentages in statistical graphs (pie charts)
-- [[19_Probability]] — Probability expressed as percentage
+- [[05_Fractions]]: Percentages are fractions with denominator 100
+- [[06_Decimals]]: Percent↔decimal conversions
+- [[07_Rational_Numbers]]: Percentages as rational numbers
+- [[09_Ratios_and_Proportions]]: Proportional reasoning in percentage problems
+- [[18_Statistics_Data_Handling]]: Percentages in statistical graphs (pie charts)
+- [[19_Probability]]: Probability expressed as percentage

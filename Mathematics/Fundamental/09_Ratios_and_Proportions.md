@@ -10,9 +10,9 @@ created: 2026-07-22
 course_codes: ["ค122", "ค123", "ค211", "ค212", "ค213"]
 ---
 
-# Ratios and Proportions — อัตราส่วนและสัดส่วน
+# Ratios and Proportions: อัตราส่วนและสัดส่วน
 
-> *"A ratio compares; a proportion equates. Together they form the backbone of proportional reasoning — perhaps the most practically useful mathematical skill in everyday life."*
+> *"A ratio compares; a proportion equates. Together they form the backbone of proportional reasoning: perhaps the most practically useful mathematical skill in everyday life."*
 
 Ratios express the relationship between quantities, and proportions extend this to solve problems involving scale, speed, mixtures, and more. This topic builds from simple ratio notation through direct and inverse proportion to real-world applications.
 
@@ -34,7 +34,7 @@ Ratios express the relationship between quantities, and proportions extend this 
 
 | Grade | Scope | Key Skills |
 |---|---|---|
-| **ม.1** | Proportional reasoning | Direct proportion — solving using cross-multiplication; inverse proportion; the unitary method |
+| **ม.1** | Proportional reasoning | Direct proportion: solving using cross-multiplication; inverse proportion; the unitary method |
 | **ม.2** | Complex proportions | Combined proportion problems; map scales; similar figures and scale factors |
 | **ม.3** | Applied proportions | Proportional reasoning in functions; linear functions (y = kx as direct proportion); rates of change |
 
@@ -65,7 +65,7 @@ A **ratio** compares two or more quantities of the same kind:
 
 $$a : b \quad \text{or} \quad \frac{a}{b}$$
 
-Ratios have **no units** — they are pure numbers.
+Ratios have **no units**; they are pure numbers.
 
 **Simplifying ratios** (like simplifying fractions):
 
@@ -164,7 +164,7 @@ Speed = 240 ÷ 3 = 80 km/h. Time = 400 ÷ 80 = **5 hours**.
 
 ---
 
-## 5 | Direct vs Inverse Proportion — Quick Reference
+## 5 | Direct vs Inverse Proportion: Quick Reference
 
 | Feature | Direct (y = kx) | Inverse (y = k/x) |
 |---|---|---|
@@ -177,9 +177,9 @@ Speed = 240 ÷ 3 = 80 km/h. Time = 400 ÷ 80 = **5 hours**.
 
 ## 6 | Cross-Links
 
-- [[02_Arithmetic_Operations]] — Multiplication and division are the core operations
-- [[05_Fractions]] — Ratios can be expressed as fractions
-- [[08_Percentages]] — Percentage is a ratio per 100
-- [[11_Basic_Algebra]] — Direct proportion (y = kx) as linear functions
-- [[10_Patterns_and_Algebraic_Thinking]] — Pattern recognition leads to proportional reasoning
-- [[18_Statistics_Data_Handling]] — Ratios and proportions in data interpretation
+- [[02_Arithmetic_Operations]]: Multiplication and division are the core operations
+- [[05_Fractions]]: Ratios can be expressed as fractions
+- [[08_Percentages]]: Percentage is a ratio per 100
+- [[11_Basic_Algebra]]: Direct proportion (y = kx) as linear functions
+- [[10_Patterns_and_Algebraic_Thinking]]: Pattern recognition leads to proportional reasoning
+- [[18_Statistics_Data_Handling]]: Ratios and proportions in data interpretation

@@ -8,7 +8,7 @@ sources: ["[[Fundamental/01_Numbers_and_Numeration|Fundamental notes]]", "[[Adva
 created: 2026-10-02
 ---
 
-# Math Cheat Sheet — Index
+# Math Cheat Sheet: Index
 
 > *"Like a boardgame playbook: only the rules you need to play, from zero to practical, with calculus as the expansion pack."*
 
@@ -21,6 +21,7 @@ Read them in chain order: each note links to the previous and next one.
 ## The Chain: Zero to Practical (and Beyond)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["01 Numbers &<br/>Arithmetic"] --> B["02 Algebra &<br/>Functions"]
     B --> C["03 Geometry &<br/>Measurement"]
@@ -28,12 +29,12 @@ flowchart LR
     D --> E["05 Sets, Logic &<br/>Processes"]
     E --> F["06 Calculus<br/>beyond practical"]
 
-    style A fill:#1FB854#000000
-    style B fill:#1EB88E#000C07
-    style C fill:#1FB8AB#010C0B
-    style D fill:#1FB854#000000
-    style E fill:#1EB88E#000C07
-    style F fill:#1FB8AB#010C0B
+    style A fill:#1FB854,color:#000000
+    style B fill:#1EB88E,color:#000C07
+    style C fill:#1FB8AB,color:#000C07
+    style D fill:#1FB854,color:#000000
+    style E fill:#1EB88E,color:#000C07
+    style F fill:#1FB8AB,color:#000C07
 ```
 
 | # | Rulebook | Covers | Level |

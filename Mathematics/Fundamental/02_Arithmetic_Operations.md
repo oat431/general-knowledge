@@ -10,11 +10,11 @@ created: 2026-07-22
 course_codes: ["ค111", "ค112", "ค113", "ค121", "ค122", "ค123", "ค211", "ค212", "ค213"]
 ---
 
-# Arithmetic Operations — การดำเนินการทางคณิตศาสตร์
+# Arithmetic Operations: การดำเนินการทางคณิตศาสตร์
 
-> *"Arithmetic is where numbers come alive — it is the grammar of mathematics."*
+> *"Arithmetic is where numbers come alive; it is the grammar of mathematics."*
 
-The four basic operations — addition (การบวก), subtraction (การลบ), multiplication (การคูณ), and division (การหาร) — form the computational core of all mathematics. Students progress from concrete manipulation and mental math to algorithm mastery with larger numbers, learning the deep relationships between operations along the way.
+The four basic operations, addition (การบวก), subtraction (การลบ), multiplication (การคูณ), and division (การหาร), form the computational core of all mathematics. Students progress from concrete manipulation and mental math to algorithm mastery with larger numbers, learning the deep relationships between operations along the way.
 
 ---
 
@@ -87,7 +87,7 @@ The four basic operations — addition (การบวก), subtraction (กา
 
 ### 3.2 Subtraction (การลบ)
 
-- a − b = a + (−b) — **Subtraction IS adding the opposite**
+- a − b = a + (−b): **Subtraction IS adding the opposite**
 - NOT commutative: 5 − 3 ≠ 3 − 5
 - NOT associative: (10 − 5) − 2 ≠ 10 − (5 − 2)
 
@@ -191,10 +191,10 @@ $$2^3 \times 2^5 = 2^{3+5} = 2^8 = 256$$
 
 ## 6 | Cross-Links
 
-- [[01_Numbers_and_Numeration]] — Prerequisite: understanding numbers and place value
-- [[03_Factors_Multiples_and_Number_Theory]] — Multiplication factors, divisibility
-- [[04_Integers]] — Extending operations to negative numbers
-- [[05_Fractions]] — Applying operations to fractions
-- [[06_Decimals]] — Applying operations to decimals
-- [[07_Rational_Numbers]] — Operations across the rational number system
-- [[11_Basic_Algebra]] — Generalization: arithmetic → algebraic operations
+- [[01_Numbers_and_Numeration]]: Prerequisite: understanding numbers and place value
+- [[03_Factors_Multiples_and_Number_Theory]]: Multiplication factors, divisibility
+- [[04_Integers]]: Extending operations to negative numbers
+- [[05_Fractions]]: Applying operations to fractions
+- [[06_Decimals]]: Applying operations to decimals
+- [[07_Rational_Numbers]]: Operations across the rational number system
+- [[11_Basic_Algebra]]: Generalization: arithmetic → algebraic operations

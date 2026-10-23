@@ -10,9 +10,9 @@ created: 2026-07-22
 course_codes: ["ค121", "ค122", "ค123", "ค211", "ค212", "ค213"]
 ---
 
-# Factors, Multiples, and Number Theory — ตัวประกอบ ตัวคูณ และทฤษฎีจำนวน
+# Factors, Multiples, and Number Theory: ตัวประกอบ ตัวคูณ และทฤษฎีจำนวน
 
-> *"Every integer is either a prime or can be uniquely expressed as a product of primes — this is the fundamental theorem that unlocks all of number theory."*
+> *"Every integer is either a prime or can be uniquely expressed as a product of primes; this is the fundamental theorem that unlocks all of number theory."*
 
 Understanding the multiplicative structure of numbers through factors, multiples, prime factorization, GCD, and LCM. This topic builds foundational number theory knowledge essential for working with fractions, simplifying expressions, and advancing to algebra.
 
@@ -24,7 +24,7 @@ Understanding the multiplicative structure of numbers through factors, multiples
 
 | Grade | Scope | Key Skills |
 |---|---|---|
-| **ป.3** | Informal foundations | Concept of "making equal groups" — groundwork for understanding factors as ways to group objects equally; even/odd numbers introduced |
+| **ป.3** | Informal foundations | Concept of "making equal groups": groundwork for understanding factors as ways to group objects equally; even/odd numbers introduced |
 
 ### ป.4–6 (Grades 4–6)
 
@@ -95,6 +95,7 @@ $$	\text{Example: } 60 = 2^2 	\times 3 	\times 5$$
 **Method A: Factor Tree (แผนภูมิต้นไม้)**
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["84"] --> B["2"]
     A --> C["42"]
@@ -119,35 +120,35 @@ flowchart TD
 
 ### 3.5 GCD (ห.ร.ม.) Methods
 
-**Method A — List all factors:**
+**Method A: List all factors:**
 - Factors of 48: 1, 2, 3, 4, 6, 8, 12, 16, 24, 48
 - Factors of 72: 1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, 72
 - Common factors: 1, 2, 3, 4, 6, 8, 12, 24
 - **GCD = 24**
 
-**Method B — Prime factorization:**
+**Method B: Prime factorization:**
 - 48 = 2⁴ × 3
 - 72 = 2³ × 3²
 - GCD = 2³ × 3¹ = 24 (take **lowest** power of each common prime)
 
-**Method C — Euclidean algorithm:**
+**Method C: Euclidean algorithm:**
 - 72 ÷ 48 = 1 remainder 24
 - 48 ÷ 24 = 2 remainder 0
 - **GCD = 24**
 
 ### 3.6 LCM (ค.ร.น.) Methods
 
-**Method A — List multiples:**
+**Method A: List multiples:**
 - Multiples of 12: 12, 24, 36, 48, 60, 72...
 - Multiples of 18: 18, 36, 54, 72...
 - **LCM = 36**
 
-**Method B — Prime factorization:**
+**Method B: Prime factorization:**
 - 12 = 2² × 3
 - 18 = 2 × 3²
 - LCM = 2² × 3² = 36 (take **highest** power of each prime)
 
-**Method C — Using GCD:**
+**Method C: Using GCD:**
 - $$	ext{LCM}(a, b) = rac{a 	imes b}{	ext{GCD}(a, b)}$$
 
 ### 3.7 The GCD-LCM Relationship
@@ -186,22 +187,22 @@ Using prime factorization:
 - 18 = 2 × 3²
 - LCM = 2² × 3² = **36**
 
-### Type 5: Word Problem — LCM
+### Type 5: Word Problem: LCM
 > Two bells ring every 12 and 18 minutes respectively. If they ring together now, when will they ring together again?
 
 **Solution:** Find LCM(12, 18) = 36 minutes
 
-### Type 6: Word Problem — GCD
+### Type 6: Word Problem: GCD
 > A rectangular floor is 48 m by 72 m. What is the largest possible size of square tiles that can cover it without cutting?
 
-**Solution:** GCD(48, 72) = 24 — tiles of side length 24 m
+**Solution:** GCD(48, 72) = 24, tiles of side length 24 m
 
 ---
 
 ## 5 | Cross-Links
 
-- [[01_Numbers_and_Numeration]] — Prime/composite classification
-- [[02_Arithmetic_Operations]] — Division with remainder is foundational
-- [[05_Fractions]] — Simplifying fractions using GCD; common denominators using LCM
-- [[04_Integers]] — Factors and multiples extend to negative numbers
-- [[11_Basic_Algebra]] — Factoring algebraic expressions (prime factorization analogy)
+- [[01_Numbers_and_Numeration]]: Prime/composite classification
+- [[02_Arithmetic_Operations]]: Division with remainder is foundational
+- [[05_Fractions]]: Simplifying fractions using GCD; common denominators using LCM
+- [[04_Integers]]: Factors and multiples extend to negative numbers
+- [[11_Basic_Algebra]]: Factoring algebraic expressions (prime factorization analogy)

@@ -8,7 +8,7 @@ sources: ["[[Advance/14_Limits_and_Continuity]]", "[[Advance/15_Differentiation]
 created: 2026-10-02
 ---
 
-# Calculus — Cheat Sheet
+# Calculus: Cheat Sheet
 
 > *The playbook of change: limits zoom in on the infinitely small, derivatives measure rates, integrals accumulate, and differential equations model it all.*
 
@@ -103,6 +103,7 @@ Example: $f$ continuous with $f(1) < 0$ and $f(2) > 0$ must cross zero somewhere
 *When to use:* proving an equation has a solution: find a sign change on a continuous function.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     START["Is f&#40;a&#41; defined?"] -->|No| DISC1["Discontinuity at x = a"]
     START -->|Yes| Q2["Does lim x→a f&#40;x&#41; exist?"]
@@ -293,6 +294,7 @@ $$
 *When to use:* products of two different families (polynomial times $e^x$, polynomial times trig, anything times $\ln x$).
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     START["Integral to evaluate"] --> Q1{"Composite with inner\nderivative as a factor?"}
     Q1 -->|Yes| SUB["u-substitution"]

@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ค302"]
 ---
 
-# Complex Numbers — จำนวนเชิงซ้อน
+# Complex Numbers: จำนวนเชิงซ้อน
 
 > *"The imaginary unit i opens a door to a world where every polynomial has roots and every rotation has a formula."*
 
-Complex numbers extend the real number system to include solutions to equations like $x^2 + 1 = 0$. This topic introduces the imaginary unit $i$, arithmetic of complex numbers, the complex plane, polar form, and De Moivre's theorem — tools essential for engineering, physics, and advanced mathematics.
+Complex numbers extend the real number system to include solutions to equations like $x^2 + 1 = 0$. This topic introduces the imaginary unit $i$, arithmetic of complex numbers, the complex plane, polar form, and De Moivre's theorem: tools essential for engineering, physics, and advanced mathematics.
 
 ---
 
@@ -44,7 +44,7 @@ Complex numbers extend the real number system to include solutions to equations 
 | ค่าสัมบูรณ์ | Modulus | $|z| = \sqrt{a^2 + b^2}$ |
 | อาร์กิวเมนต์ | Argument | $\arg(z) = \theta$ |
 | รูปเชิงขั้ว | Polar form | $r(\cos\theta + i\sin\theta)$ |
-| ทฤษฎีบทเดอมัวฟ์ | De Moivre's Theorem | — |
+| ทฤษฎีบทเดอมัวฟ์ | De Moivre's Theorem | N/A |
 
 ---
 
@@ -53,6 +53,7 @@ Complex numbers extend the real number system to include solutions to equations 
 ### Number System Hierarchy
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     NAT["Natural Numbers ℕ\n1, 2, 3, ..."]
     INT["Integers ℤ\n..., -2, -1, 0, 1, 2, ..."]
@@ -195,7 +196,7 @@ $w_3 = 2\text{cis}(7\pi/4) = \sqrt{2} - i\sqrt{2}$
 
 ## 5 | Cross-Links
 
-- [[02_Real_Numbers_and_Inequalities]] — Real number system extension
-- [[07_Trigonometric_Functions]] — Polar form uses trig
-- [[11_Matrices_and_Determinants]] — Complex matrices
-- [[16_Integration]] — Contour integrals (advanced)
+- [[02_Real_Numbers_and_Inequalities]]: Real number system extension
+- [[07_Trigonometric_Functions]]: Polar form uses trig
+- [[11_Matrices_and_Determinants]]: Complex matrices
+- [[16_Integration]]: Contour integrals (advanced)

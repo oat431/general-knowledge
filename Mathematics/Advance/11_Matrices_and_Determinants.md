@@ -10,11 +10,11 @@ created: 2026-07-30
 course_codes: ["ค302"]
 ---
 
-# Matrices and Determinants — เมทริกซ์และดีเทอร์มิแนนต์
+# Matrices and Determinants: เมทริกซ์และดีเทอร์มิแนนต์
 
-> *"Matrices are the language of linear systems — compact, powerful, and universally applicable."*
+> *"Matrices are the language of linear systems: compact, powerful, and universally applicable."*
 
-Matrices provide a systematic way to organize and manipulate data, solve systems of equations, and represent linear transformations. This topic covers matrix operations, determinants, inverses, and their applications to solving systems — foundational for computer graphics, data science, engineering, and physics.
+Matrices provide a systematic way to organize and manipulate data, solve systems of equations, and represent linear transformations. This topic covers matrix operations, determinants, inverses, and their applications to solving systems: foundational for computer graphics, data science, engineering, and physics.
 
 ---
 
@@ -188,7 +188,7 @@ $x = 1, y = 2, z = 3$
 
 ## 5 | Cross-Links
 
-- [[04_Systems_of_Equations]] — Matrix methods for solving
-- [[10_Complex_Numbers]] — Complex matrices
-- [[13_Vectors]] — Matrices as transformations
-- [[01_Sets_and_Logic]] — Matrix algebra structure
+- [[04_Systems_of_Equations]]: Matrix methods for solving
+- [[10_Complex_Numbers]]: Complex matrices
+- [[13_Vectors]]: Matrices as transformations
+- [[01_Sets_and_Logic]]: Matrix algebra structure

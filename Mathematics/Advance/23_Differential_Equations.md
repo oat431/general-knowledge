@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ค303"]
 ---
 
-# Differential Equations — สมการเชิงอนุพันธ์
+# Differential Equations: สมการเชิงอนุพันธ์
 
-> *"Differential equations are the language of nature — Newton, Maxwell, and Schrödinger all spoke in this language."*
+> *"Differential equations are the language of nature; Newton, Maxwell, and Schrödinger all spoke in this language."*
 
 A differential equation relates a function to its derivatives. This topic introduces first-order ordinary differential equations (ODEs), methods for solving them, and applications to growth, decay, and mixing problems. Differential equations model virtually every physical system.
 
@@ -53,9 +53,9 @@ A differential equation relates a function to its derivatives. This topic introd
 A **differential equation** is an equation involving an unknown function and its derivatives.
 
 **Examples:**
-- $\frac{dy}{dx} = 2x$ — First order, first degree
-- $\frac{d^2y}{dx^2} + y = 0$ — Second order, first degree
-- $(y')^2 + y = 0$ — First order, second degree
+- $\frac{dy}{dx} = 2x$: First order, first degree
+- $\frac{d^2y}{dx^2} + y = 0$: Second order, first degree
+- $(y')^2 + y = 0$: First order, second degree
 
 **Order:** The order of the highest derivative.
 
@@ -182,8 +182,8 @@ $Q(t) = 20 - 10e^{-t/20}$
 
 ## 5 | Cross-Links
 
-- [[15_Differentiation]] — Derivatives in ODEs
-- [[16_Integration]] — Solving ODEs requires integration
-- [[14_Limits_and_Continuity]] — Solutions as functions
-- [[06_Exponential_and_Logarithmic_Functions]] — Growth/decay solutions
-- [[01_Physics - Overview]] — Newton's laws, circuits, mechanics
+- [[15_Differentiation]]: Derivatives in ODEs
+- [[16_Integration]]: Solving ODEs requires integration
+- [[14_Limits_and_Continuity]]: Solutions as functions
+- [[06_Exponential_and_Logarithmic_Functions]]: Growth/decay solutions
+- [[01_Physics - Overview]]: Newton's laws, circuits, mechanics

@@ -10,9 +10,9 @@ created: 2026-07-22
 course_codes: ["ค111", "ค112", "ค113", "ค121", "ค122", "ค123", "ค211", "ค212", "ค213"]
 ---
 
-# Measurement — การวัด
+# Measurement: การวัด
 
-> *"To measure is to know. Measurement transforms the qualitative into the quantitative — it is the bridge between mathematics and the physical world."*
+> *"To measure is to know. Measurement transforms the qualitative into the quantitative; it is the bridge between mathematics and the physical world."*
 
 Measurement covers length, mass, capacity, time, temperature, and their units. Students progress from using non-standard units and reading instruments to converting between metric units and solving compound measurement problems. This topic connects mathematics directly to science and everyday life.
 
@@ -24,9 +24,9 @@ Measurement covers length, mass, capacity, time, temperature, and their units. S
 
 | Grade | Scope | Key Skills |
 |---|---|---|
-| **ป.1** | Length, mass, capacity | Non-standard units (handspans, footsteps); standard units — cm, m, g, kg, mL, L; reading simple rulers and scales |
-| **ป.2** | Extended measurement | Measuring to nearest cm/m; comparing lengths; time — hours/minutes, reading clocks |
-| **ป.3** | Refined measurement | Measuring to nearest mm; mass to nearest g; capacity to nearest mL; estimating measurements; time — elapsed time |
+| **ป.1** | Length, mass, capacity | Non-standard units (handspans, footsteps); standard units: cm, m, g, kg, mL, L; reading simple rulers and scales |
+| **ป.2** | Extended measurement | Measuring to nearest cm/m; comparing lengths; time: hours/minutes, reading clocks |
+| **ป.3** | Refined measurement | Measuring to nearest mm; mass to nearest g; capacity to nearest mL; estimating measurements; time: elapsed time |
 
 ### ป.4–6 (Grades 4–6)
 
@@ -85,7 +85,7 @@ Measurement covers length, mass, capacity, time, temperature, and their units. S
 | kilo- | k | × 1,000 | 1 km = 1,000 m |
 | hecto- | h | × 100 | 1 hm = 100 m |
 | deka- | da | × 10 | 1 dam = 10 m |
-| **base** | — | × 1 | 1 m |
+| **base** | N/A | × 1 | 1 m |
 | deci- | d | × 0.1 | 1 dm = 0.1 m |
 | centi- | c | × 0.01 | 1 cm = 0.01 m |
 | milli- | mm | × 0.001 | 1 mm = 0.001 m |
@@ -172,7 +172,7 @@ From 14:30 to 16:30 = 2 hours. Plus 15 minutes = **2 hours 15 minutes**.
 
 Speed = 180 ÷ 2.5 = **72 km/h**.
 
-### Type 5: Unit Conversion — Speed
+### Type 5: Unit Conversion: Speed
 > Convert 90 km/h to m/s.
 
 90 ÷ 3.6 = **25 m/s**
@@ -181,10 +181,10 @@ Speed = 180 ÷ 2.5 = **72 km/h**.
 
 ## 5 | Cross-Links
 
-- [[01_Numbers_and_Numeration]] — Decimal understanding is essential for metric system
-- [[02_Arithmetic_Operations]] — Operations with measurements
-- [[06_Decimals]] — Decimal representation of measurements
-- [[12_Geometry_Shapes]] — Measuring geometric figures
-- [[14_Area_and_Perimeter]] — Applying measurement to area/perimeter
-- [[15_Volume_and_Surface_Area]] — Applying measurement to volume
-- [[09_Ratios_and_Proportions]] — Speed as a ratio (distance/time)
+- [[01_Numbers_and_Numeration]]: Decimal understanding is essential for metric system
+- [[02_Arithmetic_Operations]]: Operations with measurements
+- [[06_Decimals]]: Decimal representation of measurements
+- [[12_Geometry_Shapes]]: Measuring geometric figures
+- [[14_Area_and_Perimeter]]: Applying measurement to area/perimeter
+- [[15_Volume_and_Surface_Area]]: Applying measurement to volume
+- [[09_Ratios_and_Proportions]]: Speed as a ratio (distance/time)
