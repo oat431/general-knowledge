@@ -48,7 +48,7 @@ A phrasal verb = verb + particle (preposition/adverb) that together create a mea
 | **make up** | invent (story), reconcile | He **made** the story **up**. |
 | **figure out** | solve, understand | I can't **figure** this **out**. |
 
-> **With pronouns, MUST separate:** "Turn **it** on" ✅: "Turn on it" ❌
+> **With pronouns, MUST separate:** "Turn **it** on" ✅ – "Turn on it" ❌
 
 ### 3. Transitive: Inseparable (Object Always After)
 
