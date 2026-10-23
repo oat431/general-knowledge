@@ -11,9 +11,9 @@ created: 2026-07-26
 course_codes: ["ว111", "ว112", "ว113", "ว211", "ว212", "ว213"]
 ---
 
-# Solar System and Astronomy — ระบบสุริยะและดาราศาสตร์
+# Solar System and Astronomy: ระบบสุริยะและดาราศาสตร์
 
-> *"The cosmos is within us. We are made of star-stuff."* — Carl Sagan
+> *"The cosmos is within us. We are made of star-stuff."* (Carl Sagan)
 
 This note covers the solar system, planets, stars, and astronomical phenomena. Students progress from observing the sun and moon to understanding the scale of the universe.
 
@@ -79,6 +79,7 @@ This note covers the solar system, planets, stars, and astronomical phenomena. S
 ### 3.1 Planets in Order
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph LR
     A[☀️ ดวงอาทิตย์ / Sun] --> B[☿ พุธ / Mercury]
     B --> C[♀ ศุกร์ / Venus]
@@ -130,6 +131,7 @@ graph LR
 ### 4.3 Moon Phases
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph LR
     A[🌑 จันทร์ดับ / New Moon] --> B[🌓 ข้างขึ้น 45° / First Quarter]
     B --> C[🌕 จันทร์เพ็ญ / Full Moon]
@@ -146,6 +148,7 @@ graph LR
 ### 5.1 Solar Eclipse (สุริยุปราคา)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     S[☀️ Sun] -->|แสง| M[🌑 Moon blocks]
     M -->|เงา| E[🌍 Earth]
@@ -156,6 +159,7 @@ Moon passes between Sun and Earth; Moon's shadow falls on Earth.
 ### 5.2 Lunar Eclipse (จันทรุปราคา)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     S[☀️ Sun] -->|แสง| E[🌍 Earth blocks]
     E -->|เงา| M[🌕 Moon]
@@ -170,6 +174,7 @@ Earth passes between Sun and Moon; Earth's shadow falls on Moon.
 ### 6.1 Star Life Cycle
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     A[เนบิวลา / Nebula] --> B[ดาวฤกษ์ก่อนเกิด / Protostar]
     B --> C[ดาวฤกษ์หลัก / Main Sequence Star]
@@ -243,8 +248,8 @@ graph TD
 
 ## 10 | Cross-Links
 
-- [[16_Light]] — Light from stars, speed of light
-- [[13_Forces_and_Motion]] — Gravity and orbits
-- [[14_Energy]] — Nuclear energy in stars
-- [[20_Weather_and_Climate]] — Sun's effect on Earth
-- [[19_Rocks_Minerals_Soil]] — Earth's structure
+- [[16_Light]]: Light from stars, speed of light
+- [[13_Forces_and_Motion]]: Gravity and orbits
+- [[14_Energy]]: Nuclear energy in stars
+- [[20_Weather_and_Climate]]: Sun's effect on Earth
+- [[19_Rocks_Minerals_Soil]]: Earth's structure

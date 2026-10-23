@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว323"]
 ---
 
-# Human Reproduction and Development — ระบบสืบพันธุ์และการเจริญเติบโตของมนุษย์
+# Human Reproduction and Development: ระบบสืบพันธุ์และการเจริญเติบโตของมนุษย์
 
-> *"Recreation is not the chief end of man, but development is."* — Maria Montessori (adapted)
+> *"Recreation is not the chief end of man, but development is."* (Maria Montessori (adapted))
 
 Human reproduction (การสืบพันธุ์ของมนุษย์) involves the production of gametes through meiosis, fertilization of the ovum by sperm, and the subsequent embryonic and fetal development within the uterus. The male and female reproductive systems (ระบบสืบพันธุ์เพศชายและเพศหญิง) are structurally different but functionally complementary, producing haploid gametes that unite to form a diploid zygote.
 
@@ -62,7 +62,7 @@ The male reproductive system includes the **testes** (อัณฑะ) where spe
 
 ### 3.2 Female Reproductive System (ระบบสืบพันธุ์เพศหญิง)
 
-The female system includes the **ovaries** (รังไข่), **fallopian tubes** (ท่อนำไข่/ปีกมดลูก), **uterus** (มดลูก), and **vagina** (ช่องคลอด). **Oogenesis** begins before birth — oogonia enter meiosis I but arrest at prophase I. Only after puberty does one oocyte complete meiosis I each cycle to form a secondary oocyte and first polar body.
+The female system includes the **ovaries** (รังไข่), **fallopian tubes** (ท่อนำไข่/ปีกมดลูก), **uterus** (มดลูก), and **vagina** (ช่องคลอด). **Oogenesis** begins before birth: oogonia enter meiosis I but arrest at prophase I. Only after puberty does one oocyte complete meiosis I each cycle to form a secondary oocyte and first polar body.
 
 ### 3.3 Menstrual Cycle (รอบเดือน)
 
@@ -79,14 +79,14 @@ Fertilization typically occurs in the fallopian tube. Sperm penetrate the corona
 ### 3.5 Embryonic and Fetal Development
 
 - **Week 1–2**: Implantation, gastrulation (formation of three germ layers)
-- **Week 3–8** (embryonic period): Organogenesis — major organs and structures form
+- **Week 3–8** (embryonic period): Organogenesis, major organs and structures form
 - **Week 9–40** (fetal period): Growth and maturation of organ systems
 
 The **placenta** (รก) facilitates gas exchange, nutrient transfer, and waste removal. It also produces hCG, progesterone, and estrogen to maintain pregnancy. The **umbilical cord** (สายสะดือ) contains two arteries and one vein.
 
 ### 3.6 Contraception (การคุมกำเนิด)
 
-Methods include barrier methods (condom, diaphragm), hormonal methods (oral contraceptives, IUD), surgical methods (vasectomy, tubal ligation), and behavioral methods (abstinence, rhythm method). Effectiveness varies — hormonal and surgical methods are most reliable.
+Methods include barrier methods (condom, diaphragm), hormonal methods (oral contraceptives, IUD), surgical methods (vasectomy, tubal ligation), and behavioral methods (abstinence, rhythm method). Effectiveness varies: hormonal and surgical methods are most reliable.
 
 ### 3.7 Sexually Transmitted Diseases (โรคติดต่อทางเพศสัมพันธ์)
 
@@ -101,7 +101,7 @@ Common STDs include HIV/AIDS, gonorrhea (หนองใน), syphilis (ซิ�
 
 **Solution:**
 1. Day 10–13: Rising estrogen from the dominant follicle causes negative feedback on FSH (decreasing) but positive feedback on LH (rising)
-2. Day 14: LH surge triggers ovulation — the secondary oocyte is released
+2. Day 14: LH surge triggers ovulation, the secondary oocyte is released
 3. Day 15–16: The ruptured follicle becomes the corpus luteum, producing progesterone and estrogen; progesterone causes negative feedback on GnRH, FSH, and LH
 
 ### Type 2: Comparing Spermatogenesis and Oogenesis
@@ -116,7 +116,7 @@ Common STDs include HIV/AIDS, gonorrhea (หนองใน), syphilis (ซิ�
 
 ## 5 | Cross-Links
 
-- [[14_Immune_System]] — maternal antibodies transferred to fetus
-- [[16_Ecology]] — reproductive strategies in population ecology
-- [[../../Advance/Chemistry/18_Biochemistry|Chemistry: Biochemistry]] — hormone structure and signaling
-- [[20_Bioethics]] — reproductive ethics (IVF, surrogacy)
+- [[14_Immune_System]]: maternal antibodies transferred to fetus
+- [[16_Ecology]]: reproductive strategies in population ecology
+- [[../../Advance/Chemistry/18_Biochemistry|Chemistry: Biochemistry]]: hormone structure and signaling
+- [[20_Bioethics]]: reproductive ethics (IVF, surrogacy)

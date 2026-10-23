@@ -11,11 +11,11 @@ created: 2026-07-30
 course_codes: ["ว321"]
 ---
 
-# Cell Energy — พลังงานในเซลล์
+# Cell Energy: พลังงานในเซลล์
 
-> *"All life depends on a continuous flow of energy from the sun through living systems."* — Eugene Odum
+> *"All life depends on a continuous flow of energy from the sun through living systems."* (Eugene Odum)
 
-Cellular energy metabolism (เมแทบอลิซึมของพลังงานเซลล์) encompasses the chemical reactions that capture, store, and utilize energy in living organisms. The two central processes are photosynthesis (การสังเคราะห์ด้วยแสง), which converts light energy into chemical energy in glucose, and cellular respiration (การหายใจระดับเซลล์), which releases energy from glucose to produce ATP (อะดีโนซีนไตรฟอสเฟต) — the universal energy currency of cells.
+Cellular energy metabolism (เมแทบอลิซึมของพลังงานเซลล์) encompasses the chemical reactions that capture, store, and utilize energy in living organisms. The two central processes are photosynthesis (การสังเคราะห์ด้วยแสง), which converts light energy into chemical energy in glucose, and cellular respiration (การหายใจระดับเซลล์), which releases energy from glucose to produce ATP (อะดีโนซีนไตรฟอสเฟต): the universal energy currency of cells.
 
 Adenosine triphosphate (ATP) powers virtually all cellular work: mechanical (muscle contraction), transport (active transport pumps), and chemical (biosynthesis). When cells cannot perform aerobic respiration, fermentation (การหมัก) provides a limited alternative pathway. These interconnected processes form the energy cycle that sustains all life.
 
@@ -57,6 +57,7 @@ Adenosine triphosphate (ATP) powers virtually all cellular work: mechanical (mus
 ## 3 | Key Concepts
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     SUN["Sunlight"] --> PHOTO["Photosynthesis"]
     PHOTO --> GLUC["Glucose"]
@@ -74,7 +75,7 @@ ATP consists of adenine (อะดีนีน), ribose sugar, and three phospha
 
 $$\text{ATP} + H_2O \rightarrow \text{ADP} + P_i + \text{Energy (7.3 kcal/mol)}$$
 
-ATP is constantly recycled — a human produces and consumes approximately 40 kg of ATP per day. ATP drives active transport, muscle contraction, biosynthesis, and signal transduction.
+ATP is constantly recycled: a human produces and consumes approximately 40 kg of ATP per day. ATP drives active transport, muscle contraction, biosynthesis, and signal transduction.
 
 ### 3.2 Photosynthesis (การสังเคราะห์ด้วยแสง)
 
@@ -84,7 +85,7 @@ $$6CO_2 + 6H_2O \xrightarrow{\text{light}} C_6H_{12}O_6 + 6O_2$$
 Occurs in chloroplasts (คลอโรพลาสต์) in two stages:
 
 **Light Reactions (ปฏิกิริยาแสง):** Occur in thylakoid membranes (เยื่อไทลาคอยด์).
-1. **Photosystem II (PSII):** Chlorophyll P680 absorbs light, electrons are excited and passed to an electron transport chain. Water is split (photolysis): $2H_2O \rightarrow 4H^+ + 4e^- + O_2$ — this is the source of $O_2$.
+1. **Photosystem II (PSII):** Chlorophyll P680 absorbs light, electrons are excited and passed to an electron transport chain. Water is split (photolysis): $2H_2O \rightarrow 4H^+ + 4e^- + O_2$; this is the source of $O_2$.
 2. **Electron Transport Chain:** Electrons pass through plastoquinone, cytochrome complex, and plastocyanin. Energy released pumps $H^+$ into the thylakoid lumen, creating a proton gradient.
 3. **Photosystem I (PSI):** Chlorophyll P700 absorbs light, re-energizes electrons. These pass through ferredoxin to $NADP^+$ reductase, producing NADPH.
 4. **Chemiosmosis (เคมิออสโมซิส):** $H^+$ flows through ATP synthase (ATP ซินเทส) from the thylakoid lumen to the stroma, driving ATP synthesis. Called photophosphorylation.
@@ -148,14 +149,14 @@ Both yield only 2 ATP per glucose (from glycolysis alone).
 ### Type 2: Photosynthesis Rate Experiment
 > An aquatic plant is placed under different light intensities. At low light, O2 production is 2 mL/min; at medium light, 8 mL/min; at high light, 8 mL/min. Explain.
 
-**Solution:** At low light, light is the limiting factor (ปัจจัยจำกัด) — photosynthesis rate increases with intensity. At medium to high light, the rate plateaus — light is no longer limiting; $CO_2$ concentration or enzyme capacity (RuBisCO) becomes the limiting factor. This shows the **light saturation point**.
+**Solution:** At low light, light is the limiting factor (ปัจจัยจำกัด), photosynthesis rate increases with intensity. At medium to high light, the rate plateaus: light is no longer limiting; $CO_2$ concentration or enzyme capacity (RuBisCO) becomes the limiting factor. This shows the **light saturation point**.
 
 ---
 
 ## 5 | Cross-Links
 
-- [[03_Biomolecules]] — ATP structure, enzyme function
-- [[01_Cell_Biology]] — mitochondria and chloroplast structure
-- [[02_Cell_Membrane_and_Transport]] — ATP-driven active transport
-- [[05_Cell_Division]] — energy requirements for cell division
-- [[11_Thermochemistry|Chemistry: Thermochemistry]] — energy in chemical bonds
+- [[03_Biomolecules]]: ATP structure, enzyme function
+- [[01_Cell_Biology]]: mitochondria and chloroplast structure
+- [[02_Cell_Membrane_and_Transport]]: ATP-driven active transport
+- [[05_Cell_Division]]: energy requirements for cell division
+- [[11_Thermochemistry|Chemistry: Thermochemistry]]: energy in chemical bonds

@@ -11,13 +11,13 @@ created: 2026-07-30
 course_codes: ["ว341"]
 ---
 
-# Climate Change and Environment — การเปลี่ยนแปลงสภาพภูมิอากาศและสิ่งแวดล้อม
+# Climate Change and Environment: การเปลี่ยนแปลงสภาพภูมิอากาศและสิ่งแวดล้อม
 
-> *"We are the first generation to feel the impact of climate change and the last generation that can do something about it."* — Barack Obama
+> *"We are the first generation to feel the impact of climate change and the last generation that can do something about it."* (Barack Obama)
 
-Climate change (การเปลี่ยนแปลงสภาพภูมิอากาศ) refers to long-term shifts in global temperatures and weather patterns. While Earth's climate has changed naturally throughout its history, the current warming trend is unprecedented in its speed and is driven primarily by human activities (กิจกรรมของมนุษย์) — especially the burning of fossil fuels (เชื้อเพลิงฟอสซิล) which releases greenhouse gases (ก๊าซเรือนกระจก) into the atmosphere.
+Climate change (การเปลี่ยนแปลงสภาพภูมิอากาศ) refers to long-term shifts in global temperatures and weather patterns. While Earth's climate has changed naturally throughout its history, the current warming trend is unprecedented in its speed and is driven primarily by human activities (กิจกรรมของมนุษย์): especially the burning of fossil fuels (เชื้อเพลิงฟอสซิล) which releases greenhouse gases (ก๊าซเรือนกระจก) into the atmosphere.
 
-The **greenhouse effect** (ปรากฏการณ์เรือนกระจก) is a natural process that keeps Earth warm enough for life — without it, Earth's average temperature would be $-18^\circ\text{C}$ instead of $+15^\circ\text{C}$. However, human-enhanced greenhouse warming (การเพิ่มของปรากฏการณ์เรือนกระจก) has raised atmospheric $\ce{CO2}$ from $280$ ppm to over $420$ ppm since the Industrial Revolution, causing global temperatures to rise by approximately $1.1^\circ\text{C}$. Understanding the carbon cycle (วัฏจักรคาร์บอน), energy resources, and sustainability (ความยั่งยืน) is essential for addressing this defining challenge of our era.
+The **greenhouse effect** (ปรากฏการณ์เรือนกระจก) is a natural process that keeps Earth warm enough for life: without it, Earth's average temperature would be $-18^\circ\text{C}$ instead of $+15^\circ\text{C}$. However, human-enhanced greenhouse warming (การเพิ่มของปรากฏการณ์เรือนกระจก) has raised atmospheric $\ce{CO2}$ from $280$ ppm to over $420$ ppm since the Industrial Revolution, causing global temperatures to rise by approximately $1.1^\circ\text{C}$. Understanding the carbon cycle (วัฏจักรคาร์บอน), energy resources, and sustainability (ความยั่งยืน) is essential for addressing this defining challenge of our era.
 
 ---
 
@@ -59,7 +59,7 @@ The **greenhouse effect** (ปรากฏการณ์เรือนกร�
 
 **Natural greenhouse effect:**
 
-1. Solar radiation (รังสีจากดวงอาทิตย์) reaches Earth — mostly visible and UV light
+1. Solar radiation (รังสีจากดวงอาทิตย์) reaches Earth: mostly visible and UV light
 2. Earth's surface absorbs radiation and warms up
 3. Surface emits **infrared radiation** (รังสีอินฟราเรด) back toward space
 4. Greenhouse gases absorb and re-radiate some infrared → traps heat
@@ -74,7 +74,7 @@ The **greenhouse effect** (ปรากฏการณ์เรือนกร�
 | **Carbon dioxide** | $\ce{CO2}$ | $280$ ppm | $\sim 422$ ppm | $1$ | Fossil fuel combustion |
 | **Methane** | $\ce{CH4}$ | $0.7$ ppm | $\sim 1.9$ ppm | $28$ | Livestock, rice paddies, landfills |
 | **Nitrous oxide** | $\ce{N2O}$ | $0.27$ ppm | $\sim 0.33$ ppm | $265$ | Fertilizers, industrial processes |
-| **Water vapor** | $\ce{H2O}$ | Variable | Increasing | — | Natural feedback |
+| **Water vapor** | $\ce{H2O}$ | Variable | Increasing | N/A | Natural feedback |
 | **CFCs** | Various | $0$ | Trace | $4{,}000$–$14{,}000$ | Refrigerants (banned) |
 
 **Global Warming Potential (GWP)** compares warming impact relative to $\ce{CO2}$.
@@ -103,6 +103,7 @@ The **greenhouse effect** (ปรากฏการณ์เรือนกร�
 **The imbalance:** Human activities add $\sim 11.5$ GtC/year, but natural sinks absorb only $\sim 5$ GtC/year → $\sim 5$ GtC accumulates in the atmosphere annually.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     ATM["Atmosphere CO2<br/>บรรยากาศ"] -->|photosynthesis<br/>การสังเคราะห์แสง| PLANTS["Plants / Biosphere<br/>พืชและสิ่งมีชีวิต"]
     ATM -->|ocean absorption| OCEAN["Oceans<br/>มหาสมุทร"]
@@ -142,6 +143,7 @@ flowchart TD
 ### 3.7 Environmental Impacts in Thailand
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     ENERGY["Energy Resources<br/>แหล่งพลังงาน"] --> RENEW["Renewable<br/>พลังงานหมุนเวียน"]
     ENERGY --> NONRENEW["Non-Renewable<br/>พลังงานไม่หมุนเวียน"]
@@ -183,8 +185,8 @@ The **IPCC** (คณะกรรมการระหว่างรัฐบา
 > Explain why the greenhouse effect is both essential for life and currently a problem.
 
 **Solution:**
-- **Essential**: Without the natural greenhouse effect, Earth's average temperature would be $-18^\circ\text{C}$ — too cold for life. Greenhouse gases keep Earth at $+15^\circ\text{C}$.
-- **Problem**: Human activities have **enhanced** the greenhouse effect by increasing GHG concentrations, causing **additional** warming beyond the natural level — leading to climate disruption.
+- **Essential**: Without the natural greenhouse effect, Earth's average temperature would be $-18^\circ\text{C}$, too cold for life. Greenhouse gases keep Earth at $+15^\circ\text{C}$.
+- **Problem**: Human activities have **enhanced** the greenhouse effect by increasing GHG concentrations, causing **additional** warming beyond the natural level, leading to climate disruption.
 
 ### Type 2: Calculating Carbon Footprint
 
@@ -224,9 +226,9 @@ This means $1$ kg of methane has the same warming impact as $28$ kg of $\ce{CO2}
 
 ## 5 | Cross-Links
 
-- [[06_Weather_and_Climate]] — climate zones and atmospheric processes
-- [[07_Oceanography]] — ocean acidification and thermal expansion
-- [[08_Water_Cycle_and_Hydrology]] — changing precipitation patterns
-- [[09_Solar_System_and_Astronomy]] — solar radiation as energy input
-- [[../../Advance/Biology/16_Ecology|Biology: Ecology]] — ecosystem impacts and biodiversity
-- [[../../Advance/Chemistry/15_Environmental_Chemistry|Chemistry: Environmental]] — greenhouse gas chemistry
+- [[06_Weather_and_Climate]]: climate zones and atmospheric processes
+- [[07_Oceanography]]: ocean acidification and thermal expansion
+- [[08_Water_Cycle_and_Hydrology]]: changing precipitation patterns
+- [[09_Solar_System_and_Astronomy]]: solar radiation as energy input
+- [[../../Advance/Biology/16_Ecology|Biology: Ecology]]: ecosystem impacts and biodiversity
+- [[../../Advance/Chemistry/15_Environmental_Chemistry|Chemistry: Environmental]]: greenhouse gas chemistry

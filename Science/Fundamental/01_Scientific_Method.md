@@ -10,9 +10,9 @@ created: 2026-07-26
 course_codes: ["ว111", "ว112", "ว113", "ว121", "ว122", "ว123", "ว211", "ว212", "ว213"]
 ---
 
-# Scientific Method — กระบวนการทางวิทยาศาสตร์
+# Scientific Method: กระบวนการทางวิทยาศาสตร์
 
-> *"Science is a way of thinking much more than it is a body of knowledge."* — Carl Sagan
+> *"Science is a way of thinking much more than it is a body of knowledge."* (Carl Sagan)
 
 This note covers the scientific method and process skills that form the backbone of all scientific inquiry. Students progress from simple observation and questioning in early grades to designing controlled experiments and analyzing data systematically by ม.3.
 
@@ -73,6 +73,7 @@ This note covers the scientific method and process skills that form the backbone
 ## 3 | The Scientific Method (Full Cycle)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     A[สังเกต / Observe] --> B[ตั้งคำถาม / Ask Question]
     B --> C[ศึกษาข้อมูล / Research]
@@ -97,19 +98,19 @@ graph TD
 ### 4.1 Process Skills Framework (ทักษะกระบวนการ)
 
 **Basic Process Skills (ทักษะกระบวนการพื้นฐาน):**
-1. **Observing (สังเกต)** — Using senses to gather information
-2. **Classifying (จำแนก)** — Grouping objects/events by properties
-3. **Measuring (วัด)** — Using tools and standard units
-4. **Communicating (สื่อสาร)** — Describing observations clearly
-5. **Inferring (อ้างอิง)** — Making logical explanations
-6. **Predicting (คาดคะเน)** — Foreseeing outcomes based on patterns
+1. **Observing (สังเกต):** Using senses to gather information
+2. **Classifying (จำแนก):** Grouping objects/events by properties
+3. **Measuring (วัด):** Using tools and standard units
+4. **Communicating (สื่อสาร):** Describing observations clearly
+5. **Inferring (อ้างอิง):** Making logical explanations
+6. **Predicting (คาดคะเน):** Foreseeing outcomes based on patterns
 
 **Integrated Process Skills (ทักษะกระบวนการเชิงบูรณาการ):**
-1. **Identifying variables** — Recognizing independent, dependent, and controlled variables
-2. **Formulating hypotheses** — Writing testable if-then statements
-3. **Designing experiments** — Planning fair tests
-4. **Interpreting data** — Reading tables, graphs, drawing conclusions
-5. **Operational definitions** — Defining how to measure a concept
+1. **Identifying variables:** Recognizing independent, dependent, and controlled variables
+2. **Formulating hypotheses:** Writing testable if-then statements
+3. **Designing experiments:** Planning fair tests
+4. **Interpreting data:** Reading tables, graphs, drawing conclusions
+5. **Operational definitions:** Defining how to measure a concept
 
 ### 4.2 Variables in Experiments
 
@@ -161,18 +162,18 @@ $$\text{Range (พิสัย)} = \text{Maximum} - \text{Minimum}$$
 
 ## 6 | Real-World Examples
 
-1. **Testing fertilizer effectiveness** — Students grow plants with different fertilizer amounts, measuring height weekly
-2. **Which paper towel absorbs most?** — Drop same amount of water on different brands, measure absorption
-3. **Effect of slope on rolling speed** — Roll same ball down ramps at different angles, measure time
-4. **Water quality testing** — Compare pH, clarity, dissolved oxygen in different water sources
+1. **Testing fertilizer effectiveness:** Students grow plants with different fertilizer amounts, measuring height weekly
+2. **Which paper towel absorbs most?:** Drop same amount of water on different brands, measure absorption
+3. **Effect of slope on rolling speed:** Roll same ball down ramps at different angles, measure time
+4. **Water quality testing:** Compare pH, clarity, dissolved oxygen in different water sources
 
 ---
 
 ## 7 | Cross-Links
 
-- [[02_Living_Things]] — Applying observation skills to classify living things
-- [[09_Matter_and_Properties]] — Measuring and comparing physical properties
-- [[13_Forces_and_Motion]] — Designing experiments with variables
-- [[14_Energy]] — Investigating energy transformations
-- [[20_Weather_and_Climate]] — Collecting and analyzing weather data
-- [[22_Technology_and_Engineering]] — Engineering design process parallels scientific method
+- [[02_Living_Things]]: Applying observation skills to classify living things
+- [[09_Matter_and_Properties]]: Measuring and comparing physical properties
+- [[13_Forces_and_Motion]]: Designing experiments with variables
+- [[14_Energy]]: Investigating energy transformations
+- [[20_Weather_and_Climate]]: Collecting and analyzing weather data
+- [[22_Technology_and_Engineering]]: Engineering design process parallels scientific method

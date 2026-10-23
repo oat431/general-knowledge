@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว341"]
 ---
 
-# Earthquakes and Volcanoes — แผ่นดินไหวและภูเขาไฟ
+# Earthquakes and Volcanoes: แผ่นดินไหวและภูเขาไฟ
 
-> *"Earthquakes don't kill people, buildings do."* — seismological proverb
+> *"Earthquakes don't kill people, buildings do."* (seismological proverb)
 
 Earthquakes (แผ่นดินไหว) and volcanoes (ภูเขาไฟ) are the most dramatic expressions of Earth's internal energy. Both cluster along plate boundaries, where stress accumulates until rock fractures and magma finds a path to the surface. The study of seismic waves (คลื่นแผ่นดินไหว) not only lets us locate and measure earthquakes but also revealed Earth's layered interior. Volcanism, in turn, builds new crust, fertilizes soils, and occasionally reshapes civilizations.
 
@@ -75,6 +75,7 @@ Three wave types are distinguished by how they move material:
 Because S-waves do not pass through liquids, their disappearance beyond ~103° from an earthquake revealed Earth's **liquid outer core (แก่นชั้นนอกที่เป็นของเหลว)**.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     SW["Seismic Waves<br/>คลื่นแผ่นดินไหว"] --> BODY["Body Waves"]
     SW --> SURF["Surface Waves<br/>คลื่นพื้นผิว"]
@@ -87,11 +88,11 @@ flowchart TD
 
 ### 3.2 Measuring Earthquakes
 
-**Magnitude (ขนาด)** — energy released, measured on the **Richter scale (มาตราริกเตอร์)** or the more modern moment magnitude ($M_w$). It is logarithmic: each whole-number step represents ~31.6× energy and ~10× amplitude:
+**Magnitude (ขนาด):** energy released, measured on the **Richter scale (มาตราริกเตอร์)** or the more modern moment magnitude ($M_w$). It is logarithmic: each whole-number step represents ~31.6× energy and ~10× amplitude:
 $$M = \log_{10} A + f(\Delta)$$
 where $A$ is the maximum amplitude and $f(\Delta)$ corrects for distance.
 
-**Intensity (ความรุนแรง)** — local effect, measured on the **Modified Mercalli scale (มาตราเมอร์คัลลี)**, ranked **I–XII** based on observed damage and human perception. The same earthquake has one magnitude but many intensities.
+**Intensity (ความรุนแรง):** local effect, measured on the **Modified Mercalli scale (มาตราเมอร์คัลลี)**, ranked **I–XII** based on observed damage and human perception. The same earthquake has one magnitude but many intensities.
 
 ### 3.3 Locating the Epicenter by Triangulation
 
@@ -100,7 +101,7 @@ Because P-waves travel faster than S-waves, the time gap between their arrivals 
 1. At each of ≥3 seismograph stations, read the S–P interval from the seismogram.
 2. Use a travel-time curve to convert S–P time into **epicentral distance**.
 3. Draw a circle of that radius around each station.
-4. The **intersection of the three circles** is the epicenter — the method of **triangulation (การหาตำแหน่งโดยสามเหลี่ยม)**.
+4. The **intersection of the three circles** is the epicenter: the method of **triangulation (การหาตำแหน่งโดยสามเหลี่ยม)**.
 
 ### 3.4 Volcano Types and Magma Composition
 
@@ -112,15 +113,16 @@ Volcano form is controlled by **magma viscosity (ความหนืดขอ�
 | Andesitic (intermediate) | ~60% | Medium | High | Alternating explosive & effusive | **Stratovolcano (สตราโท)** |
 | Rhyolitic (felsic) | ~70% | High | Very high | Explosive, pyroclastic | Dome / caldera-forming |
 
-- **Shield volcano (ภูเขาไฟเกราะโล่)** — broad, gently sloping (Mauna Loa, Hawaii).
-- **Stratovolcano / composite (สตราโท/ผสม)** — steep, symmetrical, built of alternating lava and ash layers (Mount Fuji, Mount St. Helens); most dangerous.
-- **Cinder cone (กรวยเถ้า)** — small, steep, built of pyroclasts (Parícutin).
+- **Shield volcano (ภูเขาไฟเกราะโล่):** broad, gently sloping (Mauna Loa, Hawaii).
+- **Stratovolcano / composite (สตราโท/ผสม):** steep, symmetrical, built of alternating lava and ash layers (Mount Fuji, Mount St. Helens); most dangerous.
+- **Cinder cone (กรวยเถ้า):** small, steep, built of pyroclasts (Parícutin).
 
 **Magma source controls type**:
 - Mid-ocean ridges and hotspots → basaltic, effusive.
 - Subduction zones → andesitic/rhyolitic, explosive.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     VOLC["Volcanoes<br/>ภูเขาไฟ"] --> SHIELD["Shield<br/>เกราะโล่<br/>Basaltic, fluid lava<br/>Broad gentle slopes"]
     VOLC --> STRATO["Stratovolcano / Composite<br/>สตราโท/ผสม<br/>Andesitic, explosive<br/>Steep layered cone"]
@@ -133,15 +135,15 @@ flowchart TD
 
 ### 3.5 The Pacific Ring of Fire (วงแหวนแห่งไฟ)
 
-The Ring of Fire is a horseshoe-shaped belt around the Pacific Ocean where ~75% of Earth's active volcanoes and ~90% of earthquakes occur. It corresponds to the boundaries of the Pacific Plate subducting under surrounding plates — the Andes, Cascades, Japan, the Philippines, Indonesia, and New Zealand. The Mayon, Merapi, and Taal volcanoes of SE Asia all sit on this belt.
+The Ring of Fire is a horseshoe-shaped belt around the Pacific Ocean where ~75% of Earth's active volcanoes and ~90% of earthquakes occur. It corresponds to the boundaries of the Pacific Plate subducting under surrounding plates: the Andes, Cascades, Japan, the Philippines, Indonesia, and New Zealand. The Mayon, Merapi, and Taal volcanoes of SE Asia all sit on this belt.
 
 ### 3.6 Tsunami Generation (สึนามิ)
 
-A **tsunami (สึนามิ)** is a series of long-wavelength ocean waves triggered by sudden vertical displacement of seawater — most often by a large megathrust earthquake at a subduction zone, but also by volcanic collapse or submarine landslide.
+A **tsunami (สึนามิ)** is a series of long-wavelength ocean waves triggered by sudden vertical displacement of seawater: most often by a large megathrust earthquake at a subduction zone, but also by volcanic collapse or submarine landslide.
 
 In deep water, tsunamis travel at the shallow-water wave speed:
 $$v = \sqrt{g \cdot d}$$
-where $d$ is ocean depth. At $d \approx 4000$ m, $v \approx 200$ m/s ($\sim$720 km/h), yet wave height is under a meter. As depth shallows near coast, speed drops and energy compresses vertically — amplitude can reach 10–30 m. The **2004 Indian Ocean tsunami (สึนามิในมหาสมุทรอินเดีย)**, generated by a $M_w 9.1$ earthquake off Sumatra, killed ~230,000 across 14 countries and reshaped Thai coastal disaster preparedness.
+where $d$ is ocean depth. At $d \approx 4000$ m, $v \approx 200$ m/s ($\sim$720 km/h), yet wave height is under a meter. As depth shallows near coast, speed drops and energy compresses vertically: amplitude can reach 10–30 m. The **2004 Indian Ocean tsunami (สึนามิในมหาสมุทรอินเดีย)**, generated by a $M_w 9.1$ earthquake off Sumatra, killed ~230,000 across 14 countries and reshaped Thai coastal disaster preparedness.
 
 ---
 
@@ -179,8 +181,8 @@ $$t = \frac{1500 \times 10^{3}}{198} \approx 7576\,\text{s} \approx 2.1\,\text{h
 
 ## 5 | Cross-Links
 
-- [[02_Plate_Tectonics]] — plate boundaries are the source of nearly all earthquakes and volcanoes
-- [[01_Minerals_and_Rocks]] — volcanic rocks are the igneous products of eruptions
-- [[05_Earth_History]] — volcanic ash layers provide dating markers in the rock record
-- [[../../Advance/Physics/02_Kinematics|Physics: Kinematics]] — wave speed, $v = \sqrt{gd}$, and energy relations
-- [[../../Advance/Physics/08_Waves|Physics: Waves]] — longitudinal vs transverse waves, wave interference
+- [[02_Plate_Tectonics]]: plate boundaries are the source of nearly all earthquakes and volcanoes
+- [[01_Minerals_and_Rocks]]: volcanic rocks are the igneous products of eruptions
+- [[05_Earth_History]]: volcanic ash layers provide dating markers in the rock record
+- [[../../Advance/Physics/02_Kinematics|Physics: Kinematics]]: wave speed, $v = \sqrt{gd}$, and energy relations
+- [[../../Advance/Physics/08_Waves|Physics: Waves]]: longitudinal vs transverse waves, wave interference

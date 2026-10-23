@@ -12,9 +12,9 @@ created: 2026-07-26
 course_codes: ["ว211", "ว212", "ว213"]
 ---
 
-# Acids, Bases, and Salts — กรด เบส เกลือ
+# Acids, Bases, and Salts: กรด เบส เกลือ
 
-> *"Chemistry is the study of matter, but I prefer to see it as the study of change."* — Walter White
+> *"Chemistry is the study of matter, but I prefer to see it as the study of change."* (Walter White)
 
 This note covers acids, bases, pH, neutralization, and salts. Students learn to identify, test, and understand acid-base chemistry from ม.1 through ม.3.
 
@@ -71,7 +71,7 @@ This note covers acids, bases, pH, neutralization, and salts. Students learn to 
 
 | Property | Description |
 |---|---|
-| Taste | Sour (เปรี้ยว) — never taste in lab! |
+| Taste | Sour (เปรี้ยว): never taste in lab! |
 | pH | Less than 7 |
 | Litmus | Turns blue litmus red |
 | React with metals | Produce hydrogen gas |
@@ -215,8 +215,8 @@ Example: HCl + NaOH → NaCl (sodium chloride)
 
 ## 9 | Cross-Links
 
-- [[10_Atoms_Elements_and_Compounds]] — Ionic bonding in salts
-- [[11_Chemical_Reactions]] — Neutralization as chemical reaction
-- [[09_Matter_and_Properties]] — Solutions and concentration
-- [[19_Rocks_Minerals_Soil]] — Acid effects on rocks
-- [[20_Weather_and_Climate]] — Acid rain
+- [[10_Atoms_Elements_and_Compounds]]: Ionic bonding in salts
+- [[11_Chemical_Reactions]]: Neutralization as chemical reaction
+- [[09_Matter_and_Properties]]: Solutions and concentration
+- [[19_Rocks_Minerals_Soil]]: Acid effects on rocks
+- [[20_Weather_and_Climate]]: Acid rain

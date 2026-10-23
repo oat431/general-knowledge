@@ -11,9 +11,9 @@ created: 2026-07-26
 course_codes: ["ว111", "ว112", "ว113", "ว211", "ว212", "ว213"]
 ---
 
-# Forces and Motion — แรงและการเคลื่อนที่
+# Forces and Motion: แรงและการเคลื่อนที่
 
-> *"An object at rest stays at rest, and an object in motion stays in motion."* — Newton's First Law
+> *"An object at rest stays at rest, and an object in motion stays in motion."* (Newton's First Law)
 
 This note covers Newton's laws of motion, types of forces, speed, velocity, acceleration, and momentum. Students progress from pushing and pulling objects to calculating forces and analyzing motion.
 
@@ -75,7 +75,7 @@ This note covers Newton's laws of motion, types of forces, speed, velocity, acce
 
 ## 3 | Newton's Laws of Motion
 
-### 3.1 First Law (กฎข้อที่ 1) — Inertia
+### 3.1 First Law (กฎข้อที่ 1): Inertia
 
 > An object at rest stays at rest; an object in motion stays in motion at constant velocity, unless acted upon by a net external force.
 
@@ -85,7 +85,7 @@ This note covers Newton's laws of motion, types of forces, speed, velocity, acce
 - Seatbelt prevents body from continuing forward when car stops
 - Coin on card stays in place when card is pulled quickly
 
-### 3.2 Second Law (กฎข้อที่ 2) — F = ma
+### 3.2 Second Law (กฎข้อที่ 2): F = ma
 
 $$F = ma$$
 
@@ -97,7 +97,7 @@ Where:
 **Example:** A 10 kg object accelerating at 2 m/s²
 $$F = 10 \times 2 = 20 \text{ N}$$
 
-### 3.3 Third Law (กฎข้อที่ 3) — Action-Reaction
+### 3.3 Third Law (กฎข้อที่ 3): Action-Reaction
 
 > For every action, there is an equal and opposite reaction.
 
@@ -214,17 +214,17 @@ Velocity
 
 ## 8 | Real-World Examples
 
-1. **Seatbelts** — Inertia keeps body moving when car stops suddenly
-2. **Bicycle** — Multiple simple machines working together
-3. **Rocket launch** — Newton's third law
-4. **Car brakes** — Friction converts kinetic energy to heat
-5. **Trampoline** — Elastic force and Hooke's law
+1. **Seatbelts:** Inertia keeps body moving when car stops suddenly
+2. **Bicycle:** Multiple simple machines working together
+3. **Rocket launch:** Newton's third law
+4. **Car brakes:** Friction converts kinetic energy to heat
+5. **Trampoline:** Elastic force and Hooke's law
 
 ---
 
 ## 9 | Cross-Links
 
-- [[14_Energy]] — Kinetic and potential energy from motion
-- [[18_Electricity_and_Magnetism]] — Magnetic forces
-- [[22_Technology_and_Engineering]] — Simple machines in engineering
-- [[13_Forces_and_Motion]] → [[14_Energy]] — Work and energy
+- [[14_Energy]]: Kinetic and potential energy from motion
+- [[18_Electricity_and_Magnetism]]: Magnetic forces
+- [[22_Technology_and_Engineering]]: Simple machines in engineering
+- [[13_Forces_and_Motion]] → [[14_Energy]]: Work and energy

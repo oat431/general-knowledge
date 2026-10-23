@@ -10,9 +10,9 @@ created: 2026-07-26
 course_codes: ["ว111", "ว112", "ว113", "ว211", "ว212", "ว213"]
 ---
 
-# Human Body Systems — ระบบต่างๆ ของร่างกาย
+# Human Body Systems: ระบบต่างๆ ของร่างกาย
 
-> *"The human body is the best picture of the human soul."* — Ludwig Wittgenstein
+> *"The human body is the best picture of the human soul."* (Ludwig Wittgenstein)
 
 This note covers the major organ systems of the human body, their structures, functions, and how they work together to maintain life. Students progress from basic body parts to understanding complex system interactions.
 
@@ -40,7 +40,7 @@ This note covers the major organ systems of the human body, their structures, fu
 
 | Grade | Scope | Key Skills |
 |---|---|---|
-| **ม.1** | Major systems | Digestive, respiratory, circulatory, excretory — detailed structure and function |
+| **ม.1** | Major systems | Digestive, respiratory, circulatory, excretory: detailed structure and function |
 | **ม.2** | Nervous & endocrine | Brain and nerves (สมองและประสาท); hormones; senses; reflexes |
 | **ม.3** | Immune & reproductive | Immune system (ระบบภูมิคุ้มกัน); diseases; reproduction; system integration |
 
@@ -79,6 +79,7 @@ This note covers the major organ systems of the human body, their structures, fu
 ### 3.1 Digestive System (ระบบย่อยอาหาร)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     A[ปาก / Mouth] -->|เคี้ยว + น้ำลาย| B[หลอดอาหาร / Esophagus]
     B -->|peristalsis| C[กระเพาะอาหาร / Stomach]
@@ -107,6 +108,7 @@ graph TD
 ### 3.2 Respiratory System (ระบบหายใจ)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     A[จมูก/ปาก / Nose/Mouth] --> B[กล่องเสียง / Larynx]
     B --> C[หลอดลม / Trachea]
@@ -122,6 +124,7 @@ graph TD
 ### 3.3 Circulatory System (ระบบไหลเวียนเลือด)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     subgraph "หัวใจ / Heart"
         RA[ห้องบนขวา / Right Atrium]
@@ -139,10 +142,10 @@ graph TD
 ```
 
 **Blood components:**
-- **Red blood cells (เม็ดเลือดแดง)** — Carry oxygen
-- **White blood cells (เม็ดเลือดขาว)** — Fight infection
-- **Platelets (เกล็ดเลือด)** — Blood clotting
-- **Plasma (พลาสมา)** — Liquid part, transports nutrients
+- **Red blood cells (เม็ดเลือดแดง):** Carry oxygen
+- **White blood cells (เม็ดเลือดขาว):** Fight infection
+- **Platelets (เกล็ดเลือด):** Blood clotting
+- **Plasma (พลาสมา):** Liquid part, transports nutrients
 
 ### 3.4 Nervous System (ระบบประสาท)
 
@@ -159,14 +162,14 @@ graph TD
 
 **Skeletal functions (หน้าที่ของโครงกระดูก):**
 1. Support (ค้ำจุน)
-2. Protection (ป้องกัน) — skull protects brain, ribs protect lungs/heart
-3. Movement (เคลื่อนที่) — with muscles
-4. Blood cell production (สร้างเม็ดเลือด) — in bone marrow
+2. Protection (ป้องกัน): skull protects brain, ribs protect lungs/heart
+3. Movement (เคลื่อนที่): with muscles
+4. Blood cell production (สร้างเม็ดเลือด): in bone marrow
 
 **Muscle types:**
-- **Skeletal (กล้ามเนื้อลาย)** — Voluntary, attached to bones
-- **Smooth (กล้ามเนื้อเรียบ)** — Involuntary, in organs
-- **Cardiac (กล้ามเนื้อหัวใจ)** — Involuntary, heart only
+- **Skeletal (กล้ามเนื้อลาย):** Voluntary, attached to bones
+- **Smooth (กล้ามเนื้อเรียบ):** Involuntary, in organs
+- **Cardiac (กล้ามเนื้อหัวใจ):** Involuntary, heart only
 
 ---
 
@@ -189,6 +192,7 @@ Normal: 120/80 mmHg
 ## 5 | System Integration
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     DG[ระบบย่อยอาหาร / Digestive] -->|สารอาหาร / Nutrients| BC[กระแสเลือด / Blood]
     RS[ระบบหายใจ / Respiratory] -->|O₂| BC
@@ -206,18 +210,18 @@ graph TD
 
 ## 6 | Real-World Examples
 
-1. **Food pyramid (ปิรามิดอาหาร)** — Applying nutrition knowledge to daily meals
-2. **Exercise and heart rate** — Measuring pulse before and after physical activity
-3. **Thai traditional medicine** — Comparing modern anatomy with traditional beliefs
-4. **Disease prevention** — Handwashing, vaccination, healthy eating
+1. **Food pyramid (ปิรามิดอาหาร):** Applying nutrition knowledge to daily meals
+2. **Exercise and heart rate:** Measuring pulse before and after physical activity
+3. **Thai traditional medicine:** Comparing modern anatomy with traditional beliefs
+4. **Disease prevention:** Handwashing, vaccination, healthy eating
 
 ---
 
 ## 7 | Cross-Links
 
-- [[02_Living_Things]] — Humans as living organisms
-- [[03_Cells]] — Cells that make up body tissues
-- [[05_Plants]] — Comparing plant and animal systems
-- [[09_Matter_and_Properties]] — Nutrients as chemical substances
-- [[14_Energy]] — Body energy from food
-- [[15_Heat_and_Temperature]] — Body temperature regulation
+- [[02_Living_Things]]: Humans as living organisms
+- [[03_Cells]]: Cells that make up body tissues
+- [[05_Plants]]: Comparing plant and animal systems
+- [[09_Matter_and_Properties]]: Nutrients as chemical substances
+- [[14_Energy]]: Body energy from food
+- [[15_Heat_and_Temperature]]: Body temperature regulation

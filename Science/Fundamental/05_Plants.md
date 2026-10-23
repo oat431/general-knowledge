@@ -10,9 +10,9 @@ created: 2026-07-26
 course_codes: ["ว111", "ว112", "ว113", "ว121", "ว122", "ว123", "ว211", "ว212", "ว213"]
 ---
 
-# Plants — พืช
+# Plants: พืช
 
-> *"The creation of a thousand forests is in one acorn."* — Ralph Waldo Emerson
+> *"The creation of a thousand forests is in one acorn."* (Ralph Waldo Emerson)
 
 This note covers plant structure, function, classification, and the vital role plants play in ecosystems. Students progress from observing basic plant parts to understanding photosynthesis, reproduction, and plant biotechnology.
 
@@ -80,6 +80,7 @@ This note covers plant structure, function, classification, and the vital role p
 ### 3.1 Parts and Functions
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     subgraph "โครงสร้างพืช / Plant Structure"
         F[ดอก / Flower] -->|สืบพันธุ์| FR[ผล / Fruit]
@@ -105,13 +106,13 @@ graph TD
 ```
 Upper epidermis (ผิวใบด้านบน)
   ↓
-Palisade mesophyll (เนื้อเยื่อพาริเซด) — main photosynthesis
+Palisade mesophyll (เนื้อเยื่อพาริเซด): main photosynthesis
   ↓
-Spongy mesophyll (เนื้อเยื่อฟองน้ำ) — gas exchange
+Spongy mesophyll (เนื้อเยื่อฟองน้ำ): gas exchange
   ↓
 Lower epidermis (ผิวใบด้านล่าง)
-  → Stomata (ปากใบ) — gas exchange openings
-  → Guard cells (เซลล์คุม) — open/close stomata
+  → Stomata (ปากใบ): gas exchange openings
+  → Guard cells (เซลล์คุม): open/close stomata
 ```
 
 ### 3.3 Vascular Tissue
@@ -132,6 +133,7 @@ $$6\text{CO}_2 + 6\text{H}_2\text{O} \xrightarrow{\text{light energy}} \text{C}_
 ### 4.2 Process
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph LR
     A[แสงแดด / Sunlight] --> D[คลอโรพลาสต์ / Chloroplast]
     B[น้ำ Water] --> D
@@ -143,12 +145,12 @@ graph LR
 
 **Requirements:**
 - Light energy (พลังงานแสง)
-- Water (น้ำ) — absorbed by roots
-- Carbon dioxide (คาร์บอนไดออกไซด์) — enters through stomata
+- Water (น้ำ): absorbed by roots
+- Carbon dioxide (คาร์บอนไดออกไซด์): enters through stomata
 
 **Products:**
-- Glucose (กลูโคส) — food/energy storage
-- Oxygen (ออกซิเจน) — released into atmosphere
+- Glucose (กลูโคส): food/energy storage
+- Oxygen (ออกซิเจน): released into atmosphere
 
 ---
 
@@ -166,6 +168,7 @@ graph LR
 ### 5.2 Reproduction Process
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     A[ดอกบาน / Flower blooms] --> B[การผสมเกสร / Pollination]
     B --> C[การปฏิสนธิ / Fertilization]
@@ -176,8 +179,8 @@ graph TD
 ```
 
 **Pollination types:**
-- **Self-pollination (การผสมเกสรตัวเอง)** — Same flower
-- **Cross-pollination (การผสมเกสรข้าม)** — Different flowers, same species
+- **Self-pollination (การผสมเกสรตัวเอง):** Same flower
+- **Cross-pollination (การผสมเกสรข้าม):** Different flowers, same species
 - **Agents:** Wind (ลม), insects (แมลง), birds (นก), water (น้ำ)
 
 ### 5.3 Seed Dispersal Methods
@@ -220,9 +223,9 @@ graph TD
 
 ## 8 | Cross-Links
 
-- [[02_Living_Things]] — Plants as living organisms
-- [[03_Cells]] — Plant cell structure (chloroplast, cell wall)
-- [[06_Animals]] — Plant-animal interactions (pollination, seed dispersal)
-- [[07_Ecosystems]] — Plants as producers in food webs
-- [[14_Energy]] — Light energy conversion in photosynthesis
-- [[16_Light]] — Role of light in photosynthesis
+- [[02_Living_Things]]: Plants as living organisms
+- [[03_Cells]]: Plant cell structure (chloroplast, cell wall)
+- [[06_Animals]]: Plant-animal interactions (pollination, seed dispersal)
+- [[07_Ecosystems]]: Plants as producers in food webs
+- [[14_Energy]]: Light energy conversion in photosynthesis
+- [[16_Light]]: Role of light in photosynthesis

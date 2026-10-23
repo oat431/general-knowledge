@@ -12,9 +12,9 @@ created: 2026-07-26
 course_codes: ["ว111", "ว112", "ว113", "ว211", "ว212", "ว213"]
 ---
 
-# Rocks, Minerals, and Soil — หิน แร่ และดิน
+# Rocks, Minerals, and Soil: หิน แร่ และดิน
 
-> *"The earth has music for those who listen."* — William Shakespeare
+> *"The earth has music for those who listen."* (William Shakespeare)
 
 This note covers the rock cycle, mineral properties, soil composition, and Earth's geological processes. Students progress from observing rocks and soil to understanding geological transformations.
 
@@ -78,6 +78,7 @@ This note covers the rock cycle, mineral properties, soil composition, and Earth
 ### 3.1 Three Main Types
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     A[หินอัคนี / Igneous] -->|ผุพังและกัดเซาะ / Weathering & Erosion| B[หินตะกอน / Sedimentary]
     B -->|แรงกดดันและความร้อน / Heat & Pressure| C[หินแปร / Metamorphic]
@@ -139,6 +140,7 @@ graph TD
 ### 5.1 Soil Composition
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     S[ดิน / Soil] --> M[แร่ธาตุ / Minerals - 45%]
     S --> O[อินทรีย์วัตถุ / Organic matter - 5%]
@@ -158,11 +160,11 @@ graph TD
 ### 5.3 Soil Profile
 
 ```
-O Horizon (ชั้นอินทรีย์) — Organic matter, humus
-A Horizon (ชั้นบน) — Topsoil, rich in nutrients
-B Horizon (ชั้นล่าง) — Subsoil, minerals accumulate
-C Horizon (ชั้นหินผุ) — Weathered parent rock
-Bedrock (ชั้นหินแข็ง) — Solid rock
+O Horizon (ชั้นอินทรีย์): Organic matter, humus
+A Horizon (ชั้นบน): Topsoil, rich in nutrients
+B Horizon (ชั้นล่าง): Subsoil, minerals accumulate
+C Horizon (ชั้นหินผุ): Weathered parent rock
+Bedrock (ชั้นหินแข็ง): Solid rock
 ```
 
 ---
@@ -216,8 +218,8 @@ Bedrock (ชั้นหินแข็ง) — Solid rock
 
 ## 9 | Cross-Links
 
-- [[09_Matter_and_Properties]] — Properties of materials
-- [[12_Acids_Bases_and_Salts]] — Chemical weathering
-- [[20_Weather_and_Climate]] — Weathering agents
-- [[21_Solar_System_and_Astronomy]] — Earth's structure
-- [[07_Ecosystems]] — Soil in ecosystems
+- [[09_Matter_and_Properties]]: Properties of materials
+- [[12_Acids_Bases_and_Salts]]: Chemical weathering
+- [[20_Weather_and_Climate]]: Weathering agents
+- [[21_Solar_System_and_Astronomy]]: Earth's structure
+- [[07_Ecosystems]]: Soil in ecosystems

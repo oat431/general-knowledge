@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว311"]
 ---
 
-# Intermolecular Forces — แรงระหว่างโมเลกุล
+# Intermolecular Forces: แรงระหว่างโมเลกุล
 
-> *"The difference between a solid, a liquid, and a gas is not the molecules themselves, but how strongly they hold on to each other."* — Peter Atkins
+> *"The difference between a solid, a liquid, and a gas is not the molecules themselves, but how strongly they hold on to each other."* (Peter Atkins)
 
-Intermolecular forces (แรงระหว่างโมเลกุล, IMFs) are the attractive forces between molecules — not within them. These forces influence the state of matter, boiling point, melting point, solubility, and other physical properties of substances.
+Intermolecular forces (แรงระหว่างโมเลกุล, IMFs) are the attractive forces between molecules, not within them. These forces influence the state of matter, boiling point, melting point, solubility, and other physical properties of substances.
 
 ---
 
@@ -63,7 +63,7 @@ Intermolecular forces (แรงระหว่างโมเลกุล, IMFs
 
 ### 3.3 Dipole-Dipole Forces
 
-Occur between polar molecules — the positive end of one molecule attracts the negative end of another (ขั้วบวกของโมเลกุลหนึ่งดึงดูดขั้วลบของอีกโมเลกุล).
+Occur between polar molecules: the positive end of one molecule attracts the negative end of another (ขั้วบวกของโมเลกุลหนึ่งดึงดูดขั้วลบของอีกโมเลกุล).
 
 - Stronger than LDF at comparable molecular mass (แรงกว่า LDF เมื่อเปรียบเทียบที่มวลใกล้เคียงกัน)
 - Examples: $\ce{HCl, SO2, CHCl3}$
@@ -77,9 +77,9 @@ $$\ce{X-H} \cdots \ce{Y}$$
 where $\ce{X, Y}$ = $\ce{N, O, F}$ (high electronegativity, small size) (มี EN สูง, ขนาดเล็ก)
 
 **Examples (ตัวอย่าง):**
-- Water $\ce{H2O}$ — H-bond gives an unusually high BP
-- $\ce{NH3}$ — BP = -33°C (much higher than $\ce{PH3}$)
-- DNA — H-bonds between base pairs (A-T, G-C)
+- Water $\ce{H2O}$: H-bond gives an unusually high BP
+- $\ce{NH3}$: BP = -33°C (much higher than $\ce{PH3}$)
+- DNA: H-bonds between base pairs (A-T, G-C)
 
 **Effects (ผลกระทบ):**
 - Abnormally high boiling/melting points
@@ -106,7 +106,7 @@ $$\text{LDF} < \text{Dipole-Dipole} < \text{H-Bond} < \text{Ion-Dipole}$$
 
 **Boiling / melting points (จุดเดือด/หลอมเหลว):**
 - Stronger IMF → higher BP/MP
-- Example: $\ce{H2O}$ (100°C) vs $\ce{H2S}$ (-60°C) — because of H-bonding
+- Example: $\ce{H2O}$ (100°C) vs $\ce{H2S}$ (-60°C), because of H-bonding
 
 **State of matter at room temperature (สถานะของสารที่อุณหภูมิห้อง):**
 
@@ -196,7 +196,7 @@ Example: $n$-butanol BP = 117°C > isobutanol BP = 108°C (linear has greater su
 
 ## 5 | Cross-Links
 
-- [[03_Chemical_Bonding]] — Bond polarity determines molecular polarity and IMF type
-- [[06_Solutions]] — "Like dissolves like" governs solubility
-- [[02_Periodic_Table]] — High EN (N,O,F) enables H-bonding
-- [[../../Advance/biology/04_Water_Properties|Biology Water Properties]] — Effects of H-bonding on living systems
+- [[03_Chemical_Bonding]]: Bond polarity determines molecular polarity and IMF type
+- [[06_Solutions]]: "Like dissolves like" governs solubility
+- [[02_Periodic_Table]]: High EN (N,O,F) enables H-bonding
+- [[../../Advance/biology/04_Water_Properties|Biology Water Properties]]: Effects of H-bonding on living systems

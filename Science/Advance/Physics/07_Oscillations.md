@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว301"]
 ---
 
-# Oscillations — การแกว่ง
+# Oscillations: การแกว่ง
 
-> *"Nature is a great oscillation: the breath of the world is a rhythm of return."* — Adapted from Galileo's pendulum studies
+> *"Nature is a great oscillation: the breath of the world is a rhythm of return."* (Adapted from Galileo's pendulum studies)
 
-Oscillations (การแกว่ง) are motions that repeat about an equilibrium position. They are ubiquitous in nature — from the swing of a pendulum to the vibration of atoms in a crystal. The simplest and most important case is **simple harmonic motion (SHM)**, in which the restoring force is directly proportional to the displacement. SHM provides the mathematical foundation for understanding springs, pendulums, and — in the next topic — waves.
+Oscillations (การแกว่ง) are motions that repeat about an equilibrium position. They are ubiquitous in nature: from the swing of a pendulum to the vibration of atoms in a crystal. The simplest and most important case is **simple harmonic motion (SHM)**, in which the restoring force is directly proportional to the displacement. SHM provides the mathematical foundation for understanding springs, pendulums, and, in the next topic, waves.
 
 This note covers simple harmonic motion, Hooke's law, the mass-spring system, the simple pendulum, energy in SHM, damped oscillations, driven oscillations, and resonance. Together with waves (topic 08), this completes Semester 2 of the ว301 curriculum.
 
@@ -25,7 +25,7 @@ This note covers simple harmonic motion, Hooke's law, the mass-spring system, th
 
 | Semester | Scope | Key Skills |
 |---|---|---|
-| **Semester 1** | (Not covered — this is Semester 2 content) | — |
+| **Semester 1** | (Not covered, this is Semester 2 content) |: |
 | **Semester 2** | SHM, Hooke's law, mass-spring, pendulum, energy in SHM, damped and driven oscillations, resonance | Derive periods, analyse energy, identify resonance conditions |
 
 ---
@@ -101,6 +101,7 @@ At equilibrium ($x = 0$): all energy is KE, $v = v_{max} = A\omega$.
 At extremes ($x = \pm A$): all energy is PE, $v = 0$.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["At equilibrium<br/>x=0, v=max, all KE"] -->|"1/4 period"| B["At extreme<br/>x=A, v=0, all PE"]
     B -->|"1/4 period"| A
@@ -119,7 +120,7 @@ where $\gamma = \frac{b}{2m}$. Three regimes:
 
 ### 3.7 Driven Oscillations and Resonance
 
-A driven oscillator has an external periodic force applied at frequency $f_d$. When $f_d$ equals the **natural frequency** $f_0$, amplitude grows dramatically — this is **resonance** (สาเรซอนานซ์).
+A driven oscillator has an external periodic force applied at frequency $f_d$. When $f_d$ equals the **natural frequency** $f_0$, amplitude grows dramatically; this is **resonance** (สาเรซอนานซ์).
 
 Examples: pushing a swing, Tacoma Narrows Bridge, tuning forks, microwave ovens.
 
@@ -157,7 +158,7 @@ $$x(t) = 0.05\cos(5\pi t)\ \text{m}$$
 
 ## 5 | Cross-Links
 
-- [[04_Work_Energy_and_Power]] — energy conservation in SHM
-- [[06_Rotational_Motion]] — torque analysis of pendulums
-- [[08_Waves]] — SHM is the source of wave motion
-- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — trigonometry, calculus of sinusoids
+- [[04_Work_Energy_and_Power]]: energy conservation in SHM
+- [[06_Rotational_Motion]]: torque analysis of pendulums
+- [[08_Waves]]: SHM is the source of wave motion
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]]: trigonometry, calculus of sinusoids

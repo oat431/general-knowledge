@@ -10,7 +10,7 @@ created: 2026-07-26
 course_codes: ["ว211", "ว212", "ว213"]
 ---
 
-# Chemical Reactions — ปฏิกิริยาเคมี
+# Chemical Reactions: ปฏิกิริยาเคมี
 
 > *"The whole of chemistry is about the rearrangement of atoms."*
 
@@ -70,6 +70,7 @@ This note covers types of chemical reactions, balancing equations, reaction rate
 ### 3.1 Four Main Types
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     A[ปฏิกิริยาเคมี / Chemical Reactions] --> B[สังเคราะห์ / Synthesis]
     A --> C[สลาย / Decomposition]
@@ -97,7 +98,7 @@ graph TD
 
 ### 4.1 Rules
 
-1. **Conservation of mass** — atoms cannot be created or destroyed
+1. **Conservation of mass:** atoms cannot be created or destroyed
 2. **Same number of each atom** on both sides
 3. **Only change coefficients** (numbers in front), never subscripts
 
@@ -147,6 +148,7 @@ graph TD
 ### 6.2 Energy Diagram
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph LR
     subgraph "Exothermic / คายความร้อน"
         R1[Reactants] -->|Energy input| T1[Transition state]
@@ -176,8 +178,8 @@ graph LR
 
 ## 8 | Cross-Links
 
-- [[09_Matter_and_Properties]] — Physical vs chemical changes
-- [[10_Atoms_Elements_and_Compounds]] — Atomic structure and bonding
-- [[12_Acids_Bases_and_Salts]] — Acid-base reactions
-- [[14_Energy]] — Energy changes in reactions
-- [[15_Heat_and_Temperature]] — Heat in reactions
+- [[09_Matter_and_Properties]]: Physical vs chemical changes
+- [[10_Atoms_Elements_and_Compounds]]: Atomic structure and bonding
+- [[12_Acids_Bases_and_Salts]]: Acid-base reactions
+- [[14_Energy]]: Energy changes in reactions
+- [[15_Heat_and_Temperature]]: Heat in reactions

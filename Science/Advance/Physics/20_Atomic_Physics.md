@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว303"]
 ---
 
-# Atomic Physics — ฟิสิกส์ปรมาณู
+# Atomic Physics: ฟิสิกส์ปรมาณู
 
-> *"All matter originates and exists only by virtue of a force which brings the particle of an atom to vibration and holds this most minute solar system of the atom together."* — Max Planck
+> *"All matter originates and exists only by virtue of a force which brings the particle of an atom to vibration and holds this most minute solar system of the atom together."* (Max Planck)
 
 Atomic physics studies the structure and behavior of atoms, focusing on the arrangement of electrons around the nucleus and the interaction of atoms with light. The Bohr model (1913) provided the first successful quantum description of the hydrogen atom, explaining its discrete emission spectrum. While later superseded by full quantum mechanics, the Bohr model remains an essential pedagogical tool and a stepping stone to understanding atomic structure, quantum numbers, and electron configurations.
 
@@ -99,13 +99,13 @@ where $R = 1.097 \times 10^7$ m⁻¹ is the Rydberg constant.
 | Lyman | 1 | Ultraviolet | Transitions to ground state |
 | Balmer | 2 | Visible | Includes Hα (656 nm, red) |
 | Paschen | 3 | Infrared | First infrared series |
-| Brackett | 4 | Far infrared | — |
-| Pfund | 5 | Far infrared | — |
+| Brackett | 4 | Far infrared | N/A |
+| Pfund | 5 | Far infrared | N/A |
 
 ### 3.5 Emission vs Absorption Spectra
 
-- **Emission spectrum (สเปกตรัมการปล่อยออก):** A hot, low-pressure gas emits photons at specific wavelengths — bright lines on a dark background.
-- **Absorption spectrum (สเปกตรัมการดูดกลืน):** A continuous spectrum passes through a cool gas, which absorbs photons at specific wavelengths — dark lines on a bright background.
+- **Emission spectrum (สเปกตรัมการปล่อยออก):** A hot, low-pressure gas emits photons at specific wavelengths, bright lines on a dark background.
+- **Absorption spectrum (สเปกตรัมการดูดกลืน):** A continuous spectrum passes through a cool gas, which absorbs photons at specific wavelengths, dark lines on a bright background.
 
 The absorption lines occur at exactly the same wavelengths as the emission lines for the same element, because the same energy-level transitions are involved.
 
@@ -194,7 +194,7 @@ This is about $\alpha c \approx c/137$, where $\alpha \approx 1/137$ is the fine
 
 ## 5 | Cross-Links
 
-- [[19_Quantum_Physics]] — Quantization of energy is the foundation of atomic models
-- [[18_Special_Relativity]] — Fine structure corrections require relativistic treatment
-- [[21_Nuclear_Physics]] — The nucleus inside the atom; nuclear properties affect atomic spectra
-- [[15_Electromagnetic_Waves]] — Spectra are analyzed using EM wave properties
+- [[19_Quantum_Physics]]: Quantization of energy is the foundation of atomic models
+- [[18_Special_Relativity]]: Fine structure corrections require relativistic treatment
+- [[21_Nuclear_Physics]]: The nucleus inside the atom; nuclear properties affect atomic spectra
+- [[15_Electromagnetic_Waves]]: Spectra are analyzed using EM wave properties

@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว301"]
 ---
 
-# Momentum — โมเมนตัม
+# Momentum: โมเมนตัม
 
-> *"In any collision, the universe keeps a perfect accounting of momentum."* — Adapted from Newton's Principia
+> *"In any collision, the universe keeps a perfect accounting of momentum."* (Adapted from Newton's Principia)
 
-Momentum (โมเมนตัม) is a vector quantity that captures the "quantity of motion" of an object — the product of its mass and velocity. The **law of conservation of momentum** is one of the most fundamental principles in physics: in the absence of external forces, the total momentum of a system remains constant. This law holds even in collisions where kinetic energy is lost, and even in subatomic and relativistic regimes where Newtonian mechanics fails.
+Momentum (โมเมนตัม) is a vector quantity that captures the "quantity of motion" of an object: the product of its mass and velocity. The **law of conservation of momentum** is one of the most fundamental principles in physics: in the absence of external forces, the total momentum of a system remains constant. This law holds even in collisions where kinetic energy is lost, and even in subatomic and relativistic regimes where Newtonian mechanics fails.
 
 This note covers linear momentum, impulse, the impulse-momentum theorem, conservation of momentum, and elastic, inelastic, and perfectly inelastic collisions in one and two dimensions. Combined with energy analysis, momentum conservation provides a complete toolkit for analysing interactions between objects.
 
@@ -79,6 +79,7 @@ Internal forces (between objects in the system) always cancel by Newton's third 
 ### 3.4 Types of Collisions
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Collisions"] --> B["Elastic"]
     A --> C["Inelastic"]
@@ -149,7 +150,7 @@ $$v = \frac{m_1 u_1 + m_2 u_2}{m_1 + m_2} = \frac{2 \times 5 + 3 \times 0}{5} = 
 $$J = F\Delta t = 200 \times 0.05 = 10\ \text{N·s}$$
 $$\Delta p = J \Rightarrow mv_f = 10 \Rightarrow v_f = \frac{10}{0.5} = 20\ \text{m/s}$$
 
-### Type 3: Elastic collision — equal masses
+### Type 3: Elastic collision: equal masses
 > A $1\ \text{kg}$ ball at $4\ \text{m/s}$ strikes a stationary $1\ \text{kg}$ ball elastically. Find final velocities.
 
 **Solution:** Equal masses exchange velocities:
@@ -166,7 +167,7 @@ $$v_1 = 0\ \text{m/s}, \quad v_2 = 4\ \text{m/s}$$
 
 ## 5 | Cross-Links
 
-- [[03_Dynamics]] — Newton's third law underlies momentum conservation
-- [[04_Work_Energy_and_Power]] — energy analysis distinguishes collision types
-- [[06_Rotational_Motion]] — angular momentum is the rotational analogue
-- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — vectors, simultaneous equations
+- [[03_Dynamics]]: Newton's third law underlies momentum conservation
+- [[04_Work_Energy_and_Power]]: energy analysis distinguishes collision types
+- [[06_Rotational_Motion]]: angular momentum is the rotational analogue
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]]: vectors, simultaneous equations

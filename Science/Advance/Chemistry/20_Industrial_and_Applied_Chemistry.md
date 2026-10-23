@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว313"]
 ---
 
-# Industrial and Applied Chemistry — เคมีอุตสาหกรรมและประยุกต์
+# Industrial and Applied Chemistry: เคมีอุตสาหกรรมและประยุกต์
 
-> *"The chemical industry transforms raw materials into the products that modern life depends on — from fertilizers to fuels to pharmaceuticals."* — John H. Perry
+> *"The chemical industry transforms raw materials into the products that modern life depends on: from fertilizers to fuels to pharmaceuticals."* (John H. Perry)
 
-**Industrial chemistry (เคมีอุตสาหกรรม)** applies chemical knowledge to the commercial production of important chemicals such as ammonia, sulfuric acid, nitric acid, metals, and fuels. This note also covers environmental chemistry (เคมีสิ่งแวดล้อม) — pollution, the greenhouse effect, the ozone layer, and wastewater treatment.
+**Industrial chemistry (เคมีอุตสาหกรรม)** applies chemical knowledge to the commercial production of important chemicals such as ammonia, sulfuric acid, nitric acid, metals, and fuels. This note also covers environmental chemistry (เคมีสิ่งแวดล้อม): pollution, the greenhouse effect, the ozone layer, and wastewater treatment.
 
 ---
 
@@ -23,7 +23,7 @@ course_codes: ["ว313"]
 
 || Semester | Scope | Key Skills |
 ||---|---|---|
-|| **Semester 1** | (background from chapters 11–13) | — |
+|| **Semester 1** | (background from chapters 11–13) | N/A |
 || **Semester 2** | Industrial processes; metallurgy; petrochemicals; environmental chemistry | Write equations; explain principles; analyze impacts |
 
 ---
@@ -52,7 +52,7 @@ course_codes: ["ว313"]
 
 ## 3 | Key Concepts
 
-### 3.1 Haber Process (กระบวนการฮาเบอร์) — Production of $\ce{NH3}$
+### 3.1 Haber Process (กระบวนการฮาเบอร์): Production of $\ce{NH3}$
 
 $$\ce{N2 (g) + 3H2 (g) <=> 2NH3 (g)} \quad \Delta H = -92\ \text{kJ/mol}$$
 
@@ -64,7 +64,7 @@ $$\ce{N2 (g) + 3H2 (g) <=> 2NH3 (g)} \quad \Delta H = -92\ \text{kJ/mol}$$
 
 **Le Chatelier's principle:** low temperature and high pressure favor $\ce{NH3}$, but the rate is too slow → a catalyst is used.
 
-### 3.2 Contact Process (กระบวนการคอนแทค) — Production of $\ce{H2SO4}$
+### 3.2 Contact Process (กระบวนการคอนแทค): Production of $\ce{H2SO4}$
 
 **Three steps:**
 
@@ -80,7 +80,7 @@ $$\ce{2SO2 + O2 <=> 2SO3} \quad \Delta H = -198\ \text{kJ/mol}$$
 
 $$\ce{SO3 + H2O -> H2SO4} \quad \text{(in practice, oleum is used)}$$
 
-### 3.3 Ostwald Process (กระบวนการออสต์วาลด์) — Production of $\ce{HNO3}$
+### 3.3 Ostwald Process (กระบวนการออสต์วาลด์): Production of $\ce{HNO3}$
 
 **Three steps:**
 
@@ -105,7 +105,7 @@ $$\ce{Fe2O3 + 3CO -> 2Fe + 3CO2} \quad \text{(reduction)}$$
 
 Process: charge ore $\ce{Fe2O3}$ + coke ($\ce{C}$) + limestone ($\ce{CaCO3}$) → reduce with $\ce{CO}$ → pig iron.
 
-#### (b) Aluminum (อะลูมิเนียม) — Hall–Héroult
+#### (b) Aluminum (อะลูมิเนียม): Hall–Héroult
 **Electrolysis** of molten $\ce{Al2O3}$ dissolved in cryolite ($\ce{Na3AlF6}$).
 
 $$\ce{2Al2O3 ->[electrolysis] 4Al + 3O2}$$
@@ -194,10 +194,10 @@ $$\ce{ClO + O -> Cl + O2}$$
 
 ## 5 | Cross-Links
 
-- [[07_Gases]] — Gas laws in industrial processes
-- [[09_Chemical_Equilibrium]] — Le Chatelier equilibrium
-- [[12_Reaction_Kinetics]] — Kinetics and catalysts
-- [[13_Electrochemistry]] — Hall–Héroult, electrorefining
-- [[12_Acids_Bases_and_Salts]] — $\ce{H2SO4, HNO3, NH3}$
-- [[15_Organic_Reactions]] — Cracking, polymerization
-- [[17_Polymers]] — Petrochemical products
+- [[07_Gases]]: Gas laws in industrial processes
+- [[09_Chemical_Equilibrium]]: Le Chatelier equilibrium
+- [[12_Reaction_Kinetics]]: Kinetics and catalysts
+- [[13_Electrochemistry]]: Hall–Héroult, electrorefining
+- [[12_Acids_Bases_and_Salts]]: $\ce{H2SO4, HNO3, NH3}$
+- [[15_Organic_Reactions]]: Cracking, polymerization
+- [[17_Polymers]]: Petrochemical products

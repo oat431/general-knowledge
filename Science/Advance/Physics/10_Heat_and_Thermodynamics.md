@@ -10,9 +10,9 @@ created: 2026-07-30
 course_codes: ["ว301"]
 ---
 
-# Heat and Thermodynamics — ความร้อนและอุณหพลศาสตร์
+# Heat and Thermodynamics: ความร้อนและอุณหพลศาสตร์
 
-> *"Heat is a quantity which, like matter, can be transferred from one body to another."* — James Clerk Maxwell
+> *"Heat is a quantity which, like matter, can be transferred from one body to another."* (James Clerk Maxwell)
 
 Thermodynamics studies the relationships between heat, work, and energy. Heat is energy transferred due to temperature differences, while temperature measures the average kinetic energy of particles. The four laws of thermodynamics (Zeroth through Third) govern all thermal processes, from steam engines to biological cells. The first law is essentially energy conservation applied to thermal systems, while the second law introduces the arrow of time through entropy.
 
@@ -58,14 +58,15 @@ For Thai high school physics, students learn the mechanisms of heat transfer, th
 ### 3.1 Heat Transfer
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Heat Transfer"] --> B["Conduction"]
     A --> C["Convection"]
     A --> D["Radiation"]
-    B --> E["Solids — direct contact"]
-    C --> F["Fluids — bulk motion"]
+    B --> E["Solids: direct contact"]
+    C --> F["Fluids: bulk motion"]
     C --> G["Natural or Forced"]
-    D --> H["EM waves — no medium needed"]
+    D --> H["EM waves: no medium needed"]
 ```
 
 **Conduction:** $Q = \frac{kA \Delta T \cdot t}{d}$ where $k$ is thermal conductivity, $A$ is area, $d$ is thickness, $t$ is time.
@@ -89,6 +90,7 @@ $$Q = mc\Delta T, \qquad Q_{\text{phase}} = mL$$
 ### 3.4 Ideal Gas Law
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Thermodynamic Processes"] --> B["Isothermal"]
     A --> C["Isobaric"]
@@ -170,7 +172,7 @@ Internal energy increases by 300 J.
 
 ## 5 | Cross-Links
 
-- [[09_Sound]] — Temperature affects speed of sound
-- [[11_Electrostatics]] — Energy concepts carry over to electric potential energy
-- [[14_Electromagnetic_Induction]] — Transformers and generators are heat engine analogs
-- [[14_Energy]] — Conservation of energy underpins the first law
+- [[09_Sound]]: Temperature affects speed of sound
+- [[11_Electrostatics]]: Energy concepts carry over to electric potential energy
+- [[14_Electromagnetic_Induction]]: Transformers and generators are heat engine analogs
+- [[14_Energy]]: Conservation of energy underpins the first law

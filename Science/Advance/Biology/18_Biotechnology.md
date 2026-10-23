@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว323"]
 ---
 
-# Biotechnology — เทคโนโลยีชีวภาพ
+# Biotechnology: เทคโนโลยีชีวภาพ
 
-> *"The advance of technology is based on fitting in so that you don't even notice it."* — Harold Evans
+> *"The advance of technology is based on fitting in so that you don't even notice it."* (Harold Evans)
 
 Biotechnology (เทคโนโลยีชีวภาพ) is the application of biological systems, living organisms, or their derivatives to develop products and processes for specific use. Modern biotechnology centers on **recombinant DNA technology** (เทคโนโลยีดีเอ็นเอ recombinant), which allows scientists to combine genetic material from different sources. Key tools include restriction enzymes (เอนไซม์ตัดจำเพาะ), vectors (เวกเตอร์), PCR (ปฏิกิริยาลูกโซ่พอลิเมอเรส), and gel electrophoresis (อิเล็กโทรโฟรีซิส).
 
@@ -58,7 +58,7 @@ Applications range from producing human insulin in bacteria to creating genetica
 
 The process of combining DNA from different organisms:
 1. **Isolate** the gene of interest and a vector (typically a plasmid)
-2. **Cut** both with the same **restriction enzyme** — creates sticky ends or blunt ends
+2. **Cut** both with the same **restriction enzyme**: creates sticky ends or blunt ends
 3. **Ligate** (join) the gene into the vector using **DNA ligase** (DNA ไลเกส)
 4. **Transform** the recombinant vector into a host cell (e.g., E. coli)
 5. **Select** and screen for successful transformants
@@ -94,7 +94,7 @@ Gene therapy aims to treat genetic disorders by introducing functional genes int
 
 ### 3.6 Cloning (การโคลนนิง)
 
-- **Reproductive cloning**: creating a genetically identical organism (e.g., Dolly the sheep via somatic cell nuclear transfer — SCNT)
+- **Reproductive cloning**: creating a genetically identical organism (e.g., Dolly the sheep via somatic cell nuclear transfer, SCNT)
 - **Therapeutic cloning**: creating embryonic stem cells for medical use without creating a full organism
 
 ### 3.7 Stem Cells (เซลล์ต้นกำเนิด)
@@ -109,7 +109,7 @@ Stem cells are undifferentiated cells capable of self-renewal and differentiatio
 CRISPR-Cas9 is a revolutionary gene editing tool derived from bacterial immune systems:
 1. A **guide RNA** (gRNA) directs the Cas9 nuclease to a specific DNA sequence
 2. Cas9 creates a **double-strand break** at the target site
-3. The cell's repair machinery fixes the break — either by NHEJ (disrupting the gene) or HDR (inserting a new sequence)
+3. The cell's repair machinery fixes the break: either by NHEJ (disrupting the gene) or HDR (inserting a new sequence)
 
 Applications: gene knockout, gene correction, disease models, and potential cures for genetic diseases.
 
@@ -137,7 +137,7 @@ Applications: gene knockout, gene correction, disease models, and potential cure
 
 ## 5 | Cross-Links
 
-- [[14_Immune_System]] — monoclonal antibodies and vaccine production
-- [[19_Behavioral_Biology]] — behavioral genetics
-- [[20_Bioethics]] — ethical issues in biotechnology
-- [[../../Advance/Chemistry/18_Biochemistry|Chemistry: Biochemistry]] — DNA structure and enzymes
+- [[14_Immune_System]]: monoclonal antibodies and vaccine production
+- [[19_Behavioral_Biology]]: behavioral genetics
+- [[20_Bioethics]]: ethical issues in biotechnology
+- [[../../Advance/Chemistry/18_Biochemistry|Chemistry: Biochemistry]]: DNA structure and enzymes

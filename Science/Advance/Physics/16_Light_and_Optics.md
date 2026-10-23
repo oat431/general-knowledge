@@ -10,9 +10,9 @@ created: 2026-07-30
 course_codes: ["ว302"]
 ---
 
-# Light and Optics — แสงและทัศนศาสตร์
+# Light and Optics: แสงและทัศนศาสตร์
 
-> *"Optics is the study of light, the swiftest messenger we know."* — David Brewster
+> *"Optics is the study of light, the swiftest messenger we know."* (David Brewster)
 
 Optics is the study of light and its interactions with matter. Geometric (ray) optics treats light as straight-line rays that reflect off surfaces and refract at boundaries. The laws of reflection and refraction (Snell's law) govern mirrors and lenses, forming the basis of optical instruments from eyeglasses to telescopes. Total internal reflection enables fiber optic communication. This chapter builds on the EM wave nature of light established previously, while focusing on the practical ray-based analysis appropriate for most everyday optical phenomena.
 
@@ -26,7 +26,7 @@ In ว302, students learn to trace light rays through optical systems, apply the
 
 | Semester | Scope | Key Skills |
 |---|---|---|
-| **Semester 1** | (Electromagnetism foundations) | — |
+| **Semester 1** | (Electromagnetism foundations) | N/A |
 | **Semester 2** | Reflection, refraction, Snell's law, lenses, mirrors, optical instruments, TIR | Ray tracing; thin lens/mirror equations; magnification; optical instruments |
 
 ---
@@ -156,7 +156,7 @@ Image is virtual, upright, magnified 4× (like a shaving mirror).
 
 ## 5 | Cross-Links
 
-- [[15_Electromagnetic_Waves]] — Light is an EM wave; refractive index relates to speed
-- [[17_Wave_Optics]] — Wave nature of light: interference, diffraction, polarization
-- [[09_Sound]] — Similar wave concepts, but light needs no medium
-- [[Fundamental/08_Waves]] — Wave properties apply to light propagation
+- [[15_Electromagnetic_Waves]]: Light is an EM wave; refractive index relates to speed
+- [[17_Wave_Optics]]: Wave nature of light: interference, diffraction, polarization
+- [[09_Sound]]: Similar wave concepts, but light needs no medium
+- [[Fundamental/08_Waves]]: Wave properties apply to light propagation

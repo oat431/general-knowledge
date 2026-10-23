@@ -9,13 +9,13 @@ created: 2026-07-30
 course_codes: ["ว332"]
 ---
 
-# Data Structures — โครงสร้างข้อมูล
+# Data Structures: โครงสร้างข้อมูล
 
-> *"The choice of data structure is at least as important as the choice of algorithm."* — Niklaus Wirth
+> *"The choice of data structure is at least as important as the choice of algorithm."* (Niklaus Wirth)
 
-Data structures (โครงสร้างข้อมูล) are organized ways of storing, managing, and accessing data so that operations can be performed efficiently. They are the containers that algorithms manipulate; choosing the right structure determines whether a program runs in milliseconds or hours. In Python, the built-in collections — lists, tuples, dictionaries, and sets — cover most everyday needs.
+Data structures (โครงสร้างข้อมูล) are organized ways of storing, managing, and accessing data so that operations can be performed efficiently. They are the containers that algorithms manipulate; choosing the right structure determines whether a program runs in milliseconds or hours. In Python, the built-in collections: lists, tuples, dictionaries, and sets, cover most everyday needs.
 
-This note covers the core data structures required by the IPST curriculum (ว332): arrays/lists, stacks, queues, hash maps, tuples, sets, trees, and graphs. For each, we examine the core operations (เพิ่ม/ลด/ค้นหา — insert/delete/search), their time complexity, and when to choose one over another.
+This note covers the core data structures required by the IPST curriculum (ว332): arrays/lists, stacks, queues, hash maps, tuples, sets, trees, and graphs. For each, we examine the core operations (เพิ่ม/ลด/ค้นหา, insert/delete/search), their time complexity, and when to choose one over another.
 
 ---
 
@@ -51,6 +51,7 @@ This note covers the core data structures required by the IPST curriculum (ว33
 ## 3 | Key Concepts
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     DS["Data Structures<br/>โครงสร้างข้อมูล"] --> LINEAR["Linear"]
     DS --> NONLINEAR["Non-Linear"]
@@ -65,7 +66,7 @@ flowchart TD
 
 ### 3.1 Lists / Arrays (ลิสต์ / อาร์เรย์)
 
-A list (ลิสต์) is an ordered, mutable, zero-indexed sequence. Python lists are dynamic arrays — they grow and shrink automatically.
+A list (ลิสต์) is an ordered, mutable, zero-indexed sequence. Python lists are dynamic arrays; they grow and shrink automatically.
 
 ```python
 fruits = ["apple", "banana", "cherry"]
@@ -79,7 +80,7 @@ fruits.remove("banana")    # remove by val  O(n)
 len(fruits)                # 4
 ```
 
-### 3.2 Stacks (สแต็ก) — LIFO
+### 3.2 Stacks (สแต็ก): LIFO
 
 A stack (สแต็ก) follows **Last-In-First-Out**: the last element added is the first removed. Think of a stack of plates.
 
@@ -94,9 +95,9 @@ peek = stack[-1]   # 20  (peek without removing)
 
 Use cases: undo/redo, function call stack (call stack), expression evaluation, backtracking.
 
-### 3.3 Queues (คิว) — FIFO
+### 3.3 Queues (คิว): FIFO
 
-A queue (คิว) follows **First-In-First-Out**: the first element added is the first removed — like a line at a ticket counter.
+A queue (คิว) follows **First-In-First-Out**: the first element added is the first removed, like a line at a ticket counter.
 
 ```python
 from collections import deque   # efficient O(1) both ends
@@ -124,7 +125,7 @@ for name, score in scores.items():
 
 ### 3.5 Tuples and Sets (ทูเพิลและเซต)
 
-- **Tuple (ทูเพิล):** immutable sequence — once created, cannot change. Faster and hashable.
+- **Tuple (ทูเพิล):** immutable sequence, once created, cannot change. Faster and hashable.
   ```python
   point = (3, 4)
   x, y = point     # unpacking
@@ -203,7 +204,7 @@ Graphs model social networks, maps/routing, and dependencies.
 
 ### Type 1: Reverse a String Using a Stack
 
-> Push every character of a string onto a stack, then pop them all — the reversed order emerges naturally from LIFO.
+> Push every character of a string onto a stack, then pop them all: the reversed order emerges naturally from LIFO.
 
 **Solution:**
 ```python
@@ -261,7 +262,7 @@ print(word_freq("the cat and the dog and the bird"))
 
 ## 5 | Cross-Links
 
-- [[06_Algorithms]] — prerequisite: algorithms operate on data structures
-- [[08_Object_Oriented_Programming]] — implement structures as classes
-- [[10_Databases]] — tables are a structured data form
-- [[../../Fundamental/17_Sets|Mathematics: Sets]] — set operations in math and code
+- [[06_Algorithms]]: prerequisite: algorithms operate on data structures
+- [[08_Object_Oriented_Programming]]: implement structures as classes
+- [[10_Databases]]: tables are a structured data form
+- [[../../Fundamental/17_Sets|Mathematics: Sets]]: set operations in math and code

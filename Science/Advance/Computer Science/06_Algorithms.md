@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว332"]
 ---
 
-# Algorithms — อัลกอริทึม
+# Algorithms: อัลกอริทึม
 
-> *"An algorithm must be seen to be believed."* — Donald Knuth
+> *"An algorithm must be seen to be believed."* (Donald Knuth)
 
 An algorithm (อัลกอริทึม) is a finite, well-defined sequence of steps that solves a class of problems. The IPST curriculum in ม.5 (ว332) studies classic algorithms for searching (การค้นหา) and sorting (การเรียบลำดับ), and introduces algorithmic complexity (ความซับซ้อนของอัลกอริทึม) so students can reason about efficiency rather than guess.
 
@@ -55,22 +55,23 @@ Beyond memorising code, the goal is to understand *why* some algorithms are fast
 
 A valid algorithm is:
 
-1. **Finite (จำกัด)** — terminates after a number of steps.
-2. **Definite (แน่นอน)** — each step is unambiguous.
-3. **Input** — zero or more inputs.
-4. **Output** — at least one output.
-5. **Effective (มีประสิทธิภาพ)** — each step is doable in finite time.
+1. **Finite (จำกัด):** terminates after a number of steps.
+2. **Definite (แน่นอน):** each step is unambiguous.
+3. **Input:** zero or more inputs.
+4. **Output:** at least one output.
+5. **Effective (มีประสิทธิภาพ):** each step is doable in finite time.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     ALGO["Algorithms<br/>อัลกอริทึม"] --> SEARCH["Searching การค้นหา"]
     ALGO --> SORT["Sorting การเรียบลำดับ"]
-    SEARCH --> LIN["Linear Search ลำดับ<br/>O n — unsorted data"]
-    SEARCH --> BIN["Binary Search ทวิภาค<br/>O log n — sorted only"]
+    SEARCH --> LIN["Linear Search ลำดับ<br/>O n: unsorted data"]
+    SEARCH --> BIN["Binary Search ทวิภาค<br/>O log n: sorted only"]
     SORT --> BUBBLE["Bubble Sort ฟอง<br/>O n²"]
     SORT --> SELECT["Selection Sort เลือก<br/>O n²"]
     SORT --> INSERT["Insertion Sort แทรก<br/>O n²"]
-    SORT --> MERGE["Merge Sort ผสาน<br/>O n log n — divide and conquer"]
+    SORT --> MERGE["Merge Sort ผสาน<br/>O n log n: divide and conquer"]
 ```
 
 
@@ -110,7 +111,7 @@ Each step halves the range → worst case **$O(\log n)$**.
 
 ### 3.4 Sorting Algorithms (การเรียบลำดับ)
 
-**Bubble Sort (แบบฟอง)** — repeatedly swap adjacent out-of-order pairs; large values "bubble" to the end.
+**Bubble Sort (แบบฟอง):** repeatedly swap adjacent out-of-order pairs; large values "bubble" to the end.
 
 ```python
 def bubble_sort(arr):
@@ -123,7 +124,7 @@ def bubble_sort(arr):
     return a
 ```
 
-**Selection Sort (แบบเลือก)** — repeatedly select the minimum and place it at the front.
+**Selection Sort (แบบเลือก):** repeatedly select the minimum and place it at the front.
 
 ```python
 def selection_sort(arr):
@@ -137,7 +138,7 @@ def selection_sort(arr):
     return a
 ```
 
-**Insertion Sort (แบบแทรก)** — build a sorted portion, inserting each next element into its place.
+**Insertion Sort (แบบแทรก):** build a sorted portion, inserting each next element into its place.
 
 ```python
 def insertion_sort(arr):
@@ -152,7 +153,7 @@ def insertion_sort(arr):
     return a
 ```
 
-**Merge Sort (แบบผสาน)** — divide-and-conquer: split in half, sort each half, merge sorted halves.
+**Merge Sort (แบบผสาน):** divide-and-conquer: split in half, sort each half, merge sorted halves.
 
 ```python
 def merge_sort(arr):
@@ -204,6 +205,7 @@ Often a faster algorithm uses more memory. Merge sort runs in $O(n \log n)$ time
 **Solution:**
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     L0["lo=0, hi=4<br/>mid=2 → arr&#91;2&#93;=11<br/>11 < 15 → go right"]
     L0 --> L1["lo=3, hi=4<br/>mid=3 → arr&#91;3&#93;=15<br/>15 = 15 → FOUND at index 3"]
@@ -229,7 +231,7 @@ print(bubble_sort([5, 2, 9, 1]))   # [1, 2, 5, 9]
 ### Type 3: Compare Complexity
 > Which is faster for $n = 1\,000\,000$: linear search or binary search?
 
-**Solution:** Linear ≈ $10^6$ operations; binary ≈ $\log_2 10^6 \approx 20$ operations. Binary search is roughly 50 000× faster — but it requires the data to be sorted first.
+**Solution:** Linear ≈ $10^6$ operations; binary ≈ $\log_2 10^6 \approx 20$ operations. Binary search is roughly 50 000× faster, but it requires the data to be sorted first.
 
 ### Type 4: Count Operations
 > How many comparisons does selection sort make for a list of $n$ elements?
@@ -242,7 +244,7 @@ $$(n-1) + (n-2) + \dots + 1 = \frac{n(n-1)}{2} = O(n^2)$$
 
 ## 5 | Cross-Links
 
-- [[01_Computational_Thinking]] — algorithm design is a pillar of CT
-- [[04_Programming_Fundamentals]] — loops and conditionals implement algorithms
-- [[05_Functions_and_Modularity]] — recursion enables merge sort and binary search
-- [[06_Exponential_and_Logarithmic_Functions|Mathematics: Logarithms]] — basis of $O(\log n)$ analysis
+- [[01_Computational_Thinking]]: algorithm design is a pillar of CT
+- [[04_Programming_Fundamentals]]: loops and conditionals implement algorithms
+- [[05_Functions_and_Modularity]]: recursion enables merge sort and binary search
+- [[06_Exponential_and_Logarithmic_Functions|Mathematics: Logarithms]]: basis of $O(\log n)$ analysis

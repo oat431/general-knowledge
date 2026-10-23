@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว322"]
 ---
 
-# Human Body Systems — ระบบต่างๆ ของร่างกายมนุษย์
+# Human Body Systems: ระบบต่างๆ ของร่างกายมนุษย์
 
-> *"The human body is the best picture of the human soul."* — Ludwig Wittgenstein
+> *"The human body is the best picture of the human soul."* (Ludwig Wittgenstein)
 
-The human body (ร่างกายมนุษย์) is organized into multiple organ systems that work together to maintain life. Each system has specialized organs performing coordinated functions — from breaking down food (ระบบย่อยอาหาร) to circulating blood (ระบบไหลเวียน), exchanging gases (ระบบหายใจ), filtering waste (ระบบขับถ่าย), transmitting signals (ระบบประสาท), and regulating hormones (ระบบต่อมไร้ท่อ). The overarching principle is **homeostasis** (สภาวะสมดุล) — the maintenance of stable internal conditions.
+The human body (ร่างกายมนุษย์) is organized into multiple organ systems that work together to maintain life. Each system has specialized organs performing coordinated functions: from breaking down food (ระบบย่อยอาหาร) to circulating blood (ระบบไหลเวียน), exchanging gases (ระบบหายใจ), filtering waste (ระบบขับถ่าย), transmitting signals (ระบบประสาท), and regulating hormones (ระบบต่อมไร้ท่อ). The overarching principle is **homeostasis** (สภาวะสมดุล), the maintenance of stable internal conditions.
 
 Understanding human body systems is critical for medicine, health sciences, and biology. At the ม.5 level, students study each system's structure and function in depth, connecting organ-level physiology to cellular processes and chemical principles learned in earlier courses.
 
@@ -59,6 +59,7 @@ Understanding human body systems is critical for medicine, health sciences, and 
 ## 3 | Key Concepts
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     BODY["Human Body Systems"] --> DIG["Digestive"]
     BODY --> CIRC["Circulatory"]
@@ -105,19 +106,19 @@ Air path: nasal cavity → pharynx → larynx → trachea → bronchi → bronch
 
 The **kidneys** (ไต) filter blood and produce urine (ปัสสาวะ). Each kidney contains ~1 million **nephrons** (หน่วยไต), the functional units. A nephron consists of:
 
-1. **Bowman's capsule** (แคปซูลโบว์แมน) + glomerulus (กลเมอรูลัส) — **filtration** (การกรอง): blood pressure forces small molecules into capsule → glomerular filtrate
-2. **Proximal convoluted tubule** (ท่อขดส่วนต้น) — **reabsorption** (การดูดซึมกลับ): glucose, amino acids, most water and ions reabsorbed
-3. **Loop of Henle** (ห่วงเฮนเล) — concentration of urine; descending limb reabsorbs water, ascending limb reabsorbs ions
-4. **Distal convoluted tubule** (ท่อขดส่วนปลาย) — **secretion** (การหลั่ง): additional waste and ions secreted; pH regulation
-5. **Collecting duct** (ท่อรวม) — final water reabsorption regulated by **ADH** (antidiuretic hormone, ฮอร์โมนต้านการขับปัสสาวะ)
+1. **Bowman's capsule** (แคปซูลโบว์แมน) + glomerulus (กลเมอรูลัส): **filtration** (การกรอง): blood pressure forces small molecules into capsule → glomerular filtrate
+2. **Proximal convoluted tubule** (ท่อขดส่วนต้น): **reabsorption** (การดูดซึมกลับ): glucose, amino acids, most water and ions reabsorbed
+3. **Loop of Henle** (ห่วงเฮนเล): concentration of urine; descending limb reabsorbs water, ascending limb reabsorbs ions
+4. **Distal convoluted tubule** (ท่อขดส่วนปลาย): **secretion** (การหลั่ง): additional waste and ions secreted; pH regulation
+5. **Collecting duct** (ท่อรวม): final water reabsorption regulated by **ADH** (antidiuretic hormone, ฮอร์โมนต้านการขับปัสสาวะ)
 
 ### 3.5 Nervous System (ระบบประสาท)
 
 **Neurons** (เซลล์ประสาท) transmit electrical signals. Structure: **cell body** (ตัวเซลล์ประสาท), **dendrites** (เดนไดรต์, receive signals), **axon** (แอกซอน, transmits signals, may be myelinated). Signal transmission: **resting potential** → **action potential** (ศักย์ไฟฟ้ากระทำ, depolarization at −55 mV threshold) → **nerve impulse** propagates along axon → **synapse** (ไซแนปส์): neurotransmitter (สารสื่อประสาท) released → binds receptors on next neuron.
 
-**Brain regions**: **cerebrum** (สมองใหญ่, conscious thought, sensory processing), **cerebellum** (สมองน้อย, coordination, balance), **brainstem** (ก้านสมอง, vital functions — breathing, heartbeat), **hypothalamus** (ไฮโพทาลามัส, links nervous and endocrine systems, thermoregulation).
+**Brain regions**: **cerebrum** (สมองใหญ่, conscious thought, sensory processing), **cerebellum** (สมองน้อย, coordination, balance), **brainstem** (ก้านสมอง, vital functions, breathing, heartbeat), **hypothalamus** (ไฮโพทาลามัส, links nervous and endocrine systems, thermoregulation).
 
-**Reflex arc** (ส่วนโค้งรีเฟล็กซ์): **stimulus → receptor → sensory neuron → integration center (spinal cord) → motor neuron → effector (muscle/gland) → response**. Example: knee-jerk reflex — patellar tendon stretch → sensory neuron → spinal cord → motor neuron → quadriceps contraction. Reflexes are rapid, automatic, and do not require conscious brain processing.
+**Reflex arc** (ส่วนโค้งรีเฟล็กซ์): **stimulus → receptor → sensory neuron → integration center (spinal cord) → motor neuron → effector (muscle/gland) → response**. Example: knee-jerk reflex, patellar tendon stretch → sensory neuron → spinal cord → motor neuron → quadriceps contraction. Reflexes are rapid, automatic, and do not require conscious brain processing.
 
 ### 3.6 Endocrine System (ระบบต่อมไร้ท่อ)
 
@@ -133,7 +134,7 @@ Endocrine glands (ต่อมไร้ท่อ) secrete **hormones** (ฮอ�
 
 **Negative feedback** (ป้อนกลับเชิงลบ) is the primary regulatory mechanism. Example: high blood glucose → pancreas secretes insulin → glucose uptake by cells → blood glucose drops → insulin secretion decreases.
 
-### 3.7 Reproductive System (ระบบสืบพันธุ์) — Brief Overview
+### 3.7 Reproductive System (ระบบสืบพันธุ์): Brief Overview
 
 **Male**: testes (อัณฑะ) produce sperm (อสุจิ) and testosterone. **Female**: ovaries (รังไข่) produce ova (ไข่) and estrogen/progesterone. Menstrual cycle (รอบเดือน, ~28 days): follicular phase → ovulation (การตกไข่) → luteal phase. Fertilization in fallopian tube → implantation in uterus (มดลูก).
 
@@ -158,7 +159,7 @@ Endocrine glands (ต่อมไร้ท่อ) secrete **hormones** (ฮอ�
 **Solution:**
 1. Normal kidneys reabsorb all glucose in the proximal convoluted tubule
 2. The **renal threshold** for glucose (~180 mg/dL) is exceeded
-3. Glucose transporters (SGLT) are saturated — cannot reabsorb all glucose
+3. Glucose transporters (SGLT) are saturated: cannot reabsorb all glucose
 4. Excess glucose remains in the filtrate → appears in urine (glucosuria, น้ำตาลในปัสสาวะ)
 5. This is characteristic of **diabetes mellitus** (เบาหวาน)
 
@@ -178,7 +179,7 @@ Endocrine glands (ต่อมไร้ท่อ) secrete **hormones** (ฮอ�
 
 ## 5 | Cross-Links
 
-- [[12_Animal_Biology]] — comparative organ systems across vertebrates
-- [[../../Advance/Chemistry/18_Biochemistry|Chemistry: Biochemistry]] — enzymes, hormones, blood chemistry
-- [[10_Microbiology]] — immune response to pathogens
-- [[08_Evolution]] — comparative anatomy of human organ systems
+- [[12_Animal_Biology]]: comparative organ systems across vertebrates
+- [[../../Advance/Chemistry/18_Biochemistry|Chemistry: Biochemistry]]: enzymes, hormones, blood chemistry
+- [[10_Microbiology]]: immune response to pathogens
+- [[08_Evolution]]: comparative anatomy of human organ systems

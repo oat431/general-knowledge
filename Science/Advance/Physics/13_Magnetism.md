@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว302"]
 ---
 
-# Magnetism — แม่เหล็กไฟฟ้า
+# Magnetism: แม่เหล็กไฟฟ้า
 
-> *"Magnetism, electricity, and light are but different manifestations of the same fundamental force."* — James Clerk Maxwell
+> *"Magnetism, electricity, and light are but different manifestations of the same fundamental force."* (James Clerk Maxwell)
 
-Magnetism arises from moving electric charges. A magnetic field exerts forces on other moving charges and on current-carrying conductors. The Biot-Savart law and Ampère's law provide the tools for calculating magnetic fields from current distributions. The force on a charged particle in a magnetic field leads to circular motion — the basis of mass spectrometers and particle accelerators. The Earth's magnetic field protects life from solar radiation and enables navigation.
+Magnetism arises from moving electric charges. A magnetic field exerts forces on other moving charges and on current-carrying conductors. The Biot-Savart law and Ampère's law provide the tools for calculating magnetic fields from current distributions. The force on a charged particle in a magnetic field leads to circular motion: the basis of mass spectrometers and particle accelerators. The Earth's magnetic field protects life from solar radiation and enables navigation.
 
 In ว302, magnetism completes the static picture: electrostatics describes charges at rest, while magnetism describes charges in motion. Together they set the stage for electromagnetic induction and Maxwell's equations, which unify electricity and magnetism into a single framework.
 
@@ -26,7 +26,7 @@ In ว302, magnetism completes the static picture: electrostatics describes char
 | Semester | Scope | Key Skills |
 |---|---|---|
 | **Semester 1** | Magnetic fields, force on charges/currents, Biot-Savart, Ampère's law, solenoids, Earth's field | Calculate magnetic force; apply Biot-Savart & Ampère's law; solenoid fields |
-| **Semester 2** | (Continued in EM induction) | — |
+| **Semester 2** | (Continued in EM induction) | N/A |
 
 ---
 
@@ -140,8 +140,8 @@ $$\frac{F}{L} = \frac{\mu_0 I_1 I_2}{2\pi d} = \frac{(4\pi \times 10^{-7})(5)(5)
 
 ## 5 | Cross-Links
 
-- [[11_Electrostatics]] — Moving charges create both electric and magnetic fields
-- [[12_Electric_Circuits]] — Currents in wires produce magnetic fields
-- [[14_Electromagnetic_Induction]] — Changing magnetic fields induce EMF (Faraday's law)
-- [[15_Electromagnetic_Waves]] — Oscillating charges produce EM waves
-- [[13_Forces_and_Motion]] — Field concept parallels gravitational fields
+- [[11_Electrostatics]]: Moving charges create both electric and magnetic fields
+- [[12_Electric_Circuits]]: Currents in wires produce magnetic fields
+- [[14_Electromagnetic_Induction]]: Changing magnetic fields induce EMF (Faraday's law)
+- [[15_Electromagnetic_Waves]]: Oscillating charges produce EM waves
+- [[13_Forces_and_Motion]]: Field concept parallels gravitational fields

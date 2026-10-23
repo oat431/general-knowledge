@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว313"]
 ---
 
-# Organic Compounds by Functional Group — สารประกอบอินทรีย์ตามหมู่ฟังก์ชัน
+# Organic Compounds by Functional Group: สารประกอบอินทรีย์ตามหมู่ฟังก์ชัน
 
-> *"Functional groups are the heart of organic chemistry — they determine a molecule's reactivity, properties, and nomenclature."* — Jonathan Clayden
+> *"Functional groups are the heart of organic chemistry; they determine a molecule's reactivity, properties, and nomenclature."* (Jonathan Clayden)
 
 A **functional group (หมู่ฟังก์ชัน)** is a group of atoms that determines the chemical and physical properties of an organic compound. Classifying compounds by functional group makes it much easier to predict their behavior. This note covers the seven main functional groups: alcohols (แอลกอฮอล์), aldehydes (แอลดีไฮด์), ketones (คีโตน), carboxylic acids (กรดคาร์บอกซิลิก), esters (เอสเทอร์), amines (เอมีน), and amides (เอไมด์).
 
@@ -24,7 +24,7 @@ A **functional group (หมู่ฟังก์ชัน)** is a group of atom
 || Semester | Scope | Key Skills |
 ||---|---|---|
 || **Semester 1** | 7 main functional groups; nomenclature; properties; reactions | Identify groups; predict reactions |
-|| **Semester 2** | (continued in the next note) | — |
+|| **Semester 2** | (continued in the next note) | N/A |
 
 ---
 
@@ -44,13 +44,13 @@ A **functional group (หมู่ฟังก์ชัน)** is a group of atom
 || ไฮดรอกซิล | Hydroxyl | $\ce{-OH}$ | functional group |
 || คาร์บอนิล | Carbonyl | $\ce{>C=O}$ | C=O double bond |
 || พันธะไฮโดรเจน | Hydrogen bond | between O-H, N-H, F-H | raises bp |
-|| พอลิเมอร์ | Polymer | (see chapter 17) | — |
+|| พอลิเมอร์ | Polymer | (see chapter 17) | N/A |
 
 ---
 
 ## 3 | Key Concepts
 
-### 3.1 Alcohols (แอลกอฮอล์) — $\ce{R-OH}$
+### 3.1 Alcohols (แอลกอฮอล์): $\ce{R-OH}$
 
 **General formula:** $\ce{C_nH_{2n+1}OH}$ or $\ce{R-OH}$.
 
@@ -79,7 +79,7 @@ $$\ce{CH3CH(OH)CH3 ->[Cu, 325°C] CH3COCH3}$$
 2. **Dehydration (E1):** $\ce{R-OH ->[H2SO4, 170°C] Alkene + H2O}$
 3. **Esterification:** $\ce{R-OH + R'COOH -> R'COOR + H2O}$ (catalyzed by H⁺)
 
-### 3.2 Aldehydes (แอลดีไฮด์) — $\ce{R-CHO}$
+### 3.2 Aldehydes (แอลดีไฮด์): $\ce{R-CHO}$
 
 **Formula:** $\ce{R-CHO}$, IUPAC name ends in **-al**.
 
@@ -101,7 +101,7 @@ $$\ce{R-CHO + H2 ->[Ni] R-CH2-OH}$$
 
 3. **Addition of HCN** → cyanohydrin.
 
-### 3.3 Ketones (คีโตน) — $\ce{R-CO-R'}$
+### 3.3 Ketones (คีโตน): $\ce{R-CO-R'}$
 
 **Formula:** $\ce{R-CO-R'}$, IUPAC name ends in **-one**.
 
@@ -118,7 +118,7 @@ $$\ce{R-CO-R' + H2 ->[Ni] R-CH(OH)-R'}$$
 2. **Addition** of $\ce{HCN}$, $\ce{NH2OH}$ (oxime), $\ce{2,4-DNP}$.
 3. **Iodoform test:** ketones that contain $\ce{-COCH3}$ (e.g. acetone) give a positive result.
 
-### 3.4 Carboxylic Acids (กรดคาร์บอกซิลิก) — $\ce{R-COOH}$
+### 3.4 Carboxylic Acids (กรดคาร์บอกซิลิก): $\ce{R-COOH}$
 
 **Formula:** $\ce{R-COOH}$, IUPAC name ends in **-oic acid**.
 
@@ -134,7 +134,7 @@ $$\ce{R-COOH <=> R-COO^- + H^+}$$
 3. **With alcohols:** form an ester (see 3.5).
 4. **With $\ce{NaHCO3}$:** releases $\ce{CO2}$.
 
-### 3.5 Esters (เอสเทอร์) — $\ce{R-COOR'}$
+### 3.5 Esters (เอสเทอร์): $\ce{R-COOR'}$
 
 **Formula:** $\ce{R-COO-R'}$, IUPAC name ends in **-oate**.
 
@@ -147,7 +147,7 @@ $$\ce{R-COOH <=> R-COO^- + H^+}$$
 1. **Acid hydrolysis:** $\ce{R-COOR' + H2O <=> R-COOH + R'-OH}$
 2. **Saponification (base hydrolysis):** $\ce{R-COOR' + NaOH -> R-COONa + R'-OH}$
 
-### 3.6 Amines (เอมีน) — $\ce{R-NH2}$
+### 3.6 Amines (เอมีน): $\ce{R-NH2}$
 
 **Types:**
 - **1°:** $\ce{R-NH2}$ (1 alkyl group)
@@ -165,7 +165,7 @@ $$\ce{R-NH2 + H2O <=> R-NH3^+ + OH^-}$$
 **Key reactions:**
 1. **With acids:** $\ce{R-NH2 + HCl -> R-NH3^+ Cl^-}$
 
-### 3.7 Amides (เอไมด์) — $\ce{R-CONH2}$
+### 3.7 Amides (เอไมด์): $\ce{R-CONH2}$
 
 **Formula:** $\ce{R-CO-NH2}$, IUPAC name ends in **-amide**.
 
@@ -202,7 +202,7 @@ $$\ce{R-CONH2 + H2O -> R-COOH + R-NH2}$$
 
 ### Type 4: Distinguishing Aldehydes from Ketones
 
-> Substance A gives a silver mirror with Tollens' reagent — is it an aldehyde or a ketone?
+> Substance A gives a silver mirror with Tollens' reagent: is it an aldehyde or a ketone?
 
 **Solution:** **Aldehyde** (ketones do not react with Tollens' reagent).
 
@@ -210,8 +210,8 @@ $$\ce{R-CONH2 + H2O -> R-COOH + R-NH2}$$
 
 ## 5 | Cross-Links
 
-- [[14_Organic_Fundamentals]] — Structural basics
-- [[15_Organic_Reactions]] — Reactions of each functional group
-- [[17_Polymers]] — Functional groups in polymers (polyester, polyamide)
-- [[18_Biochemistry]] — Amines/amides in amino acids
-- [[19_Qualitative_Analysis]] — Tests for functional groups
+- [[14_Organic_Fundamentals]]: Structural basics
+- [[15_Organic_Reactions]]: Reactions of each functional group
+- [[17_Polymers]]: Functional groups in polymers (polyester, polyamide)
+- [[18_Biochemistry]]: Amines/amides in amino acids
+- [[19_Qualitative_Analysis]]: Tests for functional groups

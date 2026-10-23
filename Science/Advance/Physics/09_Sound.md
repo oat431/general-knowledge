@@ -10,11 +10,11 @@ created: 2026-07-30
 course_codes: ["ว301"]
 ---
 
-# Sound — เสียง
+# Sound: เสียง
 
-> *"The science of sound is the most beautiful of all the sciences."* — Hermann von Helmholtz
+> *"The science of sound is the most beautiful of all the sciences."* (Hermann von Helmholtz)
 
-Sound is a longitudinal mechanical wave that propagates through a medium by means of compressions and rarefactions. Unlike transverse waves, sound requires a material medium — it cannot travel through a vacuum. The study of sound, or acoustics, encompasses the production, propagation, reception, and perception of audible pressure waves with frequencies between approximately 20 Hz and 20,000 Hz.
+Sound is a longitudinal mechanical wave that propagates through a medium by means of compressions and rarefactions. Unlike transverse waves, sound requires a material medium; it cannot travel through a vacuum. The study of sound, or acoustics, encompasses the production, propagation, reception, and perception of audible pressure waves with frequencies between approximately 20 Hz and 20,000 Hz.
 
 In the Thai high school physics curriculum, sound builds directly upon the wave mechanics studied earlier. Students apply wave principles to real phenomena: the Doppler effect explains why a passing ambulance siren changes pitch, beats reveal interference between slightly mistuned instruments, and the decibel scale quantifies the logarithmic perception of loudness. Musical acoustics connects physics to the arts, showing how standing waves in strings and air columns determine pitch and timbre.
 
@@ -86,7 +86,7 @@ Two sounds of slightly different frequencies produce amplitude pulsations:
 
 $$f_{beat} = |f_1 - f_2|$$
 
-The beat frequency equals the absolute difference. Musicians use beats to tune instruments — zero beats means matched frequencies.
+The beat frequency equals the absolute difference. Musicians use beats to tune instruments: zero beats means matched frequencies.
 
 ### 3.5 Musical Acoustics
 
@@ -94,7 +94,7 @@ The beat frequency equals the absolute difference. Musicians use beats to tune i
 
 **Open pipe (open both ends):** $f_n = \frac{nv}{2L}$, same as string.
 
-**Closed pipe (closed one end):** $f_n = \frac{(2n-1)v}{4L}$, $n = 1, 2, 3, \ldots$ — only odd harmonics.
+**Closed pipe (closed one end):** $f_n = \frac{(2n-1)v}{4L}$, $n = 1, 2, 3, \ldots$, only odd harmonics.
 
 ### 3.6 Standing Waves and Resonance
 
@@ -136,7 +136,7 @@ $$\beta = 10 \log_{10}\left(\frac{10^{-6}}{10^{-12}}\right) = 10 \log_{10}(10^6)
 
 ## 5 | Cross-Links
 
-- [[Fundamental/08_Waves]] — Sound is an application of wave mechanics
-- [[10_Heat_and_Thermodynamics]] — Temperature affects the speed of sound in air
-- [[15_Electromagnetic_Waves]] — Contrast sound (mechanical) vs. EM waves (no medium needed)
-- [[16_Light_and_Optics]] — Similar wave concepts applied to light
+- [[Fundamental/08_Waves]]: Sound is an application of wave mechanics
+- [[10_Heat_and_Thermodynamics]]: Temperature affects the speed of sound in air
+- [[15_Electromagnetic_Waves]]: Contrast sound (mechanical) vs. EM waves (no medium needed)
+- [[16_Light_and_Optics]]: Similar wave concepts applied to light

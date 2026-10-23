@@ -10,9 +10,9 @@ created: 2026-07-26
 course_codes: ["ว111", "ว112", "ว113", "ว121", "ว122", "ว123", "ว211", "ว212", "ว213"]
 ---
 
-# Animals — สัตว์
+# Animals: สัตว์
 
-> *"The greatness of a nation and its moral progress can be judged by the way its animals are treated."* — Mahatma Gandhi
+> *"The greatness of a nation and its moral progress can be judged by the way its animals are treated."* (Mahatma Gandhi)
 
 This note covers animal classification, body structures, behaviors, and adaptations. Students progress from recognizing familiar animals to understanding complex classification systems and ecological roles.
 
@@ -32,7 +32,7 @@ This note covers animal classification, body structures, behaviors, and adaptati
 
 | Grade | Scope | Key Skills |
 |---|---|---|
-| **ป.4** | Vertebrate groups | Fish, amphibians, reptiles, birds, mammals — characteristics and examples |
+| **ป.4** | Vertebrate groups | Fish, amphibians, reptiles, birds, mammals: characteristics and examples |
 | **ป.5** | Invertebrate groups | Insects, spiders, worms, mollusks, crustaceans; insect body parts |
 | **ป.6** | Animal life cycles | Metamorphosis (การเปลี่ยนแปลงรูปร่าง); egg-laying vs live birth; animal behavior |
 
@@ -80,6 +80,7 @@ This note covers animal classification, body structures, behaviors, and adaptati
 ### 3.1 Vertebrate Groups
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     A[สัตว์มีกระดูกสันหลัง / Vertebrates] --> B[ปลา / Fish]
     A --> C[สัตว์สะเทินน้ำสะเทินบก / Amphibians]
@@ -124,6 +125,7 @@ graph TD
 ### 4.1 Complete Metamorphosis (การเปลี่ยนแปลงสมบูรณ์)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph LR
     A[ไข่ / Egg] --> B[ตัวอ่อน / Larva]
     B --> C[ดักแด้ / Pupa]
@@ -135,6 +137,7 @@ graph LR
 ### 4.2 Incomplete Metamorphosis (การเปลี่ยนแปลงไม่สมบูรณ์)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph LR
     A[ไข่ / Egg] --> B[ตัวอ่อน / Nymph]
     B --> C[ตัวเต็มวัย / Adult]
@@ -183,9 +186,9 @@ graph LR
 
 ## 7 | Cross-Links
 
-- [[02_Living_Things]] — Animals as living organisms
-- [[03_Cells]] — Animal cell structure
-- [[04_Human_Body_Systems]] — Humans as mammals
-- [[05_Plants]] — Plant-animal interactions
-- [[07_Ecosystems]] — Animals in food webs
-- [[08_Heredity_and_Evolution]] — Animal adaptations through evolution
+- [[02_Living_Things]]: Animals as living organisms
+- [[03_Cells]]: Animal cell structure
+- [[04_Human_Body_Systems]]: Humans as mammals
+- [[05_Plants]]: Plant-animal interactions
+- [[07_Ecosystems]]: Animals in food webs
+- [[08_Heredity_and_Evolution]]: Animal adaptations through evolution

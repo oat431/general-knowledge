@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว311"]
 ---
 
-# Periodic Table — ตารางธาตุ
+# Periodic Table: ตารางธาตุ
 
-> *"The periodic table is a treasure map. The more you understand it, the more you can find."* — Sam Kean
+> *"The periodic table is a treasure map. The more you understand it, the more you can find."* (Sam Kean)
 
 The periodic table (ตารางธาตุ) arranges the elements in order of increasing atomic number, revealing the relationship between atomic structure and element properties. It enables systematic prediction of the chemical behavior (พฤติกรรมทางเคมี) of the elements.
 
@@ -49,6 +49,7 @@ The periodic table (ตารางธาตุ) arranges the elements in order 
 ### 3.1 Structure of the Periodic Table (โครงสร้างตารางธาตุ)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Elements"] --> B["Metals"]
     A --> C["Nonmetals"]
@@ -65,8 +66,8 @@ flowchart TD
 
 The modern periodic table contains **118 elements (ธาตุ)** arranged as:
 
-- **7 periods (คาบ)** (horizontal rows) — elements in the same period have the same number of electron shells (จำนวนชั้นอิเล็กตรอนเท่ากัน)
-- **18 groups (หมู่)** (vertical columns) — elements in the same group have the same number of valence electrons (จำนวนอิเล็กตรอนวงนอกสุดเท่ากัน)
+- **7 periods (คาบ)** (horizontal rows): elements in the same period have the same number of electron shells (จำนวนชั้นอิเล็กตรอนเท่ากัน)
+- **18 groups (หมู่)** (vertical columns): elements in the same group have the same number of valence electrons (จำนวนอิเล็กตรอนวงนอกสุดเท่ากัน)
 
 **Classification (การจำแนก):**
 
@@ -195,7 +196,7 @@ The ability of an atom to attract shared electrons in a bond (Pauling scale: 0.7
 
 ## 5 | Cross-Links
 
-- [[01_Atomic_Structure]] — Electron configuration is the basis of the periodic table
-- [[03_Chemical_Bonding]] — Electronegativity trends predict bond type
-- [[04_Intermolecular_Forces]] — Element properties affect IMFs
-- [[../../Fundamental/10_Atoms_Elements_and_Compounds]] — Foundation of elements from ม.1-3
+- [[01_Atomic_Structure]]: Electron configuration is the basis of the periodic table
+- [[03_Chemical_Bonding]]: Electronegativity trends predict bond type
+- [[04_Intermolecular_Forces]]: Element properties affect IMFs
+- [[../../Fundamental/10_Atoms_Elements_and_Compounds]]: Foundation of elements from ม.1-3

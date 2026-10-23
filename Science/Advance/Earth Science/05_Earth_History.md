@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว341"]
 ---
 
-# Earth History — ประวัติของโลก
+# Earth History: ประวัติของโลก
 
-> *"The present is the key to the past."* — James Hutton (Uniformitarianism)
+> *"The present is the key to the past."* (James Hutton (Uniformitarianism))
 
 Earth is ~4.54 billion years old. Reading its history requires two complementary clocks: **relative dating (การหาอายุโดยอ้างอิงสัมพันธ์)**, which orders events without exact ages, and **radiometric dating (การหาอายุโดยกัมมันตรังสี)**, which uses radioactive decay to assign numerical ages. Together they organize the deep past into the **geological time scale (ธรณีกาล)** and reveal the evolution of life, climate, and continents through fossils (ซากดึกดำบรรพ์) and rock relationships.
 
@@ -61,13 +61,13 @@ This note covers the geological time scale (eons, eras, periods, epochs), the fo
 
 ### 3.1 The Geological Time Scale (ธรณีกาล)
 
-Earth's 4.54 Ga history is divided into a nested hierarchy — **eons (บรมยุค) → eras (มหายุค) → periods (ยุค) → epochs (สมัย)** — based on changes in the fossil record and rock characteristics:
+Earth's 4.54 Ga history is divided into a nested hierarchy: **eons (บรมยุค) → eras (มหายุค) → periods (ยุค) → epochs (สมัย)**, based on changes in the fossil record and rock characteristics:
 
 | Eon | Era | Period (selected) | Key event |
 |---|---|---|---|
-| **Hadean** (4.6–4.0 Ga) | — | — | Earth forms, molten surface |
-| **Archean** (4.0–2.5 Ga) | — | — | First life (prokaryotes), oldest rocks |
-| **Proterozoic** (2.5 Ga–541 Ma) | — | — | Oxygen atmosphere, eukaryotes, multicellularity |
+| **Hadean** (4.6–4.0 Ga) |: |, | Earth forms, molten surface |
+| **Archean** (4.0–2.5 Ga) |: |, | First life (prokaryotes), oldest rocks |
+| **Proterozoic** (2.5 Ga–541 Ma) |: |, | Oxygen atmosphere, eukaryotes, multicellularity |
 | **Phanerozoic** (541 Ma–now) | **Paleozoic** (541–252 Ma) | Cambrian, Ordovician, …, Permian | Cambrian explosion of life; fish, amphibians, reptiles; ends with Permian extinction |
 | | **Mesozoic** (252–66 Ma) | Triassic, Jurassic, Cretaceous | Age of dinosaurs; first birds & mammals; ends with K–Pg extinction |
 | | **Cenozoic** (66 Ma–now) | Paleogene, Neogene, Quaternary | Mammals diversify; humans appear; ice ages |
@@ -76,35 +76,35 @@ The "Deep Time" perspective is humbling: if Earth's history were compressed to o
 
 ### 3.2 Fossils and Fossilization (ซากดึกดำบรรพ์)
 
-A fossil is any preserved evidence of ancient life. Fossilization is rare — most organisms decay without trace — and favors organisms with hard parts (shells, bones) buried rapidly in low-oxygen sediment. Types:
+A fossil is any preserved evidence of ancient life. Fossilization is rare: most organisms decay without trace, and favors organisms with hard parts (shells, bones) buried rapidly in low-oxygen sediment. Types:
 
-- **Permineralization (การกลายเป็นหินแร่)** — groundwater deposits minerals (often silica or calcite) in pore spaces (petrified wood).
-- **Replacement** — original material dissolved and replaced molecule-by-molecule by another mineral (pyritized ammonites).
-- **Cast and mold (พิมพ์หิน)** — organism dissolves, leaving an external mold; later mineral fill makes a cast.
-- **Carbonization (การกลายเป็นคาร์บอน)** — volatile elements driven off, leaving a carbon film (leaf imprints, graptolites).
-- **Amber (อำพัน)** — insects trapped in tree resin that hardens.
-- **Trace fossils (ซากดึกดำบรรพ์รอย)** — evidence of activity: burrows, tracks, footprints, coprolites.
-- **Unaltered remains** — rare; frozen mammoths, insects in amber, original shell material.
+- **Permineralization (การกลายเป็นหินแร่):** groundwater deposits minerals (often silica or calcite) in pore spaces (petrified wood).
+- **Replacement:** original material dissolved and replaced molecule-by-molecule by another mineral (pyritized ammonites).
+- **Cast and mold (พิมพ์หิน):** organism dissolves, leaving an external mold; later mineral fill makes a cast.
+- **Carbonization (การกลายเป็นคาร์บอน):** volatile elements driven off, leaving a carbon film (leaf imprints, graptolites).
+- **Amber (อำพัน):** insects trapped in tree resin that hardens.
+- **Trace fossils (ซากดึกดำบรรพ์รอย):** evidence of activity: burrows, tracks, footprints, coprolites.
+- **Unaltered remains:** rare; frozen mammoths, insects in amber, original shell material.
 
 ### 3.3 Relative Dating Principles
 
 Relative dating establishes the **sequence** of events without numerical ages, using six principles:
 
-1. **Superposition (การลำดับชั้นหิน)** — in an undisturbed sequence, the oldest layer is at the bottom and the youngest at the top (Nicholas Steno, 1669).
-2. **Original horizontality** — sedimentary layers are deposited horizontally; tilted or folded beds were deformed after deposition.
-3. **Lateral continuity** — sediments are deposited continuously in all directions until thinning out or meeting a basin edge.
-4. **Cross-cutting relationships (การตัดผ่าน)** — a fault or igneous intrusion that cuts another rock is younger than the rock it cuts.
-5. **Inclusions (การรวมอยู่ใน)** — fragments of one rock included in another are older than the host rock.
-6. **Faunal succession** — fossils occur in a definite, recognizable order, allowing correlation of distant strata.
+1. **Superposition (การลำดับชั้นหิน):** in an undisturbed sequence, the oldest layer is at the bottom and the youngest at the top (Nicholas Steno, 1669).
+2. **Original horizontality:** sedimentary layers are deposited horizontally; tilted or folded beds were deformed after deposition.
+3. **Lateral continuity:** sediments are deposited continuously in all directions until thinning out or meeting a basin edge.
+4. **Cross-cutting relationships (การตัดผ่าน):** a fault or igneous intrusion that cuts another rock is younger than the rock it cuts.
+5. **Inclusions (การรวมอยู่ใน):** fragments of one rock included in another are older than the host rock.
+6. **Faunal succession:** fossils occur in a definite, recognizable order, allowing correlation of distant strata.
 
 **Unconformities (ความไม่ต่อเนื่อง)** mark gaps in the rock record where deposition stopped, erosion removed material, and deposition later resumed. Three types:
-- **Disconformity** — parallel beds above and below the gap (hard to spot).
-- **Angular unconformity** — tilted lower beds overlain by flat beds (Hutton's Siccar Point).
-- **Nonconformity** — sedimentary beds overlying much older igneous/metamorphic basement.
+- **Disconformity:** parallel beds above and below the gap (hard to spot).
+- **Angular unconformity:** tilted lower beds overlain by flat beds (Hutton's Siccar Point).
+- **Nonconformity:** sedimentary beds overlying much older igneous/metamorphic basement.
 
 ### 3.4 Radiometric Dating and Half-Life (การหาอายุโดยกัมมันตรังสี)
 
-Radioactive parent isotopes decay into stable daughter isotopes at a characteristic rate described by the **half-life (ครึ่งชีวิต, $t_{1/2}$)** — the time for half of a sample to decay. After $n$ half-lives, remaining parent fraction:
+Radioactive parent isotopes decay into stable daughter isotopes at a characteristic rate described by the **half-life (ครึ่งชีวิต, $t_{1/2}$)**: the time for half of a sample to decay. After $n$ half-lives, remaining parent fraction:
 $$N = N_0 \left(\frac{1}{2}\right)^n, \qquad n = \frac{t}{t_{1/2}}$$
 
 Common parent–daughter systems:
@@ -123,10 +123,10 @@ Assumptions: closed system (no parent or daughter gained/lost), known initial da
 
 An **index fossil (ซากดึกดำบรรพ์นำทาง)** allows rocks of the same age to be matched across widely separated regions. Ideal index fossils are:
 
-1. **Geographically widespread** — found on many continents (marine plankton excel).
-2. **Short geologic range** — evolved rapidly and went extinct quickly.
-3. **Easily recognized** — distinctive morphology.
-4. **Abundant** — commonly preserved.
+1. **Geographically widespread:** found on many continents (marine plankton excel).
+2. **Short geologic range:** evolved rapidly and went extinct quickly.
+3. **Easily recognized:** distinctive morphology.
+4. **Abundant:** commonly preserved.
 
 Examples: trilobites (Cambrian), ammonites (Mesozoic), graptolites (Ordovician–Devonian), foraminifera (Cenozoic). Index fossils let geologists construct a worldwide relative timescale independent of radiometric dates.
 
@@ -134,14 +134,14 @@ Examples: trilobites (Cambrian), ammonites (Mesozoic), graptolites (Ordovician�
 
 Selected milestones that shape the geological and fossil record:
 
-- **~3.8 Ga** — oldest evidence of life (stromatolites, Archean).
-- **~2.4 Ga** — Great Oxygenation Event; atmospheric $\ce{O2}$ rises, "snowball Earth" glaciations.
-- **541 Ma** — Cambrian explosion; most animal phyla appear in the fossil record.
-- **~252 Ma** — **Permian–Triassic extinction**: ~96% of marine species vanish; the "Great Dying".
-- **~66 Ma** — **Cretaceous–Paleogene (K–Pg) extinction**: asteroid impact ends non-avian dinosaurs; mammals rise.
-- **~2.5 Ma** — onset of Quaternary glaciations; genus Homo evolves.
-- **~300,000 yr ago** — anatomically modern *Homo sapiens*.
-- **Present** — the "Anthropocene": human activity reshapes climate, landscapes, and biota at geological rates.
+- **~3.8 Ga:** oldest evidence of life (stromatolites, Archean).
+- **~2.4 Ga:** Great Oxygenation Event; atmospheric $\ce{O2}$ rises, "snowball Earth" glaciations.
+- **541 Ma:** Cambrian explosion; most animal phyla appear in the fossil record.
+- **~252 Ma:** **Permian–Triassic extinction**: ~96% of marine species vanish; the "Great Dying".
+- **~66 Ma:** **Cretaceous–Paleogene (K–Pg) extinction**: asteroid impact ends non-avian dinosaurs; mammals rise.
+- **~2.5 Ma:** onset of Quaternary glaciations; genus Homo evolves.
+- **~300,000 yr ago:** anatomically modern *Homo sapiens*.
+- **Present:** the "Anthropocene": human activity reshapes climate, landscapes, and biota at geological rates.
 
 ---
 
@@ -172,15 +172,15 @@ $$t = 2 \times 5730 = 11{,}460\,\text{yr}$$
 ### Type 5: Choose the best index fossil
 > Which makes a better index fossil: a long-lived, locally distributed snail, or a short-lived, globally widespread planktonic foraminifer?
 
-**Solution:** The **foraminifer (ฟอรามินิเฟอแรน)** — short geologic range + global distribution = ideal index fossil; the long-lived local snail fails both criteria.
+**Solution:** The **foraminifer (ฟอรามินิเฟอแรน)**, short geologic range + global distribution = ideal index fossil; the long-lived local snail fails both criteria.
 
 ---
 
 ## 5 | Cross-Links
 
-- [[01_Minerals_and_Rocks]] — sedimentary rocks host most fossils; radiometric dating targets igneous minerals
-- [[02_Plate_Tectonics]] — Pangaea assembly and breakup structure the late Paleozoic–Mesozoic timeline
-- [[03_Earthquakes_and_Volcanoes]] — volcanic ash beds are key radiometric markers in sedimentary sequences
-- [[04_Weathering_and_Erosion]] — erosion produces unconformities; weathering destroys fossils
-- [[../../Fundamental/19_Rocks_Minerals_Soil]] — introduction to rocks and soil from ม.1-3
-- [[21_Nuclear_Physics|Chemistry: Nuclear Chemistry]] — radioactive decay kinetics applied to geochronology
+- [[01_Minerals_and_Rocks]]: sedimentary rocks host most fossils; radiometric dating targets igneous minerals
+- [[02_Plate_Tectonics]]: Pangaea assembly and breakup structure the late Paleozoic–Mesozoic timeline
+- [[03_Earthquakes_and_Volcanoes]]: volcanic ash beds are key radiometric markers in sedimentary sequences
+- [[04_Weathering_and_Erosion]]: erosion produces unconformities; weathering destroys fossils
+- [[../../Fundamental/19_Rocks_Minerals_Soil]]: introduction to rocks and soil from ม.1-3
+- [[21_Nuclear_Physics|Chemistry: Nuclear Chemistry]]: radioactive decay kinetics applied to geochronology

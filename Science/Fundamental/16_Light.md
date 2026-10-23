@@ -10,7 +10,7 @@ created: 2026-07-26
 course_codes: ["ว111", "ว112", "ว113", "ว211", "ว212", "ว213"]
 ---
 
-# Light — แสง
+# Light: แสง
 
 > *"The speed of light is the ultimate speed limit."*
 
@@ -76,10 +76,10 @@ This note covers properties of light, reflection, refraction, lenses, and the el
 ### 3.1 Key Properties
 
 1. **Travels in straight lines** (เดินทางเป็นเส้นตรง)
-2. **Fastest speed in vacuum** — $c = 3 \times 10^8$ m/s
-3. **Can be reflected** — bounces off surfaces
-4. **Can be refracted** — bends when entering different medium
-5. **Can be absorbed** — energy transferred to material
+2. **Fastest speed in vacuum:** $c = 3 \times 10^8$ m/s
+3. **Can be reflected:** bounces off surfaces
+4. **Can be refracted:** bends when entering different medium
+5. **Can be absorbed:** energy transferred to material
 
 ### 3.2 Transparent, Translucent, Opaque
 
@@ -167,6 +167,7 @@ $$M = \frac{v}{u} = \frac{\text{Image height}}{\text{Object height}}$$
 ## 7 | Electromagnetic Spectrum (สเปกตรัมแม่เหล็กไฟฟ้า)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph LR
     A[Radio] --> B[Microwave] --> C[Infrared] --> D[Visible] --> E[UV] --> F[X-ray] --> G[Gamma]
     
@@ -208,18 +209,18 @@ graph LR
 
 ## 9 | Real-World Examples
 
-1. **Rainbow** — Refraction and dispersion of sunlight in water droplets
-2. **Swimming pool** — Refraction makes pool look shallower
-3. **Car mirrors** — Convex mirrors for wider view
-4. **Eye** — Convex lens focuses light on retina
-5. **Fiber optics** — Total internal reflection for data transmission
+1. **Rainbow:** Refraction and dispersion of sunlight in water droplets
+2. **Swimming pool:** Refraction makes pool look shallower
+3. **Car mirrors:** Convex mirrors for wider view
+4. **Eye:** Convex lens focuses light on retina
+5. **Fiber optics:** Total internal reflection for data transmission
 
 ---
 
 ## 10 | Cross-Links
 
-- [[14_Energy]] — Light energy
-- [[17_Sound]] — Comparing light and sound waves
-- [[18_Electricity_and_Magnetism]] — Electromagnetic waves
-- [[05_Plants]] — Light in photosynthesis
-- [[21_Solar_System_and_Astronomy]] — Light from stars
+- [[14_Energy]]: Light energy
+- [[17_Sound]]: Comparing light and sound waves
+- [[18_Electricity_and_Magnetism]]: Electromagnetic waves
+- [[05_Plants]]: Light in photosynthesis
+- [[21_Solar_System_and_Astronomy]]: Light from stars

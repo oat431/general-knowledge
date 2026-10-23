@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว321"]
 ---
 
-# Biomolecules — ชีวโมเลกุล
+# Biomolecules: ชีวโมเลกุล
 
-> *"The chemistry of life is the chemistry of carbon."* — Anonymous
+> *"The chemistry of life is the chemistry of carbon."* (Anonymous)
 
-Biomolecules (ชีวโมเลกุล) are organic molecules essential for the structure and function of living organisms. The four major classes — carbohydrates (คาร์โบไฮเดรต), lipids (ลิพิด), proteins (โปรตีน), and nucleic acids (กรดนิวคลีอิก) — are built from simpler subunits joined by dehydration synthesis (การสังเคราะห์แบบเสียน้ำ) and broken down by hydrolysis (ไฮโดรไลซิส). Carbon's ability to form four covalent bonds makes these complex molecules possible.
+Biomolecules (ชีวโมเลกุล) are organic molecules essential for the structure and function of living organisms. The four major classes: carbohydrates (คาร์โบไฮเดรต), lipids (ลิพิด), proteins (โปรตีน), and nucleic acids (กรดนิวคลีอิก), are built from simpler subunits joined by dehydration synthesis (การสังเคราะห์แบบเสียน้ำ) and broken down by hydrolysis (ไฮโดรไลซิส). Carbon's ability to form four covalent bonds makes these complex molecules possible.
 
 Understanding biomolecule structure and function is critical for biochemistry, nutrition, medicine, and biotechnology. Each class plays distinct but interconnected roles: carbohydrates provide energy and structural support, lipids store energy and form membranes, proteins catalyze reactions and provide structure, and nucleic acids store and transmit genetic information.
 
@@ -25,7 +25,7 @@ Understanding biomolecule structure and function is critical for biochemistry, n
 
 | Semester | Scope | Key Skills |
 |---|---|---|
-| **Semester 1** | Carbohydrates, lipids, proteins, nucleic acids — structure and function | Biochemical tests, molecular modeling |
+| **Semester 1** | Carbohydrates, lipids, proteins, nucleic acids: structure and function | Biochemical tests, molecular modeling |
 | **Semester 2** | Enzyme structure, mechanism, factors affecting enzyme activity | Enzyme experiments, data analysis, graphing |
 
 ---
@@ -55,6 +55,7 @@ Understanding biomolecule structure and function is critical for biochemistry, n
 ## 3 | Key Concepts
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     BIO["Biomolecules"] --> CARB["Carbohydrates"]
     BIO --> LIP["Lipids"]
@@ -77,7 +78,7 @@ flowchart TD
 Organic compounds with the general formula $C_n(H_2O)_n$. Classified by size:
 
 **Monosaccharides (โมโนแซ็กคาไรด์):** Simple sugars with 3-7 carbons. Key examples:
-- Glucose (กลูโคส): $C_6H_{12}O_6$ — primary energy source; blood sugar
+- Glucose (กลูโคส): $C_6H_{12}O_6$, primary energy source; blood sugar
 - Fructose (ฟรักโทส): fruit sugar; same formula, different structure (structural isomers)
 - Galactose (กาแล็กโทส): component of milk sugar
 
@@ -100,7 +101,7 @@ Hydrophobic molecules that are insoluble in water. Not true polymers.
 - Saturated fatty acids (กรดไขมันอิ่มตัว): No double bonds; solid at room temperature (animal fats)
 - Unsaturated fatty acids (กรดไขมันไม่อิ่มตัว): One or more double bonds; liquid at room temperature (plant oils)
 
-**Phospholipids (ฟอสโฟลิปิด):** Glycerol + 2 fatty acids + phosphate group. Amphipathic — hydrophilic head, hydrophobic tails. Form the cell membrane bilayer.
+**Phospholipids (ฟอสโฟลิปิด):** Glycerol + 2 fatty acids + phosphate group. Amphipathic, hydrophilic head, hydrophobic tails. Form the cell membrane bilayer.
 
 **Steroids (สเตียรอยด์):** Four fused carbon rings. Examples: cholesterol (คอเลสเตอรอล), testosterone, estrogen, cortisol.
 
@@ -120,7 +121,7 @@ Polymers of amino acids (กรดอะมิโน) linked by peptide bonds (�
 
 ### 3.4 Enzymes (เอนไซม์)
 
-Biological catalysts — proteins that speed up reactions without being consumed. They lower the activation energy (พลังงานกระตุ้น) of reactions.
+Biological catalysts: proteins that speed up reactions without being consumed. They lower the activation energy (พลังงานกระตุ้น) of reactions.
 
 **Lock-and-Key Model:** The substrate fits precisely into the enzyme's active site (ตำแหน่งทำงาน) like a key into a lock.
 
@@ -158,7 +159,7 @@ Base pairing rules: A-T (DNA) or A-U (RNA); G-C (both).
 
 ## 5 | Cross-Links
 
-- [[01_Cell_Biology]] — organelles that synthesize biomolecules
-- [[02_Cell_Membrane_and_Transport]] — phospholipid and protein roles in membranes
-- [[04_Cell_Energy]] — carbohydrates as energy source; enzymes in metabolic pathways
-- [[14_Organic_Fundamentals|Chemistry: Organic Chemistry]] — carbon bonding and functional groups
+- [[01_Cell_Biology]]: organelles that synthesize biomolecules
+- [[02_Cell_Membrane_and_Transport]]: phospholipid and protein roles in membranes
+- [[04_Cell_Energy]]: carbohydrates as energy source; enzymes in metabolic pathways
+- [[14_Organic_Fundamentals|Chemistry: Organic Chemistry]]: carbon bonding and functional groups

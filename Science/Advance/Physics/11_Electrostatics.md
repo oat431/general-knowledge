@@ -10,11 +10,11 @@ created: 2026-07-30
 course_codes: ["ว302"]
 ---
 
-# Electrostatics — ไฟฟ้าสถิต
+# Electrostatics: ไฟฟ้าสถิต
 
-> *"To understand electricity, we must first understand the electrostatic force."* — Charles-Augustin de Coulomb
+> *"To understand electricity, we must first understand the electrostatic force."* (Charles-Augustin de Coulomb)
 
-Electrostatics deals with electric charges at rest. The electric force is one of the fundamental interactions of nature — far stronger than gravity. Coulomb's law quantifies the force between point charges, while the electric field describes the force per unit charge in the space around a charge distribution. Electric potential extends this to energy, and capacitors demonstrate the practical storage of electric energy. Gauss's law provides an elegant and powerful tool for calculating fields from symmetric charge distributions.
+Electrostatics deals with electric charges at rest. The electric force is one of the fundamental interactions of nature: far stronger than gravity. Coulomb's law quantifies the force between point charges, while the electric field describes the force per unit charge in the space around a charge distribution. Electric potential extends this to energy, and capacitors demonstrate the practical storage of electric energy. Gauss's law provides an elegant and powerful tool for calculating fields from symmetric charge distributions.
 
 In the Thai ว302 curriculum, electrostatics is the foundation for all of electromagnetism. Students learn to calculate forces, fields, and potentials for simple charge configurations. Capacitors bridge electrostatics to circuits, and the dielectric materials studied here connect to real-world applications in electronics and energy storage.
 
@@ -27,7 +27,7 @@ In the Thai ว302 curriculum, electrostatics is the foundation for all of elect
 | Semester | Scope | Key Skills |
 |---|---|---|
 | **Semester 1** | Coulomb's law, electric field, Gauss's law, electric potential, capacitors, dielectrics | Calculate forces, fields, potentials; apply Gauss's law; capacitor energy |
-| **Semester 2** | (Continued in circuits and EM induction) | — |
+| **Semester 2** | (Continued in circuits and EM induction) | N/A |
 
 ---
 
@@ -97,9 +97,9 @@ $$C = \frac{Q}{V}$$
 
 **Energy stored:** $U = \frac{1}{2}CV^2 = \frac{Q^2}{2C} = \frac{1}{2}QV$
 
-**Series:** $\frac{1}{C_{\text{eq}}} = \sum \frac{1}{C_i}$ — same $Q$, voltages add.
+**Series:** $\frac{1}{C_{\text{eq}}} = \sum \frac{1}{C_i}$, same $Q$, voltages add.
 
-**Parallel:** $C_{\text{eq}} = \sum C_i$ — same $V$, charges add.
+**Parallel:** $C_{\text{eq}} = \sum C_i$, same $V$, charges add.
 
 ### 3.6 Dielectrics
 
@@ -109,6 +109,7 @@ $$C = \kappa C_0$$
 The dielectric reduces the internal field, allowing more charge storage at the same voltage.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Materials by Conductivity"] --> B["Conductors"]
     A --> C["Insulators"]
@@ -118,7 +119,7 @@ flowchart TD
     C --> G["Electrons tightly bound"]
     C --> H["Glass, rubber, plastic"]
     D --> I["Intermediate conductivity"]
-    D --> J["Si, Ge — basis of electronics"]
+    D --> J["Si, Ge: basis of electronics"]
 ```
 
 ---
@@ -157,7 +158,7 @@ $$V = k\frac{q}{r} = (8.99 \times 10^9)\frac{2 \times 10^{-6}}{0.3} = 59{,}933 \
 
 ## 5 | Cross-Links
 
-- [[10_Heat_and_Thermodynamics]] — Energy conservation applies to electric potential energy
-- [[12_Electric_Circuits]] — Capacitors discharge through resistors (RC circuits)
-- [[13_Magnetism]] — Moving charges create magnetic fields
-- [[13_Forces_and_Motion]] — Compare inverse-square laws (Coulomb vs. Newton)
+- [[10_Heat_and_Thermodynamics]]: Energy conservation applies to electric potential energy
+- [[12_Electric_Circuits]]: Capacitors discharge through resistors (RC circuits)
+- [[13_Magnetism]]: Moving charges create magnetic fields
+- [[13_Forces_and_Motion]]: Compare inverse-square laws (Coulomb vs. Newton)

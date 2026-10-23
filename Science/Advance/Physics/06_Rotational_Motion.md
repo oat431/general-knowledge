@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว301"]
 ---
 
-# Rotational Motion — การเคลื่อนที่แบบหมุน
+# Rotational Motion: การเคลื่อนที่แบบหมุน
 
-> *"Everything turns, and everything rolls; the universe itself is a great spinning wheel."* — Adapted from classical mechanics
+> *"Everything turns, and everything rolls; the universe itself is a great spinning wheel."* (Adapted from classical mechanics)
 
-Rotational motion (การเคลื่อนที่แบบหมุน) extends the linear mechanics of the previous topics to objects that rotate about an axis. Every linear quantity has a rotational analogue: displacement becomes angle, velocity becomes angular velocity, force becomes torque, mass becomes moment of inertia, and momentum becomes angular momentum. The same Newton's laws, energy principles, and conservation laws apply — just rewritten in angular form. This parallel structure makes rotational motion both elegant and powerful.
+Rotational motion (การเคลื่อนที่แบบหมุน) extends the linear mechanics of the previous topics to objects that rotate about an axis. Every linear quantity has a rotational analogue: displacement becomes angle, velocity becomes angular velocity, force becomes torque, mass becomes moment of inertia, and momentum becomes angular momentum. The same Newton's laws, energy principles, and conservation laws apply, just rewritten in angular form. This parallel structure makes rotational motion both elegant and powerful.
 
 This note covers angular kinematics, torque, moment of inertia, rotational dynamics ($\tau = I\alpha$), rotational kinetic energy, angular momentum and its conservation, and rolling without slipping. These concepts are essential for understanding wheels, gears, pulleys, gyroscopes, and planetary motion.
 
@@ -26,7 +26,7 @@ This note covers angular kinematics, torque, moment of inertia, rotational dynam
 | Semester | Scope | Key Skills |
 |---|---|---|
 | **Semester 1** | Angular displacement/velocity/acceleration, torque, moment of inertia, rotational dynamics, rotational KE, angular momentum, rolling motion | Solve rotational kinematics, apply $\tau = I\alpha$, use angular momentum conservation |
-| **Semester 2** | (Applied in oscillations — torque causes SHM) | Relate torque to restoring motion in pendulums |
+| **Semester 2** | (Applied in oscillations, torque causes SHM) | Relate torque to restoring motion in pendulums |
 
 ---
 
@@ -65,11 +65,11 @@ Relationship to linear quantities (at radius $r$):
 | Arc length $s$ | Angle $\theta$ | $s = r\theta$ |
 | Tangential velocity $v$ | Angular velocity $\omega$ | $v = r\omega$ |
 | Tangential acceleration $a_t$ | Angular acceleration $\alpha$ | $a_t = r\alpha$ |
-| Centripetal acceleration $a_c$ | — | $a_c = r\omega^2 = \frac{v^2}{r}$ |
+| Centripetal acceleration $a_c$ | N/A | $a_c = r\omega^2 = \frac{v^2}{r}$ |
 
 ### 3.2 Torque
 
-Torque is the rotational analogue of force — the tendency to cause rotation:
+Torque is the rotational analogue of force: the tendency to cause rotation:
 
 $$\tau = rF\sin\theta$$
 
@@ -113,7 +113,7 @@ $$L = I\omega$$
 **Conservation of angular momentum:** When net external torque is zero:
 $$I_i \omega_i = I_f \omega_f$$
 
-Example: figure skater pulling arms in — $I$ decreases, so $\omega$ increases.
+Example: figure skater pulling arms in, $I$ decreases, so $\omega$ increases.
 
 ### 3.7 Rolling Without Slipping
 
@@ -154,8 +154,8 @@ $$KE = \frac{1}{2}mv^2 + \frac{1}{2}I\omega^2 = \frac{1}{2}(1)(16) + \frac{1}{2}
 
 ## 5 | Cross-Links
 
-- [[03_Dynamics]] — rotational analogues of Newton's laws
-- [[04_Work_Energy_and_Power]] — rotational KE extends energy conservation
-- [[05_Momentum]] — angular momentum parallels linear momentum
-- [[07_Oscillations]] — torque provides restoring force in pendulums
-- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — integration, geometry
+- [[03_Dynamics]]: rotational analogues of Newton's laws
+- [[04_Work_Energy_and_Power]]: rotational KE extends energy conservation
+- [[05_Momentum]]: angular momentum parallels linear momentum
+- [[07_Oscillations]]: torque provides restoring force in pendulums
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]]: integration, geometry

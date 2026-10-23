@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว311"]
 ---
 
-# Atomic Structure — โครงสร้างอะตอม
+# Atomic Structure: โครงสร้างอะตอม
 
-> *"The atom is the smallest unit of ordinary matter that forms a chemical element. Everything around us is made of atoms."* — Richard Feynman
+> *"The atom is the smallest unit of ordinary matter that forms a chemical element. Everything around us is made of atoms."* (Richard Feynman)
 
 Atomic structure (โครงสร้างอะตอม) is the fundamental building block of chemistry. It explains the components inside the atom (อะตอม): protons (โปรตอน), neutrons (นิวตรอน), and electrons (อิเล็กตรอน), as well as the arrangement of electrons in different energy levels (ระดับพลังงาน). This is the foundation for predicting the properties of elements (ธาตุ) and their chemical behavior (พฤติกรรมทางเคมี).
 
@@ -45,6 +45,7 @@ Atomic structure (โครงสร้างอะตอม) is the fundamental
 ## 3 | Key Concepts
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Atomic Models Timeline"] --> B["Dalton: Solid Sphere"]
     B --> C["Thomson: Plum Pudding"]
@@ -52,10 +53,10 @@ flowchart TD
     D --> E["Bohr: Quantized Orbits"]
     E --> F["Quantum Mechanical: Orbitals"]
     B --> G["1808"]
-    C --> H["1897 — discovered electron"]
-    D --> I["1911 — discovered nucleus"]
-    E --> J["1913 — energy levels"]
-    F --> K["1926+ — probability clouds"]
+    C --> H["1897: discovered electron"]
+    D --> I["1911: discovered nucleus"]
+    E --> J["1913: energy levels"]
+    F --> K["1926+: probability clouds"]
 ```
 
 ### 3.1 Subatomic Particles
@@ -76,9 +77,9 @@ $$A = Z + N$$
 
 Isotopes (ไอโซโทป) are atoms of the same element that have the same number of protons but different numbers of neutrons, for example:
 
-- $\ce{^1_1H}$ (protium) — 0 neutrons
-- $\ce{^2_1H}$ (deuterium) — 1 neutron
-- $\ce{^3_1H}$ (tritium) — 2 neutrons
+- $\ce{^1_1H}$ (protium): 0 neutrons
+- $\ce{^2_1H}$ (deuterium): 1 neutron
+- $\ce{^3_1H}$ (tritium): 2 neutrons
 
 Average atomic mass (มวลอะตอมเฉลี่ย):
 
@@ -124,7 +125,7 @@ Use the arrow symbols $\uparrow$ and $\downarrow$ to represent electrons:
 
 - $\ce{N}$ (7 e⁻): $[\ce{He}]\,2s^2\,2p^3$
   - $2s$: $\uparrow\downarrow$
-  - $2p$: $\uparrow\, \uparrow\, \uparrow$ (Hund's rule — distributed singly (กระจายตัว))
+  - $2p$: $\uparrow\, \uparrow\, \uparrow$ (Hund's rule, distributed singly (กระจายตัว))
 
 ### 3.7 Aufbau Diagram (Energy Filling Order)
 
@@ -187,7 +188,7 @@ $$\bar{A} = (0.7577 \times 35) + (0.2423 \times 37) = 35.48 \,\text{u}$$
 
 ## 5 | Cross-Links
 
-- [[../../Fundamental/10_Atoms_Elements_and_Compounds]] — Foundation of atoms from ม.1-3
-- [[02_Periodic_Table]] — Periodic table arranged by atomic number
-- [[03_Chemical_Bonding]] — Valence electrons determine bonding
-- [[19_Quantum_Physics|Physics Quantum Mechanics]] — Deeper theory of quantum mechanics
+- [[../../Fundamental/10_Atoms_Elements_and_Compounds]]: Foundation of atoms from ม.1-3
+- [[02_Periodic_Table]]: Periodic table arranged by atomic number
+- [[03_Chemical_Bonding]]: Valence electrons determine bonding
+- [[19_Quantum_Physics|Physics Quantum Mechanics]]: Deeper theory of quantum mechanics

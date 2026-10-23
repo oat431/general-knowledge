@@ -10,9 +10,9 @@ created: 2026-07-26
 course_codes: ["ว111", "ว112", "ว113", "ว121", "ว122", "ว123", "ว211", "ว212", "ว213"]
 ---
 
-# Living Things — สิ่งมีชีวิต
+# Living Things: สิ่งมีชีวิต
 
-> *"In every walk with nature, one receives far more than he seeks."* — John Muir
+> *"In every walk with nature, one receives far more than he seeks."* (John Muir)
 
 This note covers the characteristics of living things, basic needs, and classification of organisms. Students progress from recognizing living vs non-living objects to understanding the hierarchy of biological classification.
 
@@ -75,6 +75,7 @@ This note covers the characteristics of living things, basic needs, and classifi
 ## 3 | Characteristics of Living Things (ลักษณะของสิ่งมีชีวิต)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     A[สิ่งมีชีวิต / Living Things] --> B[M = เมแทบอลิซึม / Metabolism]
     A --> C[R = การสืบพันธุ์ / Reproduction]
@@ -88,13 +89,13 @@ graph TD
 ```
 
 **7 Characteristics of Life (MRS GREN):**
-1. **Movement** — เคลื่อนที่ (animals) or growth movement (plants)
-2. **Respiration** — การหายใจ (energy from food)
-3. **Sensitivity** — การตอบสนอง (react to environment)
-4. **Growth** — การเจริญเติบโต
-5. **Reproduction** — การสืบพันธุ์
-6. **Excretion** — การขับถ่าย (remove waste)
-7. **Nutrition** — การได้รับอาหาร (need energy)
+1. **Movement:** เคลื่อนที่ (animals) or growth movement (plants)
+2. **Respiration:** การหายใจ (energy from food)
+3. **Sensitivity:** การตอบสนอง (react to environment)
+4. **Growth:** การเจริญเติบโต
+5. **Reproduction:** การสืบพันธุ์
+6. **Excretion:** การขับถ่าย (remove waste)
+7. **Nutrition:** การได้รับอาหาร (need energy)
 
 ---
 
@@ -129,6 +130,7 @@ Domain (โดเมน)
 ### 4.3 Vertebrate Groups
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph LR
     A[สัตว์มีกระดูกสันหลัง / Vertebrates] --> B[ปลา / Fish]
     A --> C[สัตว์สะเทินน้ำสะเทินบก / Amphibians]
@@ -150,13 +152,13 @@ graph LR
 ### 5.1 Trophic Levels
 
 ```
-Level 4: ผู้บริโภคที่ 3 (Tertiary consumer) — นกอินทรี / Eagle
+Level 4: ผู้บริโภคที่ 3 (Tertiary consumer), นกอินทรี / Eagle
     ↑
-Level 3: ผู้บริโภคที่ 2 (Secondary consumer) — งู / Snake
+Level 3: ผู้บริโภคที่ 2 (Secondary consumer), งู / Snake
     ↑
-Level 2: ผู้บริโภคที่ 1 (Primary consumer) — หนู / Mouse
+Level 2: ผู้บริโภคที่ 1 (Primary consumer), หนู / Mouse
     ↑
-Level 1: ผู้ผลิต (Producer) — หญ้า / Grass
+Level 1: ผู้ผลิต (Producer), หญ้า / Grass
 ```
 
 ### 5.2 Energy Flow
@@ -169,18 +171,18 @@ At each trophic level, only about 10% of energy is passed to the next level. The
 
 ## 6 | Real-World Examples
 
-1. **Mangrove ecosystems** — Classify organisms in Thai mangrove forests
-2. **Rice paddy food web** — Rice → caterpillar → frog → snake → hawk
-3. **Coral reefs** — Biodiversity hotspots with symbiotic relationships
-4. **Thai wildlife classification** — Classify elephants, tigers, gibbons by taxonomy
+1. **Mangrove ecosystems:** Classify organisms in Thai mangrove forests
+2. **Rice paddy food web:** Rice → caterpillar → frog → snake → hawk
+3. **Coral reefs:** Biodiversity hotspots with symbiotic relationships
+4. **Thai wildlife classification:** Classify elephants, tigers, gibbons by taxonomy
 
 ---
 
 ## 7 | Cross-Links
 
-- [[01_Scientific_Method]] — Observing and classifying organisms
-- [[03_Cells]] — Cellular basis of all living things
-- [[05_Plants]] — Plant classification and characteristics
-- [[06_Animals]] — Animal classification and characteristics
-- [[07_Ecosystems]] — Living things in their environments
-- [[08_Heredity_and_Evolution]] — Why organisms differ and change
+- [[01_Scientific_Method]]: Observing and classifying organisms
+- [[03_Cells]]: Cellular basis of all living things
+- [[05_Plants]]: Plant classification and characteristics
+- [[06_Animals]]: Animal classification and characteristics
+- [[07_Ecosystems]]: Living things in their environments
+- [[08_Heredity_and_Evolution]]: Why organisms differ and change

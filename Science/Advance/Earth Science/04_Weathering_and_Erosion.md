@@ -9,13 +9,13 @@ created: 2026-07-30
 course_codes: ["ว341"]
 ---
 
-# Weathering and Erosion — การผุพังและการพังทลาย
+# Weathering and Erosion: การผุพังและการพังทลาย
 
-> *"Nature is a slow but unceasing sculptor."* — geomorphological maxim
+> *"Nature is a slow but unceasing sculptor."* (geomorphological maxim)
 
-Weathering (การผุพัง) is the in-situ breakdown of rock at or near Earth's surface; erosion (การพังทลาย) is the removal and transport of that broken material by gravity, water, wind, or ice. Together they wear mountains to plains, carve canyons, and — by producing soil (ดิน) — make terrestrial life possible. Where weathering outpaces erosion, soil thickens; where erosion dominates, the landscape is stripped.
+Weathering (การผุพัง) is the in-situ breakdown of rock at or near Earth's surface; erosion (การพังทลาย) is the removal and transport of that broken material by gravity, water, wind, or ice. Together they wear mountains to plains, carve canyons, and: by producing soil (ดิน), make terrestrial life possible. Where weathering outpaces erosion, soil thickens; where erosion dominates, the landscape is stripped.
 
-This note covers the two great families of weathering — **mechanical (การผุพังทางกล)** and **chemical (การผุพังทางเคมี)** — their controls and rates, mass wasting (การเคลื่อนที่ของมวลดินและหิน), erosion by rivers, wind, and glaciers, and the resulting **soil profile (สัณฐานดิน)** with its O, A, E, B, C horizons.
+This note covers the two great families of weathering: **mechanical (การผุพังทางกล)** and **chemical (การผุพังทางเคมี)**, their controls and rates, mass wasting (การเคลื่อนที่ของมวลดินและหิน), erosion by rivers, wind, and glaciers, and the resulting **soil profile (สัณฐานดิน)** with its O, A, E, B, C horizons.
 
 ---
 
@@ -65,37 +65,37 @@ This note covers the two great families of weathering — **mechanical (กา�
 
 Mechanical (physical) weathering breaks rock into smaller fragments **without changing its mineral composition**, increasing surface area for chemical attack. Principal processes:
 
-- **Frost wedging (การแตกร้าวจากน้ำแข็ง)** — water seeps into cracks, freezes and expands ~9% by volume, wedging rock apart. Dominant in cold climates with freeze–thaw cycles.
-- **Exfoliation / unloading (การลอกออกเปลือก)** — removal of overburden lets outer rock layers expand and peel off in sheets (exfoliation domes, e.g., Half Dome, Yosemite).
-- **Thermal expansion (การขยายตัวจากความร้อน)** — daily heating/cooling stresses minerals of different colors and expansion coefficients; significant in deserts.
-- **Root wedging (การแทะเซาะของรากไม้)** — plant roots grow into cracks, prying them open.
-- **Salt-crystal growth** — salt crystallizing in pores exerts pressure; common in coastal and arid regions.
-- **Abrasion (การกรีดและขัด)** — particles carried by water, wind, or ice grind against rock.
+- **Frost wedging (การแตกร้าวจากน้ำแข็ง):** water seeps into cracks, freezes and expands ~9% by volume, wedging rock apart. Dominant in cold climates with freeze–thaw cycles.
+- **Exfoliation / unloading (การลอกออกเปลือก):** removal of overburden lets outer rock layers expand and peel off in sheets (exfoliation domes, e.g., Half Dome, Yosemite).
+- **Thermal expansion (การขยายตัวจากความร้อน):** daily heating/cooling stresses minerals of different colors and expansion coefficients; significant in deserts.
+- **Root wedging (การแทะเซาะของรากไม้):** plant roots grow into cracks, prying them open.
+- **Salt-crystal growth:** salt crystallizing in pores exerts pressure; common in coastal and arid regions.
+- **Abrasion (การกรีดและขัด):** particles carried by water, wind, or ice grind against rock.
 
 ### 3.2 Chemical Weathering (การผุพังทางเคมี)
 
 Chemical weathering **decomposes minerals** through reactions, chiefly:
 
-- **Hydrolysis (การสลายด้วยน้ำ)** — water reacts with silicate minerals. Feldspar → clay + dissolved ions:
+- **Hydrolysis (การสลายด้วยน้ำ):** water reacts with silicate minerals. Feldspar → clay + dissolved ions:
   $$\ce{2KAlSi3O8 + 2H+ + 9H2O -> Al2Si2O5(OH)4 + 4H4SiO4 + 2K+}$$
   (orthoclase → kaolinite clay + silicic acid + potassium)
-- **Oxidation (การเกิดสนิม)** — reaction with oxygen. Iron-bearing minerals rust:
+- **Oxidation (การเกิดสนิม):** reaction with oxygen. Iron-bearing minerals rust:
   $$\ce{4FeO + O2 -> 2Fe2O3}$$
   giving many tropical soils their red color.
-- **Carbonation (คาร์บอเนชัน)** — carbonic acid in rainwater attacks carbonate rocks:
+- **Carbonation (คาร์บอเนชัน):** carbonic acid in rainwater attacks carbonate rocks:
   $$\ce{CaCO3 + H2CO3 -> Ca^{2+} + 2HCO3^{-}}$$
   responsible for karst landscapes (ภูมิประเทศคาร์สต์) such as those around Krabi, Thailand.
-- **Dissolution (การละลาย)** — halite, gypsum dissolve directly in water.
+- **Dissolution (การละลาย):** halite, gypsum dissolve directly in water.
 
 ### 3.3 Factors Controlling Weathering Rates
 
 Weathering speed depends on:
 
-1. **Particle size** — smaller grains have higher surface-area-to-volume ratio, so they weather faster.
-2. **Climate** — warm + wet accelerates chemical weathering (tropics); cold + dry favors mechanical.
-3. **Rock type** — minerals that crystallize at high temperature (olivine, Ca-feldspar) weather fastest; quartz is most resistant (Goldich dissolution series).
-4. **Climate & soil cover** — vegetation holds moisture and produces organic acids, accelerating chemical weathering.
-5. **Time** — older landscapes (Australian shield) are more deeply weathered than young volcanic islands.
+1. **Particle size:** smaller grains have higher surface-area-to-volume ratio, so they weather faster.
+2. **Climate:** warm + wet accelerates chemical weathering (tropics); cold + dry favors mechanical.
+3. **Rock type:** minerals that crystallize at high temperature (olivine, Ca-feldspar) weather fastest; quartz is most resistant (Goldich dissolution series).
+4. **Climate & soil cover:** vegetation holds moisture and produces organic acids, accelerating chemical weathering.
+5. **Time:** older landscapes (Australian shield) are more deeply weathered than young volcanic islands.
 
 ### 3.4 Mass Wasting (การเคลื่อนที่ของมวลดินและหิน)
 
@@ -114,9 +114,9 @@ Triggering factors: saturation by heavy rain (most common in Thailand), earthqua
 
 ### 3.5 Erosion by Water, Wind, and Ice
 
-- **Running water (แม่น้ำ)** — the dominant erosive agent. Rivers erode downward (channel cutting), laterally (bank erosion), and headward (extending the drainage). Load is transported as dissolved, suspended, or bed load. The Grand Canyon is river erosion at geological scale.
-- **Wind (ลม)** — significant in arid regions; abrasion (yardangs, ventifacts) and deflation (removal of fine particles, forming desert pavement). Aeolian deposition forms dunes and loess.
-- **Glaciers (ธารน้ำแข็ง)** — ice plucks and grinds bedrock, producing U-shaped valleys, striations, and glacial till. Continental glaciers of the Pleistocene reshaped northern hemisphere landscapes.
+- **Running water (แม่น้ำ):** the dominant erosive agent. Rivers erode downward (channel cutting), laterally (bank erosion), and headward (extending the drainage). Load is transported as dissolved, suspended, or bed load. The Grand Canyon is river erosion at geological scale.
+- **Wind (ลม):** significant in arid regions; abrasion (yardangs, ventifacts) and deflation (removal of fine particles, forming desert pavement). Aeolian deposition forms dunes and loess.
+- **Glaciers (ธารน้ำแข็ง):** ice plucks and grinds bedrock, producing U-shaped valleys, striations, and glacial till. Continental glaciers of the Pleistocene reshaped northern hemisphere landscapes.
 
 ### 3.6 Soil Formation and Profile (สัณฐานดิน)
 
@@ -162,14 +162,14 @@ Carbonic acid ($\ce{H2CO3}$) forms when $\ce{CO2}$ dissolves in rainwater; this 
 ### Type 5: Compare erosion rates from a landscape clue
 > Two adjacent slopes have identical rock and climate, but one is forested and the other was clear-cut. Which erodes faster, and why?
 
-**Solution:** The clear-cut slope erodes faster — loss of vegetation removes roots that bind soil, increases runoff, and reduces infiltration, accelerating water erosion and mass wasting.
+**Solution:** The clear-cut slope erodes faster, loss of vegetation removes roots that bind soil, increases runoff, and reduces infiltration, accelerating water erosion and mass wasting.
 
 ---
 
 ## 5 | Cross-Links
 
-- [[01_Minerals_and_Rocks]] — weathering rate depends on mineral stability (Goldich series)
-- [[02_Plate_Tectonics]] — tectonic uplift creates the relief that erosion carves
-- [[03_Earthquakes_and_Volcanoes]] — earthquakes trigger landslides; volcanic ash weathers into fertile soil
-- [[05_Earth_History]] — weathering and erosion form the unconformities that fragment the rock record
-- [[../../Fundamental/19_Rocks_Minerals_Soil]] — foundational soil concepts from ม.1-3
+- [[01_Minerals_and_Rocks]]: weathering rate depends on mineral stability (Goldich series)
+- [[02_Plate_Tectonics]]: tectonic uplift creates the relief that erosion carves
+- [[03_Earthquakes_and_Volcanoes]]: earthquakes trigger landslides; volcanic ash weathers into fertile soil
+- [[05_Earth_History]]: weathering and erosion form the unconformities that fragment the rock record
+- [[../../Fundamental/19_Rocks_Minerals_Soil]]: foundational soil concepts from ม.1-3

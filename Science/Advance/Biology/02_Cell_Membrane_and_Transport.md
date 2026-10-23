@@ -10,13 +10,13 @@ created: 2026-07-30
 course_codes: ["ว321"]
 ---
 
-# Cell Membrane and Transport — เยื่อหุ้มเซลล์และการลำเลียง
+# Cell Membrane and Transport: เยื่อหุ้มเซลล์และการลำเลียง
 
-> *"The membrane is not a static wall but a dynamic, fluid structure."* — S.J. Singer & G.L. Nicolson (1972)
+> *"The membrane is not a static wall but a dynamic, fluid structure."* (S.J. Singer & G.L. Nicolson, 1972)
 
 The cell membrane (เยื่อหุ้มเซลล์) is a selectively permeable barrier that controls the movement of substances into and out of the cell. According to the fluid mosaic model (แบบจำลองฟลูอิดโมเสก), the membrane consists of a phospholipid bilayer (ชั้นฟอสโฟลิปิด) in which proteins are embedded and move laterally. This dynamic structure allows the cell to maintain homeostasis (สภาวะสมดุล) by regulating ion concentrations, nutrient uptake, and waste removal.
 
-Membrane transport mechanisms range from passive processes that require no energy input — such as simple diffusion (การแพร่), osmosis (ออสโมซิส), and facilitated diffusion (การแพร่แบบช่วยเหลือ) — to active transport (การลำเลียงแบบใช้พลังงาน) processes that consume ATP. Bulk transport methods including endocytosis (เอนโดไซโทซิส) and exocytosis (เอ็กโซไซโทซิส) move large molecules across the membrane.
+Membrane transport mechanisms range from passive processes that require no energy input, such as simple diffusion (การแพร่), osmosis (ออสโมซิส), and facilitated diffusion (การแพร่แบบช่วยเหลือ): to active transport (การลำเลียงแบบใช้พลังงาน) processes that consume ATP. Bulk transport methods including endocytosis (เอนโดไซโทซิส) and exocytosis (เอ็กโซไซโทซิส) move large molecules across the membrane.
 
 ---
 
@@ -59,7 +59,7 @@ Membrane transport mechanisms range from passive processes that require no energ
 The membrane is composed of:
 - **Phospholipid bilayer (ชั้นฟอสโฟลิปิด):** Each phospholipid has a hydrophilic (ชอบน้ำ) phosphate head and two hydrophobic (ไม่ชอบน้ำ) fatty acid tails. In water, they spontaneously form a bilayer with heads facing outward toward aqueous environments and tails facing inward.
 - **Proteins (โปรตีน):** Integral proteins (โปรตีนภายใน) span the entire membrane; peripheral proteins (โปรตีนรอบนอก) attach to the surface. Functions include transport (channel and carrier proteins), enzymatic activity, signal transduction (receptors), and cell recognition (glycoproteins).
-- **Cholesterol (คอเลสเตอรอล):** Embedded between phospholipids in animal cells; regulates membrane fluidity — prevents excessive fluidity at high temperatures and stiffening at low temperatures.
+- **Cholesterol (คอเลสเตอรอล):** Embedded between phospholipids in animal cells; regulates membrane fluidity, prevents excessive fluidity at high temperatures and stiffening at low temperatures.
 - **Carbohydrates (คาร์โบไฮเดรต):** Attached to proteins (glycoproteins) or lipids (glycolipids) on the extracellular surface; function in cell recognition and signaling.
 
 ### 3.2 Passive Transport (การลำเลียงแบบไม่ใช้พลังงาน)
@@ -107,12 +107,12 @@ In plant cells, water entering the central vacuole creates outward pressure agai
 ### Type 1: Predicting Cell Response to Solutions
 > A plant cell is placed in a 0.5 M sucrose solution. The cell's internal solute concentration is 0.3 M. Predict what happens.
 
-**Solution:** The external solution (0.5 M) is hypertonic relative to the cell (0.3 M). Water moves out of the cell by osmosis. The vacuole shrinks, the plasma membrane pulls away from the cell wall — **plasmolysis (พลาสโมไลซิส)** occurs. The cell becomes flaccid.
+**Solution:** The external solution (0.5 M) is hypertonic relative to the cell (0.3 M). Water moves out of the cell by osmosis. The vacuole shrinks, the plasma membrane pulls away from the cell wall, **plasmolysis (พลาสโมไลซิส)** occurs. The cell becomes flaccid.
 
 ### Type 2: Transport Mechanism Identification
 > Glucose enters a red blood cell rapidly even when blood glucose is low. What mechanism is responsible?
 
-**Solution:** Glucose is a large polar molecule that cannot diffuse through the lipid bilayer. It enters via **facilitated diffusion (การแพร่แบบช่วยเหลือ)** through GLUT transporters (carrier proteins). This is passive — no ATP required — and the rate is limited by the number of transporter proteins (saturation kinetics).
+**Solution:** Glucose is a large polar molecule that cannot diffuse through the lipid bilayer. It enters via **facilitated diffusion (การแพร่แบบช่วยเหลือ)** through GLUT transporters (carrier proteins). This is passive, no ATP required, and the rate is limited by the number of transporter proteins (saturation kinetics).
 
 ### Type 3: Water Potential Calculation
 > A cell has a solute potential ($\psi_s$) of -0.5 MPa and a pressure potential ($\psi_p$) of 0.3 MPa. What is the water potential? Will water enter or leave in pure water ($\psi = 0$)?
@@ -125,7 +125,7 @@ Since the cell's water potential (-0.2 MPa) is lower than pure water (0 MPa), wa
 
 ## 5 | Cross-Links
 
-- [[01_Cell_Biology]] — cell structure foundation
-- [[03_Biomolecules]] — phospholipid and protein chemistry
-- [[04_Cell_Energy]] — ATP for active transport
-- [[06_Solutions|Chemistry: Solutions]] — concentration gradients and tonicity
+- [[01_Cell_Biology]]: cell structure foundation
+- [[03_Biomolecules]]: phospholipid and protein chemistry
+- [[04_Cell_Energy]]: ATP for active transport
+- [[06_Solutions|Chemistry: Solutions]]: concentration gradients and tonicity

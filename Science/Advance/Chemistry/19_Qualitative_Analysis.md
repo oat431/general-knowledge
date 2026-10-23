@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว313"]
 ---
 
-# Qualitative Analysis — การวิเคราะห์เชิงคุณภาพ
+# Qualitative Analysis: การวิเคราะห์เชิงคุณภาพ
 
-> *"In qualitative analysis, we identify substances by their characteristic reactions — the chemical fingerprints nature left behind."* — Classic Analytical Chemistry
+> *"In qualitative analysis, we identify substances by their characteristic reactions: the chemical fingerprints nature left behind."* (Classic Analytical Chemistry)
 
 **Qualitative analysis (การวิเคราะห์เชิงคุณภาพ)** is the identification of the kind of species (ions/compounds) present in a sample, using specific reactions that give characteristic colors, precipitates, or gases. This note covers flame tests, precipitation reactions, solubility rules, and systematic cation analysis.
 
@@ -23,7 +23,7 @@ course_codes: ["ว313"]
 
 || Semester | Scope | Key Skills |
 ||---|---|---|
-|| **Semester 1** | (background from chapters 11–12) | — |
+|| **Semester 1** | (background from chapters 11–12) | N/A |
 || **Semester 2** | Flame test; precipitation; solubility rules; systematic analysis | Identify cation/anion; write equations |
 
 ---
@@ -95,7 +95,7 @@ A clean **platinum wire (ลวดแพลทินัม)** is dipped in the s
 || **3** | $\ce{Fe^{3+}, Al^{3+}, Cr^{3+}}$ | $\ce{NH4OH}$ in $\ce{NH4Cl}$ | hydroxides |
 || **4** | $\ce{Co^{2+}, Ni^{2+}, Mn^{2+}, Zn^{2+}}$ | $\ce{H2S}$ in $\ce{NH4OH}$ | sulfides |
 || **5** | $\ce{Ba^{2+}, Sr^{2+}, Ca^{2+}, Mg^{2+}}$ | $\ce{(NH4)2CO3}$ | carbonates |
-|| **6** (remaining) | $\ce{Na^+, K^+, NH4^+}$ | no precipitate | — |
+|| **6** (remaining) | $\ce{Na^+, K^+, NH4^+}$ | no precipitate | N/A |
 
 ### 3.4 Anion Tests (การทดสอบ Anion)
 
@@ -134,7 +134,7 @@ $$\ce{CuSO4 + NaOH -> Cu(OH)2 (s) + Na2SO4}$$
 
 ### Type 1: Predicting a Precipitate
 
-> Mixing $\ce{AgNO3}$ with $\ce{NaCl}$ — what happens?
+> Mixing $\ce{AgNO3}$ with $\ce{NaCl}$: what happens?
 
 **Solution:** $\ce{Ag+ + Cl- -> AgCl (s)}$ (white precipitate).
 
@@ -160,14 +160,14 @@ $$\ce{CuSO4 + NaOH -> Cu(OH)2 (s) + Na2SO4}$$
 
 > Solution X + Benedict's reagent → orange-red precipitate. What is X?
 
-**Solution:** A **reducing sugar** (e.g. glucose, fructose, maltose — but not sucrose).
+**Solution:** A **reducing sugar** (e.g. glucose, fructose, maltose, but not sucrose).
 
 ---
 
 ## 5 | Cross-Links
 
-- [[12_Acids_Bases_and_Salts]] — Acid–base neutralization reactions
-- [[12_Reaction_Kinetics]] — Kinetics of precipitation reactions
-- [[13_Electrochemistry]] — Analysis by electrode
-- [[16_Organic_Compounds_by_Functional_Group]] — Tests for functional groups
-- [[18_Biochemistry]] — Biomolecule tests
+- [[12_Acids_Bases_and_Salts]]: Acid–base neutralization reactions
+- [[12_Reaction_Kinetics]]: Kinetics of precipitation reactions
+- [[13_Electrochemistry]]: Analysis by electrode
+- [[16_Organic_Compounds_by_Functional_Group]]: Tests for functional groups
+- [[18_Biochemistry]]: Biomolecule tests

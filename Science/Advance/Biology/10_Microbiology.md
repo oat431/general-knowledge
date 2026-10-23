@@ -9,7 +9,7 @@ created: 2026-07-30
 course_codes: ["ว322"]
 ---
 
-# Microbiology — จุลชีววิทยา
+# Microbiology: จุลชีววิทยา
 
 > *"The smallest organisms are the most numerous on Earth."*
 
@@ -56,17 +56,17 @@ The study of microorganisms bridges medicine, ecology, and industry. Understandi
 
 ### 3.1 Bacterial Structure
 
-Bacteria (แบคทีเรีย) are prokaryotic — no membrane-bound nucleus or organelles. Key structures: **cell wall** (ผนังเซลล์, made of peptidoglycan), **cell membrane** (เยื่อหุ้มเซลล์), **nucleoid** (นิวคลีอยด์, circular DNA region), **plasmid** (พลาสมิด, small extra-chromosomal DNA), **ribosomes** (70S), **flagella** (แฟลกเจลลัม, for movement), **pili** (พิลิ, for attachment/conjugation), and **capsule** (แคปซูล, for protection).
+Bacteria (แบคทีเรีย) are prokaryotic: no membrane-bound nucleus or organelles. Key structures: **cell wall** (ผนังเซลล์, made of peptidoglycan), **cell membrane** (เยื่อหุ้มเซลล์), **nucleoid** (นิวคลีอยด์, circular DNA region), **plasmid** (พลาสมิด, small extra-chromosomal DNA), **ribosomes** (70S), **flagella** (แฟลกเจลลัม, for movement), **pili** (พิลิ, for attachment/conjugation), and **capsule** (แคปซูล, for protection).
 
 **Gram staining** differentiates bacteria by cell wall composition. **Gram-positive** (แกรมบวก) bacteria have a thick peptidoglycan layer and stain purple. **Gram-negative** (แกรมลบ) bacteria have a thin peptidoglycan layer plus an outer membrane and stain pink/red.
 
 ### 3.2 Bacterial Reproduction
 
-**Binary fission** (การแบ่งตัวแบบทวิภาค) — asexual reproduction producing two identical daughter cells; can occur every 20 minutes under ideal conditions. **Genetic variation** mechanisms include: **transformation** (การแปลงสภาพ, uptake of free DNA), **transduction** (การถ่ายทอดโดย噬菌体, transfer via bacteriophage), **conjugation** (การจับคู่ถ่ายทอด, direct transfer via pili), and **transposons** (ทรานสโพซอน, jumping genes).
+**Binary fission** (การแบ่งตัวแบบทวิภาค): asexual reproduction producing two identical daughter cells; can occur every 20 minutes under ideal conditions. **Genetic variation** mechanisms include: **transformation** (การแปลงสภาพ, uptake of free DNA), **transduction** (การถ่ายทอดโดย噬菌体, transfer via bacteriophage), **conjugation** (การจับคู่ถ่ายทอด, direct transfer via pili), and **transposons** (ทรานสโพซอน, jumping genes).
 
 ### 3.3 Viral Structure and Replication
 
-Viruses (ไวรัส) are **acellular** — not truly living. They consist of a **nucleic acid core** (DNA or RNA), a **protein capsid** (แคปซิด), and sometimes a **lipid envelope** (enveloped viruses like HIV, influenza, SARS-CoV-2). Viruses are obligate intracellular parasites — they can only replicate inside a host cell (เซลล์เจ้าของ).
+Viruses (ไวรัส) are **acellular**, not truly living. They consist of a **nucleic acid core** (DNA or RNA), a **protein capsid** (แคปซิด), and sometimes a **lipid envelope** (enveloped viruses like HIV, influenza, SARS-CoV-2). Viruses are obligate intracellular parasites; they can only replicate inside a host cell (เซลล์เจ้าของ).
 
 The **lytic cycle** (วงจรไลติก) involves viral attachment, injection of nucleic acid, hijacking host machinery for replication, assembly of new virions, and **lysis** (การทำลาย) of the host cell. The **lysogenic cycle** (วงจรไลโซจินิก) involves viral DNA integrating into the host chromosome as a **provirus** (โพรไวรัส), remaining dormant until triggered to enter the lytic cycle.
 
@@ -109,7 +109,7 @@ Fungi (เห็ดรา) are eukaryotic with chitin cell walls. Body structure
 
 ## 5 | Cross-Links
 
-- [[08_Evolution]] — antibiotic resistance as natural selection example
-- [[09_Diversity_of_Life]] — kingdom classification of microorganisms
-- [[../../Advance/Chemistry/18_Biochemistry|Chemistry: Biochemistry]] — viral and bacterial molecular biology
-- [[13_Human_Body_Systems]] — immune response to pathogens
+- [[08_Evolution]]: antibiotic resistance as natural selection example
+- [[09_Diversity_of_Life]]: kingdom classification of microorganisms
+- [[../../Advance/Chemistry/18_Biochemistry|Chemistry: Biochemistry]]: viral and bacterial molecular biology
+- [[13_Human_Body_Systems]]: immune response to pathogens

@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว301"]
 ---
 
-# Kinematics — อุณหพลศาสตร์
+# Kinematics: อุณหพลศาสตร์
 
-> *"I can calculate the motion of heavenly bodies, but not the madness of people."* — Isaac Newton
+> *"I can calculate the motion of heavenly bodies, but not the madness of people."* (Isaac Newton)
 
-Kinematics (อุณหพลศาสตร์) is the study of motion **without** considering its causes. It describes how objects move in terms of displacement, velocity, and acceleration, and it provides the mathematical tools — the kinematic equations — to predict future positions and velocities once the initial state is known. This topic is the foundation of all mechanics: before we ask *why* something moves (dynamics), we must first describe *how* it moves.
+Kinematics (อุณหพลศาสตร์) is the study of motion **without** considering its causes. It describes how objects move in terms of displacement, velocity, and acceleration, and it provides the mathematical tools: the kinematic equations, to predict future positions and velocities once the initial state is known. This topic is the foundation of all mechanics: before we ask *why* something moves (dynamics), we must first describe *how* it moves.
 
 This note covers motion in one and two dimensions, including uniform and uniformly accelerated motion, free fall, projectile motion, and graphical analysis of motion. Students must distinguish carefully between displacement and distance, velocity and speed, and understand vectors throughout.
 
@@ -104,11 +104,12 @@ $$H = \frac{v_0^2 \sin^2\theta}{2g}$$
 
 | Graph | Slope | Area under curve |
 |---|---|---|
-| Position vs time ($x$-$t$) | velocity | — |
+| Position vs time ($x$-$t$) | velocity | N/A |
 | Velocity vs time ($v$-$t$) | acceleration | displacement |
-| Acceleration vs time ($a$-$t$) | — | change in velocity |
+| Acceleration vs time ($a$-$t$) | N/A | change in velocity |
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["Position-time graph"] -->|"slope"| B["Velocity"]
     B -->|"slope"| C["Acceleration"]
@@ -131,7 +132,7 @@ $$v_{AC} = v_{AB} + v_{BC}$$
 **Solution:** Using $v^2 = v_0^2 + 2a\Delta x$ with $v = 0$:
 $$0 = 20^2 + 2(-5)\Delta x \Rightarrow \Delta x = \frac{400}{10} = 40\ \text{m}$$
 
-### Type 2: Free fall — dropped object
+### Type 2: Free fall: dropped object
 > A ball is dropped from $45\ \text{m}$. Find the time to hit the ground.
 
 **Solution:**
@@ -157,6 +158,6 @@ $$\text{Area} = \frac{1}{2}(5)(10) + (10-5)(10) = 25 + 50 = 75\ \text{m}$$
 
 ## 5 | Cross-Links
 
-- [[01_Measurement_and_Scientific_Method]] — units and uncertainty in kinematic data
-- [[03_Dynamics]] — forces cause the accelerations described here
-- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — vectors, trigonometry, quadratic equations
+- [[01_Measurement_and_Scientific_Method]]: units and uncertainty in kinematic data
+- [[03_Dynamics]]: forces cause the accelerations described here
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]]: vectors, trigonometry, quadratic equations

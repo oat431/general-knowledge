@@ -9,13 +9,13 @@ created: 2026-07-30
 course_codes: ["ว331"]
 ---
 
-# Computational Thinking — ความคิดเชิงคำนวณ
+# Computational Thinking: ความคิดเชิงคำนวณ
 
-> *"Computational thinking is a fundamental skill for everyone, not just for computer scientists."* — Jeannette Wing
+> *"Computational thinking is a fundamental skill for everyone, not just for computer scientists."* (Jeannette Wing)
 
 Computational thinking (ความคิดเชิงคำนวณ) is a problem-solving methodology that involves formulating problems and their solutions so that the solutions are represented in a form that can be effectively carried out by an information-processing agent. It is not about thinking like a computer, but rather about organising problems in ways that make them solvable through computation.
 
-The IPST (สสวท.) curriculum introduces computational thinking in ม.4 (ว331) as the foundational mindset underlying all computer science study. It emphasises four core pillars — decomposition (การแบ่งแยก), pattern recognition (การจดจำรูปแบบ), abstraction (การสรุป/นามธรรม), and algorithm design (การออกแบบขั้นตอนวิธี) — applied to real-world problems before any programming begins.
+The IPST (สสวท.) curriculum introduces computational thinking in ม.4 (ว331) as the foundational mindset underlying all computer science study. It emphasises four core pillars: decomposition (การแบ่งแยก), pattern recognition (การจดจำรูปแบบ), abstraction (การสรุป/นามธรรม), and algorithm design (การออกแบบขั้นตอนวิธี), applied to real-world problems before any programming begins.
 
 ---
 
@@ -41,7 +41,7 @@ The IPST (สสวท.) curriculum introduces computational thinking in ม.4 (
 | ขั้นตอนวิธี | Algorithm | Step-by-step |
 | รหัสเทียม | Pseudocode | Informal code |
 | ผังงาน | Flowchart | Diagram |
-| อัลกอริทึม | Algorithm | — |
+| อัลกอริทึม | Algorithm | N/A |
 | ปัญหาย่อย | Subproblem | From decomposition |
 | ข้อมูลเข้า/ข้อมูลออก | Input / Output | I/O |
 
@@ -60,6 +60,7 @@ The IPST (สสวท.) curriculum introduces computational thinking in ม.4 (
 **Algorithm Design (การออกแบบขั้นตอนวิธี)** develops a finite, ordered sequence of steps (ขั้นตอน) that produces the correct output for any valid input.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     CT["Computational Thinking<br/>ความคิดเชิงคำนวณ"] --> DEC["Decomposition การแบ่งแยก<br/>Break problem into subproblems"]
     CT --> PAT["Pattern Recognition<br/>การจดจำรูปแบบ<br/>Find similarities and trends"]
@@ -103,12 +104,12 @@ END
 
 The general CT workflow:
 
-1. **Understand** — define the problem and its inputs/outputs
-2. **Decompose** — break into subproblems
-3. **Recognise patterns** — find reusable structures
-4. **Abstract** — generalise the solution
-5. **Design algorithm** — write step-by-step pseudocode or flowchart
-6. **Evaluate** — test with sample inputs and trace execution
+1. **Understand:** define the problem and its inputs/outputs
+2. **Decompose:** break into subproblems
+3. **Recognise patterns:** find reusable structures
+4. **Abstract:** generalise the solution
+5. **Design algorithm:** write step-by-step pseudocode or flowchart
+6. **Evaluate:** test with sample inputs and trace execution
 
 ---
 
@@ -129,7 +130,7 @@ Organise Sports Day
 └── Award prizes and cleanup
 ```
 
-Each subproblem can be further decomposed — "Register participants" splits into announcement, form collection, and verification.
+Each subproblem can be further decomposed: "Register participants" splits into announcement, form collection, and verification.
 
 ### Type 2: Find a Pattern and Generalise
 > Given the sequence 2, 4, 6, 8, …, identify the pattern and write pseudocode for the nth term.
@@ -154,6 +155,7 @@ print(2 * n)
 ### Type 3: Draw a Flowchart for Finding the Maximum of Two Numbers
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     START["START"] --> READ["READ a, b"]
     READ --> CHECK{"a > b ?"}
@@ -166,7 +168,7 @@ flowchart TD
 
 ## 5 | Cross-Links
 
-- [[02_Data_Representation]] — how data is represented for computation
-- [[04_Programming_Fundamentals]] — implementing algorithms in code
-- [[06_Algorithms]] — formal algorithm design and analysis
-- [[../../Advance/Mathematics/Fundamental/17_Sets|Mathematics: Sets]] — logical foundations
+- [[02_Data_Representation]]: how data is represented for computation
+- [[04_Programming_Fundamentals]]: implementing algorithms in code
+- [[06_Algorithms]]: formal algorithm design and analysis
+- [[../../Advance/Mathematics/Fundamental/17_Sets|Mathematics: Sets]]: logical foundations

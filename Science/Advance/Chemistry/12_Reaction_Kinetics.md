@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว312"]
 ---
 
-# Reaction Kinetics — จลนพลศาสตร์เคมี
+# Reaction Kinetics: จลนพลศาสตร์เคมี
 
-> *"Thermodynamics tells you if a reaction can happen; kinetics tells you how fast."* — Anonymous
+> *"Thermodynamics tells you if a reaction can happen; kinetics tells you how fast."* (Anonymous)
 
 Reaction kinetics is the study of reaction rates and the molecular events that produce them. While thermodynamics (Topic 11) answers the question "Will it happen?", kinetics answers "How fast, and by what mechanism?" This topic is the second of three Semester 2 topics in ว312 and is essential for understanding catalysis, biological enzymes, industrial processes, and atmospheric chemistry.
 
@@ -25,7 +25,7 @@ This note covers the rate of reaction, the rate law, reaction order (zero, first
 
 | Semester | Scope | Key Skills |
 |---|---|---|
-| **Semester 1** | (Not covered — see Acids & Bases, Equilibrium) | — |
+| **Semester 1** | (Not covered, see Acids & Bases, Equilibrium) |: |
 | **Semester 2** | Reaction rate, rate law, order of reaction (0, 1, 2), rate constant, integrated rate laws, half-life, Arrhenius equation, activation energy, catalysis, reaction mechanisms | Determine order from data, apply integrated rate laws, calculate $E_a$, identify rate-determining step, draw PE diagrams |
 
 ---
@@ -71,7 +71,7 @@ $$r = -\frac{1}{a}\frac{d[A]}{dt} = -\frac{1}{b}\frac{d[B]}{dt} = \frac{1}{c}\fr
 
 For a reaction $aA + bB \to \text{products}$:
 $$r = k[A]^m[B]^n$$
-$m$, $n$ are **reaction orders** with respect to each reactant; $m + n$ is the **overall order**. The exponents must be **determined experimentally** — they do not necessarily equal the stoichiometric coefficients.
+$m$, $n$ are **reaction orders** with respect to each reactant; $m + n$ is the **overall order**. The exponents must be **determined experimentally**; they do not necessarily equal the stoichiometric coefficients.
 
 ### 3.3 Zero-Order Reactions
 
@@ -91,7 +91,7 @@ $$r = k[A] \quad (k: \text{s}^{-1})$$
 $$\ln[A]_t = \ln[A]_0 - kt$$
 or equivalently: $[A]_t = [A]_0 e^{-kt}$.
 
-**Half-life:** $t_{1/2} = \frac{\ln 2}{k} = \frac{0.693}{k}$ (independent of $[A]_0$ — a hallmark of first order).
+**Half-life:** $t_{1/2} = \frac{\ln 2}{k} = \frac{0.693}{k}$ (independent of $[A]_0$, a hallmark of first order).
 Examples: radioactive decay, many decomposition reactions, drug metabolism in the body.
 
 ### 3.5 Second-Order Reactions
@@ -146,7 +146,7 @@ A catalyst provides an alternative pathway with lower $E_a$ (both forward and re
 
 - **Homogeneous**: same phase as reactants (e.g. $\ce{H+}$ catalysed ester hydrolysis in solution).
 - **Heterogeneous**: different phase (e.g. solid Pt, Pd, or Ni in hydrogenation; catalytic converter in cars).
-- **Enzymes** are biological catalysts — highly specific, work under mild conditions.
+- **Enzymes** are biological catalysts: highly specific, work under mild conditions.
 
 ### 3.11 Reaction Mechanisms and the Rate Law
 
@@ -161,7 +161,7 @@ Proposed mechanism:
 1. $\ce{NO2 + F2 -> NO2F + F}$ (slow, RDS)
 2. $\ce{NO2 + F -> NO2F}$ (fast)
 
-Rate law from RDS: $r = k[\ce{NO2}][\ce{F2}]$ — matches experiment.
+Rate law from RDS: $r = k[\ce{NO2}][\ce{F2}]$, matches experiment.
 
 ---
 
@@ -189,7 +189,7 @@ $$t_{1/2} = \frac{0.693}{k} = \frac{0.693}{0.045} = 15.4\ \text{s}$$
 Plot $\ln[A]$ vs $t$ → straight line. So **first order**.
 Slope = $-k$. From data: slope ≈ $-0.010$ s⁻¹, so $k = 0.010$ s⁻¹.
 
-### Type 4: Arrhenius — find $E_a$
+### Type 4: Arrhenius: find $E_a$
 > $k$ doubles when $T$ increases from 300 K to 310 K. Find $E_a$.
 
 **Solution:**
@@ -209,11 +209,11 @@ Overall: order 3/2.
 
 ## 5 | Cross-Links
 
-- [[05_Stoichiometry]] — mole ratios in rate expressions
-- [[06_Solutions]] — concentration dependence
-- [[07_Gases]] — collision theory (kinetic energy of gas molecules)
-- [[09_Chemical_Equilibrium]] — equilibrium when forward = reverse rate
-- [[11_Thermochemistry]] — PE diagrams, $\Delta H$ vs $E_a$, $\Delta G = -RT \ln K$
-- [[13_Electrochemistry]] — Butler-Volmer equation; rate of electron transfer
-- [[18_Biochemistry|Biology]] — enzyme kinetics (Michaelis-Menten)
-- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — logarithms, exponentials, differential equations
+- [[05_Stoichiometry]]: mole ratios in rate expressions
+- [[06_Solutions]]: concentration dependence
+- [[07_Gases]]: collision theory (kinetic energy of gas molecules)
+- [[09_Chemical_Equilibrium]]: equilibrium when forward = reverse rate
+- [[11_Thermochemistry]]: PE diagrams, $\Delta H$ vs $E_a$, $\Delta G = -RT \ln K$
+- [[13_Electrochemistry]]: Butler-Volmer equation; rate of electron transfer
+- [[18_Biochemistry|Biology]]: enzyme kinetics (Michaelis-Menten)
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]]: logarithms, exponentials, differential equations

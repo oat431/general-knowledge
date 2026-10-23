@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว313"]
 ---
 
-# Polymers — พอลิเมอร์
+# Polymers: พอลิเมอร์
 
-> *"The progress of civilization is measured by the materials at man's disposal — from stone to bronze to iron to polymers."* — Herman Mark
+> *"The progress of civilization is measured by the materials at man's disposal: from stone to bronze to iron to polymers."* (Herman Mark)
 
-A **polymer (พอลิเมอร์)** is a large molecule (macromolecule) built up from many small units called monomers (มอนอเมอร์) joined by covalent bonds. Polymers are materials of central importance in daily life — from plastics, rubbers, and fibers to proteins and DNA. This note covers classification, synthesis, and recycling.
+A **polymer (พอลิเมอร์)** is a large molecule (macromolecule) built up from many small units called monomers (มอนอเมอร์) joined by covalent bonds. Polymers are materials of central importance in daily life: from plastics, rubbers, and fibers to proteins and DNA. This note covers classification, synthesis, and recycling.
 
 ---
 
@@ -23,7 +23,7 @@ A **polymer (พอลิเมอร์)** is a large molecule (macromolecule) 
 
 || Semester | Scope | Key Skills |
 ||---|---|---|
-|| **Semester 1** | (briefly mentioned in chapter 15) | — |
+|| **Semester 1** | (briefly mentioned in chapter 15) | N/A |
 || **Semester 2** | Natural and synthetic polymers; preparation; recycling | Write polymerization reactions; classify polymers |
 
 ---
@@ -193,8 +193,8 @@ $$n = \frac{280{,}000}{28} = 10{,}000$$
 
 ## 5 | Cross-Links
 
-- [[15_Organic_Reactions]] — Polymerization reactions
-- [[16_Organic_Compounds_by_Functional_Group]] — Functional groups in polymers
-- [[18_Biochemistry]] — Proteins, carbohydrates, DNA
-- [[20_Industrial_and_Applied_Chemistry]] — Plastics industry
-- [[12_Reaction_Kinetics]] — Kinetics of polymerization
+- [[15_Organic_Reactions]]: Polymerization reactions
+- [[16_Organic_Compounds_by_Functional_Group]]: Functional groups in polymers
+- [[18_Biochemistry]]: Proteins, carbohydrates, DNA
+- [[20_Industrial_and_Applied_Chemistry]]: Plastics industry
+- [[12_Reaction_Kinetics]]: Kinetics of polymerization

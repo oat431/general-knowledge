@@ -9,13 +9,13 @@ created: 2026-07-30
 course_codes: ["ว323"]
 ---
 
-# Immune System — ระบบภูมิคุ้มกัน
+# Immune System: ระบบภูมิคุ้มกัน
 
-> *"The body's ability to defend itself against foreign invaders is one of the most remarkable feats of biological engineering."* — Charles Janeway
+> *"The body's ability to defend itself against foreign invaders is one of the most remarkable feats of biological engineering."* (Charles Janeway)
 
 The immune system (ระบบภูมิคุ้มกัน) is a complex network of cells, tissues, and organs that work together to defend the body against pathogens including bacteria, viruses, fungi, and parasites. It comprises two main branches: innate immunity (ภูมิคุ้มกันแต่กำเนิด) which provides immediate, non-specific defense, and adaptive immunity (ภูมิคุ้มกันจำเพาะ) which mounts targeted responses and creates immunological memory. Understanding how these systems interact is essential for medicine, vaccination, and treating immune disorders.
 
-The adaptive immune system relies on lymphocytes — B cells (เซลล์บี) that produce antibodies and T cells (เซลล์ที) that directly attack infected cells or coordinate immune responses. The interplay between these cell types, along with antigen-presenting cells, forms the basis of the primary and secondary immune responses that underpin vaccination strategies.
+The adaptive immune system relies on lymphocytes: B cells (เซลล์บี) that produce antibodies and T cells (เซลล์ที) that directly attack infected cells or coordinate immune responses. The interplay between these cell types, along with antigen-presenting cells, forms the basis of the primary and secondary immune responses that underpin vaccination strategies.
 
 ---
 
@@ -69,7 +69,7 @@ Adaptive immunity is slower to activate but highly specific and generates **immu
 
 ### 3.3 Primary and Secondary Immune Response
 
-The **primary response** occurs on first exposure to an antigen — it is slow (7–14 days), produces mainly IgM, and generates **memory B and T cells**. The **secondary response** upon re-exposure is faster (1–3 days), stronger, and produces mainly IgG. This is the principle behind vaccination (การให้วัคซีน).
+The **primary response** occurs on first exposure to an antigen; it is slow (7–14 days), produces mainly IgM, and generates **memory B and T cells**. The **secondary response** upon re-exposure is faster (1–3 days), stronger, and produces mainly IgG. This is the principle behind vaccination (การให้วัคซีน).
 
 ### 3.4 Immune Disorders
 
@@ -102,7 +102,7 @@ The **primary response** occurs on first exposure to an antigen — it is slow (
 
 ## 5 | Cross-Links
 
-- [[13_Human_Body_Systems]] — lymphatic and circulatory systems support immunity
-- [[15_Human_Reproduction_and_Development]] — maternal antibodies cross placenta
-- [[../../Advance/Chemistry/18_Biochemistry|Chemistry: Biochemistry]] — antibody protein structure
-- [[18_Biotechnology]] — vaccine production and monoclonal antibodies
+- [[13_Human_Body_Systems]]: lymphatic and circulatory systems support immunity
+- [[15_Human_Reproduction_and_Development]]: maternal antibodies cross placenta
+- [[../../Advance/Chemistry/18_Biochemistry|Chemistry: Biochemistry]]: antibody protein structure
+- [[18_Biotechnology]]: vaccine production and monoclonal antibodies

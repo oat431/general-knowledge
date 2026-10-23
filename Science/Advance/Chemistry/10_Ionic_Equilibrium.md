@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว312"]
 ---
 
-# Ionic Equilibrium — สมดุลไอออน
+# Ionic Equilibrium: สมดุลไอออน
 
-> *"What dissolves and what precipitates are two sides of the same ionic ledger."* — Adapted from solubility chemistry
+> *"What dissolves and what precipitates are two sides of the same ionic ledger."* (Adapted from solubility chemistry)
 
 Ionic equilibrium extends the ideas of chemical equilibrium to solutions of sparingly soluble salts. It is the third equilibrium topic in ว312 and provides the conceptual bridge between the broad principles of $K$ (Topic 09) and the practical world of qualitative analysis, water treatment, and selective precipitation.
 
@@ -26,7 +26,7 @@ This note covers the solubility product $K_{sp}$, molar solubility, the common i
 | Semester | Scope | Key Skills |
 |---|---|---|
 | **Semester 1** | $K_{sp}$ and molar solubility, common ion effect, $Q$ vs $K_{sp}$, selective precipitation, pH and solubility, qualitative analysis (group reagents) | Write $K_{sp}$ expressions, calculate solubility, predict precipitation, plan separation schemes |
-| **Semester 2** | (Not covered — see Thermochemistry, Kinetics, Electrochemistry) | — |
+| **Semester 2** | (Not covered, see Thermochemistry, Kinetics, Electrochemistry) |: |
 
 ---
 
@@ -165,7 +165,7 @@ $Q \gg K_{sp}$, so **precipitation occurs**.
 **Solution:** $[\ce{Cl-}] \approx 0.20$ M (large excess). Let $s = [\ce{Ag+}]$.
 $$K_{sp} = s \cdot 0.20 = 1.8 \times 10^{-10}$$
 $$s = 9.0 \times 10^{-10}\ \text{M}$$
-(Compare to $\sqrt{K_{sp}} = 1.34 \times 10^{-5}$ M in pure water — about 15 000× less soluble.)
+(Compare to $\sqrt{K_{sp}} = 1.34 \times 10^{-5}$ M in pure water, about 15 000× less soluble.)
 
 ### Type 5: Selective precipitation
 > A solution is 0.10 M in $\ce{Pb^2+}$ and 0.10 M in $\ce{Sr^2+}$. $\ce{Na2SO4}$ is added gradually. Which precipitates first? $K_{sp}(\ce{PbSO4}) = 1.6 \times 10^{-8}$, $K_{sp}(\ce{SrSO4}) = 3.2 \times 10^{-7}$.
@@ -180,9 +180,9 @@ $\ce{PbSO4}$ precipitates first (lower threshold).
 
 ## 5 | Cross-Links
 
-- [[08_Acids_and_Bases]] — pH effects on basic anions; $K_a$/$K_b$ of conjugate acid-base pairs
-- [[09_Chemical_Equilibrium]] — $K_{sp}$ is a special case of $K_c$; $Q$ vs $K$ rule
-- [[05_Stoichiometry]] — mole calculations for precipitation yields
-- [[06_Solutions]] — concentration units, dilution
-- [[13_Electrochemistry]] — solubility and electrode potential (Nernst)
-- [[02_Genetics_Evolution_and_Ecology - Overview|Biology]] — kidney stones, biomineralization
+- [[08_Acids_and_Bases]]: pH effects on basic anions; $K_a$/$K_b$ of conjugate acid-base pairs
+- [[09_Chemical_Equilibrium]]: $K_{sp}$ is a special case of $K_c$; $Q$ vs $K$ rule
+- [[05_Stoichiometry]]: mole calculations for precipitation yields
+- [[06_Solutions]]: concentration units, dilution
+- [[13_Electrochemistry]]: solubility and electrode potential (Nernst)
+- [[02_Genetics_Evolution_and_Ecology - Overview|Biology]]: kidney stones, biomineralization

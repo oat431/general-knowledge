@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว312"]
 ---
 
-# Thermochemistry — อุณหเคมี
+# Thermochemistry: อุณหเคมี
 
-> *"Energy is conserved; it is merely transformed, transported, and stored — and the heat released or absorbed by a reaction is the most honest measure of its progress."* — Adapted from the First Law
+> *"Energy is conserved; it is merely transformed, transported, and stored, and the heat released or absorbed by a reaction is the most honest measure of its progress."* (Adapted from the First Law)
 
 Thermochemistry is the branch of chemistry that studies the heat absorbed or released during chemical reactions. It is the first topic of Semester 2 in ว312, bridging the equilibrium-flavoured first semester (Topics 08–10) with the rate-flavoured and electron-flavoured topics that follow. Beyond the classroom, thermochemistry underlies combustion engines, metabolism, calorimetry in food science, and the design of industrial reactors.
 
@@ -25,7 +25,7 @@ This note covers enthalpy ($\Delta H$), endothermic and exothermic processes, ca
 
 | Semester | Scope | Key Skills |
 |---|---|---|
-| **Semester 1** | (Not covered — see Acids & Bases, Equilibrium) | — |
+| **Semester 1** | (Not covered, see Acids & Bases, Equilibrium) |: |
 | **Semester 2** | Enthalpy, calorimetry, Hess's law, bond energies, $\Delta S$, $\Delta G$, spontaneity, standard formation enthalpies | Calculate $\Delta H$ from calorimetry/Hess/bond energies, compute $\Delta G$ and predict spontaneity, relate $\Delta G$ to $K$ |
 
 ---
@@ -91,7 +91,7 @@ Burning 2 mol of $\ce{CH4}$ releases 2 × 890 = 1780 kJ. Reversing the reaction 
 
 ### 3.4 Hess's Law
 
-The total enthalpy change is **independent of the pathway** — it depends only on the initial and final states. Allows calculation of $\Delta H$ for reactions that are difficult to measure directly, by combining known reactions.
+The total enthalpy change is **independent of the pathway**; it depends only on the initial and final states. Allows calculation of $\Delta H$ for reactions that are difficult to measure directly, by combining known reactions.
 
 **Procedure:**
 1. Write target reaction.
@@ -207,9 +207,9 @@ $$= -2.479 \times (-11.51) = +28.5\ \text{kJ/mol}$$
 
 ## 5 | Cross-Links
 
-- [[05_Stoichiometry]] — mole ratios in thermochemical equations
-- [[07_Gases]] — work $w = -P\Delta V$ in PV-work problems
-- [[09_Chemical_Equilibrium]] — $\Delta G^\circ = -RT \ln K$ (thermodynamics ↔ equilibrium)
-- [[12_Reaction_Kinetics]] — activation energy $E_a$ vs thermodynamic $\Delta H$
-- [[02_Thermodynamics_and_Waves_-_Overview|Physics: Thermodynamics]] — First/Second/Third Laws
-- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — logarithms, exponentials
+- [[05_Stoichiometry]]: mole ratios in thermochemical equations
+- [[07_Gases]]: work $w = -P\Delta V$ in PV-work problems
+- [[09_Chemical_Equilibrium]]: $\Delta G^\circ = -RT \ln K$ (thermodynamics ↔ equilibrium)
+- [[12_Reaction_Kinetics]]: activation energy $E_a$ vs thermodynamic $\Delta H$
+- [[02_Thermodynamics_and_Waves_-_Overview|Physics: Thermodynamics]]: First/Second/Third Laws
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]]: logarithms, exponentials

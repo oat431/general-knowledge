@@ -10,11 +10,11 @@ created: 2026-07-30
 course_codes: ["ว333"]
 ---
 
-# Artificial Intelligence — ปัญญาประดิษฐ์
+# Artificial Intelligence: ปัญญาประดิษฐ์
 
-> *"AI is one of the most important things humanity is working on. It is more profound than electricity or fire."* — Sundar Pichai, CEO of Google
+> *"AI is one of the most important things humanity is working on. It is more profound than electricity or fire."* (Sundar Pichai, CEO of Google)
 
-Artificial Intelligence (ปัญญาประดิษฐ์, AI) is the field of building systems that perform tasks normally requiring human intelligence — recognizing images, understanding language, making predictions, and even creating art. Modern AI is largely driven by **machine learning** (การเรียนรู้ของเครื่อง, ML), where computers learn patterns from data instead of following hand-written rules. The most powerful subset today is **deep learning** (การเรียนรู้เชิงลึก, DL), built on artificial neural networks.
+Artificial Intelligence (ปัญญาประดิษฐ์, AI) is the field of building systems that perform tasks normally requiring human intelligence: recognizing images, understanding language, making predictions, and even creating art. Modern AI is largely driven by **machine learning** (การเรียนรู้ของเครื่อง, ML), where computers learn patterns from data instead of following hand-written rules. The most powerful subset today is **deep learning** (การเรียนรู้เชิงลึก, DL), built on artificial neural networks.
 
 This note covers the AI/ML/DL hierarchy, the main types of machine learning, neural network basics, the training/testing workflow, common applications (NLP, computer vision, recommendation systems), AI ethics (จริยศาสตร์ด้าน AI), and an overview of generative AI.
 
@@ -43,7 +43,7 @@ This note covers the AI/ML/DL hierarchy, the main types of machine learning, neu
 | การเรียนรู้แบบเสริมกำลัง | Reinforcement learning | Reward-based |
 | เครือข่ายประสาทเทียม | Neural network (NN) | Inspired by brain neurons |
 | นิวรอน | Neuron / Unit | A single node |
-| น้ำหนัก | Weight | $w$ — connection strength |
+| น้ำหนัก | Weight | $w$: connection strength |
 | ฟังก์ชันกระตุ้น | Activation function | ReLU, sigmoid, tanh |
 | ชุดข้อมูลฝึก | Training set | Data to learn from |
 | ชุดข้อมูลทดสอบ | Test set | Data to evaluate |
@@ -60,22 +60,23 @@ These terms are nested, not synonyms:
 
 ```
 ┌───────────────────────────────────────────┐
-│  AI — any technique making machines       │   Broadest
+│  AI: any technique making machines       │   Broadest
 │       "smart" (rules, search, ML)         │
 │  ┌─────────────────────────────────────┐  │
-│  │  ML — learn patterns from data      │  │   Subset of AI
+│  │  ML: learn patterns from data      │  │   Subset of AI
 │  │  ┌───────────────────────────────┐  │  │
-│  │  │  DL — deep neural networks    │  │  │   Subset of ML
+│  │  │  DL: deep neural networks    │  │  │   Subset of ML
 │  │  └───────────────────────────────┘  │  │
 │  └─────────────────────────────────────┘  │
 └───────────────────────────────────────────┘
 ```
 
-- **AI** — the broad goal (game-playing, expert systems, robots, ML).
-- **ML** — algorithms that improve with data (linear regression, decision trees, SVMs, neural nets).
-- **DL** — neural networks with many layers; powers modern vision, language, and speech.
+- **AI:** the broad goal (game-playing, expert systems, robots, ML).
+- **ML:** algorithms that improve with data (linear regression, decision trees, SVMs, neural nets).
+- **DL:** neural networks with many layers; powers modern vision, language, and speech.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     AI["Artificial Intelligence<br/>ปัญญาประดิษฐ์"] --> RULE["Rule-based AI<br/>Expert systems, search"]
     AI --> ML["Machine Learning<br/>การเรียนรู้ของเครื่อง"]
@@ -100,20 +101,20 @@ flowchart TD
 | **Reinforcement** | เสริมกำลัง | Rewards over time | Game AI (AlphaGo), robot control |
 
 - **Supervised (การเรียนรู้แบบมีผู้สอน):**
-  - **Classification** (จำแนกประเภท) — predict a category (spam / not spam).
-  - **Regression (การถดถอย)** — predict a number (price = 2.5M THB).
+  - **Classification** (จำแนกประเภท): predict a category (spam / not spam).
+  - **Regression (การถดถอย):** predict a number (price = 2.5M THB).
 - **Unsupervised (การเรียนรู้แบบไม่มีผู้สอน):**
-  - **Clustering (การจัดกลุ่ม)** — group similar items (k-means).
-  - **Dimensionality reduction** — compress features (PCA).
+  - **Clustering (การจัดกลุ่ม):** group similar items (k-means).
+  - **Dimensionality reduction:** compress features (PCA).
 - **Reinforcement (การเรียนรู้แบบเสริมกำลัง):** an **agent** (ตัวแทน) takes **actions** (การกระทำ) in an **environment** (สภาพแวดล้อม) to maximize cumulative **reward** (รางวัล).
 
 ### 3.3 Neural Networks Intro (เครือข่ายประสาทเทียม)
 
 A neural network is built from **neurons** (นิวรอน) arranged in **layers** (ชั้น):
 
-- **Input layer** — receives features $x_1, x_2, \ldots, x_n$.
-- **Hidden layer(s)** — perform transformations; "deep" = many hidden layers.
-- **Output layer** — produces the prediction $\hat{y}$.
+- **Input layer:** receives features $x_1, x_2, \ldots, x_n$.
+- **Hidden layer(s):** perform transformations; "deep" = many hidden layers.
+- **Output layer:** produces the prediction $\hat{y}$.
 
 Each connection has a **weight** (น้ำหนัก, $w$) and each neuron a **bias** (ไบแอส, $b$). A neuron computes:
 
@@ -143,11 +144,11 @@ The standard ML workflow:
 
 **Key ideas:**
 
-- **Loss function** (ฟังก์ชันความสูญเสีย) — measures prediction error (MSE for regression, cross-entropy for classification).
-- **Gradient descent** (การลงตามความชัน) — update weights in the direction that reduces loss.
-- **Epoch** — one full pass over the training set.
-- **Overfitting** (การฝึกฝนมากเกินไป) — model memorizes training data, fails on new data. Counter with more data, regularization, or dropout.
-- **Underfitting** — model too simple to capture patterns.
+- **Loss function** (ฟังก์ชันความสูญเสีย): measures prediction error (MSE for regression, cross-entropy for classification).
+- **Gradient descent** (การลงตามความชัน): update weights in the direction that reduces loss.
+- **Epoch:** one full pass over the training set.
+- **Overfitting** (การฝึกฝนมากเกินไป): model memorizes training data, fails on new data. Counter with more data, regularization, or dropout.
+- **Underfitting:** model too simple to capture patterns.
 
 ```python
 # Minimal scikit-learn example (supervised classification)
@@ -189,7 +190,7 @@ Responsible AI requires diverse data, auditing, human oversight, and clear polic
 
 ### 3.7 Generative AI Overview (ปัญญาประดิษฐ์เชิงกำเนิด)
 
-**Generative AI** (ปัญญาประดิษฐ์เชิงกำเนิด) creates **new** content — text, images, audio, code — rather than just classifying or predicting. Large models are trained on massive datasets:
+**Generative AI** (ปัญญาประดิษฐ์เชิงกำเนิด) creates **new** content: text, images, audio, code, rather than just classifying or predicting. Large models are trained on massive datasets:
 
 | Modality | Model families | Examples |
 |---|---|---|
@@ -208,7 +209,7 @@ Responsible AI requires diverse data, auditing, human oversight, and clear polic
 
 > A bank uses past loan records (approved / rejected) to train a model that decides new applications. What ML type is this?
 
-**Solution:** **Supervised learning (classification)** — the training data is **labeled** (each past record has a known approve/reject outcome), and the goal is to predict a category.
+**Solution:** **Supervised learning (classification):** the training data is **labeled** (each past record has a known approve/reject outcome), and the goal is to predict a category.
 
 ### Type 2: Compute a Single Neuron
 
@@ -249,9 +250,9 @@ print("Accuracy:", accuracy_score(y_te, model.predict(X_te)))
 
 ## 5 | Cross-Links
 
-- [[06_Algorithms]] — ML training is itself an algorithm (gradient descent)
-- [[07_Data_Structures]] — tensors/vectors are multi-dimensional arrays
-- [[08_Object_Oriented_Programming]] — ML models are OOP objects (`.fit()`, `.predict()`)
-- [[10_Databases]] — training data is often stored in databases
-- [[12_Digital_Citizenship]] — AI ethics, misinformation, responsible use
-- [[19_Probability|Mathematics: Probability]] — statistical foundations of ML
+- [[06_Algorithms]]: ML training is itself an algorithm (gradient descent)
+- [[07_Data_Structures]]: tensors/vectors are multi-dimensional arrays
+- [[08_Object_Oriented_Programming]]: ML models are OOP objects (`.fit()`, `.predict()`)
+- [[10_Databases]]: training data is often stored in databases
+- [[12_Digital_Citizenship]]: AI ethics, misinformation, responsible use
+- [[19_Probability|Mathematics: Probability]]: statistical foundations of ML

@@ -10,13 +10,13 @@ created: 2026-07-30
 course_codes: ["ว302"]
 ---
 
-# Electric Circuits — วงจรไฟฟ้า
+# Electric Circuits: วงจรไฟฟ้า
 
-> *"Nothing is too wonderful to be true, if it be consistent with the laws of nature."* — Michael Faraday
+> *"Nothing is too wonderful to be true, if it be consistent with the laws of nature."* (Michael Faraday)
 
 Electric circuits are pathways through which electric current flows, driven by a potential difference (voltage). The analysis of circuits rests on Ohm's law and Kirchhoff's rules, which encode the conservation of charge and energy. Resistors combine in series and parallel to form equivalent resistances. Capacitors introduce time-dependent behavior through RC circuits, and the concept of electrical power quantifies the rate of energy dissipation or transfer.
 
-In the ว302 curriculum, students move from the static charge picture of electrostatics to the dynamic flow of current. Circuit analysis is one of the most practically applicable topics in physics — it underlies all electronic devices, power distribution, and electrical engineering. Mastery of Kirchhoff's laws enables the analysis of arbitrarily complex networks.
+In the ว302 curriculum, students move from the static charge picture of electrostatics to the dynamic flow of current. Circuit analysis is one of the most practically applicable topics in physics; it underlies all electronic devices, power distribution, and electrical engineering. Mastery of Kirchhoff's laws enables the analysis of arbitrarily complex networks.
 
 ---
 
@@ -27,7 +27,7 @@ In the ว302 curriculum, students move from the static charge picture of electr
 | Semester | Scope | Key Skills |
 |---|---|---|
 | **Semester 1** | Ohm's law, series/parallel circuits, Kirchhoff's laws, RC circuits, electrical power | Calculate equivalent resistance; apply Kirchhoff's rules; analyze RC transients; compute power |
-| **Semester 2** | (Continued in AC circuits, EM induction) | — |
+| **Semester 2** | (Continued in AC circuits, EM induction) | N/A |
 
 ---
 
@@ -65,9 +65,9 @@ Where $\rho$ is resistivity, $L$ is length, $A$ is cross-sectional area.
 
 ### 3.2 Series and Parallel Resistors
 
-**Series:** $R_{\text{eq}} = R_1 + R_2 + \cdots$ — same current, voltages add.
+**Series:** $R_{\text{eq}} = R_1 + R_2 + \cdots$, same current, voltages add.
 
-**Parallel:** $\frac{1}{R_{\text{eq}}} = \frac{1}{R_1} + \frac{1}{R_2} + \cdots$ — same voltage, currents add.
+**Parallel:** $\frac{1}{R_{\text{eq}}} = \frac{1}{R_1} + \frac{1}{R_2} + \cdots$, same voltage, currents add.
 
 For two resistors in parallel: $R_{\text{eq}} = \frac{R_1 R_2}{R_1 + R_2}$.
 
@@ -145,7 +145,7 @@ After 5 s, the capacitor is 63% charged.
 
 ## 5 | Cross-Links
 
-- [[11_Electrostatics]] — Capacitors store energy; potential difference drives current
-- [[13_Magnetism]] — Currents produce magnetic fields
-- [[14_Electromagnetic_Induction]] — Changing currents induce EMF (inductors)
-- [[14_Energy]] — Power is the rate of energy transfer
+- [[11_Electrostatics]]: Capacitors store energy; potential difference drives current
+- [[13_Magnetism]]: Currents produce magnetic fields
+- [[14_Electromagnetic_Induction]]: Changing currents induce EMF (inductors)
+- [[14_Energy]]: Power is the rate of energy transfer

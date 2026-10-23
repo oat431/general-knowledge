@@ -11,9 +11,9 @@ created: 2026-07-30
 course_codes: ["ว321"]
 ---
 
-# Molecular Biology — ชีววิทยาระดับโมเลกุล
+# Molecular Biology: ชีววิทยาระดับโมเลกุล
 
-> *"DNA is like a computer program but far, far more advanced than any software ever created."* — Bill Gates
+> *"DNA is like a computer program but far, far more advanced than any software ever created."* (Bill Gates)
 
 Molecular biology (ชีววิทยาระดับโมเลกุล) studies the molecular basis of gene structure, function, and regulation. The central dogma (หลักการกลาง) of molecular biology states that genetic information flows from DNA -> RNA -> protein. This process involves DNA replication (การจำลองดีเอ็นเอ), transcription (การถอดรหัส), and translation (การแปลรหัส).
 
@@ -56,6 +56,7 @@ The discovery of DNA's double helix structure by Watson and Crick in 1953, based
 ## 3 | Key Concepts
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     DNA["DNA"] --> REP["Replication"]
     REP --> DNA
@@ -71,20 +72,20 @@ Watson and Crick's double helix model (1953):
 - Two antiparallel polynucleotide strands wound around each other.
 - Sugar-phosphate backbone (กระดูกสันหลังน้ำตาล-ฟอสเฟต) on the outside; bases face inward.
 - Each nucleotide consists of: deoxyribose sugar (น้ำตาลดีออกซีไรโบส) + phosphate group + nitrogenous base (เบส).
-- **Base pairing rules:** Adenine (A) pairs with Thymine (T) via 2 hydrogen bonds; Guanine (G) pairs with Cytosine (C) via 3 hydrogen bonds. This is **Chargaff's rule** — in any DNA sample, %A = %T and %G = %C.
+- **Base pairing rules:** Adenine (A) pairs with Thymine (T) via 2 hydrogen bonds; Guanine (G) pairs with Cytosine (C) via 3 hydrogen bonds. This is **Chargaff's rule**, in any DNA sample, %A = %T and %G = %C.
 - The two strands run **antiparallel** (5' to 3' and 3' to 5').
 - The helix has a major groove (ร่องใหญ่) and minor groove (ร่องเล็ก) where proteins can interact with bases.
 - Diameter: 2 nm; one full turn = 10 base pairs = 3.4 nm.
 
 ### 3.2 DNA Replication (การจำลองดีเอ็นเอ)
 
-DNA replication is **semi-conservative** (กึ่งอนุรักษ์) — each new DNA molecule consists of one original strand and one new strand. Demonstrated by the Meselson-Stahl experiment (1958) using $^{15}N$ and $^{14}N$ isotopes.
+DNA replication is **semi-conservative** (กึ่งอนุรักษ์): each new DNA molecule consists of one original strand and one new strand. Demonstrated by the Meselson-Stahl experiment (1958) using $^{15}N$ and $^{14}N$ isotopes.
 
 **Steps:**
 1. **Helicase (เฮลิเคส):** Unwinds the double helix at the replication fork (ส้อมจำลอง), breaking hydrogen bonds between base pairs. Creates single-stranded regions.
 2. **Single-strand binding proteins (โปรตีนจับสายเดี่ยว):** Stabilize unwound strands, prevent re-annealing.
 3. **Topoisomerase (โทโพไอโซเมอเรส):** Relieves torsional strain ahead of the replication fork by cutting and rejoining DNA.
-4. **Primase (ไพรเมส):** Synthesizes a short RNA primer (ไพรเมอร์ RNA) complementary to the template strand — DNA polymerase cannot start synthesis de novo.
+4. **Primase (ไพรเมส):** Synthesizes a short RNA primer (ไพรเมอร์ RNA) complementary to the template strand, DNA polymerase cannot start synthesis de novo.
 5. **DNA Polymerase III (DNA พอลิเมอเรส III):** Adds nucleotides in the 5' to 3' direction, complementary to the template strand.
    - **Leading strand (สายชั้นนำ):** Synthesized continuously toward the replication fork.
    - **Lagging strand (สายตาม):** Synthesized away from the fork in short fragments called **Okazaki fragments (โอกาซากิฟรา็กเมนต์)**, each requiring its own RNA primer.
@@ -121,8 +122,8 @@ Synthesis of a polypeptide from mRNA at the ribosome. Occurs in the cytoplasm.
 **The Genetic Code (รหัสพันธุกรรม):**
 - Triplet code: Each codon (โคดอน) consists of 3 nucleotides specifying one amino acid.
 - 64 codons total: 61 sense codons (code for amino acids) + 3 stop codons (UAA, UAG, UGA).
-- **Start codon:** AUG (methionine) — initiates translation.
-- The code is degenerate (หลายความหมาย) — multiple codons can code for the same amino acid (e.g., leucine has 6 codons).
+- **Start codon:** AUG (methionine), initiates translation.
+- The code is degenerate (หลายความหมาย): multiple codons can code for the same amino acid (e.g., leucine has 6 codons).
 - Nearly universal across all organisms.
 
 **Steps:**
@@ -133,13 +134,13 @@ Synthesis of a polypeptide from mRNA at the ribosome. Occurs in the cytoplasm.
    - The ribosome translocates (moves) one codon along the mRNA. The tRNA in the P site moves to the E site and exits; the tRNA in the A site moves to the P site.
 3. **Termination:** A stop codon (UAA, UAG, or UGA) enters the A site. No tRNA recognizes stop codons. Release factor (แฟกเตอร์ปล่อย) binds, causing the polypeptide to be released. The ribosome disassembles.
 
-**Polyribosomes (พอลิไรโบโซม):** Multiple ribosomes translating the same mRNA simultaneously — allows rapid production of many copies of the same protein.
+**Polyribosomes (พอลิไรโบโซม):** Multiple ribosomes translating the same mRNA simultaneously, allows rapid production of many copies of the same protein.
 
 ### 3.6 Gene Expression Regulation
 
 Gene expression (การแสดงออกของยีน) is regulated at multiple levels:
 
-**Prokaryotic regulation — Operon model:**
+**Prokaryotic regulation: Operon model:**
 - The **lac operon** in *E. coli*: A cluster of genes (Z, Y, A) controlled by a single promoter and operator.
 - **Without lactose:** Repressor protein binds operator -> blocks transcription (negative regulation).
 - **With lactose:** Allolactose binds repressor -> repressor releases operator -> transcription proceeds.
@@ -181,7 +182,7 @@ Gene expression (การแสดงออกของยีน) is regulated 
 
 ## 5 | Cross-Links
 
-- [[03_Biomolecules]] — nucleic acid structure
-- [[05_Cell_Division]] — DNA replication before mitosis
-- [[07_Genetics]] — gene expression and inheritance
-- [[../../Advance/Chemistry/03_Chemical_Bonding|Chemistry: Chemical Bonding]] — hydrogen bonding in base pairs
+- [[03_Biomolecules]]: nucleic acid structure
+- [[05_Cell_Division]]: DNA replication before mitosis
+- [[07_Genetics]]: gene expression and inheritance
+- [[../../Advance/Chemistry/03_Chemical_Bonding|Chemistry: Chemical Bonding]]: hydrogen bonding in base pairs

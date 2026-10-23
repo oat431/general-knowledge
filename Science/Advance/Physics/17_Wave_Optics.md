@@ -11,9 +11,9 @@ created: 2026-07-30
 course_codes: ["ว302"]
 ---
 
-# Wave Optics — ทัศนพจน์คลื่น
+# Wave Optics: ทัศนพจน์คลื่น
 
-> *"Light is a wave that shows us the world, and interference is the signature of its wave nature."* — Thomas Young
+> *"Light is a wave that shows us the world, and interference is the signature of its wave nature."* (Thomas Young)
 
 Wave optics (physical optics) reveals the wave nature of light through phenomena that geometric (ray) optics cannot explain. Interference, diffraction, and polarization demonstrate that light behaves as a wave with amplitude and phase. Young's double-slit experiment provides the definitive evidence that light interferes with itself, producing bright and dark fringes. Diffraction patterns from single slits and gratings encode information about wavelength. Thin film interference creates the iridescent colors seen in soap bubbles and oil slicks.
 
@@ -27,7 +27,7 @@ In ว302, this is the capstone of the optics sequence. Students move from the r
 
 | Semester | Scope | Key Skills |
 |---|---|---|
-| **Semester 1** | (Electromagnetism foundations) | — |
+| **Semester 1** | (Electromagnetism foundations) | N/A |
 | **Semester 2** | Interference (double-slit), diffraction (single-slit, grating), polarization, thin films, resolution | Calculate fringe spacing; diffraction minima; grating equation; thin film conditions; Rayleigh criterion |
 
 ---
@@ -113,7 +113,7 @@ Two point sources are just resolvable when the center of one diffraction pattern
 
 $$\theta_{\min} = 1.22\frac{\lambda}{D}$$
 
-Where $D$ is the aperture diameter. This limits telescope and microscope resolution — larger apertures resolve finer details.
+Where $D$ is the aperture diameter. This limits telescope and microscope resolution: larger apertures resolve finer details.
 
 ---
 
@@ -153,7 +153,7 @@ $$\theta = 30°$$
 
 $$2nt = (m + \tfrac{1}{2})\lambda, \quad m = 0: \quad \lambda = 2nt = 2(1.38)(100) = 276 \text{ nm}$$
 
-This is UV — a real anti-reflective coating is designed for visible $\lambda$ by choosing appropriate $t$.
+This is UV: a real anti-reflective coating is designed for visible $\lambda$ by choosing appropriate $t$.
 
 ### Type 5: Rayleigh Criterion
 > A telescope has aperture $D = 0.1$ m. Find the minimum angular separation at $\lambda = 550$ nm.
@@ -166,7 +166,7 @@ $$\theta_{\min} = 1.22\frac{\lambda}{D} = 1.22\frac{550 \times 10^{-9}}{0.1} = 6
 
 ## 5 | Cross-Links
 
-- [[16_Light_and_Optics]] — Wave optics extends geometric (ray) optics
-- [[15_Electromagnetic_Waves]] — Interference and diffraction are EM wave phenomena
-- [[09_Sound]] — Sound also exhibits interference and diffraction
-- [[Fundamental/08_Waves]] — Superposition principle underlies all interference
+- [[16_Light_and_Optics]]: Wave optics extends geometric (ray) optics
+- [[15_Electromagnetic_Waves]]: Interference and diffraction are EM wave phenomena
+- [[09_Sound]]: Sound also exhibits interference and diffraction
+- [[Fundamental/08_Waves]]: Superposition principle underlies all interference

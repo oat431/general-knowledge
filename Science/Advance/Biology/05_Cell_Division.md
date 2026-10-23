@@ -11,9 +11,9 @@ created: 2026-07-30
 course_codes: ["ว321"]
 ---
 
-# Cell Division — การแบ่งเซลล์
+# Cell Division: การแบ่งเซลล์
 
-> *"Every cell is the offspring of a pre-existing cell."* — Rudolf Virchow
+> *"Every cell is the offspring of a pre-existing cell."* (Rudolf Virchow)
 
 Cell division (การแบ่งเซลล์) is the process by which a parent cell divides into two or more daughter cells. In eukaryotes, there are two main types: mitosis (ไมโทซิส) produces two genetically identical daughter cells for growth and repair, while meiosis (ไมโอซิส) produces four genetically unique haploid gametes for sexual reproduction. Both types are preceded by DNA replication during the S phase of the cell cycle (วัฏจักรเซลล์).
 
@@ -60,13 +60,14 @@ The cell cycle is tightly regulated by checkpoints and cyclin-dependent kinases.
 The cell cycle consists of interphase (ระยะอินเทอร์เฟส) and the mitotic phase (ระยะไมโทติก):
 
 **Interphase (90% of cycle):**
-- **G1 phase (ระยะ G1):** Cell growth; organelle duplication; protein synthesis. The cell performs its normal functions. Restriction point (จุดตรวจสอบ G1) — cell commits to division.
+- **G1 phase (ระยะ G1):** Cell growth; organelle duplication; protein synthesis. The cell performs its normal functions. Restriction point (จุดตรวจสอบ G1), cell commits to division.
 - **S phase (ระยะ S):** DNA replication; each chromosome is duplicated to form two sister chromatids joined at the centromere (เซนโทรเมียร์). Histone proteins are also synthesized.
 - **G2 phase (ระยะ G2):** Preparation for mitosis; organelle duplication continues; proteins for spindle formation are synthesized. G2/M checkpoint ensures DNA replication is complete and undamaged.
 
 **M Phase:** Mitosis + cytokinesis.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     CYCLE["Cell Cycle"] --> INTER["Interphase"]
     CYCLE --> M["M Phase"]
@@ -106,22 +107,22 @@ Produces two daughter cells genetically identical to the parent. Occurs in somat
 
 Produces four genetically unique haploid (แฮพลอยด์, n) cells from one diploid (ดิพลอยด์, 2n) parent cell. Essential for sexual reproduction and genetic diversity.
 
-**Meiosis I (Reductional Division — การแบ่งแบบลดจำนวน):**
+**Meiosis I (Reductional Division, การแบ่งแบบลดจำนวน):**
 
 - **Prophase I (โพรเฟส I):** The longest and most complex phase.
   - *Leptotene:* Chromosomes begin to condense.
   - *Zygotene:* Homologous chromosomes (โฮโมโลกัส) pair up in synapsis (ซินแนปซิส), forming bivalents (tetrad / เททระด).
-  - *Pachytene:* **Crossing over (ครอสซิงโอเวอร์)** occurs — homologous chromosomes exchange segments at chiasmata (ไคแอสมาตา). This creates new allele combinations on chromosomes.
+  - *Pachytene:* **Crossing over (ครอสซิงโอเวอร์)** occurs, homologous chromosomes exchange segments at chiasmata (ไคแอสมาตา). This creates new allele combinations on chromosomes.
   - *Diplotene:* Homologs begin to separate but remain connected at chiasmata.
   - *Diakinesis:* Maximum condensation; nuclear envelope breaks down.
 
-- **Metaphase I:** Homologous pairs (bivalents) align at the metaphase plate. The orientation of each pair is random — this is **independent assortment (การจัดเรียงตัวอิสระ)**, which generates $2^n$ possible combinations (where n = haploid number). For humans: $2^{23} = 8{,}388{,}608$ combinations.
+- **Metaphase I:** Homologous pairs (bivalents) align at the metaphase plate. The orientation of each pair is random; this is **independent assortment (การจัดเรียงตัวอิสระ)**, which generates $2^n$ possible combinations (where n = haploid number). For humans: $2^{23} = 8{,}388{,}608$ combinations.
 
-- **Anaphase I:** Homologous chromosomes separate (NOT sister chromatids). One homolog goes to each pole. This is the reductional step — chromosome number is halved.
+- **Anaphase I:** Homologous chromosomes separate (NOT sister chromatids). One homolog goes to each pole. This is the reductional step, chromosome number is halved.
 
 - **Telophase I and Cytokinesis:** Two haploid cells form, each with one set of chromosomes (still consisting of two sister chromatids).
 
-**Meiosis II (Equational Division — การแบ่งแบบเท่ากัน):**
+**Meiosis II (Equational Division, การแบ่งแบบเท่ากัน):**
 - Essentially identical to mitosis.
 - **Prophase II:** Chromosomes condense; spindle forms.
 - **Metaphase II:** Chromosomes align individually at the metaphase plate.
@@ -132,7 +133,7 @@ Produces four genetically unique haploid (แฮพลอยด์, n) cells fro
 
 1. **Crossing over (ครอสซิงโอเวอร์):** During prophase I, homologous chromosomes exchange segments, creating recombinant chromosomes.
 2. **Independent assortment (การจัดเรียงตัวอิสระ):** Random alignment of homologous pairs at metaphase I.
-3. **Random fertilization (การปฏิสนธิแบบสุ่ม):** Any sperm can fertilize any egg — $2^{23} \times 2^{23} = 70$ trillion possible combinations in humans.
+3. **Random fertilization (การปฏิสนธิแบบสุ่ม):** Any sperm can fertilize any egg, $2^{23} \times 2^{23} = 70$ trillion possible combinations in humans.
 
 ### 3.5 Mitosis vs Meiosis Comparison
 
@@ -149,10 +150,10 @@ Produces four genetically unique haploid (แฮพลอยด์, n) cells fro
 
 Cancer results from uncontrolled cell division due to mutations in genes that regulate the cell cycle:
 
-- **Proto-oncogenes (โพรโต-ออนโคยีน):** Normal genes that promote cell growth. When mutated, they become **oncogenes (ออนโคยีน)** — stuck in the "on" position, driving excessive proliferation. Analogous to a stuck accelerator.
+- **Proto-oncogenes (โพรโต-ออนโคยีน):** Normal genes that promote cell growth. When mutated, they become **oncogenes (ออนโคยีน)**, stuck in the "on" position, driving excessive proliferation. Analogous to a stuck accelerator.
 - **Tumor suppressor genes (ยีนยับยั้งเนื้องอก):** Genes that inhibit cell division or promote apoptosis. When mutated, cells divide without restraint. Examples: **p53** (guardian of the genome), **Rb** (retinoblastoma protein). Analogous to broken brakes.
 
-Multiple mutations (typically 5-10) are required for a normal cell to become cancerous — this is why cancer incidence increases with age.
+Multiple mutations (typically 5-10) are required for a normal cell to become cancerous; this is why cancer incidence increases with age.
 
 ---
 
@@ -162,7 +163,7 @@ Multiple mutations (typically 5-10) are required for a normal cell to become can
 > A human cell has 46 chromosomes. After meiosis I, how many chromosomes does each daughter cell have? After meiosis II?
 
 **Solution:**
-- After meiosis I: Each daughter cell has **23 chromosomes** (each consisting of 2 sister chromatids). This is the reductional division — homologous pairs separate.
+- After meiosis I: Each daughter cell has **23 chromosomes** (each consisting of 2 sister chromatids). This is the reductional division, homologous pairs separate.
 - After meiosis II: Each of the 4 cells has **23 chromosomes** (each consisting of 1 chromatid). Sister chromatids separated.
 
 ### Type 2: Genetic Variation Calculation
@@ -181,7 +182,7 @@ These are: all paternal, all maternal, and all mixed combinations of the 3 pairs
 
 ## 5 | Cross-Links
 
-- [[01_Cell_Biology]] — organelles involved in division
-- [[06_Molecular_Biology]] — DNA replication before mitosis
-- [[07_Genetics]] — meiosis and inheritance patterns
-- [[04_Cell_Energy]] — ATP for cell division processes
+- [[01_Cell_Biology]]: organelles involved in division
+- [[06_Molecular_Biology]]: DNA replication before mitosis
+- [[07_Genetics]]: meiosis and inheritance patterns
+- [[04_Cell_Energy]]: ATP for cell division processes

@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว311"]
 ---
 
-# Stoichiometry — สมดุลเคมี
+# Stoichiometry: สมดุลเคมี
 
-> *"Stoichiometry is the art of counting atoms and molecules — of relating the masses and amounts of substances in chemical reactions."* — Anonymous
+> *"Stoichiometry is the art of counting atoms and molecules: of relating the masses and amounts of substances in chemical reactions."* (Anonymous)
 
 Stoichiometry (สมดุลเคมี) is the study of the quantitative relationships between reactants (สารตั้งต้น) and products (ผลิตภัณฑ์) in a chemical reaction. It relies on an understanding of the mole, molar mass, balanced chemical equations, and mole ratios to predict the amounts of substances involved.
 
@@ -76,6 +76,7 @@ $$M_{\ce{Al2(SO4)3}} = 2(26.98) + 3(32.07 + 4 \times 16.00) = 342.17 \,\text{g/m
 ### 3.3 Balancing Chemical Equations
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["Balanced Equation"] --> B["Mole Ratios"]
     B --> C["Identify Limiting Reagent"]
@@ -236,7 +237,7 @@ $$\ce{4Fe + 3O2 -> 2Fe2O3}$$
 
 ## 5 | Cross-Links
 
-- [[01_Atomic_Structure]] — Atomic mass is the basis of molar mass
-- [[06_Solutions]] — Molarity is used in solution stoichiometry
-- [[07_Gases]] — Gas laws combine with stoichiometry
-- [[../../Fundamental/10_Atoms_Elements_and_Compounds]] — Foundation of chemical equations
+- [[01_Atomic_Structure]]: Atomic mass is the basis of molar mass
+- [[06_Solutions]]: Molarity is used in solution stoichiometry
+- [[07_Gases]]: Gas laws combine with stoichiometry
+- [[../../Fundamental/10_Atoms_Elements_and_Compounds]]: Foundation of chemical equations

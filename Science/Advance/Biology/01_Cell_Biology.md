@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว321"]
 ---
 
-# Cell Biology — ชีววิทยาของเซลล์
+# Cell Biology: ชีววิทยาของเซลล์
 
-> *"The cell is the basic unit of life."* — Theodor Schwann & Matthias Schleiden
+> *"The cell is the basic unit of life."* (Theodor Schwann & Matthias Schleiden)
 
 Cell biology (ชีววิทยาเซลล์) explores the fundamental unit of all living organisms. All organisms are composed of one or more cells (เซลล์), which arise from pre-existing cells and contain hereditary information passed during cell division. The cell theory (ทฤษฎีเซลล์) established by Schleiden, Schwann, and Virchow forms the foundation of modern biology.
 
@@ -73,6 +73,7 @@ Three fundamental principles:
 | Examples | Bacteria, Archaea | Animals, plants, fungi, protists |
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     CELL["Cell Types"] --> PRO["Prokaryote"]
     CELL --> EUK["Eukaryote"]
@@ -90,7 +91,7 @@ flowchart TD
 
 ### 3.3 Major Organelles and Their Functions
 
-**Nucleus (นิวเคลียส):** The largest organelle, bounded by a double membrane called the nuclear envelope (เยื่อหุ้มนิวเคลียส). Contains chromatin (โครมาติน) — DNA complexed with histone proteins. The nucleolus (นิวคลีโอลัส) within the nucleus is the site of ribosomal RNA synthesis. Nuclear pores regulate transport of molecules between nucleus and cytoplasm.
+**Nucleus (นิวเคลียส):** The largest organelle, bounded by a double membrane called the nuclear envelope (เยื่อหุ้มนิวเคลียส). Contains chromatin (โครมาติน), DNA complexed with histone proteins. The nucleolus (นิวคลีโอลัส) within the nucleus is the site of ribosomal RNA synthesis. Nuclear pores regulate transport of molecules between nucleus and cytoplasm.
 
 **Mitochondria (ไมโทคอนเดรีย):** Double-membrane organelles responsible for aerobic cellular respiration (การหายใจระดับเซลล์). The inner membrane is highly folded into cristae (คริสเท), increasing surface area for the electron transport chain. Has its own DNA and ribosomes, supporting the endosymbiotic theory (ทฤษฎีเอนโดซิมไบโอติก).
 
@@ -125,7 +126,7 @@ Proposed by Lynn Margulis, this theory explains that mitochondria and chloroplas
 ### Type 1: Identifying Cell Types
 > A cell under a microscope has a nucleus, mitochondria, and a cell wall but no chloroplasts. Is it a plant or animal cell? What type could it be?
 
-**Solution:** The presence of a cell wall (ผนังเซลล์) rules out animal cells. Without chloroplasts (คลอโรพลาสต์), it cannot be a photosynthetic plant cell. This is likely a **fungal cell** (เซลล์เชื้อรา) — which has a cell wall (chitin), nucleus, mitochondria, but no chloroplasts.
+**Solution:** The presence of a cell wall (ผนังเซลล์) rules out animal cells. Without chloroplasts (คลอโรพลาสต์), it cannot be a photosynthetic plant cell. This is likely a **fungal cell** (เซลล์เชื้อรา), which has a cell wall (chitin), nucleus, mitochondria, but no chloroplasts.
 
 ### Type 2: Organelle Function Matching
 > Which organelle would be most abundant in a cell that secretes large amounts of protein (e.g., pancreatic cell)?
@@ -136,7 +137,7 @@ Proposed by Lynn Margulis, this theory explains that mitochondria and chloroplas
 
 ## 5 | Cross-Links
 
-- [[../../Fundamental/03_Cells]] — foundation from ม.1-3
-- [[02_Cell_Membrane_and_Transport]] — next topic
-- [[05_Cell_Division]] — how cells reproduce
-- [[../../Advance/Chemistry/03_Chemical_Bonding|Chemistry: Chemical Bonding]] — molecular structure of organelle components
+- [[../../Fundamental/03_Cells]]: foundation from ม.1-3
+- [[02_Cell_Membrane_and_Transport]]: next topic
+- [[05_Cell_Division]]: how cells reproduce
+- [[../../Advance/Chemistry/03_Chemical_Bonding|Chemistry: Chemical Bonding]]: molecular structure of organelle components

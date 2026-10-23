@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว333"]
 ---
 
-# Digital Citizenship — พลเมืองดิจิทัล
+# Digital Citizenship: พลเมืองดิจิทัล
 
-> *"With great power comes great responsibility."* — Voltaire (often attributed to Spider-Man)
+> *"With great power comes great responsibility."* (Voltaire (often attributed to Spider-Man))
 
-A **digital citizen** (พลเมืองดิจิทัล) is anyone who uses technology — the internet, smartphones, social media — to learn, work, communicate, and play. Being a *good* digital citizen means using technology **safely, responsibly, ethically, and respectfully**. Technology amplifies both opportunity and harm; the same tool that connects a student to world-class education can expose them to scams, bullying, and misinformation.
+A **digital citizen** (พลเมืองดิจิทัล) is anyone who uses technology: the internet, smartphones, social media, to learn, work, communicate, and play. Being a *good* digital citizen means using technology **safely, responsibly, ethically, and respectfully**. Technology amplifies both opportunity and harm; the same tool that connects a student to world-class education can expose them to scams, bullying, and misinformation.
 
 This note covers digital literacy (ความรู้ดิจิทัล), online safety and privacy (ความปลอดภัยและความเป็นส่วนตัว), the digital footprint (รอยเท้าดิจิทัล), intellectual property and copyright, cyberbullying, misinformation and fact-checking, ethical technology use, screen time and digital wellness, and responsible social media behavior.
 
@@ -56,10 +56,10 @@ This note covers digital literacy (ความรู้ดิจิทัล), 
 
 **Digital literacy** (ความรู้ดิจิทัล) is the ability to find, evaluate, create, and communicate information using digital technologies. It spans:
 
-- **Technical skills** — using devices, apps, search engines.
-- **Information literacy** — judging whether a source is credible.
-- **Media literacy** — understanding how media is created and how it persuades.
-- **Creation literacy** — producing content (documents, code, media) responsibly.
+- **Technical skills:** using devices, apps, search engines.
+- **Information literacy:** judging whether a source is credible.
+- **Media literacy:** understanding how media is created and how it persuades.
+- **Creation literacy:** producing content (documents, code, media) responsibly.
 
 A digitally literate person asks: *Who made this? Why? Is it accurate? What is the evidence?*
 
@@ -75,35 +75,35 @@ A digitally literate person asks: *Who made this? Why? Is it accurate? What is t
 
 **Strong password checklist:** ≥ 12 characters, mix of upper/lower/numbers/symbols, unique per site, never reused, stored in a password manager.
 
-**Two-Factor Authentication (2FA):** requires a second proof (SMS code, authenticator app, biometric) beyond the password — so a stolen password alone is not enough.
+**Two-Factor Authentication (2FA):** requires a second proof (SMS code, authenticator app, biometric) beyond the password; so a stolen password alone is not enough.
 
 ### 3.3 The Digital Footprint (รอยเท้าดิจิทัล)
 
-Your **digital footprint** (รอยเท้าดิจิทัล) is the trail of data you leave behind online — every post, like, photo, search, and purchase. It has two parts:
+Your **digital footprint** (รอยเท้าดิจิทัล) is the trail of data you leave behind online: every post, like, photo, search, and purchase. It has two parts:
 
-- **Active footprint** — data you deliberately share (posts, comments, profile info).
-- **Passive footprint** — data collected without explicit action (cookies, location tracking, browsing logs).
+- **Active footprint:** data you deliberately share (posts, comments, profile info).
+- **Passive footprint:** data collected without explicit action (cookies, location tracking, browsing logs).
 
 **Why it matters:** employers, universities, and attackers can find this data. The rule of thumb: *post nothing you wouldn't want on a billboard with your name on it.* Regularly review and delete old posts, and audit privacy settings.
 
 ### 3.4 Intellectual Property and Copyright (ทรัพย์สินทางปัญญาและลิขสิทธิ์)
 
-- **Copyright** (ลิขสิทธิ์) — the creator's exclusive legal right to copy, distribute, and adapt their work (text, images, music, code). Using it without permission may infringe.
-- **Creative Commons (CC)** — a family of licenses letting creators grant some rights in advance (e.g. `CC BY` = use with attribution; `CC BY-NC` = non-commercial).
-- **Public domain** — copyright has expired or been waived; free to use.
-- **Plagiarism** (การลอกเลียน) — presenting someone else's work as your own — unethical even when not illegal.
-- **Fair use / Fair dealing** — limited use for education, criticism, news (rules vary by country).
+- **Copyright** (ลิขสิทธิ์): the creator's exclusive legal right to copy, distribute, and adapt their work (text, images, music, code). Using it without permission may infringe.
+- **Creative Commons (CC):** a family of licenses letting creators grant some rights in advance (e.g. `CC BY` = use with attribution; `CC BY-NC` = non-commercial).
+- **Public domain:** copyright has expired or been waived; free to use.
+- **Plagiarism** (การลอกเลียน): presenting someone else's work as your own, unethical even when not illegal.
+- **Fair use / Fair dealing:** limited use for education, criticism, news (rules vary by country).
 
 **Best practice:** always **attribute** (ให้เครดิต) the source, prefer CC-licensed or public-domain media, and cite academic sources.
 
 ### 3.5 Cyberbullying (การบูลลี่ทางไซเบอร์)
 
-**Cyberbullying** (การรังแกทางไซเบอร์) is repeated harassment, threats, or humiliation using digital tools — messaging, social media, gaming chats. Forms include:
+**Cyberbullying** (การรังแกทางไซเบอร์) is repeated harassment, threats, or humiliation using digital tools: messaging, social media, gaming chats. Forms include:
 
 - Flaming (insults), exclusion, spreading rumors, impersonation, doxxing (revealing private info), and sharing non-consensual images.
 
 **If you are targeted:**
-1. Don't retaliate — keep evidence (screenshots).
+1. Don't retaliate: keep evidence (screenshots).
 2. Block and report the user on the platform.
 3. Tell a trusted adult (parent, teacher, counselor).
 4. In serious cases, report to police (Thailand: hotline 1191, TICAC).
@@ -112,16 +112,16 @@ Your **digital footprint** (รอยเท้าดิจิทัล) is the t
 
 ### 3.6 Misinformation and Fact-Checking (ข่าวปลอมและการตรวจสอบข้อเท็จจริง)
 
-**Misinformation** (ข้อมูลเท็จ) is false or misleading information — whether shared by mistake or deliberately (**disinformation**, การใส่ร้าย). AI-generated deepfakes and cheapfakes make fabrication easier than ever.
+**Misinformation** (ข้อมูลเท็จ) is false or misleading information: whether shared by mistake or deliberately (**disinformation**, การใส่ร้าย). AI-generated deepfakes and cheapfakes make fabrication easier than ever.
 
 **Fact-checking workflow (SIFT method):**
 
 | Step | Action |
 |---|---|
-| **S** — Stop | Pause before sharing; check your emotions |
-| **I** — Investigate the source | Who published it? Are they credible? |
-| **F** — Find better coverage | Cross-check with trusted outlets |
-| **T** — Trace claims to original context | Find the primary source |
+| **S:** Stop | Pause before sharing; check your emotions |
+| **I:** Investigate the source | Who published it? Are they credible? |
+| **F:** Find better coverage | Cross-check with trusted outlets |
+| **T:** Trace claims to original context | Find the primary source |
 
 **Trusted Thai fact-checkers:** Sure and Share Center, Anti-Fake News Center (Thailand). **Reverse image search** (Google Images, TinEye) detects reused/edited photos.
 
@@ -129,11 +129,11 @@ Your **digital footprint** (รอยเท้าดิจิทัล) is the t
 
 Ethical digital behavior includes:
 
-- **Respect others** — no harassment, hate speech, or doxxing.
-- **Honesty** — don't impersonate, fabricate, or cheat (e.g., AI-generated homework without disclosure).
-- **Respect privacy** — don't share others' data or photos without consent.
-- **Responsible AI use** — disclose AI assistance, verify AI outputs, avoid generating harmful content.
-- **Environmental awareness** — e-waste and energy use matter.
+- **Respect others:** no harassment, hate speech, or doxxing.
+- **Honesty:** don't impersonate, fabricate, or cheat (e.g., AI-generated homework without disclosure).
+- **Respect privacy:** don't share others' data or photos without consent.
+- **Responsible AI use:** disclose AI assistance, verify AI outputs, avoid generating harmful content.
+- **Environmental awareness:** e-waste and energy use matter.
 
 ### 3.8 Screen Time and Digital Wellness (เวลาหน้าจอและสุขภาพดิจิทัล)
 
@@ -143,14 +143,14 @@ Excessive screen time (เวลาหน้าจอ) is linked to eye strain, 
 - Use **20-20-20 rule**: every 20 min, look 20 ft away for 20 seconds.
 - Keep devices out of the bedroom for better sleep.
 - Turn off non-essential notifications to reduce distraction.
-- Schedule offline activities — exercise, face-to-face social time, hobbies.
+- Schedule offline activities: exercise, face-to-face social time, hobbies.
 
 ### 3.9 Responsible Social Media Use
 
-- **Think before posting** — the T.H.I.N.K. test: is it **T**rue, **H**elpful, **I**nspiring, **N**ecessary, **K**ind?
-- **Protect privacy** — review who can see your posts; avoid sharing location in real time.
-- **Curate your feed** — unfollow accounts that harm your mental health.
-- **Be a positive presence** — support others, credit creators, flag harmful content.
+- **Think before posting:** the T.H.I.N.K. test: is it **T**rue, **H**elpful, **I**nspiring, **N**ecessary, **K**ind?
+- **Protect privacy:** review who can see your posts; avoid sharing location in real time.
+- **Curate your feed:** unfollow accounts that harm your mental health.
+- **Be a positive presence:** support others, credit creators, flag harmful content.
 
 ---
 
@@ -162,7 +162,7 @@ Excessive screen time (เวลาหน้าจอ) is linked to eye strain, 
 
 **Solution (red flags):**
 ```
-- Urgency / threat ("deleted in 24 hours") — pressures you to act fast
+- Urgency / threat ("deleted in 24 hours"): pressures you to act fast
 - Suspicious domain: "faceb00k-verify.tk" (zeros for o's, unusual .tk TLD)
 - Generic greeting, spelling/grammar errors
 - Asks you to click a link instead of going to the official site directly
@@ -175,10 +175,10 @@ Action: Do NOT click. Report as phishing. Delete the email.
 
 **Solution:**
 ```
-S — Stop: don't forward yet; strong emotion is a warning sign.
-I — Investigate: search the publisher — is it a known, credible outlet?
-F — Find coverage: do BBC, Reuters, or Thai PBS report the same story?
-T — Trace: find the original study/press release the claim is based on.
+S: Stop: don't forward yet; strong emotion is a warning sign.
+I: Investigate: search the publisher, is it a known, credible outlet?
+F: Find coverage: do BBC, Reuters, or Thai PBS report the same story?
+T: Trace: find the original study/press release the claim is based on.
 Decision: Share only if verified; otherwise, warn the group it may be false.
 ```
 
@@ -209,7 +209,7 @@ print(password_score("P@ssw0rd!2024"))   # (6, 'Strong')
 
 ## 5 | Cross-Links
 
-- [[09_Computer_Systems_and_Networks]] — network/security concepts underpin online safety
-- [[11_Artificial_Intelligence]] — AI ethics, deepfakes, misinformation
-- [[01_Computational_Thinking]] — ethical computing from the start
-- [[../../Foundation/Society/03_Ethics|Social Science: Ethics]] — broader ethical reasoning
+- [[09_Computer_Systems_and_Networks]]: network/security concepts underpin online safety
+- [[11_Artificial_Intelligence]]: AI ethics, deepfakes, misinformation
+- [[01_Computational_Thinking]]: ethical computing from the start
+- [[../../Foundation/Society/03_Ethics|Social Science: Ethics]]: broader ethical reasoning

@@ -4,7 +4,7 @@ tags:
   - cheatsheet
   - roadmap
 level: "Meta: the map of all layers"
-sources: ["[[00_Index]]"]
+sources: ["[[Science/Cheat_Sheet/00_Index|00_Index]]"]
 created: 2026-10-07
 ---
 
@@ -19,8 +19,9 @@ This roadmap shows the whole journey as **one dependency map**: each node is a t
 ## The Full Map
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
-    subgraph L1["Layer 1: Physics — the laws everything obeys"]
+    subgraph L1["Layer 1: Physics, the laws everything obeys"]
         P1["Measurement and<br/>Scientific Method"] --> P2["Kinematics<br/>Motion"]
         P2 --> P3["Dynamics<br/>Newton's Laws"]
         P3 --> P4["Work, Energy<br/>and Power"]
@@ -34,7 +35,7 @@ flowchart TD
         P10 --> P11["Nuclear Physics"]
     end
 
-    subgraph L2["Layer 2: Chemistry — the rules of matter"]
+    subgraph L2["Layer 2: Chemistry, the rules of matter"]
         C1["Atomic Structure<br/>built on quantum rules"] --> C2["Periodic Table<br/>and Trends"]
         C2 --> C3["Chemical Bonding"]
         C3 --> C4["Intermolecular<br/>Forces"]
@@ -47,7 +48,7 @@ flowchart TD
         C1 --> C10["Nuclear Chemistry"]
     end
 
-    subgraph L3["Layer 3: Biology — the rules of the living"]
+    subgraph L3["Layer 3: Biology, the rules of the living"]
         B1["Cell Biology<br/>chemistry in a bag"] --> B2["Biomolecules"]
         B2 --> B3["Cell Energy<br/>ATP, photosynthesis, respiration"]
         B2 --> B4["Molecular Biology<br/>DNA and Central Dogma"]
@@ -58,7 +59,7 @@ flowchart TD
         B7 --> B9["Ecology<br/>energy flow and cycles"]
     end
 
-    subgraph L4["Layer 4: Earth Science — the rules of our planet"]
+    subgraph L4["Layer 4: Earth Science, the rules of our planet"]
         E1["Minerals and Rocks"] --> E2["Plate Tectonics"]
         E2 --> E3["Earthquakes<br/>and Volcanoes"]
         E1 --> E4["Weathering<br/>and Erosion"]
@@ -68,7 +69,7 @@ flowchart TD
         E9["Solar System<br/>and Astronomy"]
     end
 
-    subgraph L5["Layer 5: Computer Science — the rules we invented"]
+    subgraph L5["Layer 5: Computer Science, the rules we invented"]
         S1["Computational<br/>Thinking"] --> S2["Data Representation<br/>binary and information"]
         S1 --> S3["Boolean Logic<br/>and Gates"]
         S3 --> S4["Programming<br/>Fundamentals"]
@@ -124,7 +125,7 @@ flowchart TD
 
 ## Three Rules That Cross Every Layer
 
-The deepest patterns repeat at every scale — these are the "meta-rules" of the world:
+The deepest patterns repeat at every scale: these are the "meta-rules" of the world:
 
 ### Conservation (การอนุรักษ์)
 - **Physics:** energy, momentum, charge are conserved
@@ -163,4 +164,4 @@ The deepest patterns repeat at every scale — these are the "meta-rules" of the
 
 ## Chain Navigation
 
-⬅ [[05_Computer_Science_Logic_and_Information]] · 🏠 [[00_Index]] · ➡ *(end of chain)*
+⬅ [[05_Computer_Science_Logic_and_Information]] · 🏠 [[Science/Cheat_Sheet/00_Index|00_Index]] · ➡ *(end of chain)*

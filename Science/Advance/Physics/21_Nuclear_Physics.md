@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว303"]
 ---
 
-# Nuclear Physics — ฟิสิกส์นิวเคลียร์
+# Nuclear Physics: ฟิสิกส์นิวเคลียร์
 
-> *"The release of atomic energy has created a problem more grave than any ever faced by the human race."* — J. Robert Oppenheimer
+> *"The release of atomic energy has created a problem more grave than any ever faced by the human race."* (J. Robert Oppenheimer)
 
-Nuclear physics studies the nucleus — the dense core of the atom containing protons and neutrons. Despite occupying a tiny fraction of the atom's volume, the nucleus holds over 99.9% of its mass. The strong nuclear force binds nucleons together, while the electromagnetic force pushes protons apart. This interplay governs nuclear stability, radioactivity, fission, and fusion. The discovery of nuclear energy transformed both science and society, providing enormous power for both generation and destruction.
+Nuclear physics studies the nucleus: the dense core of the atom containing protons and neutrons. Despite occupying a tiny fraction of the atom's volume, the nucleus holds over 99.9% of its mass. The strong nuclear force binds nucleons together, while the electromagnetic force pushes protons apart. This interplay governs nuclear stability, radioactivity, fission, and fusion. The discovery of nuclear energy transformed both science and society, providing enormous power for both generation and destruction.
 
 In the ว303 curriculum, students study nuclear structure, binding energy, the three types of radioactive decay, the radioactive decay law and half-life, nuclear fission and fusion, and the basic principles of nuclear energy production.
 
@@ -66,13 +66,13 @@ A nucleus is described by its **atomic number** $Z$ (protons) and **mass number*
 
 $$\underset{Z}{^{A}}X$$
 
-**Isotopes (ไอโซโทป)** are atoms with the same $Z$ but different $N$ — same element, different mass. For example: $^{1}$H, $^{2}$H (deuterium), $^{3}$H (tritium) are all hydrogen isotopes.
+**Isotopes (ไอโซโทป)** are atoms with the same $Z$ but different $N$: same element, different mass. For example: $^{1}$H, $^{2}$H (deuterium), $^{3}$H (tritium) are all hydrogen isotopes.
 
 Nuclear radius scales as:
 
 $$R = R_0 A^{1/3}, \quad R_0 \approx 1.2 \ \text{fm}$$
 
-Nuclear density is roughly constant at $\sim 2.3 \times 10^{17}$ kg/m³ — extraordinarily dense.
+Nuclear density is roughly constant at $\sim 2.3 \times 10^{17}$ kg/m³: extraordinarily dense.
 
 ### 3.2 Mass Defect and Binding Energy
 
@@ -140,7 +140,7 @@ In **nuclear fusion** (การหลอมนิวเคลียร์), lig
 
 $$4 \, ^1\text{H} \to ^4\text{He} + 2e^+ + 2\nu + \text{energy} \ (\sim 26.7 \ \text{MeV})$$
 
-Fusion releases more energy per unit mass than fission and produces no long-lived radioactive waste, but requires extremely high temperatures ($\sim 10^8$ K) to overcome Coulomb repulsion — which is why controlled fusion for power generation remains technologically challenging.
+Fusion releases more energy per unit mass than fission and produces no long-lived radioactive waste, but requires extremely high temperatures ($\sim 10^8$ K) to overcome Coulomb repulsion: which is why controlled fusion for power generation remains technologically challenging.
 
 ---
 
@@ -205,7 +205,7 @@ Mass consumed: $\frac{2.7 \times 10^{24}}{6.022 \times 10^{23}} \times 235 \appr
 
 ## 5 | Cross-Links
 
-- [[18_Special_Relativity]] — Mass-energy equivalence $E = mc^2$ is the basis of binding energy
-- [[20_Atomic_Physics]] — Nuclear structure determines the atom's identity; radioactive decay changes elements
-- [[19_Quantum_Physics]] — Quantum tunneling explains alpha decay and fusion barrier penetration
-- [[23_Astrophysics_and_Cosmology]] — Nuclear fusion powers stars; nucleosynthesis creates elements
+- [[18_Special_Relativity]]: Mass-energy equivalence $E = mc^2$ is the basis of binding energy
+- [[20_Atomic_Physics]]: Nuclear structure determines the atom's identity; radioactive decay changes elements
+- [[19_Quantum_Physics]]: Quantum tunneling explains alpha decay and fusion barrier penetration
+- [[23_Astrophysics_and_Cosmology]]: Nuclear fusion powers stars; nucleosynthesis creates elements

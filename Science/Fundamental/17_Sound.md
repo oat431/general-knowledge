@@ -10,9 +10,9 @@ created: 2026-07-26
 course_codes: ["ว111", "ว112", "ว113", "ว211", "ว212", "ว213"]
 ---
 
-# Sound — เสียง
+# Sound: เสียง
 
-> *"Music is the arithmetic of sounds as optics is the geometry of light."* — Claude Debussy
+> *"Music is the arithmetic of sounds as optics is the geometry of light."* (Claude Debussy)
 
 This note covers the production, properties, and behavior of sound waves. Students progress from identifying sounds to understanding frequency, pitch, and sound measurement.
 
@@ -73,6 +73,7 @@ This note covers the production, properties, and behavior of sound waves. Studen
 ### 3.1 How Sound is Produced
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph LR
     A[วัตถุสั่น / Object vibrates] --> B[โมเลกุลอากาศสั่น / Air molecules vibrate]
     B --> C[คลื่นเสียง / Sound wave]
@@ -84,7 +85,7 @@ graph LR
 
 ### 3.2 Sound Cannot Travel in a Vacuum
 
-Demonstration: Bell jar experiment — as air is removed, sound becomes fainter.
+Demonstration: Bell jar experiment, as air is removed, sound becomes fainter.
 
 ---
 
@@ -213,17 +214,17 @@ Where $T$ = temperature in °C
 
 ## 10 | Real-World Examples
 
-1. **Thai classical music** — Different instruments produce different timbres
-2. **Sonar** — Using sound waves to detect objects underwater
-3. **Ultrasound** — Medical imaging
-4. **Thunder** — Light travels faster than sound
-5. **Stethoscope** — Doctor listening to body sounds
+1. **Thai classical music:** Different instruments produce different timbres
+2. **Sonar:** Using sound waves to detect objects underwater
+3. **Ultrasound:** Medical imaging
+4. **Thunder:** Light travels faster than sound
+5. **Stethoscope:** Doctor listening to body sounds
 
 ---
 
 ## 11 | Cross-Links
 
-- [[16_Light]] — Comparing light and sound waves
-- [[14_Energy]] — Sound energy
-- [[04_Human_Body_Systems]] — Human ear and hearing
-- [[22_Technology_and_Engineering]] — Sound technology applications
+- [[16_Light]]: Comparing light and sound waves
+- [[14_Energy]]: Sound energy
+- [[04_Human_Body_Systems]]: Human ear and hearing
+- [[22_Technology_and_Engineering]]: Sound technology applications

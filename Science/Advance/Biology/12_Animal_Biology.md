@@ -9,7 +9,7 @@ created: 2026-07-30
 course_codes: ["ว322"]
 ---
 
-# Animal Biology — ชีววิทยาของสัตว์
+# Animal Biology: ชีววิทยาของสัตว์
 
 > *"The study of animals is the study of ourselves, for we are animals too."*
 
@@ -42,10 +42,10 @@ The study begins with animal tissues (เนื้อเยื่อสัตว
 | สัตว์ไม่มีกระดูกสันหลัง | Invertebrate | ~97% of animal species |
 | สัตว์มีกระดูกสันหลัง | Vertebrate | Chordates with backbone |
 | ฟองน้ำ | Porifera (sponges) | Simplest animals, filter feeders |
-| ไนดาเรีย | Cnidaria | Jellyfish, corals — radial symmetry |
-| สัตว์ขาปล้อง | Arthropoda | Insects, crustaceans — jointed legs |
+| ไนดาเรีย | Cnidaria | Jellyfish, corals: radial symmetry |
+| สัตว์ขาปล้อง | Arthropoda | Insects, crustaceans: jointed legs |
 | หอยและหมึก | Mollusca | Snails, clams, octopuses |
-| เอคิโนเดอร์มาตา | Echinodermata | Starfish — water vascular system |
+| เอคิโนเดอร์มาตา | Echinodermata | Starfish: water vascular system |
 | สมมาตรด้านข้าง | Bilateral symmetry | Left-right mirror plane |
 | สมมาตรแบบรัศมี | Radial symmetry | Symmetry around central axis |
 
@@ -65,19 +65,19 @@ The study begins with animal tissues (เนื้อเยื่อสัตว
 
 ### 3.2 Invertebrate Diversity
 
-**Phylum Porifera** (ฟองน้ำ) — simplest multicellular animals; no true tissues, sessile filter feeders with choanocytes (เซลล์พัด). **Phylum Cnidaria** (ไนดาเรีย) — radial symmetry, two body forms (polyp and medusa), cnidocytes (เซลล์เข็ม) with nematocysts. Includes jellyfish (แมงกะพรุน), corals (ปะการัง), and sea anemones (ดอกไม้ทะเล).
+**Phylum Porifera** (ฟองน้ำ): simplest multicellular animals; no true tissues, sessile filter feeders with choanocytes (เซลล์พัด). **Phylum Cnidaria** (ไนดาเรีย), radial symmetry, two body forms (polyp and medusa), cnidocytes (เซลล์เข็ม) with nematocysts. Includes jellyfish (แมงกะพรุน), corals (ปะการัง), and sea anemones (ดอกไม้ทะเล).
 
-**Phylum Platyhelminthes** (หนอนตัวแบน) — flatworms, first bilateral symmetry, acoelomate. Includes planaria (ปลานาเรีย, regeneration) and tapeworms (พยาธิตัวตืด). **Phylum Nematoda** (หนอนตัวกลม) — roundworms, pseudocoelomate. Includes *Ascaris*.
+**Phylum Platyhelminthes** (หนอนตัวแบน): flatworms, first bilateral symmetry, acoelomate. Includes planaria (ปลานาเรีย, regeneration) and tapeworms (พยาธิตัวตืด). **Phylum Nematoda** (หนอนตัวกลม), roundworms, pseudocoelomate. Includes *Ascaris*.
 
-**Phylum Annelida** (หนอนปล้อง) — segmented worms, true coelom. Includes earthworms (ไส้เดือน) and leeches (ปลิง). **Phylum Mollusca** (มอลลัสกา) — soft-bodied, most have shells. Classes: Gastropoda (หอยทาก), Bivalvia (หอยสองฝา), Cephalopoda (หมึก). **Phylum Arthropoda** (สัตว์ขาปล้อง) — largest phylum, jointed legs, exoskeleton (เปลือกนอกแข็ง), segmented. Classes: Insecta (แมลง, 6 legs), Arachnida (แมง, 8 legs), Crustacea (กุ้งปู, mostly aquatic), Myriapoda (กิ้งกือ/ตะขาบ). **Phylum Echinodermata** (เอคิโนเดอร์มาตา) — radial symmetry (adults), water vascular system, tube feet. Includes starfish (ดาวทะเล) and sea urchins (เม่นทะเล).
+**Phylum Annelida** (หนอนปล้อง): segmented worms, true coelom. Includes earthworms (ไส้เดือน) and leeches (ปลิง). **Phylum Mollusca** (มอลลัสกา), soft-bodied, most have shells. Classes: Gastropoda (หอยทาก), Bivalvia (หอยสองฝา), Cephalopoda (หมึก). **Phylum Arthropoda** (สัตว์ขาปล้อง), largest phylum, jointed legs, exoskeleton (เปลือกนอกแข็ง), segmented. Classes: Insecta (แมลง, 6 legs), Arachnida (แมง, 8 legs), Crustacea (กุ้งปู, mostly aquatic), Myriapoda (กิ้งกือ/ตะขาบ). **Phylum Echinodermata** (เอคิโนเดอร์มาตา), radial symmetry (adults), water vascular system, tube feet. Includes starfish (ดาวทะเล) and sea urchins (เม่นทะเล).
 
 ### 3.3 Vertebrate Diversity
 
-**Class Chondrichthyes** (ปลากระดูกอ่อน) — sharks, rays; cartilaginous skeleton, placoid scales, internal fertilization. **Class Osteichthyes** (ปลากระดูกแข็ง) — bony fish; operculum, swim bladder, most numerous vertebrates.
+**Class Chondrichthyes** (ปลากระดูกอ่อน): sharks, rays; cartilaginous skeleton, placoid scales, internal fertilization. **Class Osteichthyes** (ปลากระดูกแข็ง), bony fish; operculum, swim bladder, most numerous vertebrates.
 
-**Class Amphibia** (สัตว์ครึ่งบกครึ่งน้ำ) — frogs, salamanders; moist skin for gas exchange, metamorphosis (การเปลี่ยนแปลงรูปร่าง), most lay eggs in water. **Class Reptilia** (สัตว์เลื้อยคลาน) — snakes, lizards, turtles, crocodiles; amniotic egg (ไข่แอมนิโอต), dry scaly skin, ectothermic (สัตว์เลือดเย็น).
+**Class Amphibia** (สัตว์ครึ่งบกครึ่งน้ำ): frogs, salamanders; moist skin for gas exchange, metamorphosis (การเปลี่ยนแปลงรูปร่าง), most lay eggs in water. **Class Reptilia** (สัตว์เลื้อยคลาน), snakes, lizards, turtles, crocodiles; amniotic egg (ไข่แอมนิโอต), dry scaly skin, ectothermic (สัตว์เลือดเย็น).
 
-**Class Aves** (นก) — feathers, hollow bones, endothermic (สัตว์เลือดอุ่น), high metabolic rate, most can fly. **Class Mammalia** (สัตว์เลี้ยงลูกด้วยน้ำนม) — hair/fur, mammary glands, three middle ear bones, neocortex, most viviparous (ออกลูกเป็นตัว). Subclasses: monotremes (ไข่), marsupials (ถุงหน้าท้อง), placentals (รก).
+**Class Aves** (นก): feathers, hollow bones, endothermic (สัตว์เลือดอุ่น), high metabolic rate, most can fly. **Class Mammalia** (สัตว์เลี้ยงลูกด้วยน้ำนม), hair/fur, mammary glands, three middle ear bones, neocortex, most viviparous (ออกลูกเป็นตัว). Subclasses: monotremes (ไข่), marsupials (ถุงหน้าท้อง), placentals (รก).
 
 ### 3.4 Organ Systems Overview
 
@@ -97,7 +97,7 @@ Animals have evolved increasing organ system complexity. Key systems: **digestiv
 ### Type 2: Tissue Identification
 > Under a microscope, you see branched, striated cells with intercalated discs. Identify the tissue and its location.
 
-**Solution:** This is **cardiac muscle tissue** (กล้ามเนื้อหัวใจ) — found only in the heart. Intercalated discs (ดิสก์แทรก) allow synchronized contraction by enabling rapid electrical coupling between cells.
+**Solution:** This is **cardiac muscle tissue** (กล้ามเนื้อหัวใจ), found only in the heart. Intercalated discs (ดิสก์แทรก) allow synchronized contraction by enabling rapid electrical coupling between cells.
 
 ### Type 3: Comparing Vertebrate Classes
 > What key adaptation allows reptiles to reproduce on land, unlike amphibians?
@@ -108,7 +108,7 @@ Animals have evolved increasing organ system complexity. Key systems: **digestiv
 
 ## 5 | Cross-Links
 
-- [[11_Plant_Biology]] — comparison of plant and animal organization
-- [[13_Human_Body_Systems]] — detailed human organ systems
-- [[09_Diversity_of_Life]] — animal kingdom classification
-- [[08_Evolution]] — evolutionary trends in body plans
+- [[11_Plant_Biology]]: comparison of plant and animal organization
+- [[13_Human_Body_Systems]]: detailed human organ systems
+- [[09_Diversity_of_Life]]: animal kingdom classification
+- [[08_Evolution]]: evolutionary trends in body plans

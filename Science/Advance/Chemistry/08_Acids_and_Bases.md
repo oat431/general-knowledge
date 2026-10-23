@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว312"]
 ---
 
-# Acids and Bases — กรดและเบส
+# Acids and Bases: กรดและเบส
 
-> *"Acids and bases are the yin and yang of chemistry — every proton donated must be accepted."* — Adapted from Brønsted-Lowry
+> *"Acids and bases are the yin and yang of chemistry: every proton donated must be accepted."* (Adapted from Brønsted-Lowry)
 
 Acids (กรด) and bases (เบส) are among the most important classes of compounds in chemistry. They govern everything from the taste of food to the functioning of biological enzymes and the pH of our blood. The study of acids and bases opens Semester 1 of the ว312 curriculum and lays the groundwork for ionic equilibrium, buffers, and electrochemistry.
 
@@ -26,7 +26,7 @@ This note covers the three theories of acids and bases (Arrhenius, Brønsted-Low
 | Semester | Scope | Key Skills |
 |---|---|---|
 | **Semester 1** | Arrhenius/Brønsted-Lowry/Lewis theories, conjugate pairs, pH/pOH, strong vs weak acids & bases, $K_a$/$K_b$, hydrolysis, buffers, Henderson-Hasselbalch, titration curves | Calculate pH of strong/weak acids & bases, build ICE tables, choose indicators, interpret titration curves |
-| **Semester 2** | (Not covered — see Thermochemistry, Kinetics, Electrochemistry) | — |
+| **Semester 2** | (Not covered, see Thermochemistry, Kinetics, Electrochemistry) |: |
 
 ---
 
@@ -61,6 +61,7 @@ This note covers the three theories of acids and bases (Arrhenius, Brønsted-Low
 ### 3.1 Three Theories of Acids and Bases
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Acid-Base Theories"] --> B["Arrhenius 1884"]
     A --> C["Bronsted-Lowry 1923"]
@@ -84,12 +85,12 @@ flowchart TD
 - Base: proton acceptor
 - Reaction is a proton transfer: $\ce{HA + B <=> A- + HB+}$
 - Every acid–base reaction has **two conjugate pairs**.
-- Example: $\ce{NH3 + H2O <=> NH4+ + OH-}$ — $\ce{H2O}$ is acid, $\ce{NH3}$ is base; $\ce{NH4+}$ and $\ce{NH3}$ form one conjugate pair, $\ce{H2O}$ and $\ce{OH-}$ form the other.
+- Example: $\ce{NH3 + H2O <=> NH4+ + OH-}$, $\ce{H2O}$ is acid, $\ce{NH3}$ is base; $\ce{NH4+}$ and $\ce{NH3}$ form one conjugate pair, $\ce{H2O}$ and $\ce{OH-}$ form the other.
 
 **Lewis Theory (1923):**
 - Acid: electron-pair acceptor (electrophile)
 - Base: electron-pair donor (nucleophile)
-- Most general — covers all Brønsted-Lowry reactions plus those without $\ce{H+}$ (e.g. $\ce{BF3 + NH3 -> F3B-NH3}$).
+- Most general: covers all Brønsted-Lowry reactions plus those without $\ce{H+}$ (e.g. $\ce{BF3 + NH3 -> F3B-NH3}$).
 - Used heavily in organic chemistry and coordination chemistry.
 
 ### 3.2 Conjugate Acid-Base Pairs
@@ -154,7 +155,7 @@ A **buffer** resists pH change upon addition of small amounts of strong acid or 
 **Henderson-Hasselbalch equation:**
 $$\text{pH} = \text{p}K_a + \log\frac{[\text{A}^-]}{[\text{HA}]}$$
 
-When $[\text{A}^-] = [\text{HA}]$, $\text{pH} = \text{p}K_a$ — the buffer's most effective pH.
+When $[\text{A}^-] = [\text{HA}]$, $\text{pH} = \text{p}K_a$: the buffer's most effective pH.
 Effective buffer range: $\text{pH} = \text{p}K_a \pm 1$.
 
 ### 3.8 Acid-Base Titration Curves
@@ -223,11 +224,11 @@ $$V = \frac{2.5 \times 10^{-3}}{0.050} = 0.050\ \text{L} = 50.0\ \text{mL}$$
 
 ## 5 | Cross-Links
 
-- [[../../Fundamental/12_Acids_Bases_and_Salts]] — foundation from ม.1–3
-- [[05_Stoichiometry]] — stoichiometry prerequisite for titration calculations
-- [[06_Solutions]] — concentration units (M, dilution)
-- [[07_Gases]] — partial pressure analogue of concentration in $K_c$/$K_p$
-- [[09_Chemical_Equilibrium]] — $K_a$ and $K_b$ are equilibrium constants
-- [[10_Ionic_Equilibrium]] — buffers connect to salt hydrolysis and $K_{sp}$
-- [[13_Electrochemistry]] — pH electrodes, Nernst equation
-- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — logarithms, exponentials
+- [[../../Fundamental/12_Acids_Bases_and_Salts]]: foundation from ม.1–3
+- [[05_Stoichiometry]]: stoichiometry prerequisite for titration calculations
+- [[06_Solutions]]: concentration units (M, dilution)
+- [[07_Gases]]: partial pressure analogue of concentration in $K_c$/$K_p$
+- [[09_Chemical_Equilibrium]]: $K_a$ and $K_b$ are equilibrium constants
+- [[10_Ionic_Equilibrium]]: buffers connect to salt hydrolysis and $K_{sp}$
+- [[13_Electrochemistry]]: pH electrodes, Nernst equation
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]]: logarithms, exponentials

@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว323"]
 ---
 
-# Ecology — นิเวศวิทยา
+# Ecology: นิเวศวิทยา
 
-> *"In nature, nothing exists alone."* — Rachel Carson
+> *"In nature, nothing exists alone."* (Rachel Carson)
 
 Ecology (นิเวศวิทยา) is the scientific study of the interactions between organisms and their environment. It operates at multiple levels: individual organisms, populations (ประชากร), communities (ชุมชน), ecosystems (ระบบนิเวศ), and the biosphere (ชีวมณฑล). Energy flows through ecosystems while matter cycles within them, creating the fundamental patterns that sustain life on Earth.
 
@@ -41,7 +41,7 @@ At the ecosystem level, energy enters primarily through photosynthesis by produc
 | ห่วงโซ่อาหาร | Food chain | Linear feeding relationship |
 | ใยอาหาร | Food web | Interconnected food chains |
 | ระดับ trophic | Trophic level | Position in food chain |
-| ผู้ผลิต / พืชสีเขียว | Producer | Autotroph — photosynthesis |
+| ผู้ผลิต / พืชสีเขียว | Producer | Autotroph: photosynthesis |
 | ผู้บริโภค | Consumer | Heterotroph |
 | ผู้ย่อยสลาย | Decomposer | Break down dead matter |
 | พลังงานศักย์สุทธิ / NPP | Net primary productivity | Energy available after respiration |
@@ -57,7 +57,7 @@ At the ecosystem level, energy enters primarily through photosynthesis by produc
 
 ### 3.1 Ecosystem Components (ส่วนประกอบของระบบนิเวศ)
 
-An ecosystem consists of **biotic components** (สิ่งมีชีวิต) — producers, consumers (primary, secondary, tertiary), and decomposers — and **abiotic components** (สิ่งไม่มีชีวิต) — sunlight, temperature, water, soil minerals, and pH. Producers (autotrophs) convert inorganic matter into organic matter through photosynthesis or chemosynthesis.
+An ecosystem consists of **biotic components** (สิ่งมีชีวิต): producers, consumers (primary, secondary, tertiary), and decomposers, and **abiotic components** (สิ่งไม่มีชีวิต), sunlight, temperature, water, soil minerals, and pH. Producers (autotrophs) convert inorganic matter into organic matter through photosynthesis or chemosynthesis.
 
 ### 3.2 Energy Flow (การไหลของพลังงาน)
 
@@ -69,6 +69,7 @@ Energy enters ecosystems as sunlight, captured by producers through photosynthes
 - **Pyramid of energy**: energy flow (always upright)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     SUN["Sun"] --> PROD["Producers and Plants"]
     PROD --> PC["Primary Consumers"]
@@ -88,6 +89,7 @@ A **food chain** is a linear sequence of organisms through which energy flows (e
 ### 3.4 Biogeochemical Cycles (วัฏจักรสารเคมีในระบบนิเวศ)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     CYCLES["Biogeochemical Cycles"] --> WAT["Water Cycle"]
     CYCLES --> CARB["Carbon Cycle"]
@@ -107,9 +109,9 @@ flowchart TD
 ### 3.5 Population Ecology (นิเวศวิทยาประชากร)
 
 Population growth models include:
-- **Exponential growth** (J-curve): $N_t = N_0 e^{rt}$ — unlimited resources
+- **Exponential growth** (J-curve): $N_t = N_0 e^{rt}$, unlimited resources
 - **Logistic growth** (S-curve): $rac{dN}{dt} = rN\left(rac{K - N}{K}
-ight)$ — limited by carrying capacity (K)
+ight)$: limited by carrying capacity (K)
 
 Factors limiting population: **density-dependent** (competition, predation, disease) and **density-independent** (weather, natural disasters).
 
@@ -147,7 +149,7 @@ Species interactions include:
 
 ## 5 | Cross-Links
 
-- [[17_Environmental_Science]] — conservation and biodiversity
-- [[15_Human_Reproduction_and_Development]] — population growth and reproductive strategies
-- [[../../Advance/Chemistry/18_Biochemistry|Chemistry: Biochemistry]] — biogeochemical cycles involve chemical transformations
-- [[20_Bioethics]] — ethical considerations in conservation
+- [[17_Environmental_Science]]: conservation and biodiversity
+- [[15_Human_Reproduction_and_Development]]: population growth and reproductive strategies
+- [[../../Advance/Chemistry/18_Biochemistry|Chemistry: Biochemistry]]: biogeochemical cycles involve chemical transformations
+- [[20_Bioethics]]: ethical considerations in conservation

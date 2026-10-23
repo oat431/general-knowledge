@@ -11,9 +11,9 @@ created: 2026-07-26
 course_codes: ["ว111", "ว112", "ว113", "ว211", "ว212", "ว213"]
 ---
 
-# Matter and Properties — สสารและสมบัติ
+# Matter and Properties: สสารและสมบัติ
 
-> *"Nothing exists except atoms and empty space; everything else is opinion."* — Democritus
+> *"Nothing exists except atoms and empty space; everything else is opinion."* (Democritus)
 
 This note covers the nature of matter, states of matter, physical and chemical properties, and changes of state. Students progress from observing everyday materials to understanding molecular behavior and conservation of mass.
 
@@ -91,6 +91,7 @@ This note covers the nature of matter, states of matter, physical and chemical p
 ### 3.2 Changes of State
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     A[ของแข็ง / Solid] -->|หลอมเหลว / Melting| B[ของเหลว / Liquid]
     B -->|แข็งตัว / Freezing| A
@@ -155,16 +156,16 @@ $$V_{\text{sphere}} = \frac{4}{3}\pi r^3$$
 
 ## 7 | Real-World Examples
 
-1. **Thai cooking** — Dissolving sugar in water; boiling water for noodles
-2. **Gold vs iron** — Density comparison (gold: 19.3 g/cm³, iron: 7.87 g/cm³)
-3. **Ice cream making** — Freezing point depression
-4. **Rain cycle** — Evaporation and condensation
+1. **Thai cooking:** Dissolving sugar in water; boiling water for noodles
+2. **Gold vs iron:** Density comparison (gold: 19.3 g/cm³, iron: 7.87 g/cm³)
+3. **Ice cream making:** Freezing point depression
+4. **Rain cycle:** Evaporation and condensation
 
 ---
 
 ## 8 | Cross-Links
 
-- [[10_Atoms_Elements_and_Compounds]] — Particle model of matter
-- [[11_Chemical_Reactions]] — Chemical changes
-- [[15_Heat_and_Temperature]] — Heat and changes of state
-- [[14_Energy]] — Energy in phase changes
+- [[10_Atoms_Elements_and_Compounds]]: Particle model of matter
+- [[11_Chemical_Reactions]]: Chemical changes
+- [[15_Heat_and_Temperature]]: Heat and changes of state
+- [[14_Energy]]: Energy in phase changes

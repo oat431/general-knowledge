@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว311"]
 ---
 
-# Solutions — สารละลาย
+# Solutions: สารละลาย
 
-> *"In solution, chemistry comes alive. Solutes meet solvents, and the dance of molecules begins."* — Anonymous
+> *"In solution, chemistry comes alive. Solutes meet solvents, and the dance of molecules begins."* (Anonymous)
 
 A solution (สารละลาย) is a homogeneous mixture of two or more substances, consisting of a solute (ตัวถูกละลาย) and a solvent (ตัวทำละลาย). Understanding concentration, dilution, and colligative properties explains many chemical and everyday phenomena, such as freezing, boiling, and osmosis.
 
@@ -62,8 +62,8 @@ The maximum amount of solute that can dissolve in a solvent at a given temperatu
 
 **Factors affecting solubility (ปัจจัยที่มีผล):**
 - Nature of solute/solvent ("Like dissolves like") (ธรรมชาติของ solute/solvent)
-- Temperature — most solid solutes dissolve better at higher T; gases dissolve less at higher T (อุณหภูมิ)
-- Pressure — important for gases: Henry's Law (ความดัน สำคัญสำหรับแก๊ส)
+- Temperature: most solid solutes dissolve better at higher T; gases dissolve less at higher T (อุณหภูมิ)
+- Pressure: important for gases: Henry's Law (ความดัน สำคัญสำหรับแก๊ส)
 
 **Henry's Law:**
 
@@ -260,7 +260,7 @@ $$\pi = MRT = 0.10 \times 0.0821 \times 298 = 2.45 \,\text{atm}$$
 
 ## 5 | Cross-Links
 
-- [[04_Intermolecular_Forces]] — "Like dissolves like" governs solubility
-- [[05_Stoichiometry]] — Moles are used in concentration calculations
-- [[07_Gases]] — Henry's Law concerns gases in solution
-- [[02_Cell_Membrane_and_Transport|Biology Osmosis]] — Applications of osmotic pressure
+- [[04_Intermolecular_Forces]]: "Like dissolves like" governs solubility
+- [[05_Stoichiometry]]: Moles are used in concentration calculations
+- [[07_Gases]]: Henry's Law concerns gases in solution
+- [[02_Cell_Membrane_and_Transport|Biology Osmosis]]: Applications of osmotic pressure

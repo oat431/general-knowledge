@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว313"]
 ---
 
-# Biochemistry — ชีวเคมี
+# Biochemistry: ชีวเคมี
 
-> *"Life is a relationship among molecules, not a property of any one molecule."* — Carl Woese
+> *"Life is a relationship among molecules, not a property of any one molecule."* (Carl Woese)
 
 **Biochemistry (ชีวเคมี)** studies the molecules and chemical reactions that occur in living systems. The four main classes of biomolecules (สารชีวโมเลกุล) are carbohydrates (คาร์โบไฮเดรต), lipids (ลิพิด), proteins (โปรตีน), and nucleic acids (กรดนิวคลีอิก). Each class has its own characteristic structure, function, and metabolism. This note links organic chemistry to biology.
 
@@ -23,7 +23,7 @@ course_codes: ["ว313"]
 
 || Semester | Scope | Key Skills |
 ||---|---|---|
-|| **Semester 1** | (background from chapters 14–16) | — |
+|| **Semester 1** | (background from chapters 14–16) | N/A |
 || **Semester 2** | 4 classes of biomolecules; structure; function; enzymes | Draw structures; identify functional groups |
 
 ---
@@ -80,7 +80,7 @@ $$\ce{C12H22O11} \text{ (disaccharides)}$$
 #### (c) Polysaccharides
 - **Starch:** $\ce{(C6H10O5)_n}$, α-1,4-glycosidic (plant storage).
 - **Glycogen:** α-1,4 and α-1,6 (animal/human storage, in liver).
-- **Cellulose:** β-1,4-glycosidic (plant cell-wall structure) — humans cannot digest it.
+- **Cellulose:** β-1,4-glycosidic (plant cell-wall structure), humans cannot digest it.
 
 ### 3.2 Lipids (ลิพิด)
 
@@ -162,7 +162,7 @@ Composed of a **nitrogenous base** + a **pentose sugar** + a **phosphate group**
 
 > Which substance is a carbohydrate: $\ce{C12H22O11}$, $\ce{C3H5(OH)3}$, protein, cholesterol?
 
-**Solution:** $\ce{C12H22O11}$ (a disaccharide — sucrose).
+**Solution:** $\ce{C12H22O11}$ (a disaccharide, sucrose).
 
 ### Type 2: Energy from Fats
 
@@ -190,8 +190,8 @@ $$\ce{C3H7NO2 + C2H5NO2 -> C5H10N2O3 + H2O}$$
 
 ## 5 | Cross-Links
 
-- [[14_Organic_Fundamentals]] — Carbon structure and functional groups
-- [[16_Organic_Compounds_by_Functional_Group]] — Amides, amines, esters
-- [[17_Polymers]] — Proteins and polysaccharides are polymers
-- [[15_Organic_Reactions]] — Hydrolysis, esterification
-- [[19_Qualitative_Analysis]] — Biomolecule tests (Benedict, Biuret)
+- [[14_Organic_Fundamentals]]: Carbon structure and functional groups
+- [[16_Organic_Compounds_by_Functional_Group]]: Amides, amines, esters
+- [[17_Polymers]]: Proteins and polysaccharides are polymers
+- [[15_Organic_Reactions]]: Hydrolysis, esterification
+- [[19_Qualitative_Analysis]]: Biomolecule tests (Benedict, Biuret)

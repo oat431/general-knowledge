@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว341"]
 ---
 
-# Plate Tectonics — การเคลื่อนที่ของแผ่นธรณีภาค
+# Plate Tectonics: การเคลื่อนที่ของแผ่นธรณีภาค
 
-> *"The geologic history of the Earth is a history of plate tectonics."* — John Tuzo Wilson
+> *"The geologic history of the Earth is a history of plate tectonics."* (John Tuzo Wilson)
 
-Plate tectonics (ทฤษฎีแผ่นธรณีภาค) is the unifying theory of geology. Earth's rigid outer shell, the **lithosphere** (ธรณีภาค), is fractured into about fifteen major and minor plates that float on the ductile **asthenosphere** (อะธีโนสเฟียร์) and move a few centimeters per year. Their interactions produce earthquakes, volcanoes, mountain ranges (เทือกเขา), and ocean trenches — the architecture of the dynamic planet.
+Plate tectonics (ทฤษฎีแผ่นธรณีภาค) is the unifying theory of geology. Earth's rigid outer shell, the **lithosphere** (ธรณีภาค), is fractured into about fifteen major and minor plates that float on the ductile **asthenosphere** (อะธีโนสเฟียร์) and move a few centimeters per year. Their interactions produce earthquakes, volcanoes, mountain ranges (เทือกเขา), and ocean trenches: the architecture of the dynamic planet.
 
 This note traces the theory from Wegener's continental drift (การเคลื่อนที่ของทวีป), through the evidence for seafloor spreading (การแผ่ขยายของพื้นมหาสมุทร), to the modern classification of plate boundaries (ขอบเขตแผ่นธรณีภาค): divergent (แยกจากกัน), convergent (ชนกัน), and transform (เลื่อนผ่านกัน). We also examine the driving forces of mantle convection (การพาความร้อนในเนื้อโลก), ridge push, and slab pull.
 
@@ -62,10 +62,10 @@ This note traces the theory from Wegener's continental drift (การเคล
 
 In 1912 Alfred Wegener proposed that continents drift across Earth's surface. He cited multiple lines of evidence:
 
-- **Coastline fit** — South America and Africa fit like puzzle pieces.
-- **Fossil match (ซากดึกดำบรรพ์)** — Mesosaurus, Lystrosaurus found on now-separated continents.
-- **Rock and mountain correlation (การต่อเนื่องของหินและเทือกเขา)** — Appalachian–Caledonian belts match across the Atlantic.
-- **Paleoclimatic evidence (หลักฐานบรรยากาศโบราณ)** — glacial deposits in now-tropical regions (India, Africa), coal in Antarctica.
+- **Coastline fit:** South America and Africa fit like puzzle pieces.
+- **Fossil match (ซากดึกดำบรรพ์):** Mesosaurus, Lystrosaurus found on now-separated continents.
+- **Rock and mountain correlation (การต่อเนื่องของหินและเทือกเขา):** Appalachian–Caledonian belts match across the Atlantic.
+- **Paleoclimatic evidence (หลักฐานบรรยากาศโบราณ):** glacial deposits in now-tropical regions (India, Africa), coal in Antarctica.
 
 Wegener named the supercontinent **Pangaea (แพนเจีย)** (~250 Ma), surrounded by the universal ocean Panthalassa. His theory was rejected because he lacked a plausible mechanism.
 
@@ -73,10 +73,10 @@ Wegener named the supercontinent **Pangaea (แพนเจีย)** (~250 Ma), 
 
 In the 1960s, Harry Hess and Robert Dietz proposed that new oceanic crust forms at mid-ocean ridges (แนวเทือกเขากลางสมุทร) and moves outward, while older crust descends into trenches at the edges. Evidence:
 
-- **Paleomagnetic stripes (แถบพาเลโอแมกเนติก)** — symmetric, alternating normal/reverse magnetic polarity stripes parallel to ridges, recording magnetic reversals.
-- **Age of seafloor** — rocks are youngest at the ridge axis and older with distance; none older than ~180 Ma.
-- **Sediment thickness** — thin at the ridge, thickening toward the margins.
-- **Heat flow** — highest at the ridge axis, decreasing outward.
+- **Paleomagnetic stripes (แถบพาเลโอแมกเนติก):** symmetric, alternating normal/reverse magnetic polarity stripes parallel to ridges, recording magnetic reversals.
+- **Age of seafloor:** rocks are youngest at the ridge axis and older with distance; none older than ~180 Ma.
+- **Sediment thickness:** thin at the ridge, thickening toward the margins.
+- **Heat flow:** highest at the ridge axis, decreasing outward.
 
 ### 3.3 Types of Plate Boundaries
 
@@ -88,13 +88,14 @@ In the 1960s, Harry Hess and Robert Dietz proposed that new oceanic crust forms 
 
 **Convergent boundaries (ขอบเขตชนกัน)** subdivide by crust type:
 
-- **Oceanic–oceanic (มหาสมุทร–มหาสมุทร)** — older, denser plate subducts, forming an island arc (หมู่เกาะรูปโค้ง) and trench: Marianas, Aleutians.
-- **Oceanic–continental (มหาสมุทร–ทวีป)** — oceanic plate subducts; continental margin grows a volcanic arc (ที่ลาดชันฝั่งทวีป): Andes, Cascades.
-- **Continental–continental (ทวีป–ทวีป)** — neither subducts; crust buckles into huge mountains: Himalaya (collision India–Eurasia), Alps.
+- **Oceanic–oceanic (มหาสมุทร–มหาสมุทร):** older, denser plate subducts, forming an island arc (หมู่เกาะรูปโค้ง) and trench: Marianas, Aleutians.
+- **Oceanic–continental (มหาสมุทร–ทวีป):** oceanic plate subducts; continental margin grows a volcanic arc (ที่ลาดชันฝั่งทวีป): Andes, Cascades.
+- **Continental–continental (ทวีป–ทวีป):** neither subducts; crust buckles into huge mountains: Himalaya (collision India–Eurasia), Alps.
 
-**Transform boundaries (ขอบเขตเลื่อนผ่านกัน)** — plates grind past each other; no magma, no trenches, but powerful earthquakes.
+**Transform boundaries (ขอบเขตเลื่อนผ่านกัน):** plates grind past each other; no magma, no trenches, but powerful earthquakes.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     PB["Plate Boundaries<br/>ขอบเขตแผ่นธรณีภาค"] --> DIV["Divergent แยกจากกัน"]
     PB --> CONV["Convergent ชนกัน"]
@@ -111,9 +112,9 @@ flowchart TD
 
 Three mechanisms move plates, with relative contributions still debated:
 
-1. **Mantle convection (การพาความร้อนในเนื้อโลก)** — hot mantle rises at ridges, cools, and sinks at trenches, dragging plates along.
-2. **Ridge push (แรงดันสันหลังสันเขา)** — gravity slides the elevated plate down the ridge flank.
-3. **Slab pull (แรงดึงของแผ่นมุดตัว)** — the cold, dense subducting slab sinks and pulls the rest of the plate; widely considered the strongest force.
+1. **Mantle convection (การพาความร้อนในเนื้อโลก):** hot mantle rises at ridges, cools, and sinks at trenches, dragging plates along.
+2. **Ridge push (แรงดันสันหลังสันเขา):** gravity slides the elevated plate down the ridge flank.
+3. **Slab pull (แรงดึงของแผ่นมุดตัว):** the cold, dense subducting slab sinks and pulls the rest of the plate; widely considered the strongest force.
 
 Typical plate speeds range from ~1 cm/yr (the slow North American plate) to ~10 cm/yr (the fast Pacific plate).
 
@@ -133,7 +134,7 @@ The **Wilson cycle (วงจรวิลสัน)** describes the lifecycle of
 ### Type 2: Predict the feature formed at each boundary type
 > Draw a cross-section of a continent–continent collision. Label the resulting feature.
 
-**Solution:** Neither plate subducts; crust thickens and buckles into a towering mountain belt — e.g., the **Himalaya (เทือกเขาหิมาลัย)** formed by India colliding with Eurasia.
+**Solution:** Neither plate subducts; crust thickens and buckles into a towering mountain belt, e.g., the **Himalaya (เทือกเขาหิมาลัย)** formed by India colliding with Eurasia.
 
 ### Type 3: Use magnetic stripes to find spreading rate
 > A magnetic stripe 100 km from the ridge axis is 5 million years old. Calculate the half-spreading rate.
@@ -144,13 +145,13 @@ $$v = \frac{d}{t} = \frac{100\,\text{km}}{5 \times 10^{6}\,\text{yr}} = 2 \times
 ### Type 4: Identify the dominant plate-driving force
 > Which force is thought to contribute most to plate motion?
 
-**Solution:** **Slab pull (แรงดึงของแผ่นมุดตัว)** — the dense, cold subducting slab sinks into the mantle and pulls the trailing plate; plates with long slabs (Pacific) move fastest.
+**Solution:** **Slab pull (แรงดึงของแผ่นมุดตัว):** the dense, cold subducting slab sinks into the mantle and pulls the trailing plate; plates with long slabs (Pacific) move fastest.
 
 ---
 
 ## 5 | Cross-Links
 
-- [[01_Minerals_and_Rocks]] — subduction melts rock into magma; igneous activity at ridges
-- [[03_Earthquakes_and_Volcanoes]] — direct consequences of plate boundary motion
-- [[05_Earth_History]] — Pangaea breakup and Wilson cycle structure the geological timescale
-- [[../../Advance/Physics/02_Kinematics|Physics: Kinematics]] — motion, velocity, and relative motion applied to plate speeds
+- [[01_Minerals_and_Rocks]]: subduction melts rock into magma; igneous activity at ridges
+- [[03_Earthquakes_and_Volcanoes]]: direct consequences of plate boundary motion
+- [[05_Earth_History]]: Pangaea breakup and Wilson cycle structure the geological timescale
+- [[../../Advance/Physics/02_Kinematics|Physics: Kinematics]]: motion, velocity, and relative motion applied to plate speeds

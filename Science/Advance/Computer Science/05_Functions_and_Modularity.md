@@ -9,13 +9,13 @@ created: 2026-07-30
 course_codes: ["ว332"]
 ---
 
-# Functions and Modularity — ฟังก์ชันและโมดูล
+# Functions and Modularity: ฟังก์ชันและโมดูล
 
-> *"Functions are the primary tool for managing complexity in programming."* — adapted from Abelson & Sussman, SICP
+> *"Functions are the primary tool for managing complexity in programming."* (adapted from Abelson & Sussman, SICP)
 
 Functions (ฟังก์ชัน) let programmers package a block of code under a name so it can be reused without rewriting it. Modularity (โมดูลาริตี) is the principle of building programs from small, self-contained units that communicate through well-defined inputs and outputs. The IPST curriculum introduces these in ม.5 (ว332) as the bridge between writing single scripts and building larger, maintainable programs.
 
-Students learn to define functions with `def`, work with parameters (พารามิเตอร์) and return values (ค่าที่ส่งกลับ), understand variable scope (ขอบเขตของตัวแปร), write recursive (เรียกซ้ำ) functions, and import standard library modules (โมดูล) — the same techniques used in real software development.
+Students learn to define functions with `def`, work with parameters (พารามิเตอร์) and return values (ค่าที่ส่งกลับ), understand variable scope (ขอบเขตของตัวแปร), write recursive (เรียกซ้ำ) functions, and import standard library modules (โมดูล): the same techniques used in real software development.
 
 ---
 
@@ -65,9 +65,9 @@ A function with no explicit `return` returns `None`.
 
 ### 3.2 Parameters and Arguments
 
-- **Positional arguments** — matched by order.
-- **Keyword arguments** — matched by name, may be in any order.
-- **Default arguments** — used when caller omits the value.
+- **Positional arguments:** matched by order.
+- **Keyword arguments:** matched by name, may be in any order.
+- **Default arguments:** used when caller omits the value.
 
 ```python
 def power(base, exponent=2):
@@ -91,8 +91,8 @@ lo, hi = min_max([4, 1, 9, 2])
 
 ### 3.4 Variable Scope (ขอบเขตของตัวแปร)
 
-- **Local scope (ตัวแปรเฉพาะที่)** — variables created inside a function; they vanish when the function ends.
-- **Global scope (ตัวแปรส่วนกลาง)** — variables defined at module level; readable inside functions but need `global` to reassign.
+- **Local scope (ตัวแปรเฉพาะที่):** variables created inside a function; they vanish when the function ends.
+- **Global scope (ตัวแปรส่วนกลาง):** variables defined at module level; readable inside functions but need `global` to reassign.
 
 ```python
 counter = 0              # global
@@ -111,8 +111,8 @@ LEGB lookup order: **L**ocal → **E**nclosing → **G**lobal → **B**uilt-in.
 
 A recursive function calls itself. Every recursion needs:
 
-1. **Base case (กรณีฐาน)** — stops the recursion.
-2. **Recursive case (กรณีเรียกซ้ำ)** — calls itself with a smaller problem.
+1. **Base case (กรณีฐาน):** stops the recursion.
+2. **Recursive case (กรณีเรียกซ้ำ):** calls itself with a smaller problem.
 
 ```python
 def factorial(n):
@@ -228,7 +228,7 @@ print(roll_two_dice())    # 2–12
 
 ## 5 | Cross-Links
 
-- [[04_Programming_Fundamentals]] — control structures used inside functions
-- [[06_Algorithms]] — recursive algorithms (binary search, merge sort)
-- [[01_Computational_Thinking]] — decomposition maps to modularity
-- [[../../Advance/Mathematics/Fundamental/05_Functions|Mathematics: Functions]] — mathematical function concepts
+- [[04_Programming_Fundamentals]]: control structures used inside functions
+- [[06_Algorithms]]: recursive algorithms (binary search, merge sort)
+- [[01_Computational_Thinking]]: decomposition maps to modularity
+- [[../../Advance/Mathematics/Fundamental/05_Functions|Mathematics: Functions]]: mathematical function concepts

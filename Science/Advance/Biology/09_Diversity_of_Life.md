@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว322"]
 ---
 
-# Diversity of Life — ความหลากหลายของสิ่งมีชีวิต
+# Diversity of Life: ความหลากหลายของสิ่งมีชีวิต
 
-> *"There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one."* — Charles Darwin
+> *"There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one."* (Charles Darwin)
 
 The diversity of life (ความหลากหลายของสิ่งมีชีวิต) encompasses all living organisms on Earth, classified into a hierarchical system (ระบบอนุกรมวิธาน) from domain down to species. Modern taxonomy (อนุกรมวิธาน) uses phylogenetics (วิวัฒนาการชาติพันธุ์) and cladistics (การวิเคราะห์สาขา) to organize organisms based on evolutionary relationships rather than superficial similarities alone.
 
@@ -57,6 +57,7 @@ The six-kingdom system divides life into Bacteria (แบคทีเรีย),
 The classification system uses eight major ranks: **Domain** (โดเมน) → **Kingdom** (อาณาจักร) → **Phylum** (ไฟลัม) → **Class** (ชั้น) → **Order** (อันดับ) → **Family** (วงศ์) → **Genus** (สกุล) → **Species** (ชนิด). A mnemonic: "**D**ear **K**ing **P**hilip **C**ame **O**ver **F**or **G**ood **S**oup." Each rank groups organisms by increasingly specific shared characteristics.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     LIFE["Life"] --> BACT["Domain Bacteria"]
     LIFE --> ARCH["Domain Archaea"]
@@ -73,7 +74,7 @@ flowchart TD
 
 ### 3.2 Binomial Nomenclature
 
-Established by Carl Linnaeus (ลินเนียส), every species receives a two-part Latin name: the **genus** (capitalized) and **specific epithet** (lowercase), both italicized — e.g., *Homo sapiens*, *Escherichia coli*. This universal system eliminates confusion from common names, which vary by language and region.
+Established by Carl Linnaeus (ลินเนียส), every species receives a two-part Latin name: the **genus** (capitalized) and **specific epithet** (lowercase), both italicized, e.g., *Homo sapiens*, *Escherichia coli*. This universal system eliminates confusion from common names, which vary by language and region.
 
 ### 3.3 Phylogenetics and Cladistics
 
@@ -81,11 +82,11 @@ A **phylogenetic tree** (ต้นไม้วิวัฒนาการชา�
 
 ### 3.4 The Three Domains
 
-**Domain Bacteria** — prokaryotic, peptidoglycan cell walls, diverse metabolic types. **Domain Archaea** — prokaryotic, lack peptidoglycan, often extremophiles (สิ่งมีชีวิตที่ทนสภาวะสุดขั้ว), cell membranes with ether-linked lipids. **Domain Eukarya** — eukaryotic, includes Protista, Fungi, Plantae, and Animalia.
+**Domain Bacteria:** prokaryotic, peptidoglycan cell walls, diverse metabolic types. **Domain Archaea:** prokaryotic, lack peptidoglycan, often extremophiles (สิ่งมีชีวิตที่ทนสภาวะสุดขั้ว), cell membranes with ether-linked lipids. **Domain Eukarya:** eukaryotic, includes Protista, Fungi, Plantae, and Animalia.
 
 ### 3.5 The Six Kingdoms
 
-**Kingdom Bacteria (Eubacteria)** — true bacteria, most are beneficial (decomposers, nitrogen fixation), some pathogenic. **Kingdom Archaea (Archaebacteria)** — ancient prokaryotes in extreme environments (hot springs, salt lakes, deep-sea vents). **Kingdom Protista** — diverse eukaryotes that don't fit other kingdoms; includes algae (สาหร่าย), protozoa (โปรโตซัว), and slime molds. **Kingdom Fungi** — eukaryotic, chitin cell walls, heterotrophic by absorption; includes mushrooms (เห็ด), yeasts (ยีสต์), and molds (รา). **Kingdom Plantae** — eukaryotic, cellulose cell walls, autotrophic via photosynthesis; includes mosses, ferns, gymnosperms, angiosperms. **Kingdom Animalia** — eukaryotic, no cell wall, heterotrophic by ingestion; includes invertebrates and vertebrates.
+**Kingdom Bacteria (Eubacteria):** true bacteria, most are beneficial (decomposers, nitrogen fixation), some pathogenic. **Kingdom Archaea (Archaebacteria):** ancient prokaryotes in extreme environments (hot springs, salt lakes, deep-sea vents). **Kingdom Protista:** diverse eukaryotes that don't fit other kingdoms; includes algae (สาหร่าย), protozoa (โปรโตซัว), and slime molds. **Kingdom Fungi:** eukaryotic, chitin cell walls, heterotrophic by absorption; includes mushrooms (เห็ด), yeasts (ยีสต์), and molds (รา). **Kingdom Plantae:** eukaryotic, cellulose cell walls, autotrophic via photosynthesis; includes mosses, ferns, gymnosperms, angiosperms. **Kingdom Animalia:** eukaryotic, no cell wall, heterotrophic by ingestion; includes invertebrates and vertebrates.
 
 ---
 
@@ -114,7 +115,7 @@ A **phylogenetic tree** (ต้นไม้วิวัฒนาการชา�
 
 ## 5 | Cross-Links
 
-- [[08_Evolution]] — classification reflects evolutionary relationships
-- [[10_Microbiology]] — detailed study of Bacteria, Archaea, Fungi, Protista
-- [[11_Plant_Biology]] — Kingdom Plantae diversity
-- [[12_Animal_Biology]] — Kingdom Animalia diversity
+- [[08_Evolution]]: classification reflects evolutionary relationships
+- [[10_Microbiology]]: detailed study of Bacteria, Archaea, Fungi, Protista
+- [[11_Plant_Biology]]: Kingdom Plantae diversity
+- [[12_Animal_Biology]]: Kingdom Animalia diversity

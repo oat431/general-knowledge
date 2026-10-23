@@ -12,9 +12,9 @@ created: 2026-07-26
 course_codes: ["ว211", "ว212", "ว213"]
 ---
 
-# Atoms, Elements, and Compounds — อะตอม ธาตุ สารประกอบ
+# Atoms, Elements, and Compounds: อะตอม ธาตุ สารประกอบ
 
-> *"All matter is made of atoms."* — Richard Feynman
+> *"All matter is made of atoms."* (Richard Feynman)
 
 This note covers atomic structure, the periodic table, elements, compounds, and chemical bonding. Students learn the building blocks of all matter from ม.1 through ม.3.
 
@@ -76,6 +76,7 @@ This note covers atomic structure, the periodic table, elements, compounds, and 
 ### 3.1 Model of the Atom
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     subgraph "อะตอม / Atom"
         N[นิวเคลียส / Nucleus]
@@ -114,6 +115,7 @@ graph TD
 ### 4.1 Organization
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     PT[ตารางธาตุ / Periodic Table] --> G[หมู่ / Groups - Vertical]
     PT --> P[คาบ / Periods - Horizontal]
@@ -211,17 +213,17 @@ $$\text{Na}^+ + \text{Cl}^- \rightarrow \text{NaCl}$$
 
 ## 7 | Real-World Examples
 
-1. **Gold jewelry** — Element Au, atomic number 79
-2. **Table salt** — Ionic compound NaCl
-3. **Water** — Covalent compound H₂O, essential for life
-4. **Steel** — Alloy (mixture) of iron and carbon
-5. **Breathing** — O₂ in, CO₂ out
+1. **Gold jewelry:** Element Au, atomic number 79
+2. **Table salt:** Ionic compound NaCl
+3. **Water:** Covalent compound H₂O, essential for life
+4. **Steel:** Alloy (mixture) of iron and carbon
+5. **Breathing:** O₂ in, CO₂ out
 
 ---
 
 ## 8 | Cross-Links
 
-- [[09_Matter_and_Properties]] — Matter and its states
-- [[11_Chemical_Reactions]] — Reactions between elements/compounds
-- [[12_Acids_Bases_and_Salts]] — Acid-base chemistry
-- [[18_Electricity_and_Magnetism]] — Electron movement
+- [[09_Matter_and_Properties]]: Matter and its states
+- [[11_Chemical_Reactions]]: Reactions between elements/compounds
+- [[12_Acids_Bases_and_Salts]]: Acid-base chemistry
+- [[18_Electricity_and_Magnetism]]: Electron movement

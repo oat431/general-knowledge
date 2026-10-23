@@ -10,9 +10,9 @@ created: 2026-07-30
 course_codes: ["ว302"]
 ---
 
-# Electromagnetic Waves — คลื่นแม่เหล็กไฟฟ้า
+# Electromagnetic Waves: คลื่นแม่เหล็กไฟฟ้า
 
-> *"The discovery of electromagnetic waves was the greatest intellectual triumph of the nineteenth century."* — Heinrich Hertz
+> *"The discovery of electromagnetic waves was the greatest intellectual triumph of the nineteenth century."* (Heinrich Hertz)
 
 Electromagnetic (EM) waves are self-propagating oscillations of electric and magnetic fields that travel through space at the speed of light. Unlike mechanical waves, they require no medium and can traverse a vacuum. Maxwell's equations unify electricity, magnetism, and optics into a single framework, predicting that light is an electromagnetic wave. The EM spectrum spans from low-frequency radio waves to high-frequency gamma rays, each region with distinct applications from communication to medical imaging.
 
@@ -26,7 +26,7 @@ In ว302, students learn that EM waves are the natural consequence of accelerat
 
 | Semester | Scope | Key Skills |
 |---|---|---|
-| **Semester 1** | (Electrostatics, circuits, magnetism foundations) | — |
+| **Semester 1** | (Electrostatics, circuits, magnetism foundations) | N/A |
 | **Semester 2** | EM spectrum, wave properties, Maxwell's equations (conceptual), light as EM wave | Identify EM spectrum regions; relate $v = f\lambda$; understand EM wave nature |
 
 ---
@@ -100,7 +100,7 @@ Intensity (average power per area): $I = \frac{E_0^2}{2\mu_0 c}$ where $E_0$ is 
 
 ### 3.5 Polarization
 
-EM waves can be polarized — the electric field oscillates in a preferred direction. Unpolarized light has random orientations. A polarizer transmits only the component aligned with its axis:
+EM waves can be polarized: the electric field oscillates in a preferred direction. Unpolarized light has random orientations. A polarizer transmits only the component aligned with its axis:
 
 $$I = I_0 \cos^2\theta \quad \text{(Malus's law)}$$
 
@@ -142,8 +142,8 @@ $$E = hf = \frac{hc}{\lambda} = \frac{(6.626 \times 10^{-34})(3 \times 10^8)}{50
 
 ## 5 | Cross-Links
 
-- [[09_Sound]] — Contrast mechanical waves (need medium) with EM waves (no medium)
-- [[13_Magnetism]] — Accelerating charges produce EM waves
-- [[14_Electromagnetic_Induction]] — Faraday's law is part of Maxwell's equations
-- [[16_Light_and_Optics]] — Visible light is one region of the EM spectrum
-- [[17_Wave_Optics]] — Interference and diffraction of EM waves
+- [[09_Sound]]: Contrast mechanical waves (need medium) with EM waves (no medium)
+- [[13_Magnetism]]: Accelerating charges produce EM waves
+- [[14_Electromagnetic_Induction]]: Faraday's law is part of Maxwell's equations
+- [[16_Light_and_Optics]]: Visible light is one region of the EM spectrum
+- [[17_Wave_Optics]]: Interference and diffraction of EM waves

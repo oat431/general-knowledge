@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว312"]
 ---
 
-# Electrochemistry — เคมีไฟฟ้า
+# Electrochemistry: เคมีไฟฟ้า
 
-> *"A redox reaction is an argument over electrons; electrochemistry is the court that decides who wins."* — Adapted from electrochemistry
+> *"A redox reaction is an argument over electrons; electrochemistry is the court that decides who wins."* (Adapted from electrochemistry)
 
-Electrochemistry is the study of the relationship between chemical energy and electrical energy. It is the third and final topic of Semester 2 in ว312, and it draws together everything from the previous twelve topics — atomic structure, bonding, equilibrium, thermodynamics, kinetics, and acid–base chemistry — to explain how batteries generate current, how metals corrode, and how we can plate one metal onto another.
+Electrochemistry is the study of the relationship between chemical energy and electrical energy. It is the third and final topic of Semester 2 in ว312, and it draws together everything from the previous twelve topics: atomic structure, bonding, equilibrium, thermodynamics, kinetics, and acid–base chemistry, to explain how batteries generate current, how metals corrode, and how we can plate one metal onto another.
 
 This note covers oxidation–reduction (redox) reactions, half-reactions and balancing redox equations, galvanic (voltaic) cells, standard electrode potentials ($E^\circ$), cell potential, the Nernst equation, electrolysis, Faraday's laws of electrolysis, and corrosion.
 
@@ -25,7 +25,7 @@ This note covers oxidation–reduction (redox) reactions, half-reactions and bal
 
 | Semester | Scope | Key Skills |
 |---|---|---|
-| **Semester 1** | (Not covered — see Acids & Bases, Equilibrium) | — |
+| **Semester 1** | (Not covered, see Acids & Bases, Equilibrium) |: |
 | **Semester 2** | Redox, half-reactions, balancing redox (acidic/basic), galvanic cells, standard electrode potentials, cell potential, Nernst equation, electrolysis, Faraday's laws, corrosion | Assign oxidation numbers, balance redox, identify anode/cathode, calculate $E^\circ_{cell}$, apply Nernst, calculate mass deposited in electrolysis |
 
 ---
@@ -63,16 +63,17 @@ This note covers oxidation–reduction (redox) reactions, half-reactions and bal
 ## 3 | Key Concepts
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Electrochemical Cells"] --> B["Galvanic / Voltaic"]
     A --> C["Electrolytic"]
-    B --> D["Spontaneous — produces current"]
-    C --> E["Non-spontaneous — needs external power"]
-    B --> F["Anode — oxidation, negative"]
-    B --> G["Cathode — reduction, positive"]
-    C --> H["Anode — oxidation, positive"]
-    C --> I["Cathode — reduction, negative"]
-    B --> J["Salt Bridge — ion flow"]
+    B --> D["Spontaneous: produces current"]
+    C --> E["Non-spontaneous: needs external power"]
+    B --> F["Anode: oxidation, negative"]
+    B --> G["Cathode: reduction, positive"]
+    C --> H["Anode: oxidation, positive"]
+    C --> I["Cathode: reduction, negative"]
+    B --> J["Salt Bridge: ion flow"]
     B --> K["Electrolyte Solution"]
 ```
 
@@ -107,8 +108,8 @@ Rules:
 
 A spontaneous redox reaction ($\Delta G < 0$, $E_{cell} > 0$) is harnessed to produce electrical energy. The two half-reactions occur in separate **half-cells** connected by a wire (electrons flow) and a **salt bridge** (ions flow to maintain charge balance).
 
-- **Anode** (oxidation) — negative terminal in galvanic cell
-- **Cathode** (reduction) — positive terminal
+- **Anode** (oxidation): negative terminal in galvanic cell
+- **Cathode** (reduction): positive terminal
 - Electrons flow anode → cathode through external circuit
 
 **Cell notation** (anode on left):
@@ -183,9 +184,9 @@ Forms porous $\ce{Fe(OH)2}$, which oxidizes further to hydrated $\ce{Fe2O3}$ (ru
 
 **Prevention:**
 - Painting/coating (barrier)
-- Galvanizing (Zn coating — Zn is sacrificial anode)
+- Galvanizing (Zn coating, Zn is sacrificial anode)
 - Cathodic protection (attach a more active metal like Mg, Zn as sacrificial anode)
-- Alloying (stainless steel: Fe + Cr + Ni — Cr forms passive oxide layer)
+- Alloying (stainless steel: Fe + Cr + Ni, Cr forms passive oxide layer)
 - Tin plating (cathodic protection only if scratched through to Fe)
 
 ---
@@ -224,7 +225,7 @@ $$E^\circ_{cell} = 0.80 - (-0.44) = +1.24\ \text{V} > 0$$
 **Solution:** $n = 2$, $Q = [\ce{Zn^2+}]/[\ce{Cu^2+}] = 0.10$.
 $$E = 1.10 - \frac{0.0592}{2}\log(0.10) = 1.10 - 0.0296 \times (-1) = 1.10 + 0.030 = 1.13\ \text{V}$$
 
-### Type 5: Faraday's law — mass deposited
+### Type 5: Faraday's law: mass deposited
 > How many grams of $\ce{Cu}$ are deposited by passing 5.0 A for 1.0 hour through $\ce{CuSO4}$ solution?
 
 **Solution:** $Q = It = 5.0 \times 3600 = 18\,000$ C.
@@ -240,13 +241,13 @@ $$m = \frac{Q \cdot M}{n \cdot F} = \frac{18\,000 \times 63.5}{2 \times 96\,485}
 
 ## 5 | Cross-Links
 
-- [[01_Atomic_Structure]] — electron configurations underlying redox behaviour
-- [[02_Periodic_Table]] — activity series follows periodic trends
-- [[05_Stoichiometry]] — mole calculations in Faraday's law
-- [[07_Gases]] — gas electrodes (SHE, $\ce{Cl2/Cl-}$)
-- [[08_Acids_and_Bases]] — pH electrodes; Nernst equation for $[\ce{H+}]$
-- [[09_Chemical_Equilibrium]] — $E^\circ = (RT/nF)\ln K$
-- [[11_Thermochemistry]] — $\Delta G^\circ = -nFE^\circ_{cell}$ (thermodynamics ↔ electrochemistry)
-- [[12_Reaction_Kinetics]] — rate of electron transfer (Butler-Volmer)
-- [[18_Biochemistry|Biology]] — biological electron transport, ATP synthesis
-- [[02_Thermodynamics_and_Waves_-_Overview|Physics]] — circuits, potential, current
+- [[01_Atomic_Structure]]: electron configurations underlying redox behaviour
+- [[02_Periodic_Table]]: activity series follows periodic trends
+- [[05_Stoichiometry]]: mole calculations in Faraday's law
+- [[07_Gases]]: gas electrodes (SHE, $\ce{Cl2/Cl-}$)
+- [[08_Acids_and_Bases]]: pH electrodes; Nernst equation for $[\ce{H+}]$
+- [[09_Chemical_Equilibrium]]: $E^\circ = (RT/nF)\ln K$
+- [[11_Thermochemistry]]: $\Delta G^\circ = -nFE^\circ_{cell}$ (thermodynamics ↔ electrochemistry)
+- [[12_Reaction_Kinetics]]: rate of electron transfer (Butler-Volmer)
+- [[18_Biochemistry|Biology]]: biological electron transport, ATP synthesis
+- [[02_Thermodynamics_and_Waves_-_Overview|Physics]]: circuits, potential, current

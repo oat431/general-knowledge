@@ -10,7 +10,7 @@ created: 2026-07-26
 course_codes: ["ว121", "ว122", "ว123", "ว211", "ว212", "ว213"]
 ---
 
-# Ecosystems — ระบบนิเวศ
+# Ecosystems: ระบบนิเวศ
 
 > *"We do not inherit the earth from our ancestors; we borrow it from our children."*
 
@@ -77,6 +77,7 @@ This note covers ecosystems, food webs, energy flow, nutrient cycles, and the in
 ## 3 | Ecosystem Components
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     subgraph "ระบบนิเวศ / Ecosystem"
         subgraph "ปัจจัยทางชีวภาพ / Biotic"
@@ -101,24 +102,25 @@ graph TD
 ### 4.1 Trophic Levels
 
 ```
-Level 4: Secondary consumer (ผู้บริโภคที่ 2) — นกอินทรี / Eagle
+Level 4: Secondary consumer (ผู้บริโภคที่ 2), นกอินทรี / Eagle
     ↑ 10% energy transfer
-Level 3: Primary consumer (ผู้บริโภคที่ 1) — งู / Snake
+Level 3: Primary consumer (ผู้บริโภคที่ 1), งู / Snake
     ↑ 10% energy transfer
-Level 2: Primary consumer (ผู้บริโภคที่ 1) — หนู / Mouse
+Level 2: Primary consumer (ผู้บริโภคที่ 1), หนู / Mouse
     ↑ 10% energy transfer
-Level 1: Producer (ผู้ผลิต) — หญ้า / Grass
+Level 1: Producer (ผู้ผลิต), หญ้า / Grass
 ```
 
 ### 4.2 Energy Flow Rule
 
 $$\text{Energy at level } n+1 \approx 10\% \times \text{Energy at level } n$$
 
-This is why energy pyramids narrow at the top — there's less energy available for higher-level consumers.
+This is why energy pyramids narrow at the top: there's less energy available for higher-level consumers.
 
 ### 4.3 Decomposers' Role
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph LR
     A[สิ่งมีชีวิตตาย / Dead organisms] --> B[ผู้ย่อยสลาย / Decomposers]
     B --> C[สารอาหารในดิน / Soil nutrients]
@@ -133,6 +135,7 @@ graph LR
 ### 5.1 Water Cycle (วัฏจักรน้ำ)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     A[การระเหย / Evaporation] --> B[การควบแน่น / Condensation]
     B --> C[เมฆ / Clouds]
@@ -194,9 +197,9 @@ $$\text{N}_2 \xrightarrow{\text{fixation}} \text{NH}_3 \xrightarrow{\text{nitrif
 
 ## 8 | Cross-Links
 
-- [[02_Living_Things]] — Organisms in ecosystems
-- [[05_Plants]] — Plants as producers
-- [[06_Animals]] — Animals as consumers
-- [[14_Energy]] — Energy flow through ecosystems
-- [[19_Rocks_Minerals_Soil]] — Abiotic components
-- [[20_Weather_and_Climate]] — Climate effects on ecosystems
+- [[02_Living_Things]]: Organisms in ecosystems
+- [[05_Plants]]: Plants as producers
+- [[06_Animals]]: Animals as consumers
+- [[14_Energy]]: Energy flow through ecosystems
+- [[19_Rocks_Minerals_Soil]]: Abiotic components
+- [[20_Weather_and_Climate]]: Climate effects on ecosystems

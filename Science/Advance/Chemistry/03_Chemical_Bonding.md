@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว311"]
 ---
 
-# Chemical Bonding — พันธะเคมี
+# Chemical Bonding: พันธะเคมี
 
-> *"Chemical bonds are the glue that holds molecules together. Understanding them is understanding chemistry itself."* — Linus Pauling
+> *"Chemical bonds are the glue that holds molecules together. Understanding them is understanding chemistry itself."* (Linus Pauling)
 
-Chemical bonds (พันธะเคมี) are the attractive forces (แรงยึดเหนี่ยว) between atoms that hold them together as molecules or compounds. Studying bonding helps explain the structure, shape, and properties of substances — the heart of chemistry.
+Chemical bonds (พันธะเคมี) are the attractive forces (แรงยึดเหนี่ยว) between atoms that hold them together as molecules or compounds. Studying bonding helps explain the structure, shape, and properties of substances: the heart of chemistry.
 
 ---
 
@@ -45,6 +45,7 @@ Chemical bonds (พันธะเคมี) are the attractive forces (แร�
 ## 3 | Key Concepts
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Chemical Bonds"] --> B["Ionic"]
     A --> C["Covalent"]
@@ -238,7 +239,7 @@ Example: $\ce{CO2}$ (linear) = nonpolar, $\ce{H2O}$ (bent) = polar.
 
 ## 5 | Cross-Links
 
-- [[01_Atomic_Structure]] — Electron configuration is the foundation of bonding
-- [[02_Periodic_Table]] — Electronegativity predicts bond type
-- [[04_Intermolecular_Forces]] — Molecular polarity affects IMFs
-- [[03_Chemical_Bonding#33-covalent-bond|ตัวอย่าง Lewis]] — See additional examples
+- [[01_Atomic_Structure]]: Electron configuration is the foundation of bonding
+- [[02_Periodic_Table]]: Electronegativity predicts bond type
+- [[04_Intermolecular_Forces]]: Molecular polarity affects IMFs
+- [[03_Chemical_Bonding#33-covalent-bond|ตัวอย่าง Lewis]]: See additional examples

@@ -8,9 +8,9 @@ sources: ["[[../Advance/Physics/01_Measurement_and_Scientific_Method|Advance not
 created: 2026-10-07
 ---
 
-# Science Cheat Sheet — Index: Rules of the World
+# Science Cheat Sheet: Index: Rules of the World
 
-> *"The universe doesn't negotiate. These are the rules it runs on — and the ones we invented to run alongside it."*
+> *"The universe doesn't negotiate. These are the rules it runs on, and the ones we invented to run alongside it."*
 
 This folder distills the full Science note collection (`Fundamental/` + `Advance/`) into **5 rulebooks**, one per layer of reality. Unlike a formula list, each rule comes with its **WHY**: not just *what* the world does, but why it *must* do it that way.
 
@@ -21,6 +21,7 @@ Read them in chain order: each rulebook links to the previous and next one.
 ## The Chain: Layers of the World
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["01 Physics<br/>Laws everything obeys"] --> B["02 Chemistry<br/>Rules of matter"]
     B --> C["03 Biology<br/>Rules of the living"]
@@ -29,7 +30,7 @@ flowchart LR
 
     style A fill:#1FB854,color:#000000
     style B fill:#1EB88E,color:#000C07
-    style C fill:#1FB8AB,color:#010C0B
+    style C fill:#1FB8AB,color:#000C07
     style D fill:#1FB854,color:#000000
     style E fill:#1EB88E,color:#000C07
 ```
@@ -62,7 +63,7 @@ Each layer is built ON the one below it:
 
 1. **Start at 01** to read reality from the bottom up; jump anywhere if you need one rule.
 2. Each rule has 4 parts: **The Rule** (formula/principle with Thai term), **WHY** (why the world must work this way), **Example** (one short worked case), ***When to use*** (exam hint).
-3. Look for `> 💡 Deeper why:` callouts — first-principles asides beyond the ม.4–ม.6 curriculum. Skippable, but they're where the real understanding lives.
+3. Look for `> 💡 Deeper why:` callouts, first-principles asides beyond the ม.4–ม.6 curriculum. Skippable, but they're where the real understanding lives.
 4. Full explanations, grade-band breakdowns, and practice live in the source notes under `Fundamental/` and `Advance/`: each rulebook links back via its `sources` frontmatter.
 5. Thai rule names appear in parentheses so you can cross-reference with IPST (สสวท.) textbooks.
 

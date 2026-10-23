@@ -9,13 +9,13 @@ created: 2026-07-30
 course_codes: ["ว332"]
 ---
 
-# Object-Oriented Programming — การเขียนโปรแกรมเชิงวัตถุ
+# Object-Oriented Programming: การเขียนโปรแกรมเชิงวัตถุ
 
-> *"Object-oriented programming is an exceptionally bad idea which could only have originated in California."* — Edsger Dijkstra (famously critical, yet OOP dominates industry)
+> *"Object-oriented programming is an exceptionally bad idea which could only have originated in California."* (Edsger Dijkstra (famously critical, yet OOP dominates industry))
 
-Object-Oriented Programming (การเขียนโปรแกรมเชิงวัตถุ, OOP) is a programming paradigm built around **objects** (วัตถุ) — bundles of related data (attributes) and behavior (methods). Instead of loose variables and functions scattered across a program, OOP groups them into coherent units that model real-world entities: a `Student`, a `BankAccount`, a `Car`. This makes large programs easier to organize, extend, and maintain.
+Object-Oriented Programming (การเขียนโปรแกรมเชิงวัตถุ, OOP) is a programming paradigm built around **objects** (วัตถุ): bundles of related data (attributes) and behavior (methods). Instead of loose variables and functions scattered across a program, OOP groups them into coherent units that model real-world entities: a `Student`, a `BankAccount`, a `Car`. This makes large programs easier to organize, extend, and maintain.
 
-Python is a multi-paradigm language with first-class OOP support. This note covers the four pillars — **encapsulation**, **inheritance**, **polymorphism**, and **abstraction** — using Python's class syntax, the `self` parameter, the `__init__` constructor, and practical patterns like composition vs inheritance.
+Python is a multi-paradigm language with first-class OOP support. This note covers the four pillars: **encapsulation**, **inheritance**, **polymorphism**, and **abstraction**, using Python's class syntax, the `self` parameter, the `__init__` constructor, and practical patterns like composition vs inheritance.
 
 ---
 
@@ -38,7 +38,7 @@ Python is a multi-paradigm language with first-class OOP support. This note cove
 | ออบเจกต์ / วัตถุ | Object / Instance | Concrete thing made from a class |
 | แอตทริบิวต์ | Attribute | Data stored in an object |
 | เมธอด | Method | Function belonging to a class |
-| ผู้สร้าง / คอนสตรักเตอร์ | Constructor | `__init__` — runs at creation |
+| ผู้สร้าง / คอนสตรักเตอร์ | Constructor | `__init__`: runs at creation |
 | การห่อหุ้ม | Encapsulation | Hide internal data |
 | การสืบทอด | Inheritance | Child reuses parent code |
 | ความหลากสภาพ | Polymorphism | Same interface, different behavior |
@@ -72,7 +72,7 @@ print(d2.age)            # 5
 ### 3.2 The `__init__` Constructor and `self`
 
 - `__init__` (คอนสตรักเตอร์) is the **special method** Python calls automatically when you create an object. It initializes attributes.
-- `self` (ตัวมันเอง) refers to **the current object** — the specific instance the method is acting on. It must be the first parameter of every instance method, though Python passes it automatically.
+- `self` (ตัวมันเอง) refers to **the current object**: the specific instance the method is acting on. It must be the first parameter of every instance method, though Python passes it automatically.
 
 ```python
 class Student:
@@ -89,8 +89,8 @@ print(s.grade())   # "Pass"
 
 ### 3.3 Attributes and Methods
 
-- **Instance attributes** (แอตทริบิวต์ของอินสแตนซ์) — unique per object, set in `__init__` via `self.x = ...`.
-- **Class attributes** (แอตทริบิวต์ของคลาส) — shared by all instances, defined directly in the class body.
+- **Instance attributes** (แอตทริบิวต์ของอินสแตนซ์): unique per object, set in `__init__` via `self.x = ...`.
+- **Class attributes** (แอตทริบิวต์ของคลาส): shared by all instances, defined directly in the class body.
 
 ```python
 class Counter:
@@ -120,7 +120,7 @@ class BankAccount:
 acct = BankAccount("Anna", 1000)
 acct.deposit(500)
 print(acct.get_balance())   # 1500
-# acct.__balance            # AttributeError — protected
+# acct.__balance            # AttributeError: protected
 ```
 
 ### 3.5 Inheritance (การสืบทอด)
@@ -275,7 +275,7 @@ print(f"{s.name}: {s.grade()}")   # Ploy: A
 
 ## 5 | Cross-Links
 
-- [[07_Data_Structures]] — implement structures (Stack, Node) as classes
-- [[06_Algorithms]] — OOP organizes algorithm logic into methods
-- [[10_Databases]] — ORM models map tables to objects
-- [[11_Artificial_Intelligence]] — ML models are OOP objects (`.fit()`, `.predict()`)
+- [[07_Data_Structures]]: implement structures (Stack, Node) as classes
+- [[06_Algorithms]]: OOP organizes algorithm logic into methods
+- [[10_Databases]]: ORM models map tables to objects
+- [[11_Artificial_Intelligence]]: ML models are OOP objects (`.fit()`, `.predict()`)

@@ -11,13 +11,13 @@ created: 2026-07-30
 course_codes: ["ว341"]
 ---
 
-# Solar System and Astronomy — ระบบสุริยะและดาราศาสตร์
+# Solar System and Astronomy: ระบบสุริยะและดาราศาสตร์
 
-> *"The cosmos is within us. We are made of star-stuff."* — Carl Sagan
+> *"The cosmos is within us. We are made of star-stuff."* (Carl Sagan)
 
 Astronomy (ดาราศาสตร์) is the scientific study of celestial objects, space, and the universe. The **solar system** (ระบบสุริยะ) formed approximately $4.6$ billion years ago from a collapsing cloud of gas and dust called a **solar nebula** (เนบิวลาสุริยะ). This nebular hypothesis explains the common patterns observed: all planets orbit in the same direction, nearly in the same plane (the ecliptic), and rocky planets formed closer to the Sun while gas giants formed farther out.
 
-Our Sun (ดวงอาทิตย์) is a medium-sized star in the **main sequence** (แถบลำดับหลัก) stage. Stars like the Sun spend most of their lives converting hydrogen to helium via nuclear fusion (ปฏิกิริยานิวเคลียร์ฟิวชัน). Understanding stellar evolution — from protostar to main sequence to red giant and beyond — reveals how elements are forged in stellar cores and distributed through supernova explosions (การระเบิดของซูเปอร์โนวา).
+Our Sun (ดวงอาทิตย์) is a medium-sized star in the **main sequence** (แถบลำดับหลัก) stage. Stars like the Sun spend most of their lives converting hydrogen to helium via nuclear fusion (ปฏิกิริยานิวเคลียร์ฟิวชัน). Understanding stellar evolution: from protostar to main sequence to red giant and beyond, reveals how elements are forged in stellar cores and distributed through supernova explosions (การระเบิดของซูเปอร์โนวา).
 
 ---
 
@@ -73,7 +73,7 @@ The **nebular hypothesis** (สมมติฐานเนบิวลา):
 
 **Evidence:**
 - All planets orbit in same direction (counterclockwise from above)
-- Orbits lie in nearly the same plane (the **ecliptic** — สุริยคติ)
+- Orbits lie in nearly the same plane (the **ecliptic**, สุริยคติ)
 - The Sun has $99.86\%$ of the solar system's mass
 
 ### 3.2 The Eight Planets (ดาวเคราะห์ทั้งแปด)
@@ -94,6 +94,7 @@ The **nebular hypothesis** (สมมติฐานเนบิวลา):
 - Gas/ice giants (ดาวเคราะห์ยักษ์): large, low density, many moons, ring systems
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     SS["Solar System<br/>ระบบสุริยะ"] --> SUN["Sun ดวงอาทิตย์<br/>99.86% of mass"]
     SS --> BODIES["Celestial Bodies"]
@@ -142,6 +143,7 @@ $$4 \ce{H} \rightarrow \ce{He} + \text{energy}$$
 | Death | White dwarf | Planetary nebula → **White dwarf** | **Supernova** → Neutron star or Black hole |
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     NEB["Nebula<br/>เนบิวลา"] --> PROTO["Protostar"]
     PROTO --> MS{Mass?}
@@ -162,8 +164,8 @@ flowchart TD
 ### 3.5 The H-R Diagram (แผนภาพดาวฤกษ์)
 
 The **Hertzsprung-Russell diagram** (แผนภาพเอช-อาร์) plots stars by:
-- **x-axis**: Temperature (or spectral class: O B A F G K M) — hot on left
-- **y-axis**: Luminosity (ความสว่าง) — bright on top
+- **x-axis**: Temperature (or spectral class: O B A F G K M), hot on left
+- **y-axis**: Luminosity (ความสว่าง), bright on top
 
 **Key regions:**
 - **Main sequence** (แถบลำดับหลัก): diagonal band, $\sim 90\%$ of stars
@@ -189,7 +191,7 @@ The **Hertzsprung-Russell diagram** (แผนภาพเอช-อาร์) p
 The universe began $\sim 13.8$ billion years ago from an extremely hot, dense state.
 
 **Evidence:**
-1. **Cosmic Microwave Background** (CMB — รังสีไมโครเวฟพื้นหลัง): $2.7$ K radiation from early universe
+1. **Cosmic Microwave Background** (CMB, รังสีไมโครเวฟพื้นหลัง): $2.7$ K radiation from early universe
 2. **Hubble expansion**: galaxies moving apart (redshift)
 3. **Abundance of light elements**: $\sim 75\%$ $\ce{H}$, $\sim 25\%$ $\ce{He}$
 
@@ -232,8 +234,8 @@ $$T = \sqrt{64} = 8 \text{ years}$$
 
 ## 5 | Cross-Links
 
-- [[02_Plate_Tectonics]] — Earth's formation as a terrestrial planet
-- [[06_Weather_and_Climate]] — solar radiation drives atmospheric processes
-- [[10_Climate_Change_and_Environment]] — Milankovitch cycles and solar forcing
-- [[21_Solar_System_and_Astronomy]] — foundation from ม.1-3
-- [[03_Dynamics|Physics: Gravitation]] — Kepler's laws and orbital mechanics
+- [[02_Plate_Tectonics]]: Earth's formation as a terrestrial planet
+- [[06_Weather_and_Climate]]: solar radiation drives atmospheric processes
+- [[10_Climate_Change_and_Environment]]: Milankovitch cycles and solar forcing
+- [[21_Solar_System_and_Astronomy]]: foundation from ม.1-3
+- [[03_Dynamics|Physics: Gravitation]]: Kepler's laws and orbital mechanics

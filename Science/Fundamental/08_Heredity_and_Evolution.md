@@ -11,9 +11,9 @@ created: 2026-07-26
 course_codes: ["ว211", "ว212", "ว213"]
 ---
 
-# Heredity and Evolution — พันธุกรรมและวิวัฒนาการ
+# Heredity and Evolution: พันธุกรรมและวิวัฒนาการ
 
-> *"Nothing in biology makes sense except in the light of evolution."* — Theodosius Dobzhansky
+> *"Nothing in biology makes sense except in the light of evolution."* (Theodosius Dobzhansky)
 
 This note covers genetics, heredity, DNA, and evolutionary theory. Students learn how traits are passed from parents to offspring and how species change over time.
 
@@ -74,6 +74,7 @@ This note covers genetics, heredity, DNA, and evolutionary theory. Students lear
 ### 3.1 DNA Structure
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     A[ดีเอ็นเอ / DNA] --> B[นิวคลีโอไทด์ / Nucleotide]
     B --> C[น้ำตาล / Sugar - Deoxyribose]
@@ -96,9 +97,9 @@ graph TD
 
 ```
 DNA (ดีเอ็นเอ)
-  → Gene (ยีน) — functional segment
-    → Chromosome (โครโมโซม) — organized DNA + protein
-      → Genome (จีโนม) — complete set of chromosomes
+  → Gene (ยีน): functional segment
+    → Chromosome (โครโมโซม): organized DNA + protein
+      → Genome (จีโนม): complete set of chromosomes
 ```
 
 **Human genome:**
@@ -165,6 +166,7 @@ X   │  XX   │  XY   │
 ### 6.1 Darwin's Theory of Natural Selection
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     A[Variation in population / ความแตกต่างในประชากร] --> B[Overproduction / การผลิตจำนวนมาก]
     B --> C[Struggle for survival / การแข่งขันเพื่ออยู่รอด]
@@ -206,17 +208,17 @@ graph TD
 
 ## 8 | Real-World Examples
 
-1. **Thai rice varieties** — Selective breeding for disease resistance
-2. **Siamese fighting fish** — Artificial selection for color and fin shape
-3. **Elephant evolution** — Fossil evidence in Thailand
-4. **Sickle cell anemia** — Example of recessive genetic disorder
-5. **Antibiotic resistance** — Modern example of natural selection
+1. **Thai rice varieties:** Selective breeding for disease resistance
+2. **Siamese fighting fish:** Artificial selection for color and fin shape
+3. **Elephant evolution:** Fossil evidence in Thailand
+4. **Sickle cell anemia:** Example of recessive genetic disorder
+5. **Antibiotic resistance:** Modern example of natural selection
 
 ---
 
 ## 9 | Cross-Links
 
-- [[02_Living_Things]] — Classification and diversity of life
-- [[03_Cells]] — DNA in nucleus, cell division
-- [[06_Animals]] — Animal adaptations
-- [[07_Ecosystems]] — Natural selection in ecosystems
+- [[02_Living_Things]]: Classification and diversity of life
+- [[03_Cells]]: DNA in nucleus, cell division
+- [[06_Animals]]: Animal adaptations
+- [[07_Ecosystems]]: Natural selection in ecosystems

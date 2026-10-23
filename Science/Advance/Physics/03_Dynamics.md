@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว301"]
 ---
 
-# Dynamics — พลศาสตร์
+# Dynamics: พลศาสตร์
 
-> *"If I have seen further it is by standing on the shoulders of Giants."* — Isaac Newton
+> *"If I have seen further it is by standing on the shoulders of Giants."* (Isaac Newton)
 
-Dynamics (พลศาสตร์) is the study of motion and its **causes** — forces. While kinematics described *how* objects move, dynamics explains *why*. At the heart of classical dynamics are Newton's three laws of motion, which relate the net force on an object to its acceleration, mass, and interactions with other bodies. These laws, combined with force diagrams (free-body diagrams), allow us to analyse a vast range of situations: friction, inclined planes, circular motion, tension in ropes, and gravitation.
+Dynamics (พลศาสตร์) is the study of motion and its **causes**: forces. While kinematics described *how* objects move, dynamics explains *why*. At the heart of classical dynamics are Newton's three laws of motion, which relate the net force on an object to its acceleration, mass, and interactions with other bodies. These laws, combined with force diagrams (free-body diagrams), allow us to analyse a vast range of situations: friction, inclined planes, circular motion, tension in ropes, and gravitation.
 
 This note covers Newton's laws, types of forces (friction, normal, tension, weight), free-body diagrams, uniform circular motion, and the law of universal gravitation. Mastery of dynamics is essential for understanding work, energy, momentum, and rotational motion in subsequent topics.
 
@@ -26,7 +26,7 @@ This note covers Newton's laws, types of forces (friction, normal, tension, weig
 | Semester | Scope | Key Skills |
 |---|---|---|
 | **Semester 1** | Newton's 3 laws, friction, inclined planes, tension, circular motion, gravitation | Draw free-body diagrams, apply $F = ma$, solve friction and circular motion problems |
-| **Semester 2** | (Applied in oscillations — restoring forces) | Connect force analysis to SHM |
+| **Semester 2** | (Applied in oscillations, restoring forces) | Connect force analysis to SHM |
 
 ---
 
@@ -54,6 +54,7 @@ This note covers Newton's laws, types of forces (friction, normal, tension, weig
 ## 3 | Key Concepts
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Forces"] --> B["Contact Forces"]
     A --> C["Field Forces"]
@@ -173,7 +174,7 @@ $$F_c = \frac{mv^2}{r} = \frac{1200 \times 225}{50} = 5400\ \text{N}$$
 
 ## 5 | Cross-Links
 
-- [[02_Kinematics]] — dynamics provides the $a$ used in kinematic equations
-- [[04_Work_Energy_and_Power]] — work done by forces introduced here
-- [[05_Momentum]] — Newton's third law leads to momentum conservation
-- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — vector decomposition, trigonometry
+- [[02_Kinematics]]: dynamics provides the $a$ used in kinematic equations
+- [[04_Work_Energy_and_Power]]: work done by forces introduced here
+- [[05_Momentum]]: Newton's third law leads to momentum conservation
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]]: vector decomposition, trigonometry

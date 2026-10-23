@@ -10,9 +10,9 @@ created: 2026-07-30
 course_codes: ["ว321"]
 ---
 
-# Genetics — พันธุศาสตร์
+# Genetics: พันธุศาสตร์
 
-> *"Like begets like."* — Ancient proverb, formalized by Gregor Mendel
+> *"Like begets like."* (Ancient proverb, formalized by Gregor Mendel)
 
 Genetics (พันธุศาสตร์) is the study of heredity (การถ่ายทอดลักษณะ) and variation (ความแปรปรวน) in living organisms. Gregor Mendel's (เกรกอร์ เมนเดล) experiments with pea plants in the 1860s established the fundamental laws of inheritance through the concept of discrete hereditary factors (now called genes). His work, rediscovered in 1900 by de Vries, Correns, and von Tschermak, laid the foundation for modern genetics.
 
@@ -58,6 +58,7 @@ Modern genetics extends Mendel's work to include non-Mendelian inheritance patte
 ## 3 | Key Concepts
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     INH["Inheritance Patterns"] --> MEN["Mendelian"]
     INH --> NONMEN["Non-Mendelian"]
@@ -89,7 +90,7 @@ Cross examining one trait. Mendel crossed pure-breeding tall (TT) x pure-breedin
 | **t** | Tt | Tt |
 | **t** | Tt | Tt |
 
-- F1 generation: All Tt (tall) — demonstrates dominance.
+- F1 generation: All Tt (tall), demonstrates dominance.
 - F1 x F1 cross (Tt x Tt):
 
 |  | T | t |
@@ -132,7 +133,7 @@ To determine the genotype of a dominant phenotype (e.g., tall plant), cross it w
 
 - F2 ratio: 1 red : 2 pink : 1 white (**1:2:1** phenotypic ratio, same as genotypic).
 
-**Codominance (การถ่ายทอดลักษณะแบบเด่นร่วม):** Both alleles are fully expressed in the heterozygote. Example: In cattle, red (RR) x white (R'R') -> roan (RR') — both red and white hairs present.
+**Codominance (การถ่ายทอดลักษณะแบบเด่นร่วม):** Both alleles are fully expressed in the heterozygote. Example: In cattle, red (RR) x white (R'R') -> roan (RR'), both red and white hairs present.
 
 **Multiple Alleles:** More than two alleles exist in a population (though each individual has only two). Example: ABO blood group (หมู่เลือดเอบีโอ) has three alleles: $I^A$, $I^B$, and $i$.
 - $I^A I^A$ or $I^A i$ -> Type A
@@ -144,9 +145,9 @@ To determine the genotype of a dominant phenotype (e.g., tall plant), cross it w
 
 ### 3.6 Sex-Linked Traits (ลักษณะที่เกี่ยวข้องกับเพศ)
 
-Genes located on the X chromosome show distinctive inheritance patterns because males (XY) have only one X chromosome — they are **hemizygous**. A recessive allele on the X chromosome will be expressed in males but masked by a dominant allele in females.
+Genes located on the X chromosome show distinctive inheritance patterns because males (XY) have only one X chromosome; they are **hemizygous**. A recessive allele on the X chromosome will be expressed in males but masked by a dominant allele in females.
 
-**Example: Color blindness (ตาบอดสี)** — X-linked recessive ($X^c$):
+**Example: Color blindness (ตาบอดสี):** X-linked recessive ($X^c$):
 - $X^C X^C$: Normal female
 - $X^C X^c$: Carrier female (normal phenotype)
 - $X^c X^c$: Color-blind female (rare)
@@ -236,13 +237,13 @@ Key patterns:
 | $I^B$ | $I^A I^B$ (AB) | $I^B i$ (B) |
 | $i$ | $I^A i$ (A) | $ii$ (O) |
 
-Possible blood types: **A, B, AB, O** — each with 25% probability. This is the only cross that can produce all four blood types.
+Possible blood types: **A, B, AB, O**, each with 25% probability. This is the only cross that can produce all four blood types.
 
 ---
 
 ## 5 | Cross-Links
 
-- [[05_Cell_Division]] — meiosis as the basis of Mendel's laws
-- [[06_Molecular_Biology]] — DNA, genes, and gene expression
-- [[01_Cell_Biology]] — chromosome structure
-- [[../../Advance/Chemistry/03_Chemical_Bonding|Chemistry: Chemical Bonding]] — molecular basis of allele interactions
+- [[05_Cell_Division]]: meiosis as the basis of Mendel's laws
+- [[06_Molecular_Biology]]: DNA, genes, and gene expression
+- [[01_Cell_Biology]]: chromosome structure
+- [[../../Advance/Chemistry/03_Chemical_Bonding|Chemistry: Chemical Bonding]]: molecular basis of allele interactions

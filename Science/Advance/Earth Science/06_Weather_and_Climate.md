@@ -11,13 +11,13 @@ created: 2026-07-30
 course_codes: ["ว341"]
 ---
 
-# Weather and Climate — อากาศและภูมิอากาศ
+# Weather and Climate: อากาศและภูมิอากาศ
 
-> *"The atmosphere is to the Earth what the peel is to an apple — thin, protective, and essential."* — Anonymous meteorologist
+> *"The atmosphere is to the Earth what the peel is to an apple: thin, protective, and essential."* (Anonymous meteorologist)
 
 Weather (อากาศ) refers to the short-term state of the atmosphere at a particular place and time, including temperature, pressure, wind, and humidity. Climate (ภูมิอากาศ) is the long-term average of weather patterns over 30 years or more. Understanding the distinction between these two concepts is fundamental to Earth Science, as it governs everything from daily forecasts to global climate models (แบบจำลองภูมิอากาศ).
 
-The atmosphere (บรรยากาศ) is a layered envelope of gases surrounding Earth, held by gravity. Each layer has distinct temperature profiles and functions — from the troposphere (โทรโพสเฟียร์), where all weather occurs, to the stratosphere (สตราโทสเฟียร์), which contains the protective ozone layer (ชั้นโอโซน). Atmospheric dynamics are driven by solar radiation (รังสีจากดวงอาทิตย์) and Earth's rotation, producing global wind systems and pressure belts.
+The atmosphere (บรรยากาศ) is a layered envelope of gases surrounding Earth, held by gravity. Each layer has distinct temperature profiles and functions: from the troposphere (โทรโพสเฟียร์), where all weather occurs, to the stratosphere (สตราโทสเฟียร์), which contains the protective ozone layer (ชั้นโอโซน). Atmospheric dynamics are driven by solar radiation (รังสีจากดวงอาทิตย์) and Earth's rotation, producing global wind systems and pressure belts.
 
 ---
 
@@ -65,11 +65,12 @@ Earth's atmosphere has five principal layers, defined by temperature gradients:
 | **Stratosphere** (สตราโทสเฟียร์) | 12–50 | Increases | Ozone layer ($\ce{O3}$) absorbs UV |
 | **Mesosphere** (มีโซสเฟียร์) | 50–85 | Decreases (coldest layer) | Meteor ablation |
 | **Thermosphere** (เทอร์โมสเฟียร์) | 85–600 | Increases (to $2000\ ^\circ\text{C}$) | Auroras, ISS orbit |
-| **Exosphere** (เอกโซสเฟียร์) | 600–10,000 | — | Satellites, gradual space transition |
+| **Exosphere** (เอกโซสเฟียร์) | 600–10,000 | N/A | Satellites, gradual space transition |
 
 The **ionosphere** (ไอโอโนสเฟียร์) overlaps the mesosphere and thermosphere, where solar radiation ionizes gas molecules, enabling long-range radio communication.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     ATM["Atmosphere<br/>บรรยากาศ"] --> TROPO["Troposphere โทรโพสเฟียร์<br/>0–12 km, weather, T decreases"]
     TROPO --> STRATO["Stratosphere สตราโทสเฟียร์<br/>12–50 km, ozone layer, T rises"]
@@ -100,16 +101,16 @@ Wind (ลม) flows from high to low pressure but is deflected by the **Coriolis
 
 $$RH = \frac{\text{actual vapor pressure}}{\text{saturation vapor pressure}} \times 100\%$$
 
-Clouds form when air reaches the **dew point** (จุดน้ำค้าง) — the temperature at which condensation begins.
+Clouds form when air reaches the **dew point** (จุดน้ำค้าง): the temperature at which condensation begins.
 
 **Cloud types (ชนิดของเมฆ):**
 
 | Prefix/Suffix | Meaning | Example |
 |---|---|---|
-| **Cirro-** (ซิรโร) | High altitude ($>6$ km) | Cirrus — wispy, ice crystals |
-| **Cumulo-** (คิวมูโล) | Heaped, vertical | Cumulus — fair weather |
-| **Strato-** (สตราโต) | Layered, flat | Stratus — overcast |
-| **-nimbus** (นิมบัส) | Rain-bearing | Cumulonimbus — thunderstorms |
+| **Cirro-** (ซิรโร) | High altitude ($>6$ km) | Cirrus: wispy, ice crystals |
+| **Cumulo-** (คิวมูโล) | Heaped, vertical | Cumulus: fair weather |
+| **Strato-** (สตราโต) | Layered, flat | Stratus: overcast |
+| **-nimbus** (นิมบัส) | Rain-bearing | Cumulonimbus: thunderstorms |
 
 ### 3.4 Weather Fronts (แนวปะทะอากาศ)
 
@@ -121,8 +122,8 @@ A **front** is the boundary between two air masses (มวลอากาศ) of
 - **Stationary front** (แนวปะทะอากาศหยุดนิ่ง): Boundary does not move
 
 **Pressure systems (ระบบความกดอากาศ):**
-- **Low pressure** (ต่ำกด) — cyclone (พายุหมุน): rising air, clouds, storms
-- **High pressure** (สูงกด) — anticyclone: sinking air, clear skies
+- **Low pressure** (ต่ำกด): cyclone (พายุหมุน): rising air, clouds, storms
+- **High pressure** (สูงกด): anticyclone: sinking air, clear skies
 
 ### 3.5 Climate Zones and ENSO (เขตภูมิอากาศและ ENSO)
 
@@ -166,20 +167,20 @@ $$RH = \frac{15}{23} \times 100\% = 65.2\%$$
 
 > A towering cloud with an anvil top produces lightning and heavy rain. Identify the cloud type.
 
-**Solution:** This is a **cumulonimbus** (คิวมูโลนิมบัส) — the only cloud type associated with thunderstorms. The anvil shape (รูปทั่ง) indicates it has reached the tropopause and spread horizontally.
+**Solution:** This is a **cumulonimbus** (คิวมูโลนิมบัส), the only cloud type associated with thunderstorms. The anvil shape (รูปทั่ง) indicates it has reached the tropopause and spread horizontally.
 
 ### Type 4: Analyzing a Weather Map
 
 > A station model shows a "H" over northern Thailand in winter. Predict the weather and explain the wind direction.
 
-**Solution:** A high-pressure system brings **cool, dry, clear** weather. Air flows outward clockwise (Northern Hemisphere), so winds blow from the northeast — the **Northeast Monsoon** (ลมมรสุมตะวันออกเฉียงเหนือ), bringing cool dry air from China.
+**Solution:** A high-pressure system brings **cool, dry, clear** weather. Air flows outward clockwise (Northern Hemisphere), so winds blow from the northeast, the **Northeast Monsoon** (ลมมรสุมตะวันออกเฉียงเหนือ), bringing cool dry air from China.
 
 ---
 
 ## 5 | Cross-Links
 
-- [[../../Fundamental/20_Weather_and_Climate]] — foundation from ม.1-3
-- [[07_Oceanography]] — ocean–atmosphere coupling drives ENSO
-- [[08_Water_Cycle_and_Hydrology]] — precipitation connects atmosphere to hydrosphere
-- [[10_Climate_Change_and_Environment]] — enhanced greenhouse effect changes climate zones
-- [[../../Advance/Biology/16_Ecology|Biology: Ecology]] — climate determines biome distribution
+- [[../../Fundamental/20_Weather_and_Climate]]: foundation from ม.1-3
+- [[07_Oceanography]]: ocean–atmosphere coupling drives ENSO
+- [[08_Water_Cycle_and_Hydrology]]: precipitation connects atmosphere to hydrosphere
+- [[10_Climate_Change_and_Environment]]: enhanced greenhouse effect changes climate zones
+- [[../../Advance/Biology/16_Ecology|Biology: Ecology]]: climate determines biome distribution

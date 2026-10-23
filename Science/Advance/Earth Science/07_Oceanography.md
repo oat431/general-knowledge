@@ -10,13 +10,13 @@ created: 2026-07-30
 course_codes: ["ว341"]
 ---
 
-# Oceanography — สมุทรศาสตร์
+# Oceanography: สมุทรศาสตร์
 
-> *"We know more about the surface of the Moon than the deep ocean floor."* — Robert Ballard, discoverer of the *Titanic*
+> *"We know more about the surface of the Moon than the deep ocean floor."* (Robert Ballard, discoverer of the *Titanic*)
 
 Oceanography (สมุทรศาสตร์) is the scientific study of the oceans, covering their physical, chemical, biological, and geological aspects. Earth's oceans cover about $71\%$ of the planet's surface and contain $97\%$ of all water. The oceans regulate global climate, provide food for billions, and harbor immense biodiversity (ความหลากหลายทางชีวภาพ).
 
-The ocean is not uniform — it has distinct zones based on depth, light penetration, and distance from shore. Ocean currents (กระแสน้ำทะเล) act as a giant conveyor belt redistributing heat from equator to poles. Understanding tides (ปรากฏการณ์น้ำขึ้นน้ำลง), waves (คลื่น), and ocean chemistry is crucial for coastal management, fisheries, and understanding climate systems.
+The ocean is not uniform; it has distinct zones based on depth, light penetration, and distance from shore. Ocean currents (กระแสน้ำทะเล) act as a giant conveyor belt redistributing heat from equator to poles. Understanding tides (ปรากฏการณ์น้ำขึ้นน้ำลง), waves (คลื่น), and ocean chemistry is crucial for coastal management, fisheries, and understanding climate systems.
 
 ---
 
@@ -55,7 +55,7 @@ The ocean is not uniform — it has distinct zones based on depth, light penetra
 
 ### 3.1 Ocean Zones (เขตต่างๆ ของมหาสมุทร)
 
-Oceans are classified by two systems — **horizontal** (by distance from shore) and **vertical** (by depth/light).
+Oceans are classified by two systems: **horizontal** (by distance from shore) and **vertical** (by depth/light).
 
 **Horizontal zones:**
 
@@ -79,9 +79,9 @@ The **benthic zone** (เขตเบนธิก) is the ocean floor at all dep
 ### 3.2 Ocean Currents (กระแสน้ำทะเล)
 
 **Surface currents (กระแสน้ำผิว)** are driven by:
-1. **Global winds** (ลมประจำ) — trade winds, westerlies
-2. **Coriolis effect** (ปรากฏการณ์คอริออลิส) — deflects currents
-3. **Continental deflection** — landmasses redirect flow
+1. **Global winds** (ลมประจำ): trade winds, westerlies
+2. **Coriolis effect** (ปรากฏการณ์คอริออลิส): deflects currents
+3. **Continental deflection:** landmasses redirect flow
 
 Surface currents form large circular **gyres** (วงหมุน):
 
@@ -115,7 +115,7 @@ The Moon's gravitational effect is about **twice** that of the Sun, despite the 
 
 ### 3.4 Ocean Waves (คลื่นในมหาสมุทร)
 
-Waves are energy traveling through water — water particles move in **circular orbits** but do not travel with the wave.
+Waves are energy traveling through water: water particles move in **circular orbits** but do not travel with the wave.
 
 $$v = \sqrt{g \cdot d} \quad \text{(shallow water wave)}$$
 
@@ -132,7 +132,7 @@ When waves approach shallow water, they **slow down**, wavelength decreases, and
 - Sodium ($\ce{Na^+}$): $31\%$
 - Sulfate ($\ce{SO4^{2-}}$), Magnesium ($\ce{Mg^{2+}}$), Calcium ($\ce{Ca^{2+}}$), Potassium ($\ce{K^+}$)
 
-**Ocean pH** averages about $8.1$ — slightly alkaline. Ocean acidification (การเป็นกรดของมหาสมุทร) occurs as the ocean absorbs excess $\ce{CO2}$:
+**Ocean pH** averages about $8.1$: slightly alkaline. Ocean acidification (การเป็นกรดของมหาสมุทร) occurs as the ocean absorbs excess $\ce{CO2}$:
 
 $$\ce{CO2 + H2O -> H2CO3 -> H+ + HCO3^-}$$
 
@@ -184,8 +184,8 @@ This is the average ocean salinity.
 
 ## 5 | Cross-Links
 
-- [[06_Weather_and_Climate]] — ocean–atmosphere interaction drives ENSO and monsoons
-- [[08_Water_Cycle_and_Hydrology]] — oceans are the largest reservoir in the water cycle
-- [[10_Climate_Change_and_Environment]] — ocean acidification and sea level rise
-- [[02_Plate_Tectonics]] — continental shelves and ocean floor geology
-- [[../../Advance/Biology/16_Ecology|Biology: Ecology]] — marine ecosystems and coral reefs
+- [[06_Weather_and_Climate]]: ocean–atmosphere interaction drives ENSO and monsoons
+- [[08_Water_Cycle_and_Hydrology]]: oceans are the largest reservoir in the water cycle
+- [[10_Climate_Change_and_Environment]]: ocean acidification and sea level rise
+- [[02_Plate_Tectonics]]: continental shelves and ocean floor geology
+- [[../../Advance/Biology/16_Ecology|Biology: Ecology]]: marine ecosystems and coral reefs

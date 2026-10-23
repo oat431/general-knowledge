@@ -10,7 +10,7 @@ created: 2026-07-26
 course_codes: ["ว211", "ว212", "ว213"]
 ---
 
-# Cells — เซลล์
+# Cells: เซลล์
 
 > *"The cell is the basic unit of life."*
 
@@ -82,6 +82,7 @@ Three fundamental principles:
 ## 4 | Plant Cell vs Animal Cell
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     subgraph "เซลล์พืช / Plant Cell"
         PW[ผนังเซลล์ / Cell Wall]
@@ -160,9 +161,10 @@ $$\text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2 \rightarrow 6\text{CO}_2 + 6\t
 
 ## 7 | Cell Division
 
-### Mitosis (ไมโทซิส) — Somatic Cell Division
+### Mitosis (ไมโทซิส): Somatic Cell Division
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph LR
     A[Interphase / เฟสพัก] --> B[Prophase / โพรเฟส]
     B --> C[Metaphase / เมตาเฟส]
@@ -191,8 +193,8 @@ graph LR
 
 ## 9 | Cross-Links
 
-- [[02_Living_Things]] — Cells as the basis of all living things
-- [[04_Human_Body_Systems]] — Cell specialization in human organs
-- [[05_Plants]] — Plant cell structure and photosynthesis
-- [[08_Heredity_and_Evolution]] — DNA in nucleus, cell division
-- [[09_Matter_and_Properties]] — Substances that make up cells
+- [[02_Living_Things]]: Cells as the basis of all living things
+- [[04_Human_Body_Systems]]: Cell specialization in human organs
+- [[05_Plants]]: Plant cell structure and photosynthesis
+- [[08_Heredity_and_Evolution]]: DNA in nucleus, cell division
+- [[09_Matter_and_Properties]]: Substances that make up cells

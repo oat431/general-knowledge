@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว313"]
 ---
 
-# Organic Chemistry Fundamentals — พื้นฐานเคมีอินทรีย์
+# Organic Chemistry Fundamentals: พื้นฐานเคมีอินทรีย์
 
-> *"Organic chemistry is the chemistry of carbon compounds. Carbon has the unique ability to bond with itself and a variety of other elements, forming an enormous number of compounds."* — Peter Vollhardt
+> *"Organic chemistry is the chemistry of carbon compounds. Carbon has the unique ability to bond with itself and a variety of other elements, forming an enormous number of compounds."* (Peter Vollhardt)
 
 Organic chemistry (เคมีอินทรีย์) is the branch of chemistry that studies the structure, properties, composition, and reactions of carbon compounds (สารประกอบคาร์บอน). It forms the foundation of living systems, the chemical industry, pharmaceuticals, and materials science. This note covers the unique properties of carbon, the classes of hydrocarbons, IUPAC nomenclature, and isomerism (ภาวะไอโซเมอร์).
 
@@ -24,7 +24,7 @@ Organic chemistry (เคมีอินทรีย์) is the branch of chemis
 || Semester | Scope | Key Skills |
 ||---|---|---|
 || **Semester 1** | Organic chemistry fundamentals, nomenclature, isomers, organic reactions | Draw structures, classify compounds, assign IUPAC names |
-|| **Semester 2** | (continued in the next note) | — |
+|| **Semester 2** | (continued in the next note) | N/A |
 
 ---
 
@@ -67,18 +67,19 @@ $$\text{sp}^3: \text{tetrahedral}, 109.5° \quad \text{sp}^2: \text{trigonal}, 1
 ### 3.2 Classes of Hydrocarbons
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Hydrocarbons"] --> B["Aliphatic"]
     A --> C["Aromatic"]
-    B --> D["Alkanes — single bonds, saturated"]
-    B --> E["Alkenes — double bonds"]
-    B --> F["Alkynes — triple bonds"]
+    B --> D["Alkanes: single bonds, saturated"]
+    B --> E["Alkenes: double bonds"]
+    B --> F["Alkynes: triple bonds"]
     D --> G["Straight chain or branched"]
     E --> H["Cyclic alkenes possible"]
-    C --> I["Benzene ring — delocalized pi e-"]
+    C --> I["Benzene ring: delocalized pi e-"]
 ```
 
-#### (1) Alkanes (อัลเคน) — CₙH₂ₙ₊₂
+#### (1) Alkanes (อัลเคน): CₙH₂ₙ₊₂
 
 All single bonds, **saturated** (อิ่มตัว).
 
@@ -86,7 +87,7 @@ $$\ce{CH4, C2H6, C3H8, C4H10, ...}$$
 
 Names end in **-ane** (methane, ethane, propane, butane).
 
-#### (2) Alkenes (อัลคีน) — CₙH₂ₙ
+#### (2) Alkenes (อัลคีน): CₙH₂ₙ
 
 At least one C=C double bond, **unsaturated** (ไม่อิ่มตัว).
 
@@ -94,7 +95,7 @@ $$\ce{CH2=CH2} \text{ (ethene)}, \ce{CH3-CH=CH2} \text{ (propene)}$$
 
 Names end in **-ene** (ethene, propene, butene).
 
-#### (3) Alkynes (อัลไคน์) — CₙH₂ₙ₋₂
+#### (3) Alkynes (อัลไคน์): CₙH₂ₙ₋₂
 
 At least one C≡C triple bond.
 
@@ -199,8 +200,8 @@ This means 2 double bonds, or 1 double bond + 1 ring, or 1 triple bond.
 
 ## 5 | Cross-Links
 
-- [[03_Chemical_Bonding]] — Covalent bonds and hybridization
-- [[01_Atomic_Structure]] — Atomic structure
-- [[15_Organic_Reactions]] — Organic reactions (next)
-- [[16_Organic_Compounds_by_Functional_Group]] — Functional groups
-- [[19_Qualitative_Analysis]] — Qualitative analysis
+- [[03_Chemical_Bonding]]: Covalent bonds and hybridization
+- [[01_Atomic_Structure]]: Atomic structure
+- [[15_Organic_Reactions]]: Organic reactions (next)
+- [[16_Organic_Compounds_by_Functional_Group]]: Functional groups
+- [[19_Qualitative_Analysis]]: Qualitative analysis

@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว331"]
 ---
 
-# Data Representation — การเก็บข้อมูลในคอมพิวเตอร์
+# Data Representation: การเก็บข้อมูลในคอมพิวเตอร์
 
-> *"All information is reducible to a sequence of bits — ones and zeros, yes and no."* — adapted from Claude Shannon
+> *"All information is reducible to a sequence of bits: ones and zeros, yes and no."* (adapted from Claude Shannon)
 
-Computers store and process all data — numbers, text, images, and sound — as binary (เลขฐานสอง), sequences of 0s and 1s called bits (บิต). The IPST curriculum for ม.4 (ว331) covers how different types of real-world information are encoded into binary so the computer can manipulate them.
+Computers store and process all data: numbers, text, images, and sound, as binary (เลขฐานสอง), sequences of 0s and 1s called bits (บิต). The IPST curriculum for ม.4 (ว331) covers how different types of real-world information are encoded into binary so the computer can manipulate them.
 
 Understanding data representation (การเก็บข้อมูล) reveals the bridge between the analogue human world and the digital machine world. Students learn number-system conversions, character encoding schemes (ASCII, Unicode), and how multimedia (images, sound) is discretised, compressed, and stored.
 
@@ -96,7 +96,7 @@ A **bitmap image (ภาพบิตแมป)** is a grid of pixels (พิก�
 
 $$\text{Size (bytes)} = \text{width} \times \text{height} \times \text{bits per pixel} \div 8$$
 
-**Resolution (ความละเอียด)** — more pixels → sharper image but larger file.
+**Resolution (ความละเอียด):** more pixels → sharper image but larger file.
 
 ### 3.5 Sound Representation (การเก็บเสียง)
 
@@ -157,7 +157,7 @@ print(len(s.encode("utf-8")))   # 18
 
 ## 5 | Cross-Links
 
-- [[01_Computational_Thinking]] — abstraction applied to data
-- [[03_Boolean_Logic]] — binary values as logical true/false
-- [[06_Algorithms]] — algorithms operate on binary data
-- [[01_Numbers_and_Numeration|Mathematics: Number Systems]] — base conversion foundations
+- [[01_Computational_Thinking]]: abstraction applied to data
+- [[03_Boolean_Logic]]: binary values as logical true/false
+- [[06_Algorithms]]: algorithms operate on binary data
+- [[01_Numbers_and_Numeration|Mathematics: Number Systems]]: base conversion foundations

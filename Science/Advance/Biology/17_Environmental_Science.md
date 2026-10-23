@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว323"]
 ---
 
-# Environmental Science — วิทยาศาสตร์สิ่งแวดล้อม
+# Environmental Science: วิทยาศาสตร์สิ่งแวดล้อม
 
-> *"We do not inherit the earth from our ancestors; we borrow it from our children."* — Native American Proverb
+> *"We do not inherit the earth from our ancestors; we borrow it from our children."* (Native American Proverb)
 
-Environmental science (วิทยาศาสตร์สิ่งแวดล้อม) integrates biology, chemistry, geology, and social science to understand the natural world and how human activities impact it. At its core is the concept of biodiversity (ความหลากหลายทางชีวภาพ), which encompasses the variety of life at genetic, species, and ecosystem levels. Human activities — deforestation, pollution, overexploitation, and climate change — are driving species to extinction at rates far exceeding natural background rates.
+Environmental science (วิทยาศาสตร์สิ่งแวดล้อม) integrates biology, chemistry, geology, and social science to understand the natural world and how human activities impact it. At its core is the concept of biodiversity (ความหลากหลายทางชีวภาพ), which encompasses the variety of life at genetic, species, and ecosystem levels. Human activities: deforestation, pollution, overexploitation, and climate change, are driving species to extinction at rates far exceeding natural background rates.
 
 Sustainable development (การพัฒนาที่ยั่งยืน) seeks to meet present needs without compromising future generations' ability to meet theirs. This requires understanding ecological limits, managing natural resources responsibly, reducing pollution, and mitigating climate change (การเปลี่ยนแปลงสภาพภูมิอากาศ). Conservation biology draws on ecological principles to protect and restore biodiversity.
 
@@ -73,7 +73,7 @@ Biodiversity provides **ecosystem services** (บริการจากระ�
 
 ### 3.3 Climate Change and the Greenhouse Effect
 
-Greenhouse gases (ก๊าซเรือนกระจก) — CO₂, CH₄, N₂O, CFCs — trap infrared radiation, warming Earth's surface. Human activities (fossil fuel combustion, deforestation, agriculture) have increased atmospheric CO₂ from ~280 ppm (pre-industrial) to over 420 ppm. Consequences include rising sea levels, extreme weather, ocean acidification, and ecosystem disruption.
+Greenhouse gases (ก๊าซเรือนกระจก): CO₂, CH₄, N₂O, CFCs, trap infrared radiation, warming Earth's surface. Human activities (fossil fuel combustion, deforestation, agriculture) have increased atmospheric CO₂ from ~280 ppm (pre-industrial) to over 420 ppm. Consequences include rising sea levels, extreme weather, ocean acidification, and ecosystem disruption.
 
 ### 3.4 Pollution Types
 
@@ -118,7 +118,7 @@ The concept balances economic growth, social equity, and environmental protectio
 
 ## 5 | Cross-Links
 
-- [[16_Ecology]] — ecological foundations for environmental science
-- [[18_Biotechnology]] — biotech solutions for pollution and conservation
-- [[20_Bioethics]] — environmental ethics and policy
-- [[../../Advance/Chemistry/18_Biochemistry|Chemistry: Biochemistry]] — chemical pollutants and their effects
+- [[16_Ecology]]: ecological foundations for environmental science
+- [[18_Biotechnology]]: biotech solutions for pollution and conservation
+- [[20_Bioethics]]: environmental ethics and policy
+- [[../../Advance/Chemistry/18_Biochemistry|Chemistry: Biochemistry]]: chemical pollutants and their effects

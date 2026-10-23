@@ -9,13 +9,13 @@ created: 2026-07-30
 course_codes: ["ว323"]
 ---
 
-# Behavioral Biology — พฤติกรรมวิทยา
+# Behavioral Biology: พฤติกรรมวิทยา
 
-> *"The behavior of an organism is the sum total of its responses to internal and external stimuli."* — Niko Tinbergen
+> *"The behavior of an organism is the sum total of its responses to internal and external stimuli."* (Niko Tinbergen)
 
 Behavioral biology (พฤติกรรมวิทยา) examines how and why organisms behave as they do. Behavior (พฤติกรรม) is the observable response of an organism to stimuli in its environment. It ranges from simple reflexes to complex social interactions. The study of animal behavior (ethology, จริยวิทยา) was pioneered by Nikolaas Tinbergen, Konrad Lorenz, and Karl von Frisch, who shared the 1973 Nobel Prize for their work.
 
-Behaviors are classified as **innate** (พฤติกรรมแต่กำเนิด) — genetically programmed and present without learning — or **learned** (พฤติกรรมที่เรียนรู้) — modified by experience. Both types have evolutionary significance: innate behaviors provide immediate survival advantages, while learned behaviors allow organisms to adapt to changing environments. The interplay between nature (genes) and nurture (environment) shapes the full behavioral repertoire of an organism.
+Behaviors are classified as **innate** (พฤติกรรมแต่กำเนิด): genetically programmed and present without learning, or **learned** (พฤติกรรมที่เรียนรู้), modified by experience. Both types have evolutionary significance: innate behaviors provide immediate survival advantages, while learned behaviors allow organisms to adapt to changing environments. The interplay between nature (genes) and nurture (environment) shapes the full behavioral repertoire of an organism.
 
 ---
 
@@ -67,8 +67,8 @@ Innate behaviors are genetically determined, stereotyped, and performed correctl
 Learned behaviors result from experience and can be modified:
 
 - **Habituation** (การปรับตัว): decreased response to repeated, harmless stimuli. Example: birds ignoring scarecrows after repeated exposure
-- **Classical conditioning** (การวางเงื่อนไขแบบคลาสสิก): Pavlov's dogs — associating a neutral stimulus (bell) with an unconditioned stimulus (food) to produce a conditioned response (salivation)
-- **Operant conditioning** (การวางเงื่อนไขแบบกระทำ): Skinner's box — learning through consequences (reinforcement and punishment)
+- **Classical conditioning** (การวางเงื่อนไขแบบคลาสสิก): Pavlov's dogs, associating a neutral stimulus (bell) with an unconditioned stimulus (food) to produce a conditioned response (salivation)
+- **Operant conditioning** (การวางเงื่อนไขแบบกระทำ): Skinner's box, learning through consequences (reinforcement and punishment)
 - **Imprinting** (การพิมพ์ตรา): rapid, irreversible learning during a critical period. Lorenz demonstrated that goslings imprint on the first moving object they see after hatching
 - **Insight learning** (การหยั่งรู้): problem-solving without trial-and-error. Example: Kohler's chimpanzees stacking boxes to reach bananas
 
@@ -114,9 +114,9 @@ Zeitgebers (time-givers) such as light and temperature entrain biological clocks
 > Classify the following behaviors as innate or learned: (a) spider spinning a web, (b) dog salivating at the sound of a bell, (c) human newborn rooting for breast, (d) crow using a tool to extract insects.
 
 **Solution:**
-1. (a) Spider spinning a web → **Innate** (instinct/fixed action pattern — genetically programmed)
-2. (b) Dog salivating at bell → **Learned** (classical conditioning — Pavlov's experiment)
-3. (c) Newborn rooting reflex → **Innate** (reflex — present at birth without experience)
+1. (a) Spider spinning a web → **Innate** (instinct/fixed action pattern, genetically programmed)
+2. (b) Dog salivating at bell → **Learned** (classical conditioning, Pavlov's experiment)
+3. (c) Newborn rooting reflex → **Innate** (reflex, present at birth without experience)
 4. (d) Crow using tools → **Learned** (insight learning or observational learning)
 
 ### Type 2: Tinbergen's Four Questions
@@ -132,7 +132,7 @@ Zeitgebers (time-givers) such as light and temperature entrain biological clocks
 
 ## 5 | Cross-Links
 
-- [[16_Ecology]] — behavioral ecology, predator-prey dynamics
-- [[15_Human_Reproduction_and_Development]] — reproductive behavior, parental care
-- [[20_Bioethics]] — animal welfare and experimentation ethics
-- [[18_Biotechnology]] — behavioral genetics, transgenic behavioral studies
+- [[16_Ecology]]: behavioral ecology, predator-prey dynamics
+- [[15_Human_Reproduction_and_Development]]: reproductive behavior, parental care
+- [[20_Bioethics]]: animal welfare and experimentation ethics
+- [[18_Biotechnology]]: behavioral genetics, transgenic behavioral studies

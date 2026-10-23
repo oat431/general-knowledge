@@ -9,13 +9,13 @@ created: 2026-07-30
 course_codes: ["ว303"]
 ---
 
-# Astrophysics and Cosmology — ฟิสิกส์ดาราศาสตร์และจักรวาลวิทยา
+# Astrophysics and Cosmology: ฟิสิกส์ดาราศาสตร์และจักรวาลวิทยา
 
-> *"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself."* — Carl Sagan
+> *"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself."* (Carl Sagan)
 
-Astrophysics (ฟิสิกส์ดาราศาสตร์) applies the laws of physics to understand stars, galaxies, and the universe at large. Cosmology (จักรวาลวิทยา) is the study of the universe as a whole — its origin, evolution, large-scale structure, and ultimate fate. Modern cosmology rests on two pillars: Einstein's general relativity and the observational discovery that the universe is expanding. The Big Bang theory, supported by the cosmic microwave background and the abundance of light elements, describes a universe that began hot and dense ~13.8 billion years ago.
+Astrophysics (ฟิสิกส์ดาราศาสตร์) applies the laws of physics to understand stars, galaxies, and the universe at large. Cosmology (จักรวาลวิทยา) is the study of the universe as a whole: its origin, evolution, large-scale structure, and ultimate fate. Modern cosmology rests on two pillars: Einstein's general relativity and the observational discovery that the universe is expanding. The Big Bang theory, supported by the cosmic microwave background and the abundance of light elements, describes a universe that began hot and dense ~13.8 billion years ago.
 
-In the ว303 curriculum, students learn about stellar properties and evolution (the H-R diagram), galaxies, Hubble's law, the Big Bang theory, the cosmic microwave background, and are briefly introduced to dark matter and dark energy — two of the greatest mysteries in modern physics.
+In the ว303 curriculum, students learn about stellar properties and evolution (the H-R diagram), galaxies, Hubble's law, the Big Bang theory, the cosmic microwave background, and are briefly introduced to dark matter and dark energy: two of the greatest mysteries in modern physics.
 
 ---
 
@@ -119,7 +119,7 @@ where $H_0 \approx 70$ km/s/Mpc is **Hubble's constant** (ค่าคงที�
 
 $$z = \frac{\lambda_{\text{observed}} - \lambda_{\text{emitted}}}{\lambda_{\text{emitted}}}$$
 
-For $v \ll c$: $z \approx v/c$. Hubble's law is the primary evidence that the universe is **expanding**. It implies that all galaxies were once at the same point — the Big Bang.
+For $v \ll c$: $z \approx v/c$. Hubble's law is the primary evidence that the universe is **expanding**. It implies that all galaxies were once at the same point, the Big Bang.
 
 ### 3.6 The Big Bang Theory
 
@@ -127,7 +127,7 @@ The **Big Bang theory** (ทฤษฎีมหาวิถีปะทุกำ�
 
 1. **Hubble expansion:** galaxies recede with $v \propto d$.
 2. **Cosmic microwave background (CMB):** relic radiation at $T = 2.725$ K, discovered by Penzias and Wilson (1965).
-3. **Light element abundance:** ~75% hydrogen, ~25% helium by mass — matches Big Bang nucleosynthesis predictions.
+3. **Light element abundance:** ~75% hydrogen, ~25% helium by mass, matches Big Bang nucleosynthesis predictions.
 
 Timeline (simplified):
 
@@ -144,7 +144,7 @@ Timeline (simplified):
 
 ### 3.7 Dark Matter and Dark Energy
 
-Observations of galaxy rotation curves, gravitational lensing, and structure formation indicate that **~85% of matter is invisible** — this is **dark matter (สสารมืด)**. It does not interact electromagnetically but exerts gravitational force. Candidates include WIMPs and axions, but the nature remains unknown.
+Observations of galaxy rotation curves, gravitational lensing, and structure formation indicate that **~85% of matter is invisible**; this is **dark matter (สสารมืด)**. It does not interact electromagnetically but exerts gravitational force. Candidates include WIMPs and axions, but the nature remains unknown.
 
 Since 1998, observations of distant supernovae show that the universe's expansion is **accelerating**. This is attributed to **dark energy (พลังงานมืด)**, a mysterious form of energy permeating space, making up ~68% of the universe's total energy content.
 
@@ -156,7 +156,7 @@ $$\Omega_{\text{total}} \approx 100\% = \underbrace{5\%}_{\text{ordinary matter}
 
 ## 4 | Common Problem Types
 
-### Type 1: Hubble's law — distance and velocity
+### Type 1: Hubble's law: distance and velocity
 > A galaxy has a recession velocity of 14,000 km/s. Find its distance using $H_0 = 70$ km/s/Mpc.
 
 **Solution:**
@@ -174,7 +174,7 @@ In light-years: $200 \times 3.26 \approx 652$ million light-years.
 
 $$\lambda_{\max} = \frac{2.898 \times 10^{-3}}{T} = \frac{2.898 \times 10^{-3}}{10000} = 2.898 \times 10^{-7} \ \text{m} = 290 \ \text{nm}$$
 
-This is in the ultraviolet — the star appears blue-white. ✓
+This is in the ultraviolet: the star appears blue-white. ✓
 
 ---
 
@@ -187,7 +187,7 @@ $$L = 4\pi d^2 \, b = 4\pi (3.086 \times 10^{17})^2 (1.0 \times 10^{-10})$$
 
 $$L \approx 4\pi \times 9.52 \times 10^{34} \times 10^{-10} \approx 1.20 \times 10^{26} \ \text{W}$$
 
-This is about $0.31 \, L_\odot$ — a dim star slightly less luminous than the Sun. ✓
+This is about $0.31 \, L_\odot$: a dim star slightly less luminous than the Sun. ✓
 
 ---
 
@@ -219,7 +219,7 @@ The solar mass Schwarzschild radius is $\approx 2.95$ km. ✓
 
 ## 5 | Cross-Links
 
-- [[18_Special_Relativity]] — Relativistic effects important in high-energy astrophysics and cosmology
-- [[21_Nuclear_Physics]] — Nuclear fusion powers stars; supernova nucleosynthesis creates heavy elements
-- [[22_Particle_Physics]] — Particle physics explains conditions in the early universe and stellar cores
-- [[20_Atomic_Physics]] — Spectroscopy (emission/absorption) is the primary tool for studying stars
+- [[18_Special_Relativity]]: Relativistic effects important in high-energy astrophysics and cosmology
+- [[21_Nuclear_Physics]]: Nuclear fusion powers stars; supernova nucleosynthesis creates heavy elements
+- [[22_Particle_Physics]]: Particle physics explains conditions in the early universe and stellar cores
+- [[20_Atomic_Physics]]: Spectroscopy (emission/absorption) is the primary tool for studying stars

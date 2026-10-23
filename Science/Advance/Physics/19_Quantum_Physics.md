@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว303"]
 ---
 
-# Quantum Physics — ฟิสิกส์ควอนตัม
+# Quantum Physics: ฟิสิกส์ควอนตัม
 
-> *"If you think you understand quantum mechanics, you don't understand quantum mechanics."* — Richard Feynman
+> *"If you think you understand quantum mechanics, you don't understand quantum mechanics."* (Richard Feynman)
 
-Quantum physics emerged at the dawn of the 20th century when classical physics could not explain blackbody radiation, the photoelectric effect, and atomic spectra. Planck's quantum hypothesis (1900) and Einstein's photon theory (1905) introduced the radical idea that energy is quantized — it comes in discrete packets called quanta. This wave-particle duality of light and matter fundamentally changed our view of reality and led to technologies from lasers to transistors to quantum computing.
+Quantum physics emerged at the dawn of the 20th century when classical physics could not explain blackbody radiation, the photoelectric effect, and atomic spectra. Planck's quantum hypothesis (1900) and Einstein's photon theory (1905) introduced the radical idea that energy is quantized; it comes in discrete packets called quanta. This wave-particle duality of light and matter fundamentally changed our view of reality and led to technologies from lasers to transistors to quantum computing.
 
 For the ว303 curriculum, students study the photoelectric effect, wave-particle duality (de Broglie wavelength), the uncertainty principle, and Compton scattering. These topics form the conceptual bridge between classical physics and the modern quantum description of atoms, nuclei, and elementary particles.
 
@@ -96,7 +96,7 @@ where $\hbar = h/(2\pi) = 1.055 \times 10^{-34}$ J·s. A second form relates ene
 
 $$\Delta E \cdot \Delta t \geq \frac{\hbar}{2}$$
 
-This is not a measurement limitation but a fundamental property of nature — a particle does not simultaneously have a precise position and momentum.
+This is not a measurement limitation but a fundamental property of nature: a particle does not simultaneously have a precise position and momentum.
 
 ### 3.5 Compton Scattering
 
@@ -123,15 +123,15 @@ $$p = \frac{E}{c} = \frac{hf}{c} = \frac{h}{\lambda}$$
 
 **Solution:**
 
-Step 1 — Photon energy:
+Step 1: Photon energy:
 
 $$E = \frac{hc}{\lambda} = \frac{(6.626 \times 10^{-34})(3 \times 10^8)}{250 \times 10^{-9}} = 7.95 \times 10^{-19} \ \text{J} = 4.96 \ \text{eV}$$
 
-Step 2 — Maximum kinetic energy:
+Step 2: Maximum kinetic energy:
 
 $$K_{\max} = hf - W = 4.96 - 2.28 = 2.68 \ \text{eV}$$
 
-Step 3 — Stopping potential:
+Step 3: Stopping potential:
 
 $$V_s = \frac{K_{\max}}{e} = 2.68 \ \text{V}$$
 
@@ -178,13 +178,13 @@ $$K_e \approx 2.84 \times 10^{-16} \ \text{J} \approx 1.77 \ \text{keV}$$
 
 $$\Delta p \geq \frac{\hbar}{2\Delta x} = \frac{1.055 \times 10^{-34}}{2 \times 1.0 \times 10^{-10}} \approx 5.28 \times 10^{-25} \ \text{kg·m/s}$$
 
-This corresponds to a speed of roughly $5.8 \times 10^5$ m/s — significant at atomic scales, which explains why electrons cannot be localized within a nucleus.
+This corresponds to a speed of roughly $5.8 \times 10^5$ m/s: significant at atomic scales, which explains why electrons cannot be localized within a nucleus.
 
 ---
 
 ## 5 | Cross-Links
 
-- [[18_Special_Relativity]] — Photon energy-momentum uses relativistic relations
-- [[20_Atomic_Physics]] — Bohr model and quantized energy levels build on quantum ideas
-- [[15_Electromagnetic_Waves]] — Light as wave; photon theory adds particle nature
-- [[22_Particle_Physics]] — Quantum field theory extends quantum physics to all particles
+- [[18_Special_Relativity]]: Photon energy-momentum uses relativistic relations
+- [[20_Atomic_Physics]]: Bohr model and quantized energy levels build on quantum ideas
+- [[15_Electromagnetic_Waves]]: Light as wave; photon theory adds particle nature
+- [[22_Particle_Physics]]: Quantum field theory extends quantum physics to all particles

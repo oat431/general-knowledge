@@ -11,9 +11,9 @@ created: 2026-07-26
 course_codes: ["ว111", "ว112", "ว113", "ว211", "ว212", "ว213"]
 ---
 
-# Weather and Climate — ลมฟ้าอากาศและภูมิอากาศ
+# Weather and Climate: ลมฟ้าอากาศและภูมิอากาศ
 
-> *"Climate is what we expect, weather is what we get."* — Mark Twain
+> *"Climate is what we expect, weather is what we get."* (Mark Twain)
 
 This note covers weather observation, climate patterns, the water cycle, and atmospheric phenomena. Students progress from observing daily weather to understanding global climate systems.
 
@@ -76,6 +76,7 @@ This note covers weather observation, climate patterns, the water cycle, and atm
 ## 3 | The Water Cycle (วัฏจักรน้ำ)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     A[ดวงอาทิตย์ / Sun] -->|ให้ความร้อน| B[การระเหย / Evaporation]
     B --> C[ไอน้ำขึ้น / Water vapor rises]
@@ -117,6 +118,7 @@ graph TD
 ## 6 | Atmospheric Layers
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     E[Earth / โลก] --> T[ทรอปสเฟียร์ / Troposphere 0-12km]
     T --> S[สตราโตสเฟียร์ / Stratosphere 12-50km]
@@ -185,18 +187,18 @@ graph TD
 
 ## 10 | Real-World Examples
 
-1. **Thai monsoon** — Southwest monsoon brings rain (June-October)
-2. **Bangkok flooding** — Climate and urbanization effects
-3. **PM2.5** — Air pollution in Thai cities
-4. **Coral reef bleaching** — Rising sea temperatures
-5. **Drought** — El Niño effects on Thai agriculture
+1. **Thai monsoon:** Southwest monsoon brings rain (June-October)
+2. **Bangkok flooding:** Climate and urbanization effects
+3. **PM2.5:** Air pollution in Thai cities
+4. **Coral reef bleaching:** Rising sea temperatures
+5. **Drought:** El Niño effects on Thai agriculture
 
 ---
 
 ## 11 | Cross-Links
 
-- [[15_Heat_and_Temperature]] — Heat and atmospheric processes
-- [[07_Ecosystems]] — Climate and ecosystems
-- [[14_Energy]] — Solar energy driving weather
-- [[19_Rocks_Minerals_Soil]] — Weathering and erosion
-- [[21_Solar_System_and_Astronomy]] — Earth's atmosphere
+- [[15_Heat_and_Temperature]]: Heat and atmospheric processes
+- [[07_Ecosystems]]: Climate and ecosystems
+- [[14_Energy]]: Solar energy driving weather
+- [[19_Rocks_Minerals_Soil]]: Weathering and erosion
+- [[21_Solar_System_and_Astronomy]]: Earth's atmosphere

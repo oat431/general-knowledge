@@ -9,13 +9,13 @@ created: 2026-07-30
 course_codes: ["ว322"]
 ---
 
-# Evolution — วิวัฒนาการ
+# Evolution: วิวัฒนาการ
 
-> *"Nothing in biology makes sense except in the light of evolution."* — Theodosius Dobzhansky
+> *"Nothing in biology makes sense except in the light of evolution."* (Theodosius Dobzhansky)
 
 Evolution (วิวัฒนาการ) is the change in heritable characteristics of biological populations over successive generations. It explains the diversity of life on Earth through processes such as natural selection (การคัดสรรโดยธรรมชาติ), genetic drift (การแปรผันทางพันธุกรรม), mutation (การกลายพันธุ์), and gene flow (การไหลของยีน). Evidence comes from multiple lines: the fossil record (ซากดึกดำบรรพ์), comparative anatomy, molecular biology, and biogeography (ภูมิศาสตร์ชีวภาพ).
 
-Understanding evolution is foundational to all modern biology — it unifies fields from ecology to medicine. Darwin's theory of evolution by natural selection, supplemented by modern genetics (the Modern Synthesis), provides the framework for explaining adaptation (การปรับตัว), speciation (การเกิดชนิดใหม่), and the tree of life (ต้นไม้แห่งชีวิต).
+Understanding evolution is foundational to all modern biology; it unifies fields from ecology to medicine. Darwin's theory of evolution by natural selection, supplemented by modern genetics (the Modern Synthesis), provides the framework for explaining adaptation (การปรับตัว), speciation (การเกิดชนิดใหม่), and the tree of life (ต้นไม้แห่งชีวิต).
 
 ---
 
@@ -52,6 +52,7 @@ Understanding evolution is foundational to all modern biology — it unifies fie
 ## 3 | Key Concepts
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     MECH["Mechanisms of Evolution"] --> NS["Natural Selection"]
     MECH --> GD["Genetic Drift"]
@@ -67,21 +68,22 @@ flowchart TD
 
 ### 3.1 Evidence for Evolution
 
-Evidence comes from five main lines. **Fossil evidence** (หลักฐานซากดึกดำบรรพ์) shows progressive changes in organisms over geological time, with transitional forms like *Archaeopteryx* linking reptiles and birds. **Comparative anatomy** reveals homologous structures (e.g., vertebrate forelimbs — same bones, different functions), analogous structures (e.g., wings of insects and birds — convergent evolution, การวิวัฒนาการมารบจบ), and vestigial structures (e.g., human appendix, pelvic bones in whales). **Molecular biology** shows that organisms sharing more DNA/protein sequences are more closely related. **Biogeography** explains species distribution patterns based on continental drift and island isolation. **Embryology** shows similar developmental stages across vertebrates.
+Evidence comes from five main lines. **Fossil evidence** (หลักฐานซากดึกดำบรรพ์) shows progressive changes in organisms over geological time, with transitional forms like *Archaeopteryx* linking reptiles and birds. **Comparative anatomy** reveals homologous structures (e.g., vertebrate forelimbs, same bones, different functions), analogous structures (e.g., wings of insects and birds: convergent evolution, การวิวัฒนาการมารบจบ), and vestigial structures (e.g., human appendix, pelvic bones in whales). **Molecular biology** shows that organisms sharing more DNA/protein sequences are more closely related. **Biogeography** explains species distribution patterns based on continental drift and island isolation. **Embryology** shows similar developmental stages across vertebrates.
 
 ### 3.1.1 Patterns of Evolution
 
 Evolution can follow three distinct patterns, depending on whether species share a common ancestor and whether they evolve similar or different traits:
 
-**Divergent evolution** (วิวัฒนาการลู่ออก) occurs when related species evolve different traits from a common ancestor, adapting to different environments — e.g., Darwin's finches evolved 15+ species with different beak shapes for different foods from one ancestral finch.
+**Divergent evolution** (วิวัฒนาการลู่ออก) occurs when related species evolve different traits from a common ancestor, adapting to different environments, e.g., Darwin's finches evolved 15+ species with different beak shapes for different foods from one ancestral finch.
 
-**Convergent evolution** (วิวัฒนาการลู่เข้า) occurs when unrelated species evolve similar traits through different genetic/developmental mechanisms, arriving at the same solution to a similar problem — e.g., bird wings and insect wings both enable flight, but evolved from completely different anatomical structures.
+**Convergent evolution** (วิวัฒนาการลู่เข้า) occurs when unrelated species evolve similar traits through different genetic/developmental mechanisms, arriving at the same solution to a similar problem, e.g., bird wings and insect wings both enable flight, but evolved from completely different anatomical structures.
 
-**Parallel evolution** (วิวัฒนาการขนาน) occurs when unrelated species evolve similar traits through the same genetic/developmental mechanisms, having inherited the same ancestral "toolkit" — e.g., multiple plant species independently evolved white flowers by turning off the same pigment genes.
+**Parallel evolution** (วิวัฒนาการขนาน) occurs when unrelated species evolve similar traits through the same genetic/developmental mechanisms, having inherited the same ancestral "toolkit", e.g., multiple plant species independently evolved white flowers by turning off the same pigment genes.
 
-**Co-evolution** (วิวัฒนาการร่วม) occurs when two or more species evolve in response to each other through close ecological interactions — e.g., predator-prey arms races (cheetahs and gazelles evolving speed), or mutualistic partnerships (orchids and their specific pollinators).
+**Co-evolution** (วิวัฒนาการร่วม) occurs when two or more species evolve in response to each other through close ecological interactions, e.g., predator-prey arms races (cheetahs and gazelles evolving speed), or mutualistic partnerships (orchids and their specific pollinators).
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     ANCESTOR["Ancestral State"] --> DIV["Divergent Evolution"]
     ANCESTOR --> CONV["Convergent Evolution"]
@@ -95,17 +97,17 @@ flowchart TD
     
     style DIV fill:#1FB854,color:#000000
     style CONV fill:#1EB88E,color:#000C07
-    style PAR fill:#1FB8AB,color:#010C0B
+    style PAR fill:#1FB8AB,color:#000C07
     style COEVO fill:#19362D,color:#CDD3D1
 ```
 
 ### 3.2 Darwin's Theory and Natural Selection
 
-Darwin proposed that evolution occurs by natural selection with four key observations: (1) organisms produce more offspring than can survive, (2) there is variation (ความแปรปรวน) among individuals, (3) variation is heritable (ถ่ายทอดได้), and (4) individuals with advantageous traits survive and reproduce more (survival of the fittest — การอยู่รอดของผู้เหมาะสมที่สุด). This leads to adaptation over generations.
+Darwin proposed that evolution occurs by natural selection with four key observations: (1) organisms produce more offspring than can survive, (2) there is variation (ความแปรปรวน) among individuals, (3) variation is heritable (ถ่ายทอดได้), and (4) individuals with advantageous traits survive and reproduce more (survival of the fittest, การอยู่รอดของผู้เหมาะสมที่สุด). This leads to adaptation over generations.
 
 ### 3.3 Types of Natural Selection
 
-**Directional selection** (การคัดสรรทิศทาง) shifts the population mean toward one extreme — e.g., increasing antibiotic resistance. **Stabilizing selection** (การคัดสรรรักษาเสถียร) favors the average phenotype and reduces variation — e.g., human birth weight. **Disruptive selection** (การคัดสรรแตกกระจาย) favors both extremes over the average — e.g., seed size in birds.
+**Directional selection** (การคัดสรรทิศทาง) shifts the population mean toward one extreme, e.g., increasing antibiotic resistance. **Stabilizing selection** (การคัดสรรรักษาเสถียร) favors the average phenotype and reduces variation, e.g., human birth weight. **Disruptive selection** (การคัดสรรแตกกระจาย) favors both extremes over the average, e.g., seed size in birds.
 
 ### 3.4 Speciation
 
@@ -136,7 +138,7 @@ where $p$ = frequency of dominant allele, $q$ = frequency of recessive allele, a
 ### Type 2: Identifying Type of Selection
 > A graph shows a population's beak size distribution shifting from small to large over many generations. What type of selection is this?
 
-**Solution:** This is **directional selection** (การคัดสรรทิศทาง) — the mean phenotype shifts toward one extreme (larger beaks), indicating that larger beaks confer a survival advantage in the given environment.
+**Solution:** This is **directional selection** (การคัดสรรทิศทาง), the mean phenotype shifts toward one extreme (larger beaks), indicating that larger beaks confer a survival advantage in the given environment.
 
 ### Type 3: Evidence Analysis
 > Two species have very similar cytochrome c amino acid sequences. What does this imply about their evolutionary relationship?
@@ -147,7 +149,7 @@ where $p$ = frequency of dominant allele, $q$ = frequency of recessive allele, a
 
 ## 5 | Cross-Links
 
-- [[07_Genetics]] — prerequisite: Mendelian genetics and allele frequency
-- [[09_Diversity_of_Life]] — evolution produces biodiversity
-- [[../../Advance/Chemistry/18_Biochemistry|Chemistry: Biochemistry]] — molecular evidence (DNA, proteins) for evolution
-- [[10_Microbiology]] — rapid evolution in bacteria (antibiotic resistance)
+- [[07_Genetics]]: prerequisite: Mendelian genetics and allele frequency
+- [[09_Diversity_of_Life]]: evolution produces biodiversity
+- [[../../Advance/Chemistry/18_Biochemistry|Chemistry: Biochemistry]]: molecular evidence (DNA, proteins) for evolution
+- [[10_Microbiology]]: rapid evolution in bacteria (antibiotic resistance)

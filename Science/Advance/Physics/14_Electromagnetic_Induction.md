@@ -10,13 +10,13 @@ created: 2026-07-30
 course_codes: ["ว302"]
 ---
 
-# Electromagnetic Induction — การเหนี่ยวนำแม่เหล็กไฟฟ้า
+# Electromagnetic Induction: การเหนี่ยวนำแม่เหล็กไฟฟ้า
 
-> *"The most beautiful and important discoveries in physics have been made by following the clue of analogy."* — Michael Faraday
+> *"The most beautiful and important discoveries in physics have been made by following the clue of analogy."* (Michael Faraday)
 
-Electromagnetic induction is the generation of an electromotive force (EMF) by a changing magnetic flux. Faraday's law quantifies this relationship, and Lenz's law determines the direction of the induced current — always opposing the change that produced it. This principle underlies generators, transformers, inductors, and the entire technology of electrical power. Inductance is the magnetic analog of capacitance, and together they form the LC circuits central to AC theory.
+Electromagnetic induction is the generation of an electromotive force (EMF) by a changing magnetic flux. Faraday's law quantifies this relationship, and Lenz's law determines the direction of the induced current: always opposing the change that produced it. This principle underlies generators, transformers, inductors, and the entire technology of electrical power. Inductance is the magnetic analog of capacitance, and together they form the LC circuits central to AC theory.
 
-In ว302 Semester 2, students connect the static electricity and magnetism of Semester 1 to dynamic systems. Generators convert mechanical energy to electrical energy, while transformers step voltages up and down for efficient power transmission. AC circuit analysis introduces impedance, resonant frequency, and the power factor — concepts essential to all modern electrical engineering.
+In ว302 Semester 2, students connect the static electricity and magnetism of Semester 1 to dynamic systems. Generators convert mechanical energy to electrical energy, while transformers step voltages up and down for efficient power transmission. AC circuit analysis introduces impedance, resonant frequency, and the power factor: concepts essential to all modern electrical engineering.
 
 ---
 
@@ -26,7 +26,7 @@ In ว302 Semester 2, students connect the static electricity and magnetism of S
 
 | Semester | Scope | Key Skills |
 |---|---|---|
-| **Semester 1** | (Magnetism foundations) | — |
+| **Semester 1** | (Magnetism foundations) | N/A |
 | **Semester 2** | Faraday's law, Lenz's law, generators, transformers, inductance, AC circuits, RLC | Apply Faraday's & Lenz's laws; transformer calculations; AC impedance; resonance |
 
 ---
@@ -70,7 +70,7 @@ $$\mathcal{E} = BLv$$
 
 ### 3.3 Lenz's Law
 
-The direction of the induced current opposes the change in magnetic flux that produced it. This is a consequence of energy conservation — the law appears as the negative sign in Faraday's law.
+The direction of the induced current opposes the change in magnetic flux that produced it. This is a consequence of energy conservation: the law appears as the negative sign in Faraday's law.
 
 ### 3.4 Inductance
 
@@ -83,6 +83,7 @@ For a solenoid: $L = \mu_0 n^2 A l = \mu_0 N^2 A / l$
 **Mutual inductance:** $\mathcal{E}_2 = -M\frac{dI_1}{dt}$
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Electromagnetic Induction Applications"] --> B["Generators"]
     A --> C["Transformers"]
@@ -168,8 +169,8 @@ $$f_0 = \frac{1}{2\pi\sqrt{LC}} = \frac{1}{2\pi\sqrt{(0.01)(100 \times 10^{-6})}
 
 ## 5 | Cross-Links
 
-- [[11_Electrostatics]] — Capacitors in AC circuits provide capacitive reactance
-- [[12_Electric_Circuits]] — Ohm's law generalizes to impedance in AC
-- [[13_Magnetism]] — Magnetic fields and flux are the foundation of induction
-- [[15_Electromagnetic_Waves]] — LC oscillations radiate as EM waves
-- [[10_Heat_and_Thermodynamics]] — Power plants are heat engines driving generators
+- [[11_Electrostatics]]: Capacitors in AC circuits provide capacitive reactance
+- [[12_Electric_Circuits]]: Ohm's law generalizes to impedance in AC
+- [[13_Magnetism]]: Magnetic fields and flux are the foundation of induction
+- [[15_Electromagnetic_Waves]]: LC oscillations radiate as EM waves
+- [[10_Heat_and_Thermodynamics]]: Power plants are heat engines driving generators

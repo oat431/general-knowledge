@@ -11,9 +11,9 @@ created: 2026-07-26
 course_codes: ["ว111", "ว112", "ว113", "ว211", "ว212", "ว213"]
 ---
 
-# Electricity and Magnetism — ไฟฟ้าและแม่เหล็ก
+# Electricity and Magnetism: ไฟฟ้าและแม่เหล็ก
 
-> *"Electricity is the power that causes all natural phenomena not observed to be chemical."* — Thomas Edison
+> *"Electricity is the power that causes all natural phenomena not observed to be chemical."* (Thomas Edison)
 
 This note covers electric circuits, magnetism, electromagnetism, and their applications. Students progress from simple circuits to understanding Ohm's law and electromagnetic induction.
 
@@ -79,6 +79,7 @@ This note covers electric circuits, magnetism, electromagnetism, and their appli
 ### 3.1 Circuit Components
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     B[แบตเตอรี่ / Battery] -->|ให้แรงดัน / Provides voltage| S[สวิตช์ / Switch]
     S -->|เปิด-ปิด / On-Off| L[หลอดไฟ / Light bulb]
@@ -156,10 +157,10 @@ Where:
 
 ### 6.1 Magnetic Properties
 
-1. **Every magnet has two poles** — North (N) and South (S)
+1. **Every magnet has two poles:** North (N) and South (S)
 2. **Like poles repel, unlike poles attract**
 3. **Magnetic field lines** go from North to South outside the magnet
-4. **Earth is a giant magnet** — magnetic north and south poles
+4. **Earth is a giant magnet:** magnetic north and south poles
 
 ### 6.2 Magnetic Field Patterns
 
@@ -236,17 +237,17 @@ $$V_T = V_1 = V_2 = V_3$$
 
 ## 10 | Real-World Examples
 
-1. **Household wiring** — Parallel circuits for independent operation
-2. **Christmas lights** — Series (old) vs parallel (modern)
-3. **Electric trains** — Motors convert electrical to kinetic energy
-4. **Compass navigation** — Earth's magnetic field
-5. **Power plants** — Generators using electromagnetic induction
+1. **Household wiring:** Parallel circuits for independent operation
+2. **Christmas lights:** Series (old) vs parallel (modern)
+3. **Electric trains:** Motors convert electrical to kinetic energy
+4. **Compass navigation:** Earth's magnetic field
+5. **Power plants:** Generators using electromagnetic induction
 
 ---
 
 ## 11 | Cross-Links
 
-- [[14_Energy]] — Electrical energy
-- [[16_Light]] — Electromagnetic waves
-- [[13_Forces_and_Motion]] — Motor and generator principles
-- [[22_Technology_and_Engineering]] — Electrical technology
+- [[14_Energy]]: Electrical energy
+- [[16_Light]]: Electromagnetic waves
+- [[13_Forces_and_Motion]]: Motor and generator principles
+- [[22_Technology_and_Engineering]]: Electrical technology

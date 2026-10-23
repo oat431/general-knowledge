@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว301"]
 ---
 
-# Work, Energy, and Power — งาน พลังงาน และกำลัง
+# Work, Energy, and Power: งาน พลังงาน และกำลัง
 
-> *"Energy is not merely a quantity; it is the universal currency of the physical world."* — Adapted from Richard Feynman
+> *"Energy is not merely a quantity; it is the universal currency of the physical world."* (Adapted from Richard Feynman)
 
-Work (งาน), energy (พลังงาน), and power (กำลัง) are central concepts in physics that offer an alternative to the force-based approach of dynamics. The **work-energy theorem** shows that the net work done on an object equals the change in its kinetic energy — a powerful tool because energy is a scalar and often easier to track than vector forces. The principle of **conservation of energy** is one of the deepest laws in all of physics: energy is never created or destroyed, only transformed from one form to another.
+Work (งาน), energy (พลังงาน), and power (กำลัง) are central concepts in physics that offer an alternative to the force-based approach of dynamics. The **work-energy theorem** shows that the net work done on an object equals the change in its kinetic energy: a powerful tool because energy is a scalar and often easier to track than vector forces. The principle of **conservation of energy** is one of the deepest laws in all of physics: energy is never created or destroyed, only transformed from one form to another.
 
 This note covers the definition of work, kinetic and potential energy, the work-energy theorem, conservative and non-conservative forces, conservation of mechanical energy, power, and efficiency. These concepts recur throughout the rest of the mechanics curriculum, including rotational motion and oscillations.
 
@@ -91,6 +91,7 @@ A **non-conservative force** (แรงไม่อนุรักษ์) does p
 ### 3.6 Conservation of Mechanical Energy
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Mechanical Energy"] --> B["Kinetic Energy KE"]
     A --> C["Potential Energy PE"]
@@ -163,8 +164,8 @@ $$\eta = \frac{350}{500} \times 100\% = 70\%$$
 
 ## 5 | Cross-Links
 
-- [[03_Dynamics]] — forces in dynamics become the work in this topic
-- [[05_Momentum]] — energy and momentum together analyse collisions
-- [[06_Rotational_Motion]] — rotational kinetic energy extends this topic
-- [[07_Oscillations]] — energy oscillates between KE and PE in SHM
-- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — algebra, trigonometry
+- [[03_Dynamics]]: forces in dynamics become the work in this topic
+- [[05_Momentum]]: energy and momentum together analyse collisions
+- [[06_Rotational_Motion]]: rotational kinetic energy extends this topic
+- [[07_Oscillations]]: energy oscillates between KE and PE in SHM
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]]: algebra, trigonometry

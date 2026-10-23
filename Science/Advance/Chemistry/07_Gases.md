@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว311"]
 ---
 
-# Gases — แก๊ส
+# Gases: แก๊ส
 
-> *"Gases are the most disordered state of matter, yet they obey some of the simplest and most elegant laws in nature."* — Anonymous
+> *"Gases are the most disordered state of matter, yet they obey some of the simplest and most elegant laws in nature."* (Anonymous)
 
-Gases (แก๊ส) are a state of matter in which the particles are far apart, move freely, and possess high kinetic energy. They are studied through the kinetic molecular theory and a set of simple laws — Boyle's, Charles's, Avogadro's, Dalton's, and Graham's — that describe the relationships between pressure (P), volume (V), temperature (T), and amount (n).
+Gases (แก๊ส) are a state of matter in which the particles are far apart, move freely, and possess high kinetic energy. They are studied through the kinetic molecular theory and a set of simple laws: Boyle's, Charles's, Avogadro's, Dalton's, and Graham's; that describe the relationships between pressure (P), volume (V), temperature (T), and amount (n).
 
 ---
 
@@ -187,7 +187,7 @@ $$P_{gas} = P_{atm} - P_{water\ vapor}$$
 
 ($P_{water\ vapor}$ depends on temperature; look it up in a table.)
 
-### 3.13 Real Gases — Deviations from Ideal Behavior
+### 3.13 Real Gases: Deviations from Ideal Behavior
 
 **Real gases (แก๊สจริง)** deviate from ideal behavior when:
 - Pressure is high (ความดันสูง)
@@ -317,8 +317,8 @@ $$n = \frac{PV}{RT} = \frac{0.962 \times 0.250}{0.0821 \times 298} = 9.83 \times
 
 ## 5 | Cross-Links
 
-- [[05_Stoichiometry]] — Mole ratios are used in gas stoichiometry
-- [[06_Solutions]] — Henry's Law (gases in solution)
-- [[04_Intermolecular_Forces]] — IMFs affect the deviation of real gases from ideal
-- [[../../Advance/physics/02_Kinematics|Physics Kinematics]] — KMT uses kinematics
-- [[10_Heat_and_Thermodynamics|Physics Thermodynamics]] — Temperature and kinetic energy
+- [[05_Stoichiometry]]: Mole ratios are used in gas stoichiometry
+- [[06_Solutions]]: Henry's Law (gases in solution)
+- [[04_Intermolecular_Forces]]: IMFs affect the deviation of real gases from ideal
+- [[../../Advance/physics/02_Kinematics|Physics Kinematics]]: KMT uses kinematics
+- [[10_Heat_and_Thermodynamics|Physics Thermodynamics]]: Temperature and kinetic energy

@@ -11,9 +11,9 @@ created: 2026-07-26
 course_codes: ["ว111", "ว112", "ว113", "ว211", "ว212", "ว213"]
 ---
 
-# Technology and Engineering — เทคโนโลยีและการออกแบบ
+# Technology and Engineering: เทคโนโลยีและการออกแบบ
 
-> *"Technology is a useful servant but a dangerous master."* — Christian Lous Lange
+> *"Technology is a useful servant but a dangerous master."* (Christian Lous Lange)
 
 This note covers the engineering design process, simple machines, technology applications, and the relationship between science and technology. Students progress from building simple structures to understanding the design process and its societal impacts.
 
@@ -76,6 +76,7 @@ This note covers the engineering design process, simple machines, technology app
 ## 3 | Engineering Design Process
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     A[ระบุปัญหา / Define Problem] --> B[ค้นคว้าข้อมูล / Research]
     B --> C[กำหนดข้อกำหนด / Specify Requirements]
@@ -113,15 +114,16 @@ $$MA = \frac{\text{Distance effort moves}}{\text{Distance load moves}}$$
 ### 4.3 Compound Machines
 
 Multiple simple machines combined:
-- **Bicycle** — wheel and axle, lever, pulley, screw
-- **Scissors** — two levers (wedge at the end)
-- **Wheelbarrow** — lever + wheel and axle
+- **Bicycle:** wheel and axle, lever, pulley, screw
+- **Scissors:** two levers (wedge at the end)
+- **Wheelbarrow:** lever + wheel and axle
 
 ---
 
 ## 5 | Technology Categories
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     T[เทคโนโลยี / Technology] --> C[การสื่อสาร / Communication]
     T --> TR[การขนส่ง / Transportation]
@@ -237,8 +239,8 @@ graph TD
 
 ## 11 | Cross-Links
 
-- [[01_Scientific_Method]] — Design process parallels scientific method
-- [[13_Forces_and_Motion]] — Simple machines and forces
-- [[14_Energy]] — Energy in technology
-- [[18_Electricity_and_Magnetism]] — Electrical technology
-- [[07_Ecosystems]] — Environmental impact of technology
+- [[01_Scientific_Method]]: Design process parallels scientific method
+- [[13_Forces_and_Motion]]: Simple machines and forces
+- [[14_Energy]]: Energy in technology
+- [[18_Electricity_and_Magnetism]]: Electrical technology
+- [[07_Ecosystems]]: Environmental impact of technology

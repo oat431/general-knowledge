@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว312"]
 ---
 
-# Chemical Equilibrium — สมดุลเคมี
+# Chemical Equilibrium: สมดุลเคมี
 
-> *"A reversible reaction is a conversation between reactants and products — equilibrium is the moment neither has the last word."* — Adapted from thermodynamics
+> *"A reversible reaction is a conversation between reactants and products: equilibrium is the moment neither has the last word."* (Adapted from thermodynamics)
 
 Most chemical reactions do not go to completion; they reach a state of **dynamic equilibrium** where the forward and reverse rates are equal. The study of chemical equilibrium explains why some reactions appear to "stop" before all reactants are consumed, and gives us the tools to predict how a system at equilibrium will respond to disturbance. This is the second of three equilibrium-flavoured topics in ว312.
 
@@ -26,7 +26,7 @@ This note covers reversible reactions, the equilibrium constants $K_c$ and $K_p$
 | Semester | Scope | Key Skills |
 |---|---|---|
 | **Semester 1** | Reversible reactions, $K_c$, $K_p$, Le Chatelier's principle (conc/pressure/temp), ICE tables, heterogeneous equilibrium, $Q$ vs $K$, effect of catalysts | Write equilibrium expressions, set up and solve ICE tables, predict shift direction, calculate $K_p$ from $K_c$ |
-| **Semester 2** | (Not covered — see Thermochemistry, Kinetics, Electrochemistry) | — |
+| **Semester 2** | (Not covered, see Thermochemistry, Kinetics, Electrochemistry) |: |
 
 ---
 
@@ -110,17 +110,18 @@ Solve for $x$ (often requires approximation if $K$ is small or large).
 ### 3.6 Le Chatelier's Principle
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["System at Equilibrium"] --> B["Disturbance Applied"]
     B --> C["Concentration Change"]
     B --> D["Pressure / Volume Change"]
     B --> E["Temperature Change"]
-    C -->|"Reactant added"| F["Shift Right — products"]
-    C -->|"Product added"| G["Shift Left — reactants"]
+    C -->|"Reactant added"| F["Shift Right: products"]
+    C -->|"Product added"| G["Shift Left: reactants"]
     D -->|"Pressure up"| H["Side with fewer gas moles"]
     D -->|"Pressure down"| I["Side with more gas moles"]
-    E -->|"Temp up, endothermic"| J["Shift Right — K increases"]
-    E -->|"Temp up, exothermic"| K["Shift Left — K decreases"]
+    E -->|"Temp up, endothermic"| J["Shift Right: K increases"]
+    E -->|"Temp up, exothermic"| K["Shift Left: K decreases"]
 ```
 
 *"If a system at equilibrium is disturbed, it will shift in the direction that opposes the disturbance."*
@@ -206,10 +207,10 @@ $Q < K$, so reaction shifts **right** (towards products).
 
 ## 5 | Cross-Links
 
-- [[05_Stoichiometry]] — mole ratios, balancing equations for $K$ expressions
-- [[06_Solutions]] — concentration units in $K_c$
-- [[07_Gases]] — partial pressure in $K_p$, $PV = nRT$
-- [[08_Acids_and_Bases]] — $K_a$ and $K_b$ are equilibrium constants
-- [[10_Ionic_Equilibrium]] — $K_{sp}$ (solubility product) is an equilibrium constant
-- [[11_Thermochemistry]] — van 't Hoff equation: $K$ depends on $\Delta H$ and $T$
-- [[12_Reaction_Kinetics]] — equilibrium when forward rate = reverse rate
+- [[05_Stoichiometry]]: mole ratios, balancing equations for $K$ expressions
+- [[06_Solutions]]: concentration units in $K_c$
+- [[07_Gases]]: partial pressure in $K_p$, $PV = nRT$
+- [[08_Acids_and_Bases]]: $K_a$ and $K_b$ are equilibrium constants
+- [[10_Ionic_Equilibrium]]: $K_{sp}$ (solubility product) is an equilibrium constant
+- [[11_Thermochemistry]]: van 't Hoff equation: $K$ depends on $\Delta H$ and $T$
+- [[12_Reaction_Kinetics]]: equilibrium when forward rate = reverse rate

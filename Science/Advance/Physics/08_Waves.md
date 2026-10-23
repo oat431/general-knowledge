@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว301"]
 ---
 
-# Waves — คลื่น
+# Waves: คลื่น
 
-> *"The ripples of a single stone carry the story of the entire pond."* — Adapted from wave theory
+> *"The ripples of a single stone carry the story of the entire pond."* (Adapted from wave theory)
 
-Waves (คลื่น) are disturbances that transfer energy from one point to another without transferring matter. They arise from oscillating sources — every wave is, at its heart, a connected chain of simple harmonic oscillators. Understanding waves unifies a vast range of phenomena: sound, light, water ripples, seismic waves, and even the quantum mechanical behaviour of matter. This topic concludes Semester 2 of the ว301 curriculum and builds directly on the study of oscillations.
+Waves (คลื่น) are disturbances that transfer energy from one point to another without transferring matter. They arise from oscillating sources: every wave is, at its heart, a connected chain of simple harmonic oscillators. Understanding waves unifies a vast range of phenomena: sound, light, water ripples, seismic waves, and even the quantum mechanical behaviour of matter. This topic concludes Semester 2 of the ว301 curriculum and builds directly on the study of oscillations.
 
 This note covers wave properties (amplitude, wavelength, frequency, period, speed), types of waves (transverse and longitudinal), the wave equation, the principle of superposition, interference, standing waves, resonance in strings and pipes, and beat frequency.
 
@@ -25,7 +25,7 @@ This note covers wave properties (amplitude, wavelength, frequency, period, spee
 
 | Semester | Scope | Key Skills |
 |---|---|---|
-| **Semester 1** | (Not covered — this is Semester 2 content) | — |
+| **Semester 1** | (Not covered, this is Semester 2 content) |: |
 | **Semester 2** | Wave properties, transverse/longitudinal waves, wave equation, superposition, standing waves, resonance, beats | Apply $v = f\lambda$, solve standing wave problems in strings and pipes, compute beat frequency |
 
 ---
@@ -114,7 +114,7 @@ Only odd harmonics ($f_1, 3f_1, 5f_1, ...$).
 
 ### 3.6 Resonance
 
-A system resonates when driven at its **natural frequency**, absorbing maximum energy. In strings and air columns, resonance produces standing waves with large amplitude — the basis of musical instruments.
+A system resonates when driven at its **natural frequency**, absorbing maximum energy. In strings and air columns, resonance produces standing waves with large amplitude: the basis of musical instruments.
 
 ### 3.7 Beats
 
@@ -169,7 +169,7 @@ $$y(x,t) = 0.02\sin(4\pi x - 20\pi t)\ \text{m}$$
 
 ## 5 | Cross-Links
 
-- [[07_Oscillations]] — waves are propagating oscillations; SHM describes each particle
-- [[04_Work_Energy_and_Power]] — waves transport energy
-- [[05_Momentum]] — wave momentum in radiation pressure
-- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — sinusoidal functions, trigonometry
+- [[07_Oscillations]]: waves are propagating oscillations; SHM describes each particle
+- [[04_Work_Energy_and_Power]]: waves transport energy
+- [[05_Momentum]]: wave momentum in radiation pressure
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]]: sinusoidal functions, trigonometry

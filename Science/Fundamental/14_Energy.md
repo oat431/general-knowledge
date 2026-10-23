@@ -10,9 +10,9 @@ created: 2026-07-26
 course_codes: ["ว111", "ว112", "ว113", "ว211", "ว212", "ว213"]
 ---
 
-# Energy — พลังงาน
+# Energy: พลังงาน
 
-> *"Energy cannot be created or destroyed, only transformed."* — Law of Conservation of Energy
+> *"Energy cannot be created or destroyed, only transformed."* (Law of Conservation of Energy)
 
 This note covers forms of energy, energy transformations, conservation of energy, work, power, and renewable/non-renewable energy sources. Students progress from recognizing energy in daily life to calculating work and power.
 
@@ -74,6 +74,7 @@ This note covers forms of energy, energy transformations, conservation of energy
 ## 3 | Forms of Energy
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     E[พลังงาน / Energy] --> K[พลังงานจลน์ / Kinetic]
     E --> P[พลังงานศักย์ / Potential]
@@ -163,6 +164,7 @@ $$KE_1 + PE_1 = KE_2 + PE_2$$
 ### 5.2 Energy Flow Diagram
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph LR
     A[พลังงานเคมี / Chemical] -->|เผาไหม้ / Burning| B[พลังงานความร้อน / Thermal]
     B -->|เครื่องจักร / Engine| C[พลังงานจลน์ / Kinetic]
@@ -195,20 +197,20 @@ graph LR
 
 ## 7 | Real-World Examples
 
-1. **Roller coaster** — PE at top → KE at bottom
-2. **Rubber band** — Elastic PE → KE when released
-3. **Food** — Chemical energy → body's kinetic and thermal energy
-4. **Solar cells** — Light energy → electrical energy
-5. **Wind turbines** — Kinetic energy → electrical energy
+1. **Roller coaster:** PE at top → KE at bottom
+2. **Rubber band:** Elastic PE → KE when released
+3. **Food:** Chemical energy → body's kinetic and thermal energy
+4. **Solar cells:** Light energy → electrical energy
+5. **Wind turbines:** Kinetic energy → electrical energy
 
 ---
 
 ## 8 | Cross-Links
 
-- [[13_Forces_and_Motion]] — Work and force
-- [[15_Heat_and_Temperature]] — Thermal energy
-- [[16_Light]] — Light energy
-- [[17_Sound]] — Sound energy
-- [[18_Electricity_and_Magnetism]] — Electrical energy
-- [[07_Ecosystems]] — Energy flow in ecosystems
-- [[11_Chemical_Reactions]] — Chemical energy
+- [[13_Forces_and_Motion]]: Work and force
+- [[15_Heat_and_Temperature]]: Thermal energy
+- [[16_Light]]: Light energy
+- [[17_Sound]]: Sound energy
+- [[18_Electricity_and_Magnetism]]: Electrical energy
+- [[07_Ecosystems]]: Energy flow in ecosystems
+- [[11_Chemical_Reactions]]: Chemical energy

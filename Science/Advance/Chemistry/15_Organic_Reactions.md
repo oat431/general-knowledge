@@ -9,9 +9,9 @@ created: 2026-07-30
 course_codes: ["ว313"]
 ---
 
-# Organic Reactions — ปฏิกิริยาเคมีอินทรีย์
+# Organic Reactions: ปฏิกิริยาเคมีอินทรีย์
 
-> *"The only way to learn organic chemistry is to do organic chemistry."* — Paula Yurkanis Bruice
+> *"The only way to learn organic chemistry is to do organic chemistry."* (Paula Yurkanis Bruice)
 
 Organic reactions (ปฏิกิริยาเคมีอินทรีย์) are classified into several types according to their mechanism and the structural change that occurs: substitution, addition, elimination, condensation, hydrolysis, combustion, and redox. This note also covers the basic mechanisms SN1, SN2, E1, and E2 that explain how these reactions proceed at the molecular level.
 
@@ -24,7 +24,7 @@ Organic reactions (ปฏิกิริยาเคมีอินทรีย�
 || Semester | Scope | Key Skills |
 ||---|---|---|
 || **Semester 1** | 7 main types of organic reactions; basic mechanisms | Predict products, write equations |
-|| **Semester 2** | (continued in the next note) | — |
+|| **Semester 2** | (continued in the next note) | N/A |
 
 ---
 
@@ -121,7 +121,7 @@ A base removes a β-H while the leaving group departs in a single concerted step
 || SN1 | 3° | weak | polar protic | 2 |
 || SN2 | CH₃, 1° | strong | polar aprotic | 1 |
 || E1 | 3° | weak | polar protic | 2 |
-|| E2 | any | strong | — | 1 |
+|| E2 | any | strong | N/A | 1 |
 
 ### 3.3 Combustion Reactions (ปฏิกิริยาการเผาไหม้)
 
@@ -171,9 +171,9 @@ Monomers link together with the elimination of a small molecule such as water or
 
 $$\ce{CH3-CH=CH2 + HBr -> CH3-CHBr-CH3}$$ (2-bromopropane)
 
-### Type 2: Combustion — Balancing the Equation
+### Type 2: Combustion: Balancing the Equation
 
-> Burning 5 mol of propane — how many mol of O₂ are required?
+> Burning 5 mol of propane: how many mol of O₂ are required?
 
 **Equation:**
 
@@ -199,8 +199,8 @@ $$\ce{C3H8 + 5O2 -> 3CO2 + 4H2O}$$
 
 ## 5 | Cross-Links
 
-- [[14_Organic_Fundamentals]] — Basic structures
-- [[16_Organic_Compounds_by_Functional_Group]] — Functional groups and their reactions
-- [[17_Polymers]] — Polymerization reactions
-- [[13_Electrochemistry]] — Oxidation–reduction reactions
-- [[18_Biochemistry]] — Reactions in living systems
+- [[14_Organic_Fundamentals]]: Basic structures
+- [[16_Organic_Compounds_by_Functional_Group]]: Functional groups and their reactions
+- [[17_Polymers]]: Polymerization reactions
+- [[13_Electrochemistry]]: Oxidation–reduction reactions
+- [[18_Biochemistry]]: Reactions in living systems

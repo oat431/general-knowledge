@@ -9,13 +9,13 @@ created: 2026-07-30
 course_codes: ["ว331"]
 ---
 
-# Programming Fundamentals — พื้นฐานการเขียนโปรแกรม
+# Programming Fundamentals: พื้นฐานการเขียนโปรแกรม
 
-> *"The most important property of a program is whether it accomplishes the intention of its user."* — C.A.R. Hoare
+> *"The most important property of a program is whether it accomplishes the intention of its user."* (C.A.R. Hoare)
 
 Programming fundamentals (พื้นฐานการเขียนโปรแกรม) are the building blocks every programmer must master before tackling larger problems. The IPST curriculum for ม.4 (ว331) uses Python as the teaching language and covers variables, data types, input/output, operators, and the three control structures (โครงสร้างควบคุม): sequence, selection (if/elif/else), and iteration (for, while).
 
-By the end of the course students can write small programs that read input, compute results using arithmetic and logical operators, make decisions, repeat work with loops, and handle common errors through debugging (การดีบัก). These fundamentals underpin everything in ว332 — functions, modularity, and algorithm implementation.
+By the end of the course students can write small programs that read input, compute results using arithmetic and logical operators, make decisions, repeat work with loops, and handle common errors through debugging (การดีบัก). These fundamentals underpin everything in ว332: functions, modularity, and algorithm implementation.
 
 ---
 
@@ -45,7 +45,7 @@ By the end of the course students can write small programs that read input, comp
 | การเลือก | Selection | if / elif / else |
 | การทำซ้ำ | Iteration / Loop | for / while |
 | การดีบัก | Debugging | find & fix errors |
-| รหัสที่ซ้อนกัน | Nested structure | — |
+| รหัสที่ซ้อนกัน | Nested structure | N/A |
 
 ---
 
@@ -135,14 +135,14 @@ else:
 print(grade)   # B
 ```
 
-**Iteration — `for` loop (การทำซ้ำแบบนับ):**
+**Iteration: `for` loop (การทำซ้ำแบบนับ):**
 
 ```python
 for i in range(1, 6):       # 1,2,3,4,5
     print(i, "squared is", i*i)
 ```
 
-**Iteration — `while` loop (การทำซ้ำแบบมีเงื่อนไข):**
+**Iteration: `while` loop (การทำซ้ำแบบมีเงื่อนไข):**
 
 ```python
 n = 10
@@ -228,7 +228,7 @@ for i in range(3):           # i = 0,1,2
 
 ## 5 | Cross-Links
 
-- [[01_Computational_Thinking]] — algorithms become programs
-- [[03_Boolean_Logic]] — conditions use Boolean expressions
-- [[05_Functions_and_Modularity]] — packaging code into reusable units
-- [[06_Algorithms]] — implementing searching & sorting
+- [[01_Computational_Thinking]]: algorithms become programs
+- [[03_Boolean_Logic]]: conditions use Boolean expressions
+- [[05_Functions_and_Modularity]]: packaging code into reusable units
+- [[06_Algorithms]]: implementing searching & sorting

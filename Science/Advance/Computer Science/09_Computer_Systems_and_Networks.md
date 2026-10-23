@@ -10,11 +10,11 @@ created: 2026-07-30
 course_codes: ["ว333"]
 ---
 
-# Computer Systems and Networks — ระบบคอมพิวเตอร์และเครือข่าย
+# Computer Systems and Networks: ระบบคอมพิวเตอร์และเครือข่าย
 
-> *"The network is the computer."* — John Gage, Sun Microsystems (1984)
+> *"The network is the computer."* (John Gage, Sun Microsystems, 1984)
 
-A computer system (ระบบคอมพิวเตอร์) is more than the machine on your desk — it is the integration of **hardware** (ฮาร์ดแวร์), **software** (ซอฟต์แวร์), and the people who use them. A computer network (เครือข่ายคอมพิวเตอร์) connects these systems so they can share data and resources, from a home Wi-Fi network to the global Internet.
+A computer system (ระบบคอมพิวเตอร์) is more than the machine on your desk; it is the integration of **hardware** (ฮาร์ดแวร์), **software** (ซอฟต์แวร์), and the people who use them. A computer network (เครือข่ายคอมพิวเตอร์) connects these systems so they can share data and resources, from a home Wi-Fi network to the global Internet.
 
 This note covers the major hardware components, software categories, operating systems, network types (LAN/WAN), the TCP/IP protocol suite, IP addressing, DNS, HTTP/HTTPS, the client-server model, and foundational cybersecurity concepts (ความมั่นคงปลอดภัยไซเบอร์).
 
@@ -58,7 +58,7 @@ This note covers the major hardware components, software categories, operating s
 |---|---|---|
 | **CPU** | หน่วยประมวลผลกลาง | Executes instructions (ALU + control unit) |
 | **RAM** | หน่วยความจำหลัก | Temporary working storage; volatile |
-| **Storage** | หน่วยเก็บข้อมูล | SSD/HDD — persistent storage |
+| **Storage** | หน่วยเก็บข้อมูล | SSD/HDD: persistent storage |
 | **Input devices** | อุปกรณ์นำเข้า | Keyboard, mouse, microphone |
 | **Output devices** | อุปกรณ์แสดงผล | Monitor, speaker, printer |
 | **Motherboard** | เมนบอร์ด | Connects all components |
@@ -68,9 +68,9 @@ A common mental model: the **CPU** is the brain, **RAM** is the short-term desk,
 
 ### 3.2 Software Types (ซอฟต์แวร์)
 
-- **System software** (ซอฟต์แวร์ระบบ) — manages hardware: operating systems, device drivers, utilities.
-- **Application software** (ซอฟต์แวร์ประยุกต์) — performs user tasks: browsers, word processors, games.
-- **Firmware** (เฟิร์มแวร์) — low-level code embedded in hardware (BIOS, router OS).
+- **System software** (ซอฟต์แวร์ระบบ): manages hardware: operating systems, device drivers, utilities.
+- **Application software** (ซอฟต์แวร์ประยุกต์): performs user tasks: browsers, word processors, games.
+- **Firmware** (เฟิร์มแวร์): low-level code embedded in hardware (BIOS, router OS).
 
 ### 3.3 Operating Systems (ระบบปฏิบัติการ)
 
@@ -93,7 +93,7 @@ The operating system (OS, ระบบปฏิบัติการ) manages ha
 
 ### 3.5 The TCP/IP Protocol Suite
 
-The Internet uses the **TCP/IP** model — a stack of four layers, each with a responsibility:
+The Internet uses the **TCP/IP** model: a stack of four layers, each with a responsibility:
 
 | Layer | Role | Protocols / Devices |
 |---|---|---|
@@ -102,9 +102,10 @@ The Internet uses the **TCP/IP** model — a stack of four layers, each with a r
 | **Internet** | Routing across networks | IP, routers |
 | **Network access** | Physical transmission | Ethernet, Wi-Fi, switches |
 
-When you load a webpage, your data travels **down** the sender's stack, across the network, and **up** the receiver's stack — each layer adding/stripping its own header (encapsulation).
+When you load a webpage, your data travels **down** the sender's stack, across the network, and **up** the receiver's stack: each layer adding/stripping its own header (encapsulation).
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     TOP["Application Layer<br/>HTTP HTTPS DNS SMTP<br/>User-facing services"]
     TOP -->|encapsulate| TR["Transport Layer<br/>TCP reliable / UDP fast<br/>Reliable delivery"]
@@ -118,17 +119,17 @@ flowchart TD
 
 An **IP address** (ที่อยู่ IP) uniquely identifies a device on a network.
 
-- **IPv4:** 32-bit, written as four octets, e.g. `192.168.1.10` — about 4.3 billion addresses.
-- **IPv6:** 128-bit, e.g. `2001:db8::1` — virtually unlimited.
+- **IPv4:** 32-bit, written as four octets, e.g. `192.168.1.10`, about 4.3 billion addresses.
+- **IPv6:** 128-bit, e.g. `2001:db8::1`, virtually unlimited.
 - **Private vs public:** `192.168.x.x`, `10.x.x.x`, `172.16-31.x.x` are private (internal); the rest are public (Internet-routable).
-- **DNS (Domain Name System):** translates human names to IPs — `google.com` → `142.250.x.x`.
+- **DNS (Domain Name System):** translates human names to IPs, `google.com` → `142.250.x.x`.
 
 ### 3.7 HTTP/HTTPS and the Client-Server Model
 
 The **client-server model** (โมเดลไคลเอนต์-เซิร์ฟเวอร์): a **client** (your browser) requests a resource; a **server** (a remote computer) responds.
 
-- **HTTP** (HyperText Transfer Protocol) — the rules for requesting and serving web pages.
-- **HTTPS** — HTTP over **TLS/SSL** (การเข้ารหัส) — the connection is encrypted, shown by 🔒 in the browser.
+- **HTTP** (HyperText Transfer Protocol): the rules for requesting and serving web pages.
+- **HTTPS:** HTTP over **TLS/SSL** (การเข้ารหัส): the connection is encrypted, shown by 🔒 in the browser.
 
 A simplified request/response:
 
@@ -154,11 +155,11 @@ A simplified request/response:
 
 **Defenses:**
 
-- **Encryption** (การเข้ารหัส) — convert plaintext to ciphertext using a key (AES, RSA).
-- **Firewall** (ไฟร์วอลล์) — filter incoming/outgoing traffic by rules.
-- **Authentication** (การยืนยันตัวตน) — passwords, 2FA/MFA, biometrics.
-- **Updates/Patches** — fix known vulnerabilities.
-- **Backup** (สำรองข้อมูล) — recover from ransomware or failure.
+- **Encryption** (การเข้ารหัส): convert plaintext to ciphertext using a key (AES, RSA).
+- **Firewall** (ไฟร์วอลล์): filter incoming/outgoing traffic by rules.
+- **Authentication** (การยืนยันตัวตน): passwords, 2FA/MFA, biometrics.
+- **Updates/Patches:** fix known vulnerabilities.
+- **Backup** (สำรองข้อมูล): recover from ransomware or failure.
 
 The **CIA triad** (สามเสาหลัก) of security: **Confidentiality** (ปกปิด), **Integrity** (ความถูกต้อง), **Availability** (พร้อมใช้งาน).
 
@@ -197,7 +198,7 @@ print(f"IPv4: {is_ipv4}, Private: {private}")
 
 ### Type 3: Simple Port Scanner (Educational)
 
-> Scan a small list of common ports to see which are open (for learning only — never scan hosts you don't own).
+> Scan a small list of common ports to see which are open (for learning only, never scan hosts you don't own).
 
 **Solution:**
 ```python
@@ -219,7 +220,7 @@ def scan(host, ports):
 
 ## 5 | Cross-Links
 
-- [[10_Databases]] — databases run as server software over networks
-- [[11_Artificial_Intelligence]] — AI services delivered over client-server APIs
-- [[12_Digital_Citizenship]] — cybersecurity threats and safe online behavior
-- [[01_Numbers_and_Numeration|Mathematics: Number Systems]] — binary/hex for IP and addressing
+- [[10_Databases]]: databases run as server software over networks
+- [[11_Artificial_Intelligence]]: AI services delivered over client-server APIs
+- [[12_Digital_Citizenship]]: cybersecurity threats and safe online behavior
+- [[01_Numbers_and_Numeration|Mathematics: Number Systems]]: binary/hex for IP and addressing

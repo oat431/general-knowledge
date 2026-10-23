@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว331"]
 ---
 
-# Boolean Logic — ตรรกะแบบบูล
+# Boolean Logic: ตรรกะแบบบูล
 
-> *"The laws of thought, in their ultimate analysis, are the laws of combination of 0 and 1."* — George Boole
+> *"The laws of thought, in their ultimate analysis, are the laws of combination of 0 and 1."* (George Boole)
 
-Boolean logic (ตรรกะแบบบูล) is the algebra of truth values — true (จริง) and false (เท็จ). Introduced by George Boole in 1854, it is the mathematical foundation of digital circuit design and of every conditional statement in programming. The IPST curriculum introduces it in ม.4 (ว331) alongside data representation, because binary values are naturally logical values.
+Boolean logic (ตรรกะแบบบูล) is the algebra of truth values: true (จริง) and false (เท็จ). Introduced by George Boole in 1854, it is the mathematical foundation of digital circuit design and of every conditional statement in programming. The IPST curriculum introduces it in ม.4 (ว331) alongside data representation, because binary values are naturally logical values.
 
 Students learn the basic operations AND, OR, NOT (และ, หรือ, ไม่), extend to XOR, NAND, and NOR, build truth tables (ตารางค่าความจริง), apply De Morgan's laws to simplify expressions, and connect Boolean algebra to hardware logic gates (วงจรตรรกะ) and software `if` conditions.
 
@@ -75,9 +75,10 @@ A truth table lists every combination of inputs and the resulting output. For 2 
 
 ### 3.3 Logic Gates (วงจรตรรกะ)
 
-Logic gates are the hardware realisations of Boolean operations. NAND and NOR are **universal gates (เกตสากล)** — any Boolean function can be built from them alone.
+Logic gates are the hardware realisations of Boolean operations. NAND and NOR are **universal gates (เกตสากล)**: any Boolean function can be built from them alone.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     GATES["Logic Gates<br/>วงจรตรรกะ"] --> BASIC["Basic Gates"]
     GATES --> UNIV["Universal Gates<br/>เกตสากล"]
@@ -183,7 +184,7 @@ print(alarm)  # True → odd count triggered
 
 ## 5 | Cross-Links
 
-- [[02_Data_Representation]] — binary 0/1 as logical false/true
-- [[04_Programming_Fundamentals]] — `if` conditions use Boolean logic
-- [[06_Algorithms]] — decision steps in algorithms
-- [[../../Advance/Mathematics/Fundamental/17_Sets|Mathematics: Sets]] — set operations mirror Boolean algebra
+- [[02_Data_Representation]]: binary 0/1 as logical false/true
+- [[04_Programming_Fundamentals]]: `if` conditions use Boolean logic
+- [[06_Algorithms]]: decision steps in algorithms
+- [[../../Advance/Mathematics/Fundamental/17_Sets|Mathematics: Sets]]: set operations mirror Boolean algebra

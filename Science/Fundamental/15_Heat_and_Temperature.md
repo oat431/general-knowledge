@@ -11,7 +11,7 @@ created: 2026-07-26
 course_codes: ["ว111", "ว112", "ว113", "ว211", "ว212", "ว213"]
 ---
 
-# Heat and Temperature — ความร้อนและอุณหภูมิ
+# Heat and Temperature: ความร้อนและอุณหภูมิ
 
 > *"Heat is not a substance but a form of energy."*
 
@@ -94,6 +94,7 @@ $$K = °C + 273.15$$
 ### 4.1 Three Methods
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 graph TD
     A[การถ่ายเทความร้อน / Heat Transfer] --> B[การนำ / Conduction]
     A --> C[การพา / Convection]
@@ -191,17 +192,17 @@ Where:
 
 ## 8 | Real-World Examples
 
-1. **Cooking** — Heat transfer methods in Thai cooking (stir-frying = conduction, boiling = convection)
-2. **Air conditioning** — Convection cycles in rooms
-3. **Thermos flask** — Minimizing all three heat transfer methods
-4. **Earth's atmosphere** — Greenhouse effect via radiation
-5. **Sweating** — Evaporation cools the body
+1. **Cooking:** Heat transfer methods in Thai cooking (stir-frying = conduction, boiling = convection)
+2. **Air conditioning:** Convection cycles in rooms
+3. **Thermos flask:** Minimizing all three heat transfer methods
+4. **Earth's atmosphere:** Greenhouse effect via radiation
+5. **Sweating:** Evaporation cools the body
 
 ---
 
 ## 9 | Cross-Links
 
-- [[09_Matter_and_Properties]] — States of matter and changes
-- [[14_Energy]] — Thermal energy
-- [[20_Weather_and_Climate]] — Heat and weather patterns
-- [[04_Human_Body_Systems]] — Body temperature regulation
+- [[09_Matter_and_Properties]]: States of matter and changes
+- [[14_Energy]]: Thermal energy
+- [[20_Weather_and_Climate]]: Heat and weather patterns
+- [[04_Human_Body_Systems]]: Body temperature regulation

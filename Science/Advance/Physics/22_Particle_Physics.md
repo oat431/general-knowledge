@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว303"]
 ---
 
-# Particle Physics — ฟิสิกส์อนุภาค
+# Particle Physics: ฟิสิกส์อนุภาค
 
-> *"I learned very early the difference between knowing the name of something and knowing something."* — Richard Feynman
+> *"I learned very early the difference between knowing the name of something and knowing something."* (Richard Feynman)
 
-Particle physics (ฟิสิกส์อนุภาค) is the study of the fundamental constituents of matter and the forces that govern their interactions. As physicists probed deeper into the atom — past nuclei into the subnuclear realm — they discovered a bewildering "zoo" of particles. By the 1970s, these were unified into the elegant **Standard Model**, which describes all known matter in terms of a small set of fundamental particles and three of the four fundamental forces. The Higgs boson discovery in 2012 completed the model.
+Particle physics (ฟิสิกส์อนุภาค) is the study of the fundamental constituents of matter and the forces that govern their interactions. As physicists probed deeper into the atom: past nuclei into the subnuclear realm; they discovered a bewildering "zoo" of particles. By the 1970s, these were unified into the elegant **Standard Model**, which describes all known matter in terms of a small set of fundamental particles and three of the four fundamental forces. The Higgs boson discovery in 2012 completed the model.
 
 In the ว303 curriculum, students are introduced to the Standard Model at a conceptual level: fundamental particles (quarks and leptons), the four fundamental forces and their carriers, antimatter, and qualitative understanding of Feynman diagrams. The goal is conceptual literacy rather than advanced quantum field theory.
 
@@ -73,7 +73,7 @@ The strong force binds quarks inside hadrons and holds nuclei together (via resi
 
 All matter particles are **fermions** (half-integer spin) and come in two families:
 
-**Quarks (ควาร์ก)** — six "flavors" in three generations:
+**Quarks (ควาร์ก):** six "flavors" in three generations:
 
 | Generation | Up-type (+2/3) | Down-type (−1/3) |
 |---|---|---|
@@ -83,7 +83,7 @@ All matter particles are **fermions** (half-integer spin) and come in two famili
 
 Quarks are never found in isolation (confinement). They have fractional charges: +2/3 or −1/3 of the electron charge.
 
-**Leptons (เลปตอน)** — six particles in three generations:
+**Leptons (เลปตอน):** six particles in three generations:
 
 | Generation | Charged lepton | Neutrino |
 |---|---|---|
@@ -129,15 +129,15 @@ A **Feynman diagram (ไดอะแกรมเฟย์นแมน)** is a sp
 - **Time** flows left to right (or bottom to top, by convention).
 - **Straight lines** represent fermions (matter particles).
 - **Wavy lines** represent photons; **curly lines** represent gluons; **dashed lines** represent Higgs bosons.
-- **Vertices** (intersection points) represent interactions — each vertex involves a force carrier.
+- **Vertices** (intersection points) represent interactions: each vertex involves a force carrier.
 
-Example: electron-electron scattering via photon exchange — two electrons approach, exchange a virtual photon, and scatter apart.
+Example: electron-electron scattering via photon exchange, two electrons approach, exchange a virtual photon, and scatter apart.
 
 At the high school level, students read these diagrams qualitatively: identify incoming particles, exchanged force carriers, and outgoing products.
 
 ### 3.7 The Higgs Mechanism (Introduction)
 
-The **Higgs boson (บอสอนฮิกส์)**, discovered at CERN in 2012, arises from the Higgs field that permeates all space. Particles acquire mass through interaction with this field — the stronger the coupling, the more massive the particle. Photons and gluons do not couple to the Higgs field and are therefore massless (gluons are massless in the Standard Model Lagrangian, though confinement complicates the picture).
+The **Higgs boson (บอสอนฮิกส์)**, discovered at CERN in 2012, arises from the Higgs field that permeates all space. Particles acquire mass through interaction with this field: the stronger the coupling, the more massive the particle. Photons and gluons do not couple to the Higgs field and are therefore massless (gluons are massless in the Standard Model Lagrangian, though confinement complicates the picture).
 
 ---
 
@@ -205,7 +205,7 @@ This is in the gamma-ray region. A nearby nucleus is needed to conserve momentum
 
 ## 5 | Cross-Links
 
-- [[18_Special_Relativity]] — Relativistic energy-momentum relations are essential for particle reactions
-- [[19_Quantum_Physics]] — Quantum field theory underlies the Standard Model
-- [[21_Nuclear_Physics]] — Beta decay is a weak-force process; nuclear reactions involve hadrons
-- [[23_Astrophysics_and_Cosmology]] — Particle physics explains processes in the early universe and stellar cores
+- [[18_Special_Relativity]]: Relativistic energy-momentum relations are essential for particle reactions
+- [[19_Quantum_Physics]]: Quantum field theory underlies the Standard Model
+- [[21_Nuclear_Physics]]: Beta decay is a weak-force process; nuclear reactions involve hadrons
+- [[23_Astrophysics_and_Cosmology]]: Particle physics explains processes in the early universe and stellar cores

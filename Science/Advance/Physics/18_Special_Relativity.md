@@ -9,13 +9,13 @@ created: 2026-07-30
 course_codes: ["ว303"]
 ---
 
-# Special Relativity — ทฤษฎีสัมพัทธภาพพิเศษ
+# Special Relativity: ทฤษฎีสัมพัทธภาพพิเศษ
 
-> *"Put your hand on a hot stove for a minute, and it seems like an hour. Sit with a pretty girl for an hour, and it seems like a minute. THAT'S relativity."* — Albert Einstein
+> *"Put your hand on a hot stove for a minute, and it seems like an hour. Sit with a pretty girl for an hour, and it seems like a minute. THAT'S relativity."* (Albert Einstein)
 
 Special relativity, published by Albert Einstein in 1905, revolutionized our understanding of space and time. It discards the notion of absolute time inherited from Newtonian mechanics and establishes that space and time are interwoven into a single four-dimensional continuum called spacetime. The theory is built on two simple postulates yet yields profound consequences: moving clocks run slow, moving rods shrink, and mass is a form of energy.
 
-For Thai high school physics (ว303), students focus on the kinematic consequences of the theory — time dilation, length contraction, relativistic momentum, and mass-energy equivalence — along with an introduction to Lorentz transformations. Mastery of these concepts lays the groundwork for understanding modern particle physics and cosmology.
+For Thai high school physics (ว303), students focus on the kinematic consequences of the theory: time dilation, length contraction, relativistic momentum, and mass-energy equivalence, along with an introduction to Lorentz transformations. Mastery of these concepts lays the groundwork for understanding modern particle physics and cosmology.
 
 ---
 
@@ -76,6 +76,7 @@ $$\gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}$$
 Note that $\gamma \geq 1$, with $\gamma \to \infty$ as $v \to c$.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Physics Frameworks"] --> B["Classical Mechanics"]
     A --> C["Special Relativity"]
@@ -95,7 +96,7 @@ A clock moving relative to an observer ticks slower. If $\Delta t_0$ is the **pr
 
 $$\Delta t = \gamma \, \Delta t_0$$
 
-Since $\gamma > 1$, we always have $\Delta t > \Delta t_0$ — the moving clock appears to run slow.
+Since $\gamma > 1$, we always have $\Delta t > \Delta t_0$: the moving clock appears to run slow.
 
 ### 3.4 Length Contraction
 
@@ -103,7 +104,7 @@ An object moving relative to an observer appears shortened **along the direction
 
 $$L = \frac{L_0}{\gamma} = L_0 \sqrt{1 - \frac{v^2}{c^2}}$$
 
-Perpendicular dimensions are unaffected — contraction occurs only along the direction of relative motion.
+Perpendicular dimensions are unaffected: contraction occurs only along the direction of relative motion.
 
 ### 3.5 Relativistic Momentum
 
@@ -111,7 +112,7 @@ Classical momentum $p = mv$ fails at high speeds. The relativistic momentum is:
 
 $$p = \gamma m_0 v = \frac{m_0 v}{\sqrt{1 - v^2/c^2}}$$
 
-where $m_0$ is the **rest mass**. As $v \to c$, $p \to \infty$, which explains why no massive object can reach the speed of light — it would require infinite momentum (and infinite energy).
+where $m_0$ is the **rest mass**. As $v \to c$, $p \to \infty$, which explains why no massive object can reach the speed of light; it would require infinite momentum (and infinite energy).
 
 ### 3.6 Mass-Energy Equivalence
 
@@ -146,17 +147,17 @@ This guarantees that no composition of velocities exceeds $c$.
 
 **Solution:**
 
-Step 1 — Compute Lorentz factor:
+Step 1: Compute Lorentz factor:
 
 $$\gamma = \frac{1}{\sqrt{1 - 0.98^2}} = \frac{1}{\sqrt{1 - 0.9604}} = \frac{1}{\sqrt{0.0396}} \approx 5.03$$
 
-Step 2 — Dilated lifetime in Earth frame:
+Step 2: Dilated lifetime in Earth frame:
 
 $$\Delta t = \gamma \, \Delta t_0 = 5.03 \times 2.2 \ \mu\text{s} \approx 11.1 \ \mu\text{s}$$
 
-Step 3 — Distance traveled: $d = v \Delta t = 0.98 \times 3 \times 10^8 \times 11.1 \times 10^{-6} \approx 3260 \ \text{m}$
+Step 3: Distance traveled: $d = v \Delta t = 0.98 \times 3 \times 10^8 \times 11.1 \times 10^{-6} \approx 3260 \ \text{m}$
 
-From Earth's perspective, the muon travels ~3.3 km — not quite 10 km. But in the muon's frame, the atmosphere is **length-contracted**: $L = 10000/5.03 \approx 1990$ m, which it covers in its 2.2 μs lifetime. ✓
+From Earth's perspective, the muon travels ~3.3 km, not quite 10 km. But in the muon's frame, the atmosphere is **length-contracted**: $L = 10000/5.03 \approx 1990$ m, which it covers in its 2.2 μs lifetime. ✓
 
 ---
 
@@ -167,7 +168,7 @@ From Earth's perspective, the muon travels ~3.3 km — not quite 10 km. But in t
 
 $$E = mc^2 = (0.001 \ \text{kg})(3.00 \times 10^8 \ \text{m/s})^2 = 9.00 \times 10^{13} \ \text{J}$$
 
-That is about 25,000 MWh — enough to power a small city for a day.
+That is about 25,000 MWh: enough to power a small city for a day.
 
 ---
 
@@ -190,7 +191,7 @@ $$p = \gamma m_0 v = 1.898 \times 1.67 \times 10^{-27} \times 0.85 \times 3 \tim
 
 ## 5 | Cross-Links
 
-- [[15_Electromagnetic_Waves]] — Maxwell's equations predict c, motivating the second postulate
-- [[19_Quantum_Physics]] — Relativistic quantum mechanics extends SR to quantum particles
-- [[21_Nuclear_Physics]] — Mass-energy equivalence explains nuclear binding energy and fission/fusion energy
-- [[23_Astrophysics_and_Cosmology]] — Relativistic effects are crucial in high-energy astrophysical phenomena
+- [[15_Electromagnetic_Waves]]: Maxwell's equations predict c, motivating the second postulate
+- [[19_Quantum_Physics]]: Relativistic quantum mechanics extends SR to quantum particles
+- [[21_Nuclear_Physics]]: Mass-energy equivalence explains nuclear binding energy and fission/fusion energy
+- [[23_Astrophysics_and_Cosmology]]: Relativistic effects are crucial in high-energy astrophysical phenomena

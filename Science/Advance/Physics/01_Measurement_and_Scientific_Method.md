@@ -9,11 +9,11 @@ created: 2026-07-30
 course_codes: ["ว301"]
 ---
 
-# Measurement and Scientific Method — การวัดและกระบวนการทางวิทยาศาสตร์
+# Measurement and Scientific Method: การวัดและกระบวนการทางวิทยาศาสตร์
 
-> *"Measure what is measurable, and make measurable what is not so."* — Galileo Galilei
+> *"Measure what is measurable, and make measurable what is not so."* (Galileo Galilei)
 
-Physics is fundamentally an experimental science, and every experiment begins with measurement. In this first topic of the ม.4 Physics (ว301) curriculum, students learn the foundations of scientific inquiry: how to pose questions, form hypotheses, design experiments, collect and analyse data, and communicate results. Equally important is the language of measurement — the International System of Units (SI), significant figures, dimensional analysis, and uncertainty — which together allow physicists to report results that are reproducible and meaningful.
+Physics is fundamentally an experimental science, and every experiment begins with measurement. In this first topic of the ม.4 Physics (ว301) curriculum, students learn the foundations of scientific inquiry: how to pose questions, form hypotheses, design experiments, collect and analyse data, and communicate results. Equally important is the language of measurement, the International System of Units (SI), significant figures, dimensional analysis, and uncertainty: which together allow physicists to report results that are reproducible and meaningful.
 
 This note covers the scientific method, SI base and derived units, unit conversion, significant figures, the rules for propagation of uncertainty, and dimensional analysis. These skills underpin every subsequent topic in mechanics and waves.
 
@@ -55,12 +55,12 @@ This note covers the scientific method, SI base and derived units, unit conversi
 
 The scientific method is a systematic cycle of inquiry:
 
-1. **Observation** — observe a phenomenon and ask a question
-2. **Hypothesis** — propose a testable, falsifiable explanation
-3. **Experiment** — design a controlled experiment (independent, dependent, control variables)
-4. **Analysis** — collect data, process with statistics, plot graphs
-5. **Conclusion** — accept, revise, or reject the hypothesis
-6. **Communication** — publish so others can replicate
+1. **Observation:** observe a phenomenon and ask a question
+2. **Hypothesis:** propose a testable, falsifiable explanation
+3. **Experiment:** design a controlled experiment (independent, dependent, control variables)
+4. **Analysis:** collect data, process with statistics, plot graphs
+5. **Conclusion:** accept, revise, or reject the hypothesis
+6. **Communication:** publish so others can replicate
 
 A **theory** is a well-substantiated explanation; a **law** is a concise description of a pattern (often mathematical) that holds across a wide range of conditions.
 
@@ -110,8 +110,8 @@ Example: $2.50\ \text{cm} \times 3.4\ \text{cm} = 8.5\ \text{cm}^2$ (2 sig figs)
 
 ### 3.5 Uncertainty and Error
 
-**Systematic error** (ความคลาดเคลื่อนเชิงเป็นระบบ) — consistent bias (e.g. zeroed incorrectly). Reduced by calibration.
-**Random error** (ความคลาดเคลื่อนเชิงสุ่ม) — unpredictable fluctuations. Reduced by averaging.
+**Systematic error** (ความคลาดเคลื่อนเชิงเป็นระบบ): consistent bias (e.g. zeroed incorrectly). Reduced by calibration.
+**Random error** (ความคลาดเคลื่อนเชิงสุ่ม): unpredictable fluctuations. Reduced by averaging.
 
 For a measured value $x \pm \Delta x$, the **fractional uncertainty** is:
 
@@ -124,14 +124,14 @@ $$\frac{\Delta x}{x} \times 100\%$$
 
 ### 3.6 Dimensional Analysis
 
-Every physical equation must be **dimensionally homogeneous** — each term has the same dimensions. Using base dimensions M (mass), L (length), T (time):
+Every physical equation must be **dimensionally homogeneous**: each term has the same dimensions. Using base dimensions M (mass), L (length), T (time):
 
 - Velocity: $[v] = \text{L}\,\text{T}^{-1}$
 - Acceleration: $[a] = \text{L}\,\text{T}^{-2}$
 - Force: $[F] = \text{M}\,\text{L}\,\text{T}^{-2}$
 - Energy: $[E] = \text{M}\,\text{L}^2\,\text{T}^{-2}$
 
-Example — check $v = v_0 + at$:
+Example: check $v = v_0 + at$:
 
 $$[\text{L}\,\text{T}^{-1}] = [\text{L}\,\text{T}^{-1}] + [\text{L}\,\text{T}^{-2}][\text{T}] = [\text{L}\,\text{T}^{-1}]\ \checkmark$$
 
@@ -170,6 +170,6 @@ $$[\text{L}^2\,\text{T}^{-2}] = [\text{L}\,\text{T}^{-2}][\text{L}] = [\text{L}^
 
 ## 5 | Cross-Links
 
-- [[02_Kinematics]] — measurement underpins all kinematic calculations
-- [[03_Dynamics]] — SI units of force and mass first introduced here
-- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]] — scientific notation and algebra used throughout
+- [[02_Kinematics]]: measurement underpins all kinematic calculations
+- [[03_Dynamics]]: SI units of force and mass first introduced here
+- [[01_Advance Mathematics (Sci-Math) - Overview|Mathematics]]: scientific notation and algebra used throughout
