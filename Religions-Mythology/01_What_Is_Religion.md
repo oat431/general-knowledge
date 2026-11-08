@@ -4,7 +4,7 @@ source: "Huston Smith, The World's Religions; Ninian Smart, The World's Religion
 created: 2026-09-08
 ---
 
-# 01 — What Is Religion — ศาสนาคืออะไร
+# 01 · What Is Religion: ศาสนาคืออะไร
 
 > *"Religion is what someone does with their solitude." (William James, paraphrased)*
 
@@ -26,7 +26,7 @@ The working definition for this folder: **a religion is a tradition that organiz
 
 ## 2 | The Dimensions: how to describe any religion neutrally
 
-Religion scholar Ninian Smart proposed seven "dimensions." When you want to understand a tradition without caricature, walk the list — this is the template the rest of this folder follows.
+Religion scholar Ninian Smart proposed seven "dimensions." When you want to understand a tradition without caricature, walk the list; this is the template the rest of this folder follows.
 
 | # | Dimension | Thai | The question it answers | Example: Islam |
 |---|---|---|---|---|
@@ -68,11 +68,12 @@ Estimates use major demographic studies (Pew Research Center; World Religion Dat
 | Judaism | ~15–16 million | ~0.2% | Concentrated in Israel and North America |
 | Zoroastrianism | ~60,000–120,000 | tiny | Parsi community in India, diaspora |
 
-The single most misread fact: the unaffiliated are not mostly angry atheists — the global "nones" include huge numbers of people who keep folk practices, ancestor rites, or private spirituality. "Religious but not affiliated" is a real category; "religious and totally non-spiritual" is rarer than expected.
+The single most misread fact: the unaffiliated are not mostly angry atheists, the global "nones" include huge numbers of people who keep folk practices, ancestor rites, or private spirituality. "Religious but not affiliated" is a real category; "religious and totally non-spiritual" is rarer than expected.
 
 ## 5 | Timeline of religion as a subject
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     Prehistoric : c. 100,000+ years burial and pigment ritual : c. 9,000 settled ritual sites (Göbekli Tepe)
     First scriptures : c. 2500 BCE Pyramid Texts : c. 1750 BCE Code with divine sanctions (Hammurabi)
@@ -94,7 +95,7 @@ timeline
 | Sacred/profane | สิ่งศักดิ์สิทธิ์/สิ่งสามัญ | The divide Eliade says is religion's signature move |
 | Revelation | การไขแสดง | Truth disclosed from beyond: Abrahamic engine |
 | Liberation/salvation | ความหลุดพ้น/ความรอด | The goal: from samsara (Indian) or from sin/death (Abrahamic) |
-| Orthodoxy vs orthopraxy | ความเชื่อถูกต้อง vs การปฏิบัติถูกต้อง | Which matters more: right belief (most Abrahamic emphasis) or right practice (Confucian, Hindu ritual, Jewish halakhah) — useful lens for any tradition |
+| Orthodoxy vs orthopraxy | ความเชื่อถูกต้อง vs การปฏิบัติถูกต้อง | Which matters more: right belief (most Abrahamic emphasis) or right practice (Confucian, Hindu ritual, Jewish halakhah), useful lens for any tradition |
 
 ## 7 | Thai terminology
 
@@ -102,7 +103,7 @@ timeline
 |---|---|---|
 | ศาสนา | religion | from Sanskrit sāsana, "teaching/order" |
 | ศาสนาเปรียบเทียบ | comparative religion | the field this note introduces |
-| ความเชื่อ | belief; also folk belief | the everyday word — broader than "religion" |
+| ความเชื่อ | belief; also folk belief | the everyday word: broader than "religion" |
 | สิ่งศักดิ์สิทธิ์ | sacred things | spirit houses, amulets, powerful objects |
 | ศรัทธา | faith, confident trust | Pali saddhā; in Buddhism the starting trust, not the finish |
 | หลักธรรม | moral teaching | the ethical dimension above |
@@ -118,7 +119,7 @@ timeline
 - **Reading the news:** "the Middle East" or "the Taliban" or "Hindu nationalism" make no sense without knowing which dimension (doctrinal? political? social?) you're actually looking at, and who inside the tradition disagrees.
 - **Work and travel:** a Thai business host, a Qatari partner, a Japanese client, and a Brazilian colleague all schedule life around a different religion's rhythm (Ramadan, Obon, Carnival, Sunday). Knowing the calendar is basic professional literacy.
 - **Family conversations:** teenagers in Thailand increasingly ask "why do we go to the temple?" The comparative answer (what religion *is* for humans) is more durable than the authority answer ("because we always do"), and models respect for the non-religious at the same table.
-- **Self-understanding:** the dimensions mirror back what *you* treat as ultimate. A person who never visits a temple but treats their nation or their sport with undoubting reverence is not outside the map — the map includes every human.
+- **Self-understanding:** the dimensions mirror back what *you* treat as ultimate. A person who never visits a temple but treats their nation or their sport with undoubting reverence is not outside the map, the map includes every human.
 
 ## 9 | Further reading
 

@@ -4,13 +4,13 @@ source: "Huston Smith, The World's Religions; Helen Hardacre, Shinto: A New Hand
 created: 2026-09-08
 ---
 
-# 08 — Shinto and Japanese Traditions — ชินโตและประเพณีญี่ปุ่น
+# 08 · Shinto and Japanese Traditions: ชินโตและประเพณีญี่ปุ่น
 
 > *"Heaven and earth produce all things, and the kami preside." (Kojiki preface, adapted)**
 
-Shinto (ชินโต, "Way of the Kami," 神道) is Japan's native, un-founded religion: a layered practice of reverence for the kami (เทพเจ้า/spirits) that inhabit and animate the world, from a spectacular mountain or an ancient tree to a revered ancestor, a local stream, or the dead of a family. There is no founder, no scripture that legislates, no sermon — instead shrines (神社, jinja) with their torii gates, purification, festival matsuri, and the great public rituals once tied to the imperial line. Japan's religious life is famously layered: most people are registered at a Shinto shrine (for birth and New Year), have a Buddhist family altar (for death and ancestors), and live by Confucian social norms (for etiquette) — the pattern called "Shinto for life, Buddhism for death." It is the clearest example after China of religion as calendar and belonging rather than belief (see [[07_Chinese_Religious_Traditions]] and [[01_What_Is_Religion]] §6).
+Shinto (ชินโต, "Way of the Kami," 神道) is Japan's native, un-founded religion: a layered practice of reverence for the kami (เทพเจ้า/spirits) that inhabit and animate the world, from a spectacular mountain or an ancient tree to a revered ancestor, a local stream, or the dead of a family. There is no founder, no scripture that legislates, no sermon: instead shrines (神社, jinja) with their torii gates, purification, festival matsuri, and the great public rituals once tied to the imperial line. Japan's religious life is famously layered: most people are registered at a Shinto shrine (for birth and New Year), have a Buddhist family altar (for death and ancestors), and live by Confucian social norms (for etiquette): the pattern called "Shinto for life, Buddhism for death." It is the clearest example after China of religion as calendar and belonging rather than belief (see [[07_Chinese_Religious_Traditions]] and [[01_What_Is_Religion]] §6).
 
-An adult should care because Japan is a top travel, business, and cultural partner; because the anime, films, and games millions of Thais consume are dense with kami, torii, and Shinto imagery (Miyazaki's *Spirited Away*, see [[20_Mythology_in_Modern_Culture]]); and because the Meiji and WWII history of "State Shinto" is a serious case study in religion and nationalism — a warning every poly-religious society, including Thailand's monarchy-and-Buddhism relationship, can learn from.
+An adult should care because Japan is a top travel, business, and cultural partner; because the anime, films, and games millions of Thais consume are dense with kami, torii, and Shinto imagery (Miyazaki's *Spirited Away*, see [[20_Mythology_in_Modern_Culture]]); and because the Meiji and WWII history of "State Shinto" is a serious case study in religion and nationalism: a warning every poly-religious society, including Thailand's monarchy-and-Buddhism relationship, can learn from.
 
 ---
 
@@ -18,7 +18,7 @@ An adult should care because Japan is a top travel, business, and cultural partn
 
 | Point | Detail |
 |---|---|
-| Meaning of kami (神) | The numinous, the awe-worthy: spirits, powers, and sacred beings pervading nature and ancestry. Not "gods" in the omnipotent Western sense — they can err, be placated, or be elevated |
+| Meaning of kami (神) | The numinous, the awe-worthy: spirits, powers, and sacred beings pervading nature and ancestry. Not "gods" in the omnipotent Western sense; they can err, be placated, or be elevated |
 | Range | Natural features (waterfalls, mountains, old trees), natural forces (rain, growth), deceased people (ancestors, heroes), abstract qualities (the kami of a craft) |
 | Famous kami | Amaterasu (天照, the Sun Goddess, source of the imperial line); Susanoo (the storm brother); Inari (rice and prosperity, the fox-messaged kami of thousands of sub-shrines); Hachiman (war and the people); Tenjin (learning, the deified scholar Michizane) |
 | Relation to Buddhism | Syncretized for over a millennium (honji suijaku: kami as local manifestations of buddhas); separate "Shinto" and "Buddhism" are partly a modern (Meiji) cut |
@@ -29,9 +29,9 @@ An adult should care because Japan is a top travel, business, and cultural partn
 | Concept | Japanese/Thai | Meaning |
 |---|---|---|
 | Kami-no-michi | ทางแห่งเทพ / the original phrase for the Way | "Way of the kami," older name for Shinto |
-| Makoto (真心, ใจจริง) | sincerity of heart | The nearest Shinto has to a cardinal virtue — right feeling, not dogma |
+| Makoto (真心, ใจจริง) | sincerity of heart | The nearest Shinto has to a cardinal virtue: right feeling, not dogma |
 | Kiyome / harai (การชำระ) | purification | The central act: water, salt, the hand-and-mouth washing at the temizuya; clearing kegare (pollution, not "sin") |
-| Kegare (มลทิน) | ritual pollution | A state from contact with death, illness, etc., washed off — not moral guilt |
+| Kegare (มลทิน) | ritual pollution | A state from contact with death, illness, etc., washed off, not moral guilt |
 | Matsuri (เทศกาล) | festival | The community's celebration feeding and delighting the kami; the living heart of practice |
 | Arahitogami / the emperor | พระจักรพรรดิ | The living kami-kin: the imperial line traced from Amaterasu (Kojiki); the basis of State Shinto and its post-war reversal |
 | Yaoyorozu no kami (八百万の神) | แปดล้านเทพ | "Eight million kami": an idiom for their inexhaustible number; the source of Japanese reverence for craftsmanship and nature |
@@ -41,7 +41,7 @@ Ethics: Shinto has no Ten Commandments. The "lessons" come from myth and the pra
 
 ## 3 | The stories and the shrines
 
-- **The mythology:** creation (Izanagi and Izanami churning the sea into the islands), the sun-cave of Amaterasu, Susanoo and the eight-headed serpent — covered as narrative in [[18_East_Asian_Mythology]].
+- **The mythology:** creation (Izanagi and Izanami churning the sea into the islands), the sun-cave of Amaterasu, Susanoo and the eight-headed serpent, covered as narrative in [[18_East_Asian_Mythology]].
 - **The two oldest texts:** the *Kojiki* (712) and *Nihon Shoki* (720) compile the myths and the imperial genealogy; the *norito* are shrine prayers. None of these functions like scripture; they are ancestral charter.
 - **The shrine:** a torii marks the sacred boundary; the sandō path, the temizuya for purification, the haiden hall, the hidden honden housing the kami's "mirror body" (a sacred object, often unseen). Worship: bow twice, clap twice, wish once.
 - **Notable shrines:** Ise (伊勢, the Sun Goddess's great sanctuary, ritually rebuilt every 20 years for ~1,300 years, Japan's most sacred site; the old shrine is closed to the public), Fushimi Inari (thousands of vermilion torii), Meiji Jingu (Tokyo's forest shrine for Emperor Meiji), and Izumo (the "meeting place of the kami," marriage).
@@ -49,6 +49,7 @@ Ethics: Shinto has no Ten Commandments. The "lessons" come from myth and the pra
 ## 4 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     Ancient kami cults : prehistory rice, nature, and clan spirits : 712-720 Kojiki and Nihon Shoki compiled
     Buddhist arrival and fusion : 538/552 CE Buddhism arrives : 700-1800 honji-suijaku: kami and buddhas co-manage Japan
@@ -64,7 +65,7 @@ timeline
 | Meiji (1868) | The new state separated "Shinto" from Buddhism, made shrine ritual a civic duty above religion, and taught imperial divinity in schools | Religion can be recast as "non-religious" national duty to escape freedom-of-religion limits |
 | 1930s-45 | State Shinto fueled wartime mobilization; soldiers died as "spirits enshrined" at Yasukuni | When a state makes its ancestors divine, dissent becomes blasphemy |
 | 1946-47 | The emperor renounced divinity; the U.S. occupation issued the Shinto Directive disestablishing State Shinto | A constitutional wall between religion and state is possible and necessary |
-| Today | Private, cultural, festival Shinto flourishes; the Yasukuni visits by politicians still draw anger from China and Korea (who see it as the war dead honored) | The same shrines read very differently across borders — religious memory is geopolitical |
+| Today | Private, cultural, festival Shinto flourishes; the Yasukuni visits by politicians still draw anger from China and Korea (who see it as the war dead honored) | The same shrines read very differently across borders: religious memory is geopolitical |
 
 The comparative note: Thailand's relationship of monarchy-Buddhism-state has its own dynamics; studying Japan's 1868-1945 arc is the clearest case in the modern world of what happens when the "protective" bond between a nation's top institution and its religion hardens into ideology. Useful reading for the civic strand (see [[Social Studies/02 Civics/06_Government_Structure|Government Structure]] and [[Social Studies/01 Religion/07_Religious_Tolerance_and_Interfaith|Religious Tolerance]]).
 
@@ -75,8 +76,8 @@ The comparative note: Thailand's relationship of monarchy-Buddhism-state has its
 | Birth and first shrine visit | The baby is brought to a shrine ~30 days (also the seven-five-three festival, ages 3/5/7) |
 | Hatsumode | The first shrine visit of the New Year: tens of millions, nationwide; omikuji fortunes, ema wish-plaques |
 | Weddings | Shinto-style ceremonies (the couple's sake-sharing) are common; funerals are Buddhist |
-| Setsubun | Feb 3: beans thrown out "demons"; New Year, cherry blossom viewing, Obon — the seasonal calendar is the practice |
-| Obon | The Buddhist (but culturally Japanese) mid-August festival honoring returning ancestors — see [[19_Universal_Mythic_Archetypes]] |
+| Setsubun | Feb 3: beans thrown out "demons"; New Year, cherry blossom viewing, Obon, the seasonal calendar is the practice |
+| Obon | The Buddhist (but culturally Japanese) mid-August festival honoring returning ancestors: see [[19_Universal_Mythic_Archetypes]] |
 | Nature and craft | The Shinto layer explains the reverence for materials, the small shrine on a factory grounds, the "kami of the workshop": a spiritual basis for craftsmanship culture |
 
 ## 7 | Japanese myth and the wider domain
@@ -108,7 +109,7 @@ The comparative note: Thailand's relationship of monarchy-Buddhism-state has its
 
 - **Culture literacy:** *Spirited Away* (the bathhouse of kami), *Your Name* (shrine, kumihimo, time), the Shinto motifs in countless anime, games, and films are direct religious imagery; knowing them turns entertainment into a guided tour of a tradition (see [[20_Mythology_in_Modern_Culture]]).
 - **Japan as partner:** business, tourism, diplomacy. The New Year's shrine queues, the craft reverence, the festival calendar, and the sensitivity around Yasukuni are all Shinto-inflected; a Japanese colleague's hatsumode is a cultural fact, not a superstition.
-- **Nature and ecology:** Shinto's yaoyorozu no kami — the eight-million-sacred-beings view — is a living religious basis for nature reverence, and part of why Japan protects sacred groves and "celebrity" trees.
+- **Nature and ecology:** Shinto's yaoyorozu no kami (the eight-million-sacred-beings view) is a living religious basis for nature reverence, and part of why Japan protects sacred groves and "celebrity" trees.
 - **The nationalism lesson:** the State-Shinto arc is a compact study in how a religion of peace and purity can be converted into a war religion by the state, and how a society then builds the wall to prevent it. Every multi-faith country should read that case.
 
 ## 10 | Further reading

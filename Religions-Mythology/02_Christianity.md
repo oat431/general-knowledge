@@ -4,7 +4,7 @@ source: "Huston Smith, The World's Religions; Alister McGrath, Christianity: An 
 created: 2026-09-08
 ---
 
-# 02 — Christianity — ศาสนาคริสต์
+# 02 · Christianity: ศาสนาคริสต์
 
 > *"I am the way and the truth and the life." (John 14:6)*
 
@@ -24,7 +24,7 @@ An adult should care because the West's cultural grammar is Christian whether or
 | Resurrection | Bodily rose on the third day; the faith's foundation | Disciples sincerely *believed* they saw him risen |
 | Identity | Son of God, second person of the Trinity (see §2) | A prophet (Islamic view); a sage (various secular views) |
 
-The Gospels (the four biographies: Matthew, Mark, Luke, John) are the primary sources, written c. 65–100 CE by followers, not neutral reporters — like all ancient biography, they interpret while they record.
+The Gospels (the four biographies: Matthew, Mark, Luke, John) are the primary sources, written c. 65–100 CE by followers, not neutral reporters, like all ancient biography, they interpret while they record.
 
 ## 2 | Core beliefs
 
@@ -45,13 +45,14 @@ The Gospels (the four biographies: Matthew, Mark, Luke, John) are the primary so
 |---|---|---|
 | Old Testament | พระธรรมเดิม | Essentially the Hebrew Bible: Law (Torah), Prophets, Writings; shared with Judaism (see [[04_Judaism]]) |
 | New Testament | พระธรรมใหม่ | Gospels, Acts, Letters (Paul and others), Revelation; 27 books, written in Greek |
-| Catholic extra | อธิกธรรม (Deuterocanon) | Catholics include 7 more OT books; Protestants do not — the main textual difference between branches |
+| Catholic extra | อธิกธรรม (Deuterocanon) | Catholics include 7 more OT books; Protestants do not: the main textual difference between branches |
 
 The Bible is the best-selling book ever printed, translated into more than 3,000 languages (full Bible) and a further 3,000+ in part. It was read aloud more than silently for most of history; the idea that every individual should own and read one privately is historically recent (printing + Reformation).
 
 ## 4 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     Origins : c. 30 CE crucifixion and resurrection faith : 34 CE Paul converts, mission to Gentiles
     Church under Rome : 64 and 303 persecutions : 313 Constantine tolerates (Edict of Milan) : 325 Nicaea council and creed

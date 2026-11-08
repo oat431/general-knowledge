@@ -4,11 +4,11 @@ source: "Huston Smith, The World's Religions; Lesley Hazleton, First Muhammad; J
 created: 2026-09-08
 ---
 
-# 03 — Islam — ศาสนาอิสลาม
+# 03 · Islam: ศาสนาอิสลาม
 
 > *"To you your religion, and to me mine." (Quran 109:6)*
 
-Islam (ศาสนาอิสลาม) is the world's second-largest religion and the fastest-growing, with about 2 billion adherents, a quarter of humanity. The word means "submission (to God)" and shares a root with *salaam*, peace; a follower is a Muslim (ผู้นับถือศาสนาอิสลาม), "one who submits." It arose in 7th-century Arabia through the Prophet Muhammad and within a century stretched from Spain to the borders of China. Its theological core is almost brutally simple: there is no god but God (Allah, อัลลอฮฺ), and Muhammad is God's messenger — no Trinity, no incarnations, no intermediaries, an absolute divine oneness (tawhid, โทวาฮิด) that shapes the law, the art (geometry and calligraphy instead of figures), and the daily rhythm of prayer.
+Islam (ศาสนาอิสลาม) is the world's second-largest religion and the fastest-growing, with about 2 billion adherents, a quarter of humanity. The word means "submission (to God)" and shares a root with *salaam*, peace; a follower is a Muslim (ผู้นับถือศาสนาอิสลาม), "one who submits." It arose in 7th-century Arabia through the Prophet Muhammad and within a century stretched from Spain to the borders of China. Its theological core is almost brutally simple: there is no god but God (Allah, อัลลอฮฺ), and Muhammad is God's messenger, no Trinity, no incarnations, no intermediaries, an absolute divine oneness (tawhid, โทวาฮิด) that shapes the law, the art (geometry and calligraphy instead of figures), and the daily rhythm of prayer.
 
 An adult should care because Islam's calendar, food rules, and ethics shape the lives of a quarter of humanity, including Thailand's ~5% Muslim population and our ASEAN neighbors Indonesia and Malaysia (both Muslim-majority). Reading "Islam" as one monolith, or as automatically synonymous with extremism, is the most expensive misreading available in modern news.
 
@@ -18,12 +18,12 @@ An adult should care because Islam's calendar, food rules, and ethics shape the 
 
 | Stage | Thai | Events |
 |---|---|---|
-| Early life | — | Orphaned; merchant in Mecca; known as *al-Amin* (the trustworthy); married Khadijah, his employer and first believer |
-| First revelation | — | 610 CE, in the cave of Hira: "Read!" — the opening of what became the Quran |
-| Meccan period | — | 13 years preaching monotheism and justice; persecution; the small community |
+| Early life | N/A | Orphaned; merchant in Mecca; known as *al-Amin* (the trustworthy); married Khadijah, his employer and first believer |
+| First revelation | N/A | 610 CE, in the cave of Hira: "Read!", the opening of what became the Quran |
+| Meccan period | N/A | 13 years preaching monotheism and justice; persecution; the small community |
 | Hijra | การฮิจเราะฮฺ | 622 CE: migration to Medina; becomes community leader; Hijri year 1, the Islamic calendar's epoch |
-| Medina | — | Constitution of Medina (plural covenant); battles with Mecca; community consolidated |
-| Return and death | — | 630: Mecca taken, idols cleared from the Kaaba; 632: Farewell Sermon ("no Arab has superiority over a non-Arab..."), death |
+| Medina | N/A | Constitution of Medina (plural covenant); battles with Mecca; community consolidated |
+| Return and death | N/A | 630: Mecca taken, idols cleared from the Kaaba; 632: Farewell Sermon ("no Arab has superiority over a non-Arab..."), death |
 
 Muslims revere but do not worship Muhammad: he is the final in a chain of prophets that explicitly includes Adam, Noah, Abraham, Moses, and Jesus (see [[04_Judaism]] and [[02_Christianity]]). The sira (biography) and hadith (recorded sayings) shape practice alongside the Quran.
 
@@ -36,7 +36,7 @@ Muslims revere but do not worship Muhammad: he is the final in a chain of prophe
 | 3 | Books | ศรัทธาต่อคัมภีร์ | Revealed scriptures: Torah, Psalms, Gospel, finally the Quran |
 | 4 | Prophets | ศรัทธาต่อนบีและเราะสูล | Many, 124,000 in one tradition; Muhammad the "Seal of the Prophets" |
 | 5 | Day of Judgment | ศรัทธาต่อวันกิยามะฮฺ | Resurrection, accounting, Paradise (Jannah) or the Fire |
-| 6 | Qadar | ศรัทธาต่อกฎสรวงสวรรค์ | Divine decree/foreknowledge — paired with human responsibility |
+| 6 | Qadar | ศรัทธาต่อกฎสรวงสวรรค์ | Divine decree/foreknowledge: paired with human responsibility |
 
 ## 3 | Practice: the Five Pillars (รุก่นอิสลาม 5, หลักปฏิบัติ 5)
 
@@ -53,31 +53,32 @@ Muslims revere but do not worship Muhammad: he is the final in a chain of prophe
 | Feature | Detail |
 |---|---|
 | Structure | 114 surahs (chapters), from 287 verses (longest) to 3 (shortest); roughly longest-to-shortest, not chronological |
-| Language | Arabic; "the Quran" properly means the Arabic — translations are "interpretations of meaning" |
+| Language | Arabic; "the Quran" properly means the Arabic: translations are "interpretations of meaning" |
 | Muslim view | Not authored by Muhammad: the literal speech of God dictated to Gabriel, recited over 23 years; inerrant |
 | Compilation | Memorized by *huffaz* and written on scraps during his life; standardized under Caliph Uthman c. 650 CE |
 | Style | Oratory, not narrative: rhythmic, direct-address, heavy on oaths, signs ("ayat"), and warning |
 | Relationship to earlier scripture | Confirms the earlier books (Torah, Gospel) while holding that they were altered in transmission; the Quran is the correction and completion |
 
-Companion sources: **hadith** (sayings/actions of the Prophet, graded by chain reliability) and **fiqh** (jurisprudential reasoning) fill in what the Quran doesn't legislate in detail — which is where most legal diversity between schools lives.
+Companion sources: **hadith** (sayings/actions of the Prophet, graded by chain reliability) and **fiqh** (jurisprudential reasoning) fill in what the Quran doesn't legislate in detail, which is where most legal diversity between schools lives.
 
 ## 5 | Sunni and Shia (and beyond)
 
 | | Sunni | Shia |
 |---|---|---|
 | Share | ~85–90% | ~10–15% |
-| Root of split | After Muhammad's death (632): the community chose Abu Bakr as Caliph (leader) — succession by consensus | Muhammad designated his cousin and son-in-law Ali; leadership belongs to the Prophet's family (Ahl al-Bayt) |
+| Root of split | After Muhammad's death (632): the community chose Abu Bakr as Caliph (leader), succession by consensus | Muhammad designated his cousin and son-in-law Ali; leadership belongs to the Prophet's family (Ahl al-Bayt) |
 | Key event | The "Rightly Guided" caliphs: Abu Bakr, Umar, Uthman, then Ali | Karbala (680): Ali's son Husayn martyred by the Umayyad caliph's army; the defining grief, commemorated at Ashura |
 | Authority | Four legal schools (Hanafi, Maliki, Shafi, Hanbali); scholars consensus | Line of Imams (12 in the largest school); clerical hierarchy more formal |
 | Today | Majority in most Muslim countries | Iran, Iraq majority; Bahrain, Lebanon, Azerbaijan, Yemen large populations; Thailand's Muslims are overwhelmingly Sunni |
 
-Also present: **Ibadi** (Oman, Zanzibar), **Sufism** (the mystical dimension, not a sect — orders across both Sunni and Shia), **Ahmadiyya** (contested, Pakistan-origin missionary movement).
+Also present: **Ibadi** (Oman, Zanzibar), **Sufism** (the mystical dimension, not a sect, orders across both Sunni and Shia), **Ahmadiyya** (contested, Pakistan-origin missionary movement).
 
 > **The Sunni-Shia split in one sentence:** it began as a political question (who should lead after Muhammad), became a theology of authority (who interprets God's law), and now marks identity across the Middle East, most violently in the 1979 revolution and the Iraq wars. Almost every headline about "Muslim conflict" is about this fault line or its manipulation by governments.
 
 ## 6 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     Revelation : 570 Muhammad born in Mecca : 610 first revelation : 622 Hijra to Medina : 632 death; Arabia united
     The caliphates : 632-661 Rightly Guided caliphs : 661-750 Umayyads (Damascus) : 750-1258 Abbasids (Baghdad, Golden Age)
@@ -88,7 +89,7 @@ timeline
 
 ## 7 | Sharia, the sciences, and civilization
 
-- **Sharia (ชะรีอะฮฺ)**: "the path to water" — God's guidance as discovered through the Quran, hadith, scholarly consensus, and analogy. Five legal categories for any act: obligatory, recommended, permissible, disliked, forbidden. Interpretation has always pluralized it (the four schools), which is why "Islamic law" is not one book.
+- **Sharia (ชะรีอะฮฺ)**: "the path to water", God's guidance as discovered through the Quran, hadith, scholarly consensus, and analogy. Five legal categories for any act: obligatory, recommended, permissible, disliked, forbidden. Interpretation has always pluralized it (the four schools), which is why "Islamic law" is not one book.
 - **The Golden Age (750–1258):** Abbasid Baghdad's House of Wisdom translated Greek, Persian, and Indian science; Muslim scholars (al-Khwarizmi, Ibn Sina/Avicenna, al-Razi, Ibn Rushd/Averroes) advanced algebra, optics, medicine, and philosophy (see [[Philosophy/08_Islamic_and_Jewish_Philosophy|Islamic and Jewish Philosophy]]). Europe's 12th-century renaissance ran through them.
 - **Art and architecture:** aniconism (no sacred images of God or, in the strict view, figures) produced calligraphy, geometry, and the arabesque; the dome and minaret from Istanbul to Isfahan; the Alhambra, the Taj Mahal (see [[Social Studies/01 Religion/05_Religious_Art_and_Architecture|Religious Art and Architecture]]).
 

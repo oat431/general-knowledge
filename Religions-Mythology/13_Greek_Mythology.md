@@ -4,19 +4,19 @@ source: "Edith Hamilton, Mythology; Hesiod, Theogony; Homer, Iliad and Odyssey (
 created: 2026-09-08
 ---
 
-# 13 — Greek Mythology — เทพปกรณัมกรีก
+# 13 · Greek Mythology: เทพปกรณัมกรีก
 
 > *"Sing, goddess, the wrath of Achilles Peleus' son, the accursed wrath which brought countless sorrows upon the Achaeans." (Iliad, opening line)**
 
 Greek mythology (เทพปกรณัมกรีก) is the story-system of ancient Greece: the gods of Olympus, the Titan wars, and the age of heroes (Theseus, Jason, Perseus, Odysseus, Oedipus, Heracles), ending with the Trojan War and the wandering home. It is the most load-bearing mythology in Western culture: its vocabulary (chaos, panic, narcissus, muse, titan, oracle), its plots (the hero's quest, the doomed love, the trickster stolen-fire story retold), and its psychology (Oedipus, Electra, the sirens' choice) are embedded in European languages, and by extension in global film, literature, and advertising. Homer's two epics (c. 750–700 BCE) and Hesiod's *Theogony* (c. 700 BCE) fixed the canon; the tragedians (Sophocles, Euripides), the Alexandrian poets, and Ovid's Latin *Metamorphoses* kept re-telling it; the Romans renamed the gods (Zeus→Jupiter, Aphrodite→Venus) and passed the package to Europe.
 
-An adult should care because the Greek layer is the single biggest mythic import into Western-derived pop culture (Percy Jackson, *Troy*, *God of War*, Marvel's Hercules), and because the Greeks themselves treated these stories as the serious framework of life: festivals, oracles, civic oaths, and the first philosophical attempts to *outgrow* myth (Thales onward — see [[Philosophy/02_Pre_Socratic_Philosophers]]) all happened inside it.
+An adult should care because the Greek layer is the single biggest mythic import into Western-derived pop culture (Percy Jackson, *Troy*, *God of War*, Marvel's Hercules), and because the Greeks themselves treated these stories as the serious framework of life: festivals, oracles, civic oaths, and the first philosophical attempts to *outgrow* myth (Thales onward, see [[Philosophy/02_Pre_Socratic_Philosophers]]) all happened inside it.
 
 ---
 
 ## 1 | Before the Olympians: the succession myth
 
-The Greek cosmos begins as family violence, four generations deep (Hesiod's plot, which has Near Eastern parallels — see [[16_Mesopotamian_Mythology]]):
+The Greek cosmos begins as family violence, four generations deep (Hesiod's plot, which has Near Eastern parallels, see [[16_Mesopotamian_Mythology]]):
 
 | Generation | Ruling power | What happens |
 |---|---|---|
@@ -28,6 +28,7 @@ The Greek cosmos begins as family violence, four generations deep (Hesiod's plot
 ## 2 | The Olympian family
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     OUR["Ouranos (Sky) + GAIA (Earth)"] --> TIT["The Titans: Kronos + Rhea (and others)"]
     TIT --> ZEUS["Zeus"]
@@ -48,16 +49,16 @@ flowchart TD
     OUR -. sea-foam .-> APH["Aphrodite (Hesiod's version)"]
 ```
 
-The twelve-seat Olympian roster (with Roman names): Zeus/Jupiter (sky, king, guest-law), Hera/Juno (marriage), Poseidon/Neptune (sea, horses), Demeter/Ceres (grain), Athena/Minerva (wisdom, strategy-war, crafts), Apollo (light, music, prophecy, plague), Artemis/Diana (hunt, moon, childbirth), Ares/Mars (war's bloodlust), Aphrodite/Venus (desire), Hephaestus/Vulcan (fire, forge), Hermes/Mercury (messages, thieves, roads, psychopomp), Hades/Pluto (underworld — not an Olympian resident), plus Hestia/Vesta (hearth, sometimes giving her seat to Dionysus).
+The twelve-seat Olympian roster (with Roman names): Zeus/Jupiter (sky, king, guest-law), Hera/Juno (marriage), Poseidon/Neptune (sea, horses), Demeter/Ceres (grain), Athena/Minerva (wisdom, strategy-war, crafts), Apollo (light, music, prophecy, plague), Artemis/Diana (hunt, moon, childbirth), Ares/Mars (war's bloodlust), Aphrodite/Venus (desire), Hephaestus/Vulcan (fire, forge), Hermes/Mercury (messages, thieves, roads, psychopomp), Hades/Pluto (underworld, not an Olympian resident), plus Hestia/Vesta (hearth, sometimes giving her seat to Dionysus).
 
 | God | Signature myth | Domain |
 |---|---|---|
-| Zeus | Prometheus and the theft of fire; Io; the Trojan judgment | Order, oaths, hospitality — and notorious infidelities that *cause* most plots |
+| Zeus | Prometheus and the theft of fire; Io; the Trojan judgment | Order, oaths, hospitality, and notorious infidelities that *cause* most plots |
 | Athena | The contest with Poseidon for Athens (olive vs salt-spring) | Wise war, craft, the polis's patron |
 | Apollo | Marsyas the flautist; Daphne; the Python at Delphi | Prophecy (the Delphic oracle), music, distance-kill plague-arrows |
-| Dionysus | Pentheus in *The Bacchae*; the sailors who mocked him | Wine, ecstasy, theater's god — the god of *becoming other* |
+| Dionysus | Pentheus in *The Bacchae*; the sailors who mocked him | Wine, ecstasy, theater's god: the god of *becoming other* |
 | Hermes | The infant stealing Apollo's cattle | Boundaries, exchange, cunning (the trickster of the family; see [[19_Universal_Mythic_Archetypes]]) |
-| Aphrodite | The Judgment of Paris (with Hera and Athena) — the Trojan War's root | Desire that defeats reason |
+| Aphrodite | The Judgment of Paris (with Hera and Athena): the Trojan War's root | Desire that defeats reason |
 
 ## 3 | The heroes: the great story cycles
 
@@ -66,7 +67,7 @@ The twelve-seat Olympian roster (with Roman names): Zeus/Jupiter (sky, king, gue
 | Theban | Cadmus (founding, the sown warriors), Oedipus (the riddle, the fate he flees into), Antigone (burial vs state) | The house of Laios: fate, pollution, and the tragic choice between law and conscience |
 | Argonautic | Jason, Medea | The Golden Fleece: quest structure in miniature |
 | Athenian | Theseus (the Minotaur, the labyrinth), Trittolemos and the ploughing kings | The city's hero: brains plus a thread (Ariadne) |
-| Korinthian/Argive | Perseus (Medusa), Bellerophon (Pegasus), the Seven against Thebes, Heracles (the twelve labors) | The monster-slayer pattern; Heracles' madness-labors-redemption arc — endurance as heroism |
+| Korinthian/Argive | Perseus (Medusa), Bellerophon (Pegasus), the Seven against Thebes, Heracles (the twelve labors) | The monster-slayer pattern; Heracles' madness-labors-redemption arc: endurance as heroism |
 | Trojan | Achilles, Odysseus, Hector, Aeneas | The *Iliad* (wrath and mortality), the *Odyssey* (wits and homecoming), and the Aeneid's escape-founding-myth |
 | Underworld-journeys | Orpheus (lost Eurydice), Odysseus (summoning the dead), Heracles (capturing Cerberus) | The katabasis: descending for what only death holds (see [[19_Universal_Mythic_Archetypes]]) |
 
@@ -75,6 +76,7 @@ The twelve-seat Olympian roster (with Roman names): Zeus/Jupiter (sky, king, gue
 ## 4 | Timeline (the myth and its telling)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     Myths live as cult : c. 1700-1100 BCE Minoan-Mycenaean world (the labyrinth, Poseidon at Pylos) : c. 1200 traditional date of the Trojan War
     Fixing the canon : c. 750-700 Homer, Iliad and Odyssey : c. 700 Hesiod, Theogony and Works and Days : 776 traditional first Olympics (founded by heroes)
@@ -87,12 +89,12 @@ timeline
 
 | Term | Thai | Meaning |
 |---|---|---|
-| Hubris (ฮูบริส) | ความยโส Challenge to the gods/due limit — the Greek sin that the myths punish (Arachne, Niobe, Icarus, Cronos' own son nearly) |
+| Hubris (ฮูบริส) | ความยโส Challenge to the gods/due limit: the Greek sin that the myths punish (Arachne, Niobe, Icarus, Cronos' own son nearly) |
 | Nemesis (เนเมซิส) | การแก้แค้น/ลงโทษ appropriate response: the goddess who rebalances hubris |
-| Moira / Ananke (โชคชะตา/ความจำเป็น) | Fate; even Zeus honors it — the moral architecture of Greek myth |
+| Moira / Ananke (โชคชะตา/ความจำเป็น) | Fate; even Zeus honors it: the moral architecture of Greek myth |
 | Hamartia | ความผิดพลาด fatal flaw/missing-the-mark (the root of "tragedy's error") |
 | Xenia | ไมตรีต่อแขกผู้มาเยือน | The sacred guest-host bond Zeus protects; broken xenia triggers divine punishment (the Trojan War's echo) |
-| Kleos (เกียรติ) | imperishable fame — what Achilles buys instead of long life |
+| Kleos (เกียรติ) | imperishable fame: what Achilles buys instead of long life |
 | Nostos (การกลับบ้าน) | homecoming; the *Odyssey*'s subject; "nostalgia" = pain of nostos |
 | Oracle/mandate | คำพยากรณ์ | Delphi's ambiguous prophecy: the plot-engine of Oedipus and Croesus |
 | Underworld (ฮาดีส) | แดนคนตาย | Neutral Hades for most; Tartarus (punishment), Elysium/Isles of the Blest (the exceptional) |
@@ -110,13 +112,13 @@ timeline
 
 ## 7 | How the Greeks related to their own myths
 
-They were not simple believers: the same culture that sacrificed at Olympia also produced critical allegory (the Stoics' physics readings), open skepticism (Xenophanes: "if horses had gods they'd draw them horse-shaped"), and philosophical outgrowth ([[Philosophy/02_Pre_Socratic_Philosophers|Pre-Socratics]]). Myth was for them more like heritage-literature-plus-civic-religion: you honored it, retold it, argued with it, but the altar and the festival stood. That layered relationship (belief + irony + civic duty) looks remarkably like how modern people relate to Star Wars or national founding stories — compare [[20_Mythology_in_Modern_Culture]].
+They were not simple believers: the same culture that sacrificed at Olympia also produced critical allegory (the Stoics' physics readings), open skepticism (Xenophanes: "if horses had gods they'd draw them horse-shaped"), and philosophical outgrowth ([[Philosophy/02_Pre_Socratic_Philosophers|Pre-Socratics]]). Myth was for them more like heritage-literature-plus-civic-religion: you honored it, retold it, argued with it, but the altar and the festival stood. That layered relationship (belief + irony + civic duty) looks remarkably like how modern people relate to Star Wars or national founding stories, compare [[20_Mythology_in_Modern_Culture]].
 
 ## 8 | Why it matters today
 
 - **Cultural access:** Western art from Botticelli to Disney is Greek-myth literate; not knowing the Jason-and-Medea painting tradition locks out a third of the Louvre and the National Gallery.
 - **Story literacy:** the *Odyssey* is the template for the adventure-return; the *Iliad* is the anti-war book that makes glory look mortal; the tragedies (Oedipus, Medea, Antigone) are the origin of the Western drama form students meet in English class (see [[World Literature/03_Greek_Drama|Greek Drama]]).
-- **Ethics of power:** Athens' Melian Dialogue ("the strong do what they can") was performed against the Trojan stories — myth as the debate-ground about empire, useful for reading any great-power foreign policy.
+- **Ethics of power:** Athens' Melian Dialogue ("the strong do what they can") was performed against the Trojan stories, myth as the debate-ground about empire, useful for reading any great-power foreign policy.
 - **The Thai classroom:** Greek myths are the first "world mythology" most Thai learners meet through English books; pairing them with the hero's journey (note 12) makes the Western pop-culture stream legible.
 
 ## 9 | Further reading

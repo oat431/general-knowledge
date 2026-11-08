@@ -4,11 +4,11 @@ source: "Huston Smith, The World's Religions; Nikky-Guninder Kaur Singh, The Pro
 created: 2026-09-08
 ---
 
-# 06 — Sikhism — ศาสนาซิกข์
+# 06 · Sikhism: ศาสนาซิกข์
 
 > *"There is no Hindu, there is no Muslim." (attributed to Guru Nanak's first utterance after his mystical disappearance, c. 1499)**
 
-Sikhism (ศาสนาซิกข์) is the world's fifth-largest organized religion (~30 million) and one of the youngest major faiths: founded by Guru Nanak (1469–1539) in Punjab at the end of the 15th century, in direct dialogue between Hindu bhakti devotion and Sufi Islam (see [[05_Hinduism]] and [[03_Islam]]). "Sikh" means disciple (ศิษย์); a Sikh is a learner who follows the ten Gurus. What makes Sikhism remarkable among world religions is how deliberately it fuses the contemplative and the combative: the same community worships with daily meditation and runs a free kitchen (langar) serving 100,000+ people a day anywhere in the world — and also carries the martial tradition of the Khalsa, the "pure ones," established by the tenth Guru. The Five Ks (see §6) make Sikhs one of the most visually distinctive religious communities on Earth, and the golden Harmandir Sahib (the "Golden Temple") in Amritsar is one of the century's most recognized houses of worship.
+Sikhism (ศาสนาซิกข์) is the world's fifth-largest organized religion (~30 million) and one of the youngest major faiths: founded by Guru Nanak (1469–1539) in Punjab at the end of the 15th century, in direct dialogue between Hindu bhakti devotion and Sufi Islam (see [[05_Hinduism]] and [[03_Islam]]). "Sikh" means disciple (ศิษย์); a Sikh is a learner who follows the ten Gurus. What makes Sikhism remarkable among world religions is how deliberately it fuses the contemplative and the combative: the same community worships with daily meditation and runs a free kitchen (langar) serving 100,000+ people a day anywhere in the world, and also carries the martial tradition of the Khalsa, the "pure ones," established by the tenth Guru. The Five Ks (see §6) make Sikhs one of the most visually distinctive religious communities on Earth, and the golden Harmandir Sahib (the "Golden Temple") in Amritsar is one of the century's most recognized houses of worship.
 
 An adult should care because Sikhs are disproportionately visible in every country they've settled, including Thailand, where the Punjabi-Sikh community is long established in trade (see §8). Globally, Sikhs are prominent in transport, hospitality, agriculture, philanthropy, and the armed forces (the British and Indian armies); and the 1984 anti-Sikh violence and the Punjab question still shape South Asian politics.
 
@@ -22,10 +22,10 @@ An adult should care because Sikhs are disproportionately visible in every count
 | 2 | Angad | 1504–1552 | Standardized Gurmukhi script; collected Nanak's hymns |
 | 3 | Amar Das | 1479–1574 | Organized manji (dioceses); condemned sati and purdah; instituted langar as equality-practice |
 | 4 | Ram Das | 1534–1581 | Founded the pool-city that became Amritsar |
-| 5 | Arjan | 1563–1606 | Compiled the Adi Granth (1604); built Harmandir Sahib with four doors ("open to all"); executed by Mughal emperor Jahangir — the first Sikh martyr (shahid) |
+| 5 | Arjan | 1563–1606 | Compiled the Adi Granth (1604); built Harmandir Sahib with four doors ("open to all"); executed by Mughal emperor Jahangir: the first Sikh martyr (shahid) |
 | 6 | Hargobind | 1595–1644 | Militarized the community: miri-piri (temporal and spiritual authority); built the first temple-of-the-sold saint (Akal Takht across from Harmandir) |
 | 7 | Har Rai / 8 | Har Krishan | 1630–1661 / 1656–1664 | Preservation; child-guru who died defending the poor in Delhi |
-| 9 | Tegh Bahadur | 1621–1675 | Executed in Delhi for defending Kashmiri Hindus' right to worship — Sikhism's public statement that a faith must protect other faiths |
+| 9 | Tegh Bahadur | 1621–1675 | Executed in Delhi for defending Kashmiri Hindus' right to worship: Sikhism's public statement that a faith must protect other faiths |
 | 10 | Gobind Singh | 1666–1708 | Created the Khalsa (1699); the Five Ks; declared scripture the eternal Guru |
 
 ## 2 | Guru Nanak and the founding insight
@@ -33,7 +33,7 @@ An adult should care because Sikhs are disproportionately visible in every count
 | Episode | Content | Meaning |
 |---|---|---|
 | Born | 1469 in Talwandi (now Nankana Sahib, Pakistan), Hindu family of officials | Would work as a storekeeper before the call |
-| The river vision | c. 1499, vanished while bathing in the Vyen/Beas; found again speaking strange words | "There is no Hindu, no Muslim" — the One transcends labels |
+| The river vision | c. 1499, vanished while bathing in the Vyen/Beas; found again speaking strange words | "There is no Hindu, no Muslim": the One transcends labels |
 | Life after | Spoke at Mecca (refused to face the Kaaba "which faces nothing"), at Hindu centers; worked with his hands at Kartarpur | God is not in directions or labels; honest labor and sharing are worship |
 | Death | c. 1539; Hindu and Muslim disciples quarreled over funeral rites | The tradition's whole social ethic in one legend: the quarrel ended, in the legend, when both communities found flowers covering the body; each buried its own flowers |
 
@@ -48,20 +48,20 @@ An adult should care because Sikhs are disproportionately visible in every count
 | Sevā (การรับใช้) | selfless service | Serving humanity is literally serving God: the theological engine of langar |
 | Vand shako (แบ่งปัน) | share your earnings | Honest living (kirat karni) + sharing = the householder's three-pillar dharma (naam, kirat, vand) |
 | No renunciation | อยู่ครองเรือน | Sikh saints are householders; monkery rejected. Woman's full equality taught and practiced (no sati, women lead worship; see §2 Amar Das, §4) |
-| Afterlife | โลกหน้า / the merging | Souls progress through cycles until the Name ends the round and merges with God like a drop into the ocean — liberation (mukti) as reunion |
+| Afterlife | โลกหน้า / the merging | Souls progress through cycles until the Name ends the round and merges with God like a drop into the ocean: liberation (mukti) as reunion |
 | Rejection of rituals | ปฏิเสธพิธีกรรม | Empty rites refused: image worship, caste rites, fasting for show, pilgrimages to graves, the sacred thread; the Guru's "pilgrimage" is the pure heart |
 | Equality | ความเสมอภาค 3 ชั้น | Before God, in the langar (everyone sits as equals), in the sangat (congregation elects/decides) |
 
 ## 4 | The scripture as living Guru (คุรุ ครานถ์ สาฮิบ)
 
 - **Guru Granth Sahib** (1604 as Adi Granth by Guru Arjan; declared eternal Guru by Gobind Singh in 1708): 1,430 pages, ~5,700 hymns set to 31 classical and regional ragas (musical modes). It is installed in every gurdwara on a canopy-throne, "read" not merely recited, and treated as a living presence (waked, fanned, put to sleep at night).
-- **Content:** hymns of the first five Gurus plus 36 other contributors — Hindu bhagats (Kabir, Namdev, Ravidas — a Dalit saint!) and Muslim Sufi-leaning bhagats (Sheikh Farid). Sikhism's holiest book quotes Hindu and Muslim saints as authoritative: the interfaith statement written into its spine (see [[11_Comparative_Themes]]).
-- **Language:** "Sadh" — a composite medieval North Indian language, in Gurmukhi script.
+- **Content:** hymns of the first five Gurus plus 36 other contributors: Hindu bhagats (Kabir, Namdev, Ravidas, a Dalit saint!) and Muslim Sufi-leaning bhagats (Sheikh Farid). Sikhism's holiest book quotes Hindu and Muslim saints as authoritative: the interfaith statement written into its spine (see [[11_Comparative_Themes]]).
+- **Language:** "Sadh", a composite medieval North Indian language, in Gurmukhi script.
 - **The second scripture:** the Dasam Granth (tenth Guru's compositions) is respected, with debates over its authorship scope; not equal in status to the Guru Granth.
 
 ## 5 | The Khalsa ( Khalสา) and the Five Ks
 
-In 1699 at Baisakhi, Guru Gobind Singh called for volunteers to give their heads for the faith, then revealed the "five beloved ones" (Panj Pyare) and instituted a baptism (Khande di pahul) by which anyone — regardless of caste, sex, or birth — could become a Singh ("lion," for all male Sikhs) or Kaur ("princess," for all female Sikhs), abolishing the surnames that mark caste and gender status. The initiated Khalsa wear the Five Ks (5 ก):
+In 1699 at Baisakhi, Guru Gobind Singh called for volunteers to give their heads for the faith, then revealed the "five beloved ones" (Panj Pyare) and instituted a baptism (Khande di pahul) by which anyone (regardless of caste, sex, or birth) could become a Singh ("lion," for all male Sikhs) or Kaur ("princess," for all female Sikhs), abolishing the surnames that mark caste and gender status. The initiated Khalsa wear the Five Ks (5 ก):
 
 | # | Kakaar | Thai | Form | Meaning |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ The turban (dastar) isn't one of the Five Ks but is their practical crown and th
 | Institution | Thai | Function |
 |---|---|---|
 | Gurdwara (คุทวารา / ธรรมศาลา) | "door to the Guru" | Any building with the Guru Granth; open to all faiths; the Golden Temple's four doors literally |
-| Langar (โรงทาน) | free community kitchen | Vegetarian (so no one is excluded by any food law) meals served by all, to all, seated on the floor — equality practiced daily; at the Golden Temple up to 100,000 people fed per day |
+| Langar (โรงทาน) | free community kitchen | Vegetarian (so no one is excluded by any food law) meals served by all, to all, seated on the floor: equality practiced daily; at the Golden Temple up to 100,000 people fed per day |
 | Sangat (ชุมนุมศาสนิก) | congregation | The gathered community; decisions by consensus (panth, the "way/path") |
 | Akal Takht (บัลลังก์นิรันดร์) | the temporal throne | The Guru's seat across from Harmandir for the community's worldly decisions; the five Takhts = authority centers |
 | Daswandh / Kirat | ทศางค์/การหารายได้ชอบ | Ten percent of honest earnings to the community; the funding engine |
@@ -88,6 +88,7 @@ The turban (dastar) isn't one of the Five Ks but is their practical crown and th
 ## 7 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     Founding : 1469 Nanak born : 1499 the call at the river : 1539 founding community at Kartarpur
     Canon and martyrdom : 1574 Amar Das fixes langar and manjis : 1604 Adi Granth installed : 1606 Arjan executed : 1675 Tegh Bahadur executed
@@ -125,8 +126,8 @@ timeline
 
 ## 10 | Why it matters today
 
-- **The world's most practical equality experiment:** every visitor to a langar, any day, eats beside a billionaire and a sweeper — a 500-year running demonstration of caste- and class-abolition-in-practice that most political movements never attempted.
-- **Defense of others' faith:** the ninth Guru was executed for protecting *Hindus'* right to worship. Sikhism's own constitutional memory is that a religion which lets another's persecution stand has failed — an idea in daily news still.
+- **The world's most practical equality experiment:** every visitor to a langar, any day, eats beside a billionaire and a sweeper, a 500-year running demonstration of caste- and class-abolition-in-practice that most political movements never attempted.
+- **Defense of others' faith:** the ninth Guru was executed for protecting *Hindus'* right to worship. Sikhism's own constitutional memory is that a religion which lets another's persecution stand has failed, an idea in daily news still.
 - **Diaspora literacy:** the 30 million are disproportionately in the professions, militaries (British, Indian, and historically Thai Punjabi officers), and philanthropy; in the 2020s the Punjab-diaspora network was decisive in India's farmers' protests and in Canadian and UK politics.
 - **1984 is not ancient:** the assassination of Indira Gandhi by Sikh bodyguards and the anti-Sikh pogroms that followed, plus the Punjab insurgency, remain open wounds; understanding "the Sikh question" is required for India headlines.
 

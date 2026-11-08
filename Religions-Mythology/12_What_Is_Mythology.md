@@ -4,13 +4,13 @@ source: "Edith Hamilton, Mythology; Joseph Campbell, The Hero with a Thousand Fa
 created: 2026-09-08
 ---
 
-# 12 — What Is Mythology — เทพปกรณัมคืออะไร
+# 12 · What Is Mythology: เทพปกรณัมคืออะไร
 
 > *"Myths are public dreams, dreams are private myths." (Joseph Campbell, paraphrased)**
 
-Mythology (เทพปกรณัม) is the study and the body of sacred stories (นิทานปรัมปรา, myths) a culture lives by: accounts of origins, gods, heroes, monsters, and the shape of reality, told not as "fiction" but as the deep true. In everyday English "myth" means a false belief ("it's a myth that we only use 10% of our brains") — that usage is a modern insult to the word's oldest meaning. For the people who told these stories, myth was *history at the foundation level*: what happened before and beneath everything that happens again. This note (12) is the frame for the mythology half of this domain (notes 13–20): the distinctions (myth vs legend vs folktale vs fable), the functions (why every society keeps telling them), the big theories of what myth *does*, and the hero's journey (การเดินทางของวีรบุรุษ) as the most famous single pattern.
+Mythology (เทพปกรณัม) is the study and the body of sacred stories (นิทานปรัมปรา, myths) a culture lives by: accounts of origins, gods, heroes, monsters, and the shape of reality, told not as "fiction" but as the deep true. In everyday English "myth" means a false belief ("it's a myth that we only use 10% of our brains"); that usage is a modern insult to the word's oldest meaning. For the people who told these stories, myth was *history at the foundation level*: what happened before and beneath everything that happens again. This note (12) is the frame for the mythology half of this domain (notes 13–20): the distinctions (myth vs legend vs folktale vs fable), the functions (why every society keeps telling them), the big theories of what myth *does*, and the hero's journey (การเดินทางของวีรบุรุษ) as the most famous single pattern.
 
-An adult should care because the stories of notes 13–19 are the source code of the culture you already consume: every Marvel film, video game, fantasy novel, advertisement narrative, and sports legend runs on myth grammar. Knowing the patterns is a decoder ring for mass culture — and the hero's journey, whatever its scholarly limits, is the shared skeleton of stories from Gilgamesh to Luke Skywalker.
+An adult should care because the stories of notes 13–19 are the source code of the culture you already consume: every Marvel film, video game, fantasy novel, advertisement narrative, and sports legend runs on myth grammar. Knowing the patterns is a decoder ring for mass culture, and the hero's journey, whatever its scholarly limits, is the shared skeleton of stories from Gilgamesh to Luke Skywalker.
 
 ---
 
@@ -22,10 +22,10 @@ The Greek *mythos* (μῦθος) originally meant simply "word, story, plot" (ag
 |---|---|---|---|---|---|
 | Myth (นิทานปรัมปรา) | "This really happened, before/behind the world" | Gods, cosmic beings | Another time and space (pre-human or elsewhere) | Explains and grounds reality itself |
 | Legend (ตำนาน) | "This happened to real people, with memory and embellishment" | Humans (sometimes god-touched) | Our historical world, vaguely located | Identity, place, and value lessons |
-| Folktale (นิทานพื้นบ้าน) | "A story for the telling" — no truth claim | Ordinary humans, tricksters, royalty | "Once upon a time, a certain village..." | Entertainment, moral training, coping |
+| Folktale (นิทานพื้นบ้าน) | "A story for the telling": no truth claim | Ordinary humans, tricksters, royalty | "Once upon a time, a certain village..." | Entertainment, moral training, coping |
 | Fable (นิทานสอนใจ) | A pointed lesson with animals | Animals-as-types | Timeless and generic | Explicit moral (Aesop; see [[ภาษาไทย/วรรณคดีและวรรณกรรม/นิทานและตำนาน/03_นิทานอีสป|นิทานอีสป]]) |
 
-The borders blur on purpose: the Ramayana is myth for a devotee, legend for a historian, literature for a reader; the Thai รามเกียรติ์ sits between legend and literature (see [[ภาษาไทย/วรรณคดีและวรรณกรรม/สมัยรัตนโกสินทร์/01_รามเกียรติ์|รามเกียรติ์]] and [[17_Hindu_Mythology]]). One story, three truth-claims — which is precisely the tonal point of this whole domain: describe, don't grade.
+The borders blur on purpose: the Ramayana is myth for a devotee, legend for a historian, literature for a reader; the Thai รามเกียรติ์ sits between legend and literature (see [[ภาษาไทย/วรรณคดีและวรรณกรรม/สมัยรัตนโกสินทร์/01_รามเกียรติ์|รามเกียรติ์]] and [[17_Hindu_Mythology]]). One story, three truth-claims, which is precisely the tonal point of this whole domain: describe, don't grade.
 
 ## 2 | What myths are *for*: the functions
 
@@ -55,9 +55,10 @@ A healthy adult reads all six as lenses: the same flood story is *simultaneously
 
 ## 4 | The hero's journey (Campbell's monomyth)
 
-Campbell read hundreds of myths (Gilgamesh, Osiris, the Buddha, Prometheus, Odysseus — his examples range from the Egyptian Book of the Dead to Hopi and Aboriginal Australian narratives) and abstracted one pattern in three acts, seventeen episodes in the full scheme; here is the working skeleton:
+Campbell read hundreds of myths (Gilgamesh, Osiris, the Buddha, Prometheus, Odysseus, his examples range from the Egyptian Book of the Dead to Hopi and Aboriginal Australian narratives) and abstracted one pattern in three acts, seventeen episodes in the full scheme; here is the working skeleton:
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["1 Ordinary World<br/>the call (เสียงเรียก)"] --> B["2 Refusal<br/>then the threshold"]
     B --> C["3 Tests, allies, enemies<br/>in the special world"]
@@ -78,11 +79,12 @@ flowchart LR
 | The return | การกลับ | Refusal of return, magic flight | Odysseus' long way home |
 | Master of two worlds | ผู้ครองสองโลก | Bringing the elixir to the ordinary | The Buddha under the bodhi tree, deciding to teach |
 
-**The honest caveats:** the pattern is real but not universal — many traditions' central figures are heroines, tricksters, or communal heroes (and Campbell's "monomyth" was built almost entirely from male adventures; Vogler's Hollywood version added the heroine's-journey debates). The monomyth describes structure, not value: a culture's best story may be a *return-less* one. Still, its explanatory power over modern storytelling is unmatched ([[20_Mythology_in_Modern_Culture]]).
+**The honest caveats:** the pattern is real but not universal, many traditions' central figures are heroines, tricksters, or communal heroes (and Campbell's "monomyth" was built almost entirely from male adventures; Vogler's Hollywood version added the heroine's-journey debates). The monomyth describes structure, not value: a culture's best story may be a *return-less* one. Still, its explanatory power over modern storytelling is unmatched ([[20_Mythology_in_Modern_Culture]]).
 
 ## 5 | Timeline: the study of myth
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     Ancient reflection : c. 600 BCE Xenophanes criticizes anthropomorphic gods : c. 400 BCE Plato's "noble lie" debate : 300s BCE Euhemerus: gods were glorified humans
     Allegory and harmonization : Stoics read Homer as physics : Philo reads Genesis allegorically : medieval mythographers moralize Ovid
@@ -108,8 +110,8 @@ timeline
 ## 7 | Why it matters today
 
 - **Mass culture runs on myth:** Star Wars (Campbell read Lucas read Campbell), Marvel's Asgard ([[14_Norse_Mythology]]), the Percy Jackson and Rick Riordan wave of Greek retellings, Disney's hero's-journey formula, and virtually every video-game quest structure ([[20_Mythology_in_Modern_Culture]]). Story literacy in the 21st century is myth literacy.
-- **Political myth:** "the founding fathers," "the lost golden age," "the strongman savior" are myths in the technical sense — charters and cohesion. Reading §2's functions is a defense against being *mythed at*.
-- **Personal myth:** the journey structure maps real transitions (moving, grieving, career changes) — this is why the hero's journey keeps being re-discovered by therapists and coaches. It's also why rite-of-passage ceremonies (บวช, graduation, vision quests) still feel right.
+- **Political myth:** "the founding fathers," "the lost golden age," "the strongman savior" are myths in the technical sense, charters and cohesion. Reading §2's functions is a defense against being *mythed at*.
+- **Personal myth:** the journey structure maps real transitions (moving, grieving, career changes); this is why the hero's journey keeps being re-discovered by therapists and coaches. It's also why rite-of-passage ceremonies (บวช, graduation, vision quests) still feel right.
 - **The Thai bridge again:** รามเกียรติ์, the Ramakien's journey of Rama as a Thai romance hero, is a living masterclass in how one myth (note 17) feeds literature, dance, and royal ideology across cultures; the ภาษาไทย classroom text is this note's syllabus.
 
 ## 8 | Further reading
@@ -117,7 +119,7 @@ timeline
 - *The Hero with a Thousand Faces* (Joseph Campbell, 1949): the monomyth itself; read the preface and chapter 1 for the map, then pick episodes.
 - *Myth: A Very Short Introduction* (Robert Segal): the theories in §3 done briefly and fairly.
 - *Edith Hamilton's Mythology* (1942): the classic story-book; this vault's narrative spine for 13–16.
-- *The Writers Journey* (Christopher Vogler): the monomyth as screenwriting — proof of §7's point and a fun second lens.
+- *The Writers Journey* (Christopher Vogler): the monomyth as screenwriting, proof of §7's point and a fun second lens.
 
 *\* the saying is a standard paraphrase of Campbell's line "myths are public dreams; dreams are private myths."*
 

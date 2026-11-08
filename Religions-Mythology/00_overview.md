@@ -5,7 +5,7 @@ created: 2026-09-08
 domain: "World Religions and Mythology"
 ---
 
-# World Religions and Mythology — ศาสนาโลกและเทพปกรณัม
+# World Religions and Mythology: ศาสนาโลกและเทพปกรณัม
 
 > **Domain:** World religions and mythology for adult general knowledge (exam-free, no grade bands)
 > **BOK roadmap:** [[World Religions and Mythology - Overview]]
