@@ -6,9 +6,9 @@ course_codes: ["พ11101", "พ12101", "พ13101", "พ14101", "พ15101", "พ1
 strand: "สาระที่ 4: การสร้างเสริมสุขภาพ สมรรถภาพ และการป้องกันโรค"
 ---
 
-# Nutrition — โภชนาการ
+# Nutrition: โภชนาการ
 
-Nutrition (โภชนาการ) is the study of how food (อาหาร) affects the body and health. In the Thai curriculum it sits in Strand 4 (สาระที่ 4: การสร้างเสริมสุขภาพ สมรรถภาพ และการป้องกันโรค), guided by standard พ 4.1. Students learn the five food groups (อาหาร 5 หมู่), how to choose a balanced diet (การกินอาหารครบส่วน), how to read food labels, and how nutrition prevents disease — building healthy eating habits (พฤติกรรมการบริโภค) for life.
+Nutrition (โภชนาการ) is the study of how food (อาหาร) affects the body and health. In the Thai curriculum it sits in Strand 4 (สาระที่ 4: การสร้างเสริมสุขภาพ สมรรถภาพ และการป้องกันโรค), guided by standard พ 4.1. Students learn the five food groups (อาหาร 5 หมู่), how to choose a balanced diet (การกินอาหารครบส่วน), how to read food labels, and how nutrition prevents disease, building healthy eating habits (พฤติกรรมการบริโภค) for life.
 
 ## 1 | Grade Band Breakdown
 
@@ -100,7 +100,7 @@ The Thai nutrition flag (ธงโภชนาการ) shows daily portions: m
 ## Related
 
 - [[Health and PE - Overview|← Back to Health and PE BOK]]
-- [[00_overview|Health Education Overview]]
+- [[Health-PE/01 Health Education/00_overview|Health Education Overview]]
 
 ## Sources
 

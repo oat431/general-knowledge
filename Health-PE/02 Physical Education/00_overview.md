@@ -5,14 +5,14 @@ created: 2026-08-20
 strand: "พลศึกษา (Physical Education)"
 ---
 
-# Physical Education — พลศึกษา
+# Physical Education: พลศึกษา
 
 > **Strand:** พลศึกษา | **Concept Areas:** 6 | **Duration:** 12 years (ป.1–ม.6)
 > **Focus:** Movement, sports, Thai sports, fitness, rhythmic activities, recreation
 
 ## Overview
 
-Physical Education (พลศึกษา) is the movement strand of the Health and Physical Education learning area. In the OBEC Basic Education Core Curriculum B.E. 2551 (revised 2560), its content maps to official strand สาระที่ 3 (การเคลื่อนไหว การออกกำลังกาย การเล่นเกม กีฬาไทย และกีฬาสากล). Over 12 years students master fundamental movement skills, play games and sports by the rules, preserve Thai sports like takraw and muay Thai, build physical fitness, move to rhythm, and enjoy recreation — forming habits of lifelong physical activity (การออกกำลังกายตลอดชีวิต).
+Physical Education (พลศึกษา) is the movement strand of the Health and Physical Education learning area. In the OBEC Basic Education Core Curriculum B.E. 2551 (revised 2560), its content maps to official strand สาระที่ 3 (การเคลื่อนไหว การออกกำลังกาย การเล่นเกม กีฬาไทย และกีฬาสากล). Over 12 years students master fundamental movement skills, play games and sports by the rules, preserve Thai sports like takraw and muay Thai, build physical fitness, move to rhythm, and enjoy recreation: forming habits of lifelong physical activity (การออกกำลังกายตลอดชีวิต).
 
 ## Concept Areas
 

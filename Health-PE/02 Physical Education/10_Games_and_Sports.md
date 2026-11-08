@@ -6,7 +6,7 @@ course_codes: ["พ11101", "พ12101", "พ13101", "พ14101", "พ15101", "พ1
 strand: "สาระที่ 3: การเคลื่อนไหว การออกกำลังกาย การเล่นเกม กีฬาไทย และกีฬาสากล"
 ---
 
-# Games and Sports — เกมและกีฬา
+# Games and Sports: เกมและกีฬา
 
 Games and sports (เกมและกีฬา) teach students to play by the rules, work as a team, and develop sport skills. In the Thai curriculum this sits in Strand 3 (สาระที่ 3: การเคลื่อนไหว การออกกำลังกาย การเล่นเกม กีฬาไทย และกีฬาสากล), guided by standards พ 3.1 and พ 3.2. Students progress from simple playground games (เกมง่ายๆ) with basic rules to team sports (กีฬาทีม) with tactics, and finally to advanced strategy and even officiating (การตัดสินกีฬา).
 
@@ -27,7 +27,7 @@ Games and sports (เกมและกีฬา) teach students to play by the 
 | Ball games | เกมลูกบอล | Throwing, catching, teamwork |
 | Relay races | วิ่งผลัด | Cooperation, speed |
 | Circle games | เกมวงกลม | Inclusion, listening |
-| Traditional games | เกมพื้นบ้าน | Culture and fun — e.g., มอญซ่อนผ้า, ขี่ม้าส่งเมือง |
+| Traditional games | เกมพื้นบ้าน | Culture and fun, e.g., มอญซ่อนผ้า, ขี่ม้าส่งเมือง |
 
 ## 3 | Major Team Sports (กีฬาทีมที่นิยม)
 
@@ -91,7 +91,7 @@ Games and sports (เกมและกีฬา) teach students to play by the 
 ## Related
 
 - [[Health and PE - Overview|← Back to Health and PE BOK]]
-- [[00_overview|Physical Education Overview]]
+- [[Health-PE/02 Physical Education/00_overview|Physical Education Overview]]
 
 ## Sources
 

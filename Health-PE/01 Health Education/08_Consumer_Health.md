@@ -6,9 +6,9 @@ course_codes: ["พ11101", "พ12101", "พ13101", "พ14101", "พ15101", "พ1
 strand: "สาระที่ 4: การสร้างเสริมสุขภาพ สมรรถภาพ และการป้องกันโรค"
 ---
 
-# Consumer Health — สุขภาพผู้บริโภค
+# Consumer Health: สุขภาพผู้บริโภค
 
-Consumer health (สุขภาพผู้บริโภค) teaches students to be smart, safe buyers of health products and services. In the Thai curriculum this sits in Strand 4 (สาระที่ 4: การสร้างเสริมสุขภาพ สมรรถภาพ และการป้องกันโรค), guided by standard พ 4.1. Students learn to choose safe products (การเลือกผลิตภัณฑ์), read food labels (ฉลากอาหาร), recognize misleading health advertising (โฆษณาเกินจริง), and know their healthcare rights (สิทธิของผู้บริโภค) — from อย. certification to universal healthcare (บัตรทอง).
+Consumer health (สุขภาพผู้บริโภค) teaches students to be smart, safe buyers of health products and services. In the Thai curriculum this sits in Strand 4 (สาระที่ 4: การสร้างเสริมสุขภาพ สมรรถภาพ และการป้องกันโรค), guided by standard พ 4.1. Students learn to choose safe products (การเลือกผลิตภัณฑ์), read food labels (ฉลากอาหาร), recognize misleading health advertising (โฆษณาเกินจริง), and know their healthcare rights (สิทธิของผู้บริโภค), from อย. certification to universal healthcare (บัตรทอง).
 
 ## 1 | Grade Band Breakdown
 
@@ -26,7 +26,7 @@ Consumer health (สุขภาพผู้บริโภค) teaches students
 | Product name | ชื่อผลิตภัณฑ์ | What it really is |
 | Ingredients | ส่วนประกอบ | Watch for sugar, allergens (สารก่อภูมิแพ้) |
 | Expiry date | วันหมดอายุ | Never eat past this date |
-| อย. number | เลข อย. | FDA Thailand registration — proof of safety check |
+| อย. number | เลข อย. | FDA Thailand registration: proof of safety check |
 | Nutrition info | ข้อมูลโภชนาการ | Calories, sugar, sodium per serving |
 | Manufacturer | ผู้ผลิต | Reliable brand, address |
 
@@ -67,7 +67,7 @@ Consumer health (สุขภาพผู้บริโภค) teaches students
 | Health insurance | ประกันสุขภาพ | Spreads the cost of illness across many people |
 | Universal coverage | หลักประกันสุขภาพถ้วนหน้า | Thailand's 30-baht scheme covers all citizens |
 | Medical ethics | จริยธรรมทางการแพทย์ | Patient consent, confidentiality, fairness |
-| Telemedicine | การแพทย์ทางไกล | Modern access — still verify provider legitimacy |
+| Telemedicine | การแพทย์ทางไกล | Modern access: still verify provider legitimacy |
 
 ## Key Thai Terminology
 
@@ -93,7 +93,7 @@ Consumer health (สุขภาพผู้บริโภค) teaches students
 ## Related
 
 - [[Health and PE - Overview|← Back to Health and PE BOK]]
-- [[00_overview|Health Education Overview]]
+- [[Health-PE/01 Health Education/00_overview|Health Education Overview]]
 
 ## Sources
 

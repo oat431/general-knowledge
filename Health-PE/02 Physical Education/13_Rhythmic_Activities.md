@@ -6,7 +6,7 @@ course_codes: ["พ11101", "พ12101", "พ13101", "พ14101", "พ15101", "พ1
 strand: "สาระที่ 3: การเคลื่อนไหว การออกกำลังกาย การเล่นเกม กีฬาไทย และกีฬาสากล"
 ---
 
-# Rhythmic Activities — กิจกรรมเข้าจังหวะ
+# Rhythmic Activities: กิจกรรมเข้าจังหวะ
 
 Rhythmic activities (กิจกรรมเข้าจังหวะ) combine movement with music (ดนตรี): dancing, aerobics, and rhythmic gymnastics. In the Thai curriculum this sits in Strand 3 (สาระที่ 3: การเคลื่อนไหว การออกกำลังกาย การเล่นเกม กีฬาไทย และกีฬาสากล), guided by standard พ 3.1. Students progress from moving to music (การเคลื่อนไหวตามจังหวะ), through aerobic dance (แอโรบิกแดนซ์), to rhythmic gymnastics (ยิมนาสติกลีลา), social dance (การเต้นลีลาศ), and eventually creating their own choreography (การออกแบบท่าเต้น).
 
@@ -80,7 +80,7 @@ Rhythmic activities (กิจกรรมเข้าจังหวะ) combin
 ## Related
 
 - [[Health and PE - Overview|← Back to Health and PE BOK]]
-- [[00_overview|Physical Education Overview]]
+- [[Health-PE/02 Physical Education/00_overview|Physical Education Overview]]
 
 ## Sources
 

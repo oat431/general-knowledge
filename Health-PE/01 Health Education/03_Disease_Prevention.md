@@ -6,7 +6,7 @@ course_codes: ["พ11101", "พ12101", "พ13101", "พ14101", "พ15101", "พ1
 strand: "สาระที่ 4: การสร้างเสริมสุขภาพ สมรรถภาพ และการป้องกันโรค"
 ---
 
-# Disease Prevention — การป้องกันโรค
+# Disease Prevention: การป้องกันโรค
 
 Disease prevention (การป้องกันโรค) teaches students how illnesses spread and how to stop them before they start. In the Thai curriculum this sits in Strand 4 (สาระที่ 4: การสร้างเสริมสุขภาพ สมรรถภาพ และการป้องกันโรค), guided by standards พ 4.1 and พ 4.2. Students progress from basic hygiene (สุขอนามัย) like hand washing, through vaccines (วัคซีน), to understanding communicable and non-communicable diseases (โรคติดต่อและโรคไม่ติดต่อ) and public health (สาธารณสุข) at the community level.
 
@@ -70,7 +70,7 @@ Thailand's Expanded Program on Immunization (แผนภูมิคุ้ม�
 | Age | Thai | Vaccines |
 |---|---|---|
 | Birth | แรกเกิด | BCG (tuberculosis), Hepatitis B 1 (ตับอักเสบบี) |
-| 1 month | 1 เดือน | Hepatitis B 2 — only if mother is an HBV carrier (มารดาเป็นพาหะ) |
+| 1 month | 1 เดือน | Hepatitis B 2: only if mother is an HBV carrier (มารดาเป็นพาหะ) |
 | 2 months | 2 เดือน | DTP-HB-Hib 1 (5-in-1), oral polio (OPV 1) |
 | 4 months | 4 เดือน | DTP-HB-Hib 2 (5-in-1), oral polio (OPV 2) + injected polio (IPV) |
 | 6 months | 6 เดือน | DTP-HB-Hib 3 (5-in-1), oral polio (OPV 3) |
@@ -78,17 +78,17 @@ Thailand's Expanded Program on Immunization (แผนภูมิคุ้ม�
 | 1 year | 1 ปี | Japanese encephalitis 1 (ไข้สมองอักเสบเจอี, LAJE) |
 | 1 year 6 months | 1 ปี 6 เดือน | DTP 4, oral polio (OPV 4) |
 | 2 years 6 months | 2 ปี 6 เดือน | MMR 2, Japanese encephalitis 2 (LAJE) |
-| 4 years | 4 ปี | DTP 5, oral polio (OPV 5) — given before starting ป.1 |
-| **11 years (ป.5 girls)** | 11 ปี (นักเรียนหญิง ป.5) | **HPV 1 and HPV 2** (at least 6 months apart) — cervical cancer prevention, given at school |
-| **12 years (ป.6)** | 12 ปี (ป.6) | **dT booster** (diphtheria-tetanus, คอตีบ-บาดทะยัก) — given at school |
+| 4 years | 4 ปี | DTP 5, oral polio (OPV 5): given before starting ป.1 |
+| **11 years (ป.5 girls)** | 11 ปี (นักเรียนหญิง ป.5) | **HPV 1 and HPV 2** (at least 6 months apart): cervical cancer prevention, given at school |
+| **12 years (ป.6)** | 12 ปี (ป.6) | **dT booster** (diphtheria-tetanus, คอตีบ-บาดทะยัก): given at school |
 
 ### Key Points for Families
 
 | Point | Thai | Explanation |
 |---|---|---|
 | Free at state facilities | ฉีดฟรีที่สถานบริการของรัฐ | รพ.สต. (subdistrict health centers) and government hospitals |
-| No restart needed | ไม่ต้องเริ่มใหม่ | If doses are missed, continue the series — no need to start over |
-| School-age boosters | วัคซีนวัยเรียน | ป.5 HPV and ป.6 dT are typically administered at school — consent forms go to parents |
+| No restart needed | ไม่ต้องเริ่มใหม่ | If doses are missed, continue the series: no need to start over |
+| School-age boosters | วัคซีนวัยเรียน | ป.5 HPV and ป.6 dT are typically administered at school: consent forms go to parents |
 | HPV for boys | เอชพีวีในเด็กชาย | Effective (prevents anal cancer, genital warts) but not yet in the free national program for boys |
 
 ## 7 | Upper Secondary (ม.4–6): Public Health (สาธารณสุข)
@@ -126,10 +126,10 @@ Thailand's Expanded Program on Immunization (แผนภูมิคุ้ม�
 ## Related
 
 - [[Health and PE - Overview|← Back to Health and PE BOK]]
-- [[00_overview|Health Education Overview]]
+- [[Health-PE/01 Health Education/00_overview|Health Education Overview]]
 
 ## Sources
 
 - OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017): Health and PE, Strand 4, Standards พ 4.1–4.2
 - Department of Disease Control (กรมควบคุมโรค กระทรวงสาธารณสุข), disease prevention guidance
-- Pediatric Infectious Disease Society of Thailand (สมาคมโรคติดเชื้อในเด็กแห่งประเทศไทย, PIDST), วัคซีนพื้นฐานสำหรับเด็ก — national immunization schedule (pidst.or.th/A746)
+- Pediatric Infectious Disease Society of Thailand (สมาคมโรคติดเชื้อในเด็กแห่งประเทศไทย, PIDST), วัคซีนพื้นฐานสำหรับเด็ก: national immunization schedule (pidst.or.th/A746)

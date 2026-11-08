@@ -6,7 +6,7 @@ course_codes: ["พ11101", "พ12101", "พ13101", "พ14101", "พ15101", "พ1
 strand: "สาระที่ 2: ชีวิตและครอบครัว"
 ---
 
-# Relationships and Sexual Health — สัมพันธภาพและเพศศึกษา
+# Relationships and Sexual Health: สัมพันธภาพและเพศศึกษา
 
 Relationships and sexual health (สัมพันธภาพและเพศศึกษา) teaches students how to build respectful, caring relationships and understand their own sexuality safely. In the Thai curriculum this sits in Strand 2 (สาระที่ 2: ชีวิตและครอบครัว), guided by standard พ 2.1. Students grow from understanding family roles (บทบาทของครอบครัว) and friendship (มิตรภาพ) to respect, boundaries (ขอบเขต), consent (ความยินยอม), and healthy sexual health (สุขภาวะทางเพศ) decisions.
 
@@ -34,7 +34,7 @@ Relationships and sexual health (สัมพันธภาพและเพ�
 |---|---|---|
 | Private body parts | ส่วนของร่างกายที่เป็นส่วนตัว | Covered by swimsuit; no one should touch |
 | Good touch | สัมผัสที่ดี | From trusted adults for care (e.g., doctor with parent present) |
-| Bad touch | สัมผัสที่ไม่ดี | Makes you feel unsafe — say NO, leave, tell an adult |
+| Bad touch | สัมผัสที่ไม่ดี | Makes you feel unsafe: say NO, leave, tell an adult |
 | Consent | ความยินยอม | Both people must agree freely; silence is not consent |
 | Saying no | การปฏิเสธ | Everyone has the right to refuse unwanted contact |
 
@@ -52,7 +52,7 @@ Relationships and sexual health (สัมพันธภาพและเพ�
 
 | Topic | Thai | Key Idea |
 |---|---|---|
-| STIs | โรคติดต่อทางเพศสัมพันธ์ | HIV, gonorrhea, syphilis — prevention is key |
+| STIs | โรคติดต่อทางเพศสัมพันธ์ | HIV, gonorrhea, syphilis: prevention is key |
 | Teenage pregnancy | การตั้งครรภ์ในวัยรุ่น | Education, contraception, and responsible choices prevent it |
 | Abstinence | การงดเว้น | Choosing not to have sex is a valid, respected choice |
 | Contraception | การคุมกำเนิด | Knowledge reduces unplanned pregnancy |
@@ -91,7 +91,7 @@ Relationships and sexual health (สัมพันธภาพและเพ�
 ## Related
 
 - [[Health and PE - Overview|← Back to Health and PE BOK]]
-- [[00_overview|Health Education Overview]]
+- [[Health-PE/01 Health Education/00_overview|Health Education Overview]]
 
 ## Sources
 

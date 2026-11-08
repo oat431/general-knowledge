@@ -6,7 +6,7 @@ course_codes: ["พ11101", "พ12101", "พ13101", "พ14101", "พ15101", "พ1
 strand: "สาระที่ 4: การสร้างเสริมสุขภาพ สมรรถภาพ และการป้องกันโรค"
 ---
 
-# Substance Abuse Prevention — การป้องกันสารเสพติด
+# Substance Abuse Prevention: การป้องกันสารเสพติด
 
 Substance abuse prevention (การป้องกันสารเสพติด) teaches students what drugs and addictive substances do to the body and mind, and how to say no. In the Thai curriculum this sits in Strand 4 (สาระที่ 4: การสร้างเสริมสุขภาพ สมรรถภาพ และการป้องกันโรค), guided by standard พ 4.2. Students learn the difference between medicine and drugs (ยากับสารเสพติด), the effects of cigarettes (บุหรี่) and alcohol (แอลกอฮอล์), and refusal skills (ทักษะการปฏิเสธ) to stay safe under peer pressure.
 
@@ -52,7 +52,7 @@ Substance abuse prevention (การป้องกันสารเสพต�
 
 | Technique | Thai | Example |
 |---|---|---|
-| Say no clearly | ปฏิเสธตรงๆ | "No, thank you — I don't do that." |
+| Say no clearly | ปฏิเสธตรงๆ | "No, thank you, I don't do that." |
 | Give a reason | ให้เหตุผล | "I have a match tomorrow; it ruins my body." |
 | Change the topic | เปลี่ยนเรื่อง | "Let's go play football instead." |
 | Walk away | เดินหนี | Leave the situation immediately |
@@ -91,7 +91,7 @@ Substance abuse prevention (การป้องกันสารเสพต�
 ## Related
 
 - [[Health and PE - Overview|← Back to Health and PE BOK]]
-- [[00_overview|Health Education Overview]]
+- [[Health-PE/01 Health Education/00_overview|Health Education Overview]]
 
 ## Sources
 

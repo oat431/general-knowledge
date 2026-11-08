@@ -6,9 +6,9 @@ course_codes: ["พ11101", "พ12101", "พ13101", "พ14101", "พ15101", "พ1
 strand: "สาระที่ 5: ความปลอดภัยในชีวิต"
 ---
 
-# Safety — ความปลอดภัย
+# Safety: ความปลอดภัย
 
-Safety (ความปลอดภัย) teaches students to recognize danger (ความเสี่ยง) and protect themselves and others. In the Thai curriculum this is Strand 5 (สาระที่ 5: ความปลอดภัยในชีวิต), guided by standard พ 5.1. Students move from stranger danger and road safety (ความปลอดภัยบนท้องถนน) to first aid (การปฐมพยาบาล), CPR, water safety (ความปลอดภัยทางน้ำ), and disaster preparedness (การเตรียมพร้อมรับภัยพิบัติ) — skills that save lives.
+Safety (ความปลอดภัย) teaches students to recognize danger (ความเสี่ยง) and protect themselves and others. In the Thai curriculum this is Strand 5 (สาระที่ 5: ความปลอดภัยในชีวิต), guided by standard พ 5.1. Students move from stranger danger and road safety (ความปลอดภัยบนท้องถนน) to first aid (การปฐมพยาบาล), CPR, water safety (ความปลอดภัยทางน้ำ), and disaster preparedness (การเตรียมพร้อมรับภัยพิบัติ), skills that save lives.
 
 ## 1 | Grade Band Breakdown
 
@@ -41,7 +41,7 @@ Safety (ความปลอดภัย) teaches students to recognize danger 
 | Insect bite | แมลงกัดต่อย | Clean the area, cold compress, watch for allergy |
 | Fracture | กระดูกหัก | Don't move the limb, splint (ดาม), call for help |
 
-## 4 | CPR — Cardiopulmonary Resuscitation (การช่วยชีวิตขั้นพื้นฐาน)
+## 4 | CPR: Cardiopulmonary Resuscitation (การช่วยชีวิตขั้นพื้นฐาน)
 
 | Step | Thai | Action |
 |---|---|---|
@@ -93,7 +93,7 @@ Safety (ความปลอดภัย) teaches students to recognize danger 
 ## Related
 
 - [[Health and PE - Overview|← Back to Health and PE BOK]]
-- [[00_overview|Health Education Overview]]
+- [[Health-PE/01 Health Education/00_overview|Health Education Overview]]
 
 ## Sources
 

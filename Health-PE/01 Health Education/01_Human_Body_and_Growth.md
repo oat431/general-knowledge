@@ -6,7 +6,7 @@ course_codes: ["พ11101", "พ12101", "พ13101", "พ14101", "พ15101", "พ1
 strand: "สาระที่ 1: การเจริญเติบโตและพัฒนาการของมนุษย์"
 ---
 
-# Human Body and Growth — ร่างกายและการเจริญเติบโต
+# Human Body and Growth: ร่างกายและการเจริญเติบโต
 
 The human body (ร่างกาย) grows and changes continuously from birth through old age. In the Thai curriculum this is Strand 1 (สาระที่ 1: การเจริญเติบโตและพัฒนาการของมนุษย์), guided by standard พ 1.1. Students learn the body's parts and systems (ระบบร่างกาย), how growth and development (การเจริญเติบโตและพัฒนาการ) proceed through each life stage, and how puberty (วัยรุ่น) reshapes the body and mind, so they can care for their own growth at every age.
 
@@ -45,8 +45,8 @@ The human body (ร่างกาย) grows and changes continuously from birth
 
 | Change Type | Thai | Examples |
 |---|---|---|
-| Physical — boys | การเปลี่ยนแปลงทางร่างกายเพศชาย | Voice deepens, shoulders broaden, facial hair |
-| Physical — girls | การเปลี่ยนแปลงทางร่างกายเพศหญิง | Breast development, hips widen, menstruation begins |
+| Physical: boys | การเปลี่ยนแปลงทางร่างกายเพศชาย | Voice deepens, shoulders broaden, facial hair |
+| Physical: girls | การเปลี่ยนแปลงทางร่างกายเพศหญิง | Breast development, hips widen, menstruation begins |
 | Hormonal | ฮอร์โมน | Hormones (ฮอร์โมน) drive all puberty changes |
 | Emotional | อารมณ์ | Mood swings (อารมณ์แปรปรวน), new interests |
 | Social | สังคม | Peer influence (เพื่อน), independence from parents |
@@ -76,7 +76,7 @@ The human body (ร่างกาย) grows and changes continuously from birth
 
 | Concept | Thai | Key Idea |
 |---|---|---|
-| Life-span development | พัฒนาการตลอดช่วงชีวิต | Growth never stops — it changes form at each age |
+| Life-span development | พัฒนาการตลอดช่วงชีวิต | Growth never stops; it changes form at each age |
 | Aging | ชราภาพ | Muscle and bone mass decline; exercise and diet slow the loss |
 | Reproductive health | สุขภาพทางเพศ | Responsible decisions, prevention of STIs and unplanned pregnancy |
 | Health screening | การตรวจสุขภาพ | Regular check-ups (ตรวจสุขภาพประจำปี) catch problems early |
@@ -107,7 +107,7 @@ The human body (ร่างกาย) grows and changes continuously from birth
 ## Related
 
 - [[Health and PE - Overview|← Back to Health and PE BOK]]
-- [[00_overview|Health Education Overview]]
+- [[Health-PE/01 Health Education/00_overview|Health Education Overview]]
 
 ## Sources
 

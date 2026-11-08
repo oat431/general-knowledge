@@ -6,7 +6,7 @@ course_codes: ["พ11101", "พ12101", "พ13101", "พ14101", "พ15101", "พ1
 strand: "สาระที่ 3: การเคลื่อนไหว การออกกำลังกาย การเล่นเกม กีฬาไทย และกีฬาสากล"
 ---
 
-# Movement Skills — ทักษะการเคลื่อนไหว
+# Movement Skills: ทักษะการเคลื่อนไหว
 
 Movement skills (ทักษะการเคลื่อนไหว) are the foundation of all physical activity: running, jumping, throwing, catching, and balancing. In the Thai curriculum this is part of Strand 3 (สาระที่ 3: การเคลื่อนไหว การออกกำลังกาย การเล่นเกม กีฬาไทย และกีฬาสากล), guided by standard พ 3.1. Students master fundamental movement patterns (รูปแบบการเคลื่อนไหวพื้นฐาน), then combine them into complex, coordinated, and sport-specific skills as they grow.
 
@@ -89,7 +89,7 @@ Movement skills (ทักษะการเคลื่อนไหว) are the
 ## Related
 
 - [[Health and PE - Overview|← Back to Health and PE BOK]]
-- [[00_overview|Physical Education Overview]]
+- [[Health-PE/02 Physical Education/00_overview|Physical Education Overview]]
 
 ## Sources
 

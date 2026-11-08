@@ -6,9 +6,9 @@ course_codes: ["พ11101", "พ12101", "พ13101", "พ14101", "พ15101", "พ1
 strand: "สาระที่ 2: ชีวิตและครอบครัว"
 ---
 
-# Mental Health — สุขภาพจิต
+# Mental Health: สุขภาพจิต
 
-Mental health (สุขภาพจิต) is how we think, feel, and cope with life. In the Thai curriculum it sits in Strand 2 (สาระที่ 2: ชีวิตและครอบครัว), guided by standard พ 2.1. Students learn to name their emotions (อารมณ์), manage stress (ความเครียด), recognize warning signs of depression and anxiety (ภาวะซึมเศร้าและความวิตกกังวล), and ask for help — because mental health is health (สุขภาพจิตคือสุขภาพ).
+Mental health (สุขภาพจิต) is how we think, feel, and cope with life. In the Thai curriculum it sits in Strand 2 (สาระที่ 2: ชีวิตและครอบครัว), guided by standard พ 2.1. Students learn to name their emotions (อารมณ์), manage stress (ความเครียด), recognize warning signs of depression and anxiety (ภาวะซึมเศร้าและความวิตกกังวล), and ask for help, because mental health is health (สุขภาพจิตคือสุขภาพ).
 
 ## 1 | Grade Band Breakdown
 
@@ -57,7 +57,7 @@ Mental health (สุขภาพจิต) is how we think, feel, and cope with
 | Loss of interest | เบื่อสิ่งที่เคยชอบ | Depression warning sign |
 | Excessive worry | กังวลมากจนใช้ชีวิตไม่ได้ | Possible anxiety disorder (โรควิตกกังวล) |
 | Sleep or appetite change | นอนหรือกินผิดปกติ | Mental health disturbance |
-| Self-harm talk | พูดทำร้ายตัวเอง | Urgent — tell a trusted adult immediately |
+| Self-harm talk | พูดทำร้ายตัวเอง | Urgent: tell a trusted adult immediately |
 
 ## 5 | Asking for Help (การขอความช่วยเหลือ)
 
@@ -103,7 +103,7 @@ Mental health (สุขภาพจิต) is how we think, feel, and cope with
 ## Related
 
 - [[Health and PE - Overview|← Back to Health and PE BOK]]
-- [[00_overview|Health Education Overview]]
+- [[Health-PE/01 Health Education/00_overview|Health Education Overview]]
 
 ## Sources
 

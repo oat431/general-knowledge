@@ -6,9 +6,9 @@ course_codes: ["พ11101", "พ12101", "พ13101", "พ14101", "พ15101", "พ1
 strand: "สาระที่ 3: การเคลื่อนไหว การออกกำลังกาย การเล่นเกม กีฬาไทย และกีฬาสากล"
 ---
 
-# Thai Sports — กีฬาไทย
+# Thai Sports: กีฬาไทย
 
-Thai sports (กีฬาไทย) are traditional games and martial arts passed down through generations (ภูมิปัญญาไทย). In the Thai curriculum they are explicitly named in Strand 3 (สาระที่ 3: การเคลื่อนไหว การออกกำลังกาย การเล่นเกม กีฬาไทย และกีฬาสากล), guided by standard พ 3.2. Students learn traditional games (เกมพื้นบ้าน), then Sepak Takraw (ตะกร้อ), and at upper levels Thai boxing (มวยไทย) and advanced Thai sports — preserving national heritage (การอนุรักษ์มรดกของชาติ) through movement.
+Thai sports (กีฬาไทย) are traditional games and martial arts passed down through generations (ภูมิปัญญาไทย). In the Thai curriculum they are explicitly named in Strand 3 (สาระที่ 3: การเคลื่อนไหว การออกกำลังกาย การเล่นเกม กีฬาไทย และกีฬาสากล), guided by standard พ 3.2. Students learn traditional games (เกมพื้นบ้าน), then Sepak Takraw (ตะกร้อ), and at upper levels Thai boxing (มวยไทย) and advanced Thai sports, preserving national heritage (การอนุรักษ์มรดกของชาติ) through movement.
 
 ## 1 | Grade Band Breakdown
 
@@ -38,7 +38,7 @@ Thai sports (กีฬาไทย) are traditional games and martial arts passe
 | Players | Regu = 3 per team (sepak takraw), or 4 for hoop (ตะกร้อลอดห่วง) |
 | Court | Badminton-sized court with net |
 | Key skills | Serve (เสิร์ฟ), kick (เตะ), header (โหม่ง), roll spike (ฟาด) |
-| Rule | No hands — use feet, knees, chest, head |
+| Rule | No hands: use feet, knees, chest, head |
 
 ## 4 | Thai Boxing (มวยไทย)
 
@@ -91,7 +91,7 @@ Thai sports (กีฬาไทย) are traditional games and martial arts passe
 ## Related
 
 - [[Health and PE - Overview|← Back to Health and PE BOK]]
-- [[00_overview|Physical Education Overview]]
+- [[Health-PE/02 Physical Education/00_overview|Physical Education Overview]]
 
 ## Sources
 

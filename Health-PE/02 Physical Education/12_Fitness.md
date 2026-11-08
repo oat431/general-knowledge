@@ -6,7 +6,7 @@ course_codes: ["พ11101", "พ12101", "พ13101", "พ14101", "พ15101", "พ1
 strand: "สาระที่ 3: การเคลื่อนไหว การออกกำลังกาย การเล่นเกม กีฬาไทย และกีฬาสากล"
 ---
 
-# Fitness — สมรรถภาพทางกาย
+# Fitness: สมรรถภาพทางกาย
 
 Physical fitness (สมรรถภาพทางกาย) is the body's ability to work effectively and stay healthy. In the Thai curriculum this sits in Strand 3 (สาระที่ 3: การเคลื่อนไหว การออกกำลังกาย การเล่นเกม กีฬาไทย และกีฬาสากล), guided by standard พ 3.1. Students move from active play (การเล่นที่กระฉับกระเฉง) to fitness testing (การทดสอบสมรรถภาพ), warm-up and cool-down (การอบอุ่นร่างกาย), training principles (หลักการฝึก), and finally designing personal fitness plans (การวางแผนสมรรถภาพส่วนบุคคล).
 
@@ -91,7 +91,7 @@ Physical fitness (สมรรถภาพทางกาย) is the body's abil
 ## Related
 
 - [[Health and PE - Overview|← Back to Health and PE BOK]]
-- [[00_overview|Physical Education Overview]]
+- [[Health-PE/02 Physical Education/00_overview|Physical Education Overview]]
 
 ## Sources
 

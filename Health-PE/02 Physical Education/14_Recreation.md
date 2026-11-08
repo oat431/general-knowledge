@@ -6,9 +6,9 @@ course_codes: ["พ11101", "พ12101", "พ13101", "พ14101", "พ15101", "พ1
 strand: "สาระที่ 3: การเคลื่อนไหว การออกกำลังกาย การเล่นเกม กีฬาไทย และกีฬาสากล"
 ---
 
-# Recreation — นันทนาการ
+# Recreation: นันทนาการ
 
-Recreation (นันทนาการ) is leisure activity that refreshes the body and mind — the balance between work/study and rest. In the Thai curriculum this sits in Strand 3 (สาระที่ 3: การเคลื่อนไหว การออกกำลังกาย การเล่นเกม กีฬาไทย และกีฬาสากล), guided by standard พ 3.2. Students move from playground activities (กิจกรรมสนามเด็กเล่น) to outdoor games and hiking (การเดินป่า), camping (การเข้าค่ายพักแรม), and finally adventure sports and lifelong recreation habits (นันทนาการตลอดชีวิต).
+Recreation (นันทนาการ) is leisure activity that refreshes the body and mind: the balance between work/study and rest. In the Thai curriculum this sits in Strand 3 (สาระที่ 3: การเคลื่อนไหว การออกกำลังกาย การเล่นเกม กีฬาไทย และกีฬาสากล), guided by standard พ 3.2. Students move from playground activities (กิจกรรมสนามเด็กเล่น) to outdoor games and hiking (การเดินป่า), camping (การเข้าค่ายพักแรม), and finally adventure sports and lifelong recreation habits (นันทนาการตลอดชีวิต).
 
 ## 1 | Grade Band Breakdown
 
@@ -54,7 +54,7 @@ Recreation (นันทนาการ) is leisure activity that refreshes the 
 
 | Concept | Thai | Key Idea |
 |---|---|---|
-| Adventure sports | กีฬาผจญภัย | Climbing, kayaking, cycling tours — with safety training |
+| Adventure sports | กีฬาผจญภัย | Climbing, kayaking, cycling tours: with safety training |
 | Recreation planning | การวางแผนนันทนาการ | Schedule leisure like any important task |
 | Lifelong habits | นิสัยตลอดชีวิต | Choose activities you can enjoy at any age |
 | Community recreation | นันทนาการชุมชน | Parks, public sports facilities, volunteer events |
@@ -81,7 +81,7 @@ Recreation (นันทนาการ) is leisure activity that refreshes the 
 ## Related
 
 - [[Health and PE - Overview|← Back to Health and PE BOK]]
-- [[00_overview|Physical Education Overview]]
+- [[Health-PE/02 Physical Education/00_overview|Physical Education Overview]]
 
 ## Sources
 

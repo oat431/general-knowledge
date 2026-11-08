@@ -5,14 +5,14 @@ created: 2026-08-20
 strand: "สุขศึกษา (Health Education)"
 ---
 
-# Health Education — สุขศึกษา
+# Health Education: สุขศึกษา
 
 > **Strand:** สุขศึกษา | **Concept Areas:** 8 | **Duration:** 12 years (ป.1–ม.6)
 > **Focus:** Body systems, nutrition, disease prevention, mental health, safety, substances, relationships, consumer health
 
 ## Overview
 
-Health Education (สุขศึกษา) is the knowledge strand of the Health and Physical Education learning area. In the OBEC Basic Education Core Curriculum B.E. 2551 (revised 2560), its content maps to official strands สาระที่ 1 (การเจริญเติบโตและพัฒนาการของมนุษย์), สาระที่ 2 (ชีวิตและครอบครัว), สาระที่ 4 (การสร้างเสริมสุขภาพ สมรรถภาพ และการป้องกันโรค), and สาระที่ 5 (ความปลอดภัยในชีวิต). Over 12 years students learn how the body works, how to feed it well, how to prevent disease, how to care for the mind, how to stay safe, how to refuse harmful substances, how to build healthy relationships, and how to be a smart health consumer — knowledge that protects them for life.
+Health Education (สุขศึกษา) is the knowledge strand of the Health and Physical Education learning area. In the OBEC Basic Education Core Curriculum B.E. 2551 (revised 2560), its content maps to official strands สาระที่ 1 (การเจริญเติบโตและพัฒนาการของมนุษย์), สาระที่ 2 (ชีวิตและครอบครัว), สาระที่ 4 (การสร้างเสริมสุขภาพ สมรรถภาพ และการป้องกันโรค), and สาระที่ 5 (ความปลอดภัยในชีวิต). Over 12 years students learn how the body works, how to feed it well, how to prevent disease, how to care for the mind, how to stay safe, how to refuse harmful substances, how to build healthy relationships, and how to be a smart health consumer: knowledge that protects them for life.
 
 ## Concept Areas
 
