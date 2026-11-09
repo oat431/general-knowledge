@@ -4,7 +4,7 @@ source: "Locke, An Essay Concerning Human Understanding; Berkeley, A Treatise Co
 created: 2026-09-05
 ---
 
-# 11 — Empiricism — ลัทธิประสบการณ์นิยม
+# 11 · Empiricism: ลัทธิประสบการณ์นิยม
 
 > *"The sun will rise tomorrow. Why? Because it always has. Is that proof? No, it is custom." (after Hume)*
 
@@ -60,6 +60,7 @@ Two further audits. **Is-ought** (ความเป็น-ควรเป็น
 ## 3 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     The English phase : 1689 Locke flees to Holland : 1690 Essay Concerning Human Understanding : 1704 Locke dies
     The Irish phase : 1710 Berkeley's Principles of Human Knowledge : 1713 Three Dialogues : 1734 Berkeley's Alciphron

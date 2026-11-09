@@ -4,7 +4,7 @@ source: "Karl Popper, Conjectures and Refutations; Thomas Kuhn, The Structure of
 created: 2026-09-05
 ---
 
-# 19 — Philosophy of Science — ปรัชญาวิทยาศาสตร์
+# 19 · Philosophy of Science: ปรัชญาวิทยาศาสตร์
 
 > *"Science is a way of thinking much more than it is a body of knowledge."*
 
@@ -85,6 +85,7 @@ Two famous public moments show the machinery working as designed.
 ## 3 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     1700s : 1748 Hume states the problem of induction : 1763 Bayes essay published posthumously
     1880s : 1887 Michelson and Morley fail to find aether wind

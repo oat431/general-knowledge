@@ -4,7 +4,7 @@ source: "Confucius, The Analects (trans. D.C. Lau); Laozi, Tao Te Ching; Zhuangz
 created: 2026-09-05
 ---
 
-# 20 — Eastern Philosophy Beyond Thailand — ปรัชญาเอเชียเพื่อนบ้าน
+# 20 · Eastern Philosophy Beyond Thailand: ปรัชญาเอเชียเพื่อนบ้าน
 
 > *"The Dao that can be spoken is not the eternal Dao."*
 
@@ -81,6 +81,7 @@ Honest cautions. These borders are porous because the traditions actually met: Z
 ## 3 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     800s to 500s BCE : Upanishads composed in India
     500s BCE : Confucius teaches ; Laozi tradition begins

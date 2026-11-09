@@ -4,7 +4,7 @@ source: "Karl Marx, Economic and Philosophic Manuscripts and Capital vol. 1; Joh
 created: 2026-09-05
 ---
 
-# 18 — Political Philosophy and Justice — ปรัชญาการเมืองและความยุติธรรม
+# 18 · Political Philosophy and Justice: ปรัชญาการเมืองและความยุติธรรม
 
 > *"Each with an equal say in a game whose rules he helped make without knowing who would win."* (the spirit of Rawls' thought experiment)
 
@@ -54,6 +54,7 @@ Berlin's deeper thesis is value pluralism (พหุนิยมแห่งค�
 ## 3 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     Marx : 1844 Alienated Labour manuscripts : 1848 Communist Manifesto : 1867 Capital vol. 1 : 1883 Marx dies
     The century : 1917 Russian Revolution : 1958 Berlin, Two Concepts of Liberty : 1971 Rawls, A Theory of Justice : 1974 Nozick, Anarchy, State and Utopia

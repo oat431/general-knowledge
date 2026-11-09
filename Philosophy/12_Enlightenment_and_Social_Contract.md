@@ -4,7 +4,7 @@ source: "Kant, An Answer to the Question: What is Enlightenment?; Hobbes, Leviat
 created: 2026-09-05
 ---
 
-# 12 — Enlightenment and Social Contract — ยุคสว่างทางปัญญาและสัญญาประชาคม
+# 12 · Enlightenment and Social Contract: ยุคสว่างทางปัญญาและสัญญาประชาคม
 
 > *"Sapere aude! Have the courage to use your own understanding." (Kant, What is Enlightenment?, 1784)*
 
@@ -54,6 +54,7 @@ The American founding documents are Lockean with Montesquieu's wiring: the Decla
 ## 3 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     The disasters that set the questions : 1648 Peace of Westphalia ends the wars of religion : 1651 Hobbes publishes Leviathan
     The English settlement : 1689 Glorious Revolution and Locke's Two Treatises : 1690 Locke's Essay published

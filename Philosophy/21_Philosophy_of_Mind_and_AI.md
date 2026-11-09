@@ -4,7 +4,7 @@ source: "John Searle, Minds, Brains, and Programs; David Chalmers, The Conscious
 created: 2026-09-05
 ---
 
-# 21 — Philosophy of Mind and AI — ปรัชญาจิตและปัญญาประดิษฐ์
+# 21 · Philosophy of Mind and AI: ปรัชญาจิตและปัญญาประดิษฐ์
 
 > *"We cannot be sure that a machine suffers; we can be sure we do not know."*
 
@@ -84,6 +84,7 @@ What nobody has shown: persistent goals, episodic memory across sessions without
 ## 3 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     1600s : Descartes splits mind and matter
     1950s : Turing proposes the imitation game : 1956 Dartmouth coins AI

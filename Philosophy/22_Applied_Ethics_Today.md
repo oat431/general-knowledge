@@ -4,7 +4,7 @@ source: "Michael Sandel, Justice; Beauchamp and Childress, Principles of Biomedi
 created: 2026-09-05
 ---
 
-# 22 — Applied Ethics Today — จริยธรรมประยุกต์ในยุคปัจจุบัน
+# 22 · Applied Ethics Today: จริยธรรมประยุกต์ในยุคปัจจุบัน
 
 > *"Ethics is not only what you do when no one is looking; it is what a society decides, on the record."*
 
@@ -75,6 +75,7 @@ For fifty years the runaway-trolley case (Foot 1967; Judith Jarvis Thomson's var
 ## 3 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     1940s : 1947 Nuremberg Code after war-crimes trials
     1960s : 1962 Silent Spring : 1967 Hardin and Foot publish

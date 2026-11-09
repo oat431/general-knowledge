@@ -5,7 +5,7 @@ created: 2026-09-05
 domain: "Philosophy"
 ---
 
-# Philosophy — ปรัชญา
+# Philosophy: ปรัชญา
 
 > **Domain:** Philosophy for adult general knowledge (exam-free, no grade bands)
 > **BOK roadmap:** [[Philosophy - Overview]]

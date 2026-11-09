@@ -4,7 +4,7 @@ source: "Charles S. Peirce, 'The Fixation of Belief' and 'How to Make Our Ideas 
 created: 2026-09-05
 ---
 
-# 16 — Pragmatism — ลัทธิปฏิบัตินิยม
+# 16 · Pragmatism: ลัทธิปฏิบัตินิยม
 
 > *"The true is the name of whatever proves itself to be good in the way of belief, and not good for a limited time only but all round."* (William James)
 
@@ -45,6 +45,7 @@ Democracy as a way of life (ประชาธิปไตยในฐานะ�
 ## 3 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     Origins : 1839 Peirce born : 1872 Metaphysical Club, Cambridge Mass : 1877-78 Peirce, Fixation of Belief and How to Make Ideas Clear
     The name spreads : 1898 James lectures on Pragmatism as a New Name : 1907 James, Pragmatism : 1909 A Pluralistic Universe and The Meaning of Truth

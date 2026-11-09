@@ -4,7 +4,7 @@ source: "Nigel Warburton, A Little History of Philosophy; Simon Blackburn, Think
 created: 2026-09-05
 ---
 
-# 01 — What Is Philosophy — ปรัชญาคืออะไร
+# 01 · What Is Philosophy: ปรัชญาคืออะไร
 
 > *"Philosophy is a battle against the bewitchment of our intelligence by means of language."* : Ludwig Wittgenstein, Philosophical Investigations
 
@@ -83,6 +83,7 @@ Three ways of asking large questions, not three rival tribes. Many scientists an
 ## 3 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     6th c BCE Ionia : Thinkers explain nature through nature, not myth : The word philosophia enters Greek use
     5th c BCE Athens : Socrates makes questioning a way of life : Rhetoric meets argument

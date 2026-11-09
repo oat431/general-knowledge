@@ -4,7 +4,7 @@ source: "Gottlob Frege, Begriffsschrift and 'On Sense and Reference'; Bertrand R
 created: 2026-09-05
 ---
 
-# 17 — Analytic Philosophy — ปรัชญาวิเคราะห์
+# 17 · Analytic Philosophy: ปรัชญาวิเคราะห์
 
 > *"The limits of my language mean the limits of my world."* (Wittgenstein, Tractatus)
 
@@ -47,6 +47,7 @@ Popper (note 19) belongs to the same argument: he replaced verification with fal
 ## 3 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     Founding logic : 1879 Frege Begriffsschrift : 1892 Sense and Reference : 1901 Russell's Paradox : 1905 On Denoting : 1910-13 Principia Mathematica
     The first Wittgenstein : 1921 Tractatus : 1929 Wittgenstein returns to Cambridge : 1930s Vienna Circle at its height

@@ -4,7 +4,7 @@ source: "Descartes, Meditations on First Philosophy and Discourse on the Method;
 created: 2026-09-05
 ---
 
-# 10 — Rationalism — ลัทธิเหตุผลนิยม
+# 10 · Rationalism: ลัทธิเหตุผลนิยม
 
 > *"I think, therefore I am." (Descartes, Discourse on the Method, 1637, and Meditations, 1641)*
 
@@ -55,6 +55,7 @@ His **optimism** came from the same engine: among all composable worlds a perfec
 ## 3 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     The new method : 1637 Descartes publishes the Discourse on the Method : 1641 Meditations on First Philosophy with objections from Hobbes, Arnauld, and others : 1650 Descartes dies in Stockholm
     The lonely geometrician : 1656 Spinoza excommunicated from Amsterdam's Jewish community : 1675 Ethics completed : 1677 Ethics published posthumously

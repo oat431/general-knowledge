@@ -4,7 +4,7 @@ source: "Jean-Paul Sartre, Existentialism is a Humanism and Being and Nothingnes
 created: 2026-09-05
 ---
 
-# 15 — Existentialism — ปรัชญาอัตถิภาวนิยม
+# 15 · Existentialism: ปรัชญาอัตถิภาวนิยม
 
 > *"Man is condemned to be free; because once thrown into the world, he is responsible for everything he does."* (Sartre)
 
@@ -53,6 +53,7 @@ Camus refused the existentialist label; his question in The Myth of Sisyphus (19
 ## 3 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     Precursors : 1843 Kierkegaard Either/Or : 1882 Nietzsche Gay Science, God is dead : 1887 Genealogy of Morals : 1927 Heidegger Being and Time
     The flowering : 1938 Sartre Nausea : 1943 Being and Nothingness : 1944 Huis Clos and Beauvoir Pyrrhus and Cineas : 1945 Sartre Existentialism is a Humanism

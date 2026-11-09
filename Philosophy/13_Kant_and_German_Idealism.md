@@ -4,7 +4,7 @@ source: "Immanuel Kant, Critique of Pure Reason; Groundwork of the Metaphysics o
 created: 2026-09-05
 ---
 
-# 13 — Kant and German Idealism — คานต์และปรัชญาอุดมคติเยอรมัน
+# 13 · Kant and German Idealism: คานต์และปรัชญาอุดมคติเยอรมัน
 
 > *"Two things fill the mind with ever new and increasing admiration and awe: the starry heavens above me and the moral law within me."*
 
@@ -59,6 +59,7 @@ Hegel (เฮเกล) rejected Kant's leftover dualisms, phenomenon vs noumeno
 ## 3 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     1724-1804 The critical philosophy : 1724 Kant born in Konigsberg : 1770 Kant becomes professor of logic and metaphysics : 1781 Critique of Pure Reason published : 1785 Groundwork of the Metaphysics of Morals : 1788 Critique of Practical Reason : 1790 Critique of Judgment
     1770-1831 Hegel and after : 1795 Kant writes Perpetual Peace : 1807 Hegel Phenomenology of Spirit : 1821 Hegel Philosophy of Right in Berlin : 1831 Hegel dies, Marx born eleven years earlier

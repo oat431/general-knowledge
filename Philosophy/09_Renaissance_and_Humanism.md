@@ -4,7 +4,7 @@ source: "Petrarch, Canzoniere and letters; Erasmus, In Praise of Folly; Thomas M
 created: 2026-09-05
 ---
 
-# 09 — Renaissance and Humanism — เรเนซองส์และลัทธิมนุษยภาพ
+# 09 · Renaissance and Humanism: เรเนซองส์และลัทธิมนุษยภาพ
 
 > *"I am a human being; I consider nothing human alien to me." (Terence, quoted by Erasmus and Montaigne alike)*
 
@@ -52,6 +52,7 @@ His move is methodological, not demonic: he proposes to follow "the effectual tr
 ## 3 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     Italian beginnings : 1353 Petrarch ascends Mont Ventoux : 1402 Birth of civic humanism talk around Salutati's Florence
     The print and the Greek : 1453 Fall of Constantinople : 1455 Gutenberg Bible printed : 1516 Erasmus's Greek New Testament and More's Utopia
