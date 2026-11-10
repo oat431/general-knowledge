@@ -6,9 +6,9 @@ course_codes: ["ส12104", "ส13104", "ส21101", "ส22101", "ส23104"]
 strand: "สาระที่ 4: ประวัติศาสตร์"
 ---
 
-# World History and Civilizations — ประวัติศาสตร์โลกและอารยธรรม
+# World History and Civilizations: ประวัติศาสตร์โลกและอารยธรรม
 
-> *"Every civilization has contributed something unique to human progress — understanding world history helps us see our place in the larger human story."*
+> *"Every civilization has contributed something unique to human progress: understanding world history helps us see our place in the larger human story."*
 
 World History covers major civilizations and events that shaped the modern world. From ancient Mesopotamia to the World Wars, students learn how human societies developed, interacted, and transformed over millennia.
 
@@ -128,9 +128,9 @@ World History covers major civilizations and events that shaped the modern world
 ## 8 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Thai_History|Thai History]] — Thailand in world context
-- [[01_Geography_of_Thailand|Geography]] — Geographic factors in history
-- [[03_ASEAN_Studies|ASEAN Studies]] — Southeast Asian cooperation
+- [[01_Thai_History|Thai History]]: Thailand in world context
+- [[01_Geography_of_Thailand|Geography]]: Geographic factors in history
+- [[03_ASEAN_Studies|ASEAN Studies]]: Southeast Asian cooperation
 
 ---
 

@@ -6,7 +6,7 @@ course_codes: ["ส12104", "ส13104", "ส21101", "ส22101", "ส23104"]
 strand: "สาระที่ 4: ประวัติศาสตร์"
 ---
 
-# Important Monarchs — พระมหากษัตริย์ที่สำคัญ
+# Important Monarchs: พระมหากษัตริย์ที่สำคัญ
 
 > *"A great king is not measured by the territory he conquers, but by the welfare of the people he serves."*
 
@@ -132,7 +132,7 @@ See [[07_Thonburi_Period]] for full details.
 | Aspect | Details |
 |---|---|
 | **Born** | September 20, พ.ศ. 2396 (September 20, 1853) |
-| **Reign** | พ.ศ. 2411–2453 (1868–1919 CE) — 42 years |
+| **Reign** | พ.ศ. 2411–2453 (1868–1919 CE): 42 years |
 | **Kingdom** | Rattanakosin |
 | **Father** | King Rama IV (Mongkut) |
 | **Why "Great"** | Modernized Thailand, preserved independence |
@@ -175,7 +175,7 @@ See [[08_Rattanakosin_Period]] for full details.
 | Aspect | Details |
 |---|---|
 | **Born** | December 5, พ.ศ. 2470 (December 5, 1927) |
-| **Reign** | พ.ศ. 2489–2559 (1946–2016) — 70 years |
+| **Reign** | พ.ศ. 2489–2559 (1946–2016): 70 years |
 | **Kingdom** | Rattanakosin |
 | **Why "Great"** | Sufficiency Economy, rural development, national unity |
 
@@ -212,7 +212,7 @@ See [[08_Rattanakosin_Period]] for full details.
 
 | Term | Thai | Meaning |
 |---|---|---|
-| **มหาราช** | มหาราช | "The Great" — officially conferred title |
+| **มหาราช** | มหาราช | "The Great": officially conferred title |
 | **พระบาทสมเด็จพระเจ้าอยู่หัว** | พระบาทสมเด็จพระเจ้าอยู่หัว | Full title of Thai king |
 | **รัชกาลที่ X** | รัชกาลที่ | "of the Rama" (e.g., Rama V) |
 | **พระอัครมเหสี** | พระอัครมเหสี | Queen consort |
@@ -236,19 +236,19 @@ See [[08_Rattanakosin_Period]] for full details.
 
 ## 13 | Real-World Examples
 
-- **National days** — King's birthdays are national holidays
-- **Royal statues** — Equestrian statue of Rama V (Royal Plaza), King Taksin statue (Wongwian Yai)
-- **Chulalongkorn Day** — October 23, commemorates Rama V's death
-- **Father's Day** — December 5 (Rama IX's birthday)
-- **Royal projects** — Visit Doi Tung, Huai Hong Khrai to see Rama IX's work
+- **National days:** King's birthdays are national holidays
+- **Royal statues:** Equestrian statue of Rama V (Royal Plaza), King Taksin statue (Wongwian Yai)
+- **Chulalongkorn Day:** October 23, commemorates Rama V's death
+- **Father's Day:** December 5 (Rama IX's birthday)
+- **Royal projects:** Visit Doi Tung, Huai Hong Khrai to see Rama IX's work
 
 ---
 
 ## 14 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Thai_History|Thai History]] — Overview of all periods
-- [[05_Sukhothai_Period|Sukhothai]] — Ramkhamhaeng
-- [[06_Ayutthaya_Period|Ayutthaya]] — Naresuan, Narai
-- [[07_Thonburi_Period|Thonburi]] — Taksin
-- [[08_Rattanakosin_Period|Rattanakosin]] — Rama I, V, IX
+- [[01_Thai_History|Thai History]]: Overview of all periods
+- [[05_Sukhothai_Period|Sukhothai]]: Ramkhamhaeng
+- [[06_Ayutthaya_Period|Ayutthaya]]: Naresuan, Narai
+- [[07_Thonburi_Period|Thonburi]]: Taksin
+- [[08_Rattanakosin_Period|Rattanakosin]]: Rama I, V, IX

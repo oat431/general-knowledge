@@ -6,11 +6,11 @@ course_codes: ["ส11104", "ส12104", "ส13104", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 4: ประวัติศาสตร์"
 ---
 
-# Local History — ประวัติศาสตร์ท้องถิ่น
+# Local History: ประวัติศาสตร์ท้องถิ่น
 
 > *"History is not only made in capitals. Every village, every temple, every family has a story worth preserving."*
 
-Local History brings historical thinking down to the personal level. Students learn to research the history of their own community, province, and region — gathering oral histories, studying local landmarks, and connecting family stories to broader historical patterns.
+Local History brings historical thinking down to the personal level. Students learn to research the history of their own community, province, and region: gathering oral histories, studying local landmarks, and connecting family stories to broader historical patterns.
 
 ---
 
@@ -40,7 +40,7 @@ Local History brings historical thinking down to the personal level. Students le
 |---|---|---|
 | **Identity** | อัตลักษณ์ | Understanding "who we are" through place |
 | **Connection** | ความผูกพัน | Emotional bond to community |
-| **Diversity** | ความหลากหลาย | Thailand is not monolithic — regions differ |
+| **Diversity** | ความหลากหลาย | Thailand is not monolithic: regions differ |
 | **Preservation** | การอนุรักษ์ | Local knowledge disappears if not recorded |
 | **Critical thinking** | การคิดวิเคราะห์ | History is not just what's in textbooks |
 
@@ -63,7 +63,7 @@ Local History brings historical thinking down to the personal level. Students le
 
 Thailand's regions have distinct historical traditions:
 
-### Northern Thailand (ภาคเหนือ) — Lanna Kingdom
+### Northern Thailand (ภาคเหนือ): Lanna Kingdom
 
 | Aspect | Details |
 |---|---|
@@ -73,7 +73,7 @@ Thailand's regions have distinct historical traditions:
 | **Culture** | Distinct language (Kam Mueang), script (Tua Mueang), festivals (Yi Peng) |
 | **Joined Thailand** | พ.ศ. 2442 (1899) under Rama V |
 
-### Northeastern Thailand (ภาคอีสาน) — Lan Xang Heritage
+### Northeastern Thailand (ภาคอีสาน): Lan Xang Heritage
 
 | Aspect | Details |
 |---|---|
@@ -82,7 +82,7 @@ Thailand's regions have distinct historical traditions:
 | **Khmer ruins** | Phanom Rung, Phimai |
 | **Prehistoric sites** | Ban Chiang, Non Nok Tha |
 
-### Southern Thailand (ภาคใต้) — Maritime Kingdoms
+### Southern Thailand (ภาคใต้): Maritime Kingdoms
 
 | Aspect | Details |
 |---|---|
@@ -91,13 +91,13 @@ Thailand's regions have distinct historical traditions:
 | **Key sites** | Wat Phra Mahathat (Nakhon Si), old port cities |
 | **Economy** | Tin, rubber, fishing, tourism |
 
-### Central Thailand (ภาคกลาง) — Heartland
+### Central Thailand (ภาคกลาง): Heartland
 
 | Aspect | Details |
 |---|---|
 | **Kingdoms** | Sukhothai, Ayutthaya, Rattanakosin |
 | **Culture** | Standard Thai, central plains rice farming |
-| **Rivers** | Chao Phraya basin — cradle of Thai civilization |
+| **Rivers** | Chao Phraya basin: cradle of Thai civilization |
 | **Significance** | Political and economic center |
 
 ---
@@ -143,6 +143,7 @@ Thailand's regions have distinct historical traditions:
 ### Steps for Student Project
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Choose locality<br/>เลือกพื้นที่"] --> B["Gather sources<br/>รวบรวมแหล่งข้อมูล"]
     B --> C["Interview elders<br/>สัมภาษณ์ผู้สูงอายุ"]
@@ -213,16 +214,16 @@ flowchart TD
 
 ## 11 | Real-World Examples
 
-- **Local temple records** — Many wats have centuries of birth, death, ordination records
-- **Provincial museums** — Every province has a museum showcasing local history
-- **Family genealogies** — Chinese-Thai families often keep detailed family trees
-- **Village founding stories** — Many Isan villages have origin legends tied to specific families
+- **Local temple records:** Many wats have centuries of birth, death, ordination records
+- **Provincial museums:** Every province has a museum showcasing local history
+- **Family genealogies:** Chinese-Thai families often keep detailed family trees
+- **Village founding stories:** Many Isan villages have origin legends tied to specific families
 
 ---
 
 ## 12 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Thai_History|Thai History]] — National context for local stories
-- [[03_Historical_Method|Historical Method]] — Research methods
-- [[14_Historical_Sources|Historical Sources]] — Source types
+- [[01_Thai_History|Thai History]]: National context for local stories
+- [[03_Historical_Method|Historical Method]]: Research methods
+- [[14_Historical_Sources|Historical Sources]]: Source types

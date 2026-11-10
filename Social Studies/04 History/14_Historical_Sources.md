@@ -6,11 +6,11 @@ course_codes: ["ส12104", "ส13104", "ส21101", "ส22101", "ส23104"]
 strand: "สาระที่ 4: ประวัติศาสตร์"
 ---
 
-# Historical Sources — หลักฐานทางประวัติศาสตร์
+# Historical Sources: หลักฐานทางประวัติศาสตร์
 
 > *"History is only as reliable as its sources. The historian's first task is to find, evaluate, and interpret evidence."*
 
-Historical Sources examines the types of evidence historians use to reconstruct the past. Students learn about Thai and international historical sources — from stone inscriptions to DNA evidence — and how to evaluate them critically.
+Historical Sources examines the types of evidence historians use to reconstruct the past. Students learn about Thai and international historical sources: from stone inscriptions to DNA evidence, and how to evaluate them critically.
 
 ---
 
@@ -183,6 +183,7 @@ Historical Sources examines the types of evidence historians use to reconstruct 
 ### Historical Research Process
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Identify research question<br/>ตั้งคำถามวิจัย"] --> B["Find sources<br/>ค้นหาแหล่งข้อมูล"]
     B --> C["Evaluate sources<br/>ประเมินแหล่งข้อมูล"]
@@ -223,10 +224,10 @@ flowchart TD
 
 ## 11 | Real-World Examples
 
-- **Ramkhamhaeng Inscription** — Best-known Thai primary source, authenticity debated
-- **Foreign accounts of Ayutthaya** — Van Vliet, La Loubère documented Thai life that Thais did not record themselves
-- **DNA evidence** — Genetic studies confirm migration patterns into Southeast Asia
-- **Lidar at Angkor** — Revealed extensive urban networks hidden under jungle
+- **Ramkhamhaeng Inscription:** Best-known Thai primary source, authenticity debated
+- **Foreign accounts of Ayutthaya:** Van Vliet, La Loubère documented Thai life that Thais did not record themselves
+- **DNA evidence:** Genetic studies confirm migration patterns into Southeast Asia
+- **Lidar at Angkor:** Revealed extensive urban networks hidden under jungle
 - **Bowring Treaty (1855)** | Primary document showing trade terms between Thailand and Britain
 
 ---
@@ -234,6 +235,6 @@ flowchart TD
 ## 12 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[03_Historical_Method|Historical Method]] — How historians use sources
-- [[04_Prehistoric_Thailand|Prehistoric Thailand]] — Archaeological evidence
-- [[10_Local_History|Local History]] — Local source research
+- [[03_Historical_Method|Historical Method]]: How historians use sources
+- [[04_Prehistoric_Thailand|Prehistoric Thailand]]: Archaeological evidence
+- [[10_Local_History|Local History]]: Local source research

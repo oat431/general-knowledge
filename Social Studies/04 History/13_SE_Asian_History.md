@@ -6,9 +6,9 @@ course_codes: ["ส12104", "ส13104", "ส21101", "ส22101", "ส23104"]
 strand: "สาระที่ 4: ประวัติศาสตร์"
 ---
 
-# Southeast Asian History — ประวัติศาสตร์เอเชียตะวันออกเฉียงใต้
+# Southeast Asian History: ประวัติศาสตร์เอเชียตะวันออกเฉียงใต้
 
-> *"Southeast Asia is a crossroads of civilizations — where India, China, and the West met and blended with indigenous cultures."*
+> *"Southeast Asia is a crossroads of civilizations, where India, China, and the West met and blended with indigenous cultures."*
 
 Southeast Asian History covers the kingdoms, colonial periods, independence movements, and modern development of the region surrounding Thailand. Students learn how geography shaped history, how colonialism affected the region (and why Thailand escaped it), and how ASEAN emerged.
 
@@ -18,7 +18,7 @@ Southeast Asian History covers the kingdoms, colonial periods, independence move
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
+| **ป.1–3** | N/A |
 | **ป.4–6** | Early SE Asian kingdoms, ASEAN neighbors |
 | **ม.1–3** | Colonial period, independence movements, ASEAN formation |
 | **ม.4–6** | Cold War impact, comparative decolonization, regional integration |
@@ -40,6 +40,7 @@ Southeast Asian History covers the kingdoms, colonial periods, independence move
 ### Cultural Influences
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     IND["India<br/>Hinduism, Buddhism,<br/>Sanskrit, art"] --> SEA["Southeast Asia"]
     CHN["China<br/>Confucianism, trade,<br/>migration"] --> SEA
@@ -176,6 +177,7 @@ flowchart TD
 ## 8 | ASEAN Formation (การก่อตั้งอาเซียน)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["ASEAN Founding<br/>1967<br/>5 members"] --> B["Brunei joins<br/>1984"]
     B --> C["Vietnam joins<br/>1995"]
@@ -261,10 +263,10 @@ flowchart LR
 
 ## 11 | Real-World Examples
 
-- **Angkor Wat** — Largest religious monument in the world, symbol of Cambodia
-- **Burma Railway** — "Death Railway" in Kanchanaburi, bridge over River Kwai
-- **ASEAN Summit** — Annual meetings rotate among members
-- **Myanmar refugee crisis** — Karen, Rohingya refugees in Thailand
+- **Angkor Wat:** Largest religious monument in the world, symbol of Cambodia
+- **Burma Railway:** "Death Railway" in Kanchanaburi, bridge over River Kwai
+- **ASEAN Summit:** Annual meetings rotate among members
+- **Myanmar refugee crisis:** Karen, Rohingya refugees in Thailand
 - **South China Sea** | Ongoing territorial disputes involving multiple ASEAN states
 
 ---
@@ -272,6 +274,6 @@ flowchart LR
 ## 12 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Thai_History|Thai History]] — Thailand in regional context
-- [[02_World_History_and_Civilizations|World History]] — Global context
-- [[11_ASEAN_Economics|ASEAN Economics]] — Economic cooperation
+- [[01_Thai_History|Thai History]]: Thailand in regional context
+- [[02_World_History_and_Civilizations|World History]]: Global context
+- [[11_ASEAN_Economics|ASEAN Economics]]: Economic cooperation

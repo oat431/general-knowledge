@@ -6,7 +6,7 @@ course_codes: ["ส12104", "ส13104", "ส21101", "ส22101", "ส23104"]
 strand: "สาระที่ 4: ประวัติศาสตร์"
 ---
 
-# Rattanakosin Period — สมัยรัตนโกสินทร์
+# Rattanakosin Period: สมัยรัตนโกสินทร์
 
 > *"Thailand's journey from absolute monarchy to constitutional democracy, from feudal kingdom to modern nation."*
 
@@ -143,7 +143,7 @@ The most revered reformer. Major reforms:
 | Aspect | Details |
 |---|---|
 | **Date** | June 24, พ.ศ. 2475 (June 24, 1932) |
-| **Group** | Khana Ratsadon (คณะราษฎร) — People's Party |
+| **Group** | Khana Ratsadon (คณะราษฎร): People's Party |
 | **Leaders** | Pridi Banomyong, Phraya Phaholpholphayuhasena, Phraya Songsuradet |
 | **Change** | Absolute monarchy → constitutional monarchy |
 | **Significance** | End of 700+ years of absolute monarchy |
@@ -153,6 +153,7 @@ The most revered reformer. Major reforms:
 ## 8 | 20th Century Political Events
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     R["1932 Revolution<br/>Absolute → Constitutional Monarchy"] --> W["World War II<br/>1939-1945"]
     W --> P["Phibun Era<br/>Military nationalism"]
@@ -208,7 +209,7 @@ flowchart TD
 
 | Aspect | Details |
 |---|---|
-| **Reign** | พ.ศ. 2489–2559 (1946–2016) — 70 years, longest in world |
+| **Reign** | พ.ศ. 2489–2559 (1946–2016): 70 years, longest in world |
 | **Born** | December 5, 1927 (Cambridge, Massachusetts) |
 | **Coronation** | May 5, 1950 |
 | **Philosophy** | Sufficiency Economy Philosophy |
@@ -246,17 +247,17 @@ flowchart TD
 
 ## 12 | Real-World Examples
 
-- **Grand Palace & Wat Phra Kaew** — Built by Rama I, major tourist destination
-- **Democracy Monument** — Built to commemorate 1932 revolution
-- **October 14 Memorial** — Commemorates 1973 democracy uprising
-- **Royal projects** — Visit Doi Tung, Huai Hong Khrai to see Rama IX's work
-- **2017 Constitution** — Current governing document
+- **Grand Palace & Wat Phra Kaew:** Built by Rama I, major tourist destination
+- **Democracy Monument:** Built to commemorate 1932 revolution
+- **October 14 Memorial:** Commemorates 1973 democracy uprising
+- **Royal projects:** Visit Doi Tung, Huai Hong Khrai to see Rama IX's work
+- **2017 Constitution:** Current governing document
 
 ---
 
 ## 13 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Thai_History|Thai History]] — Rattanakosin in context
-- [[07_Thonburi_Period|Thonburi]] — Preceding period
-- [[09_Important_Monarchs|Important Monarchs]] — Detailed king profiles
+- [[01_Thai_History|Thai History]]: Rattanakosin in context
+- [[07_Thonburi_Period|Thonburi]]: Preceding period
+- [[09_Important_Monarchs|Important Monarchs]]: Detailed king profiles

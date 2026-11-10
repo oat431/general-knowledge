@@ -6,9 +6,9 @@ course_codes: ["ส11104", "ส12104", "ส13104", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 4: ประวัติศาสตร์"
 ---
 
-# Time and Chronology — เวลาและการลำดับเวลา
+# Time and Chronology: เวลาและการลำดับเวลา
 
-> *"Time is the longest distance between two places."* — Tennessee Williams
+> *"Time is the longest distance between two places."* (Tennessee Williams)
 
 Time and Chronology teaches students how historians measure, organize, and conceptualize time. Students learn about different calendar systems, periodization, and how to place historical events in proper sequence.
 
@@ -80,6 +80,7 @@ $$\text{Buddhist Era} = \text{Common Era} + 543$$
 ### Timeline Direction
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     BCE["← BCE<br/>older events"] --> ZERO["Year 0<br/>(no year 0)"] --> CE["CE →<br/>newer events"]
 ```
@@ -195,17 +196,17 @@ flowchart LR
 
 ## 11 | Real-World Examples
 
-- **Thai official documents** — Use พ.ศ. (e.g., 2569 = 2026 CE)
-- **International communication** — Convert to CE for clarity
-- **Songkran** — Traditional Thai New Year (April), separate from January 1
-- **C-14 dating** — Used to date Ban Chiang artifacts
-- **Tree rings** — Dendrochronology dates wooden structures precisely
+- **Thai official documents:** Use พ.ศ. (e.g., 2569 = 2026 CE)
+- **International communication:** Convert to CE for clarity
+- **Songkran:** Traditional Thai New Year (April), separate from January 1
+- **C-14 dating:** Used to date Ban Chiang artifacts
+- **Tree rings:** Dendrochronology dates wooden structures precisely
 
 ---
 
 ## 12 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Thai_History|Thai History]] — Thai periodization
-- [[02_World_History_and_Civilizations|World History]] — World periodization
-- [[03_Historical_Method|Historical Method]] — Dating as historical method
+- [[01_Thai_History|Thai History]]: Thai periodization
+- [[02_World_History_and_Civilizations|World History]]: World periodization
+- [[03_Historical_Method|Historical Method]]: Dating as historical method

@@ -6,11 +6,11 @@ course_codes: ["ส12104", "ส13104", "ส21101", "ส22101", "ส23104"]
 strand: "สาระที่ 4: ประวัติศาสตร์"
 ---
 
-# Thonburi Period — สมัยธนบุรี
+# Thonburi Period: สมัยธนบุรี
 
 > *"At a time when all seemed lost, one man rose to reunite the kingdom."*
 
-The Thonburi Period (1767–1782 CE / พ.ศ. 2310–2325) was the shortest major period in Thai history — only 15 years. Yet King Taksin the Great achieved the seemingly impossible: reunifying a shattered kingdom after the fall of Ayutthaya. Students learn about this critical transitional period and the controversial assessment of King Taksin's reign.
+The Thonburi Period (1767–1782 CE / พ.ศ. 2310–2325) was the shortest major period in Thai history: only 15 years. Yet King Taksin the Great achieved the seemingly impossible: reunifying a shattered kingdom after the fall of Ayutthaya. Students learn about this critical transitional period and the controversial assessment of King Taksin's reign.
 
 ---
 
@@ -18,7 +18,7 @@ The Thonburi Period (1767–1782 CE / พ.ศ. 2310–2325) was the shortest maj
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
+| **ป.1–3** | N/A |
 | **ป.4–6** | King Taksin as hero, reunification story |
 | **ม.1–3** | Detailed campaigns, capital at Thonburi, political context |
 | **ม.4–6** | Reign assessment, historiographical debate, causes of downfall |
@@ -33,7 +33,7 @@ The Thonburi Period (1767–1782 CE / พ.ศ. 2310–2325) was the shortest maj
 | **Founder** | King Taksin (สมเด็จพระเจ้ากรุงธนบุรี) |
 | **Duration** | 15 years (shortest major period) |
 | **Capital** | Thonburi (ธนบุรี), west bank of Chao Phraya |
-| **End** | พ.ศ. 2325 (1782 CE) — King Taksin deposed, Rama I founded Rattanakosin |
+| **End** | พ.ศ. 2325 (1782 CE): King Taksin deposed, Rama I founded Rattanakosin |
 
 ---
 
@@ -46,7 +46,7 @@ The Thonburi Period (1767–1782 CE / พ.ศ. 2310–2325) was the shortest maj
 | **Birth name** | Sin (สิน) |
 | **Father** | Chinese immigrant (Hai Hong) |
 | **Mother** | Thai woman (Nok-iang) |
-| **Title before king** | Phraya Tak (พระยาตาก) — governor of Tak |
+| **Title before king** | Phraya Tak (พระยาตาก): governor of Tak |
 | **Role at Ayutthaya fall** | Broke through Burmese lines to gather forces in east |
 
 ### Military Campaigns (Reunification)
@@ -75,6 +75,7 @@ The Thonburi Period (1767–1782 CE / พ.ศ. 2310–2325) was the shortest maj
 ## 4 | Reunification Process
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Ayutthaya Falls<br/>พ.ศ. 2310"] --> B["Kingdom Fragments"]
     B --> C["Phraya Tak gathers forces<br/>at Chanthaburi"]
@@ -120,11 +121,12 @@ flowchart TD
 | **Religious claims** | อ้างตนเป็นพุทธเษฐีย์ | Claimed spiritual supremacy over monks |
 | **Factional conflict** | ความขัดแย้ง | Court factions opposed his rule |
 | **Harsh punishment** | การลงโทษรุนแรง | Executed officials and monks who opposed him |
-| **Coup** | การรัฐประหาร | 1782 — Phraya San staged coup |
+| **Coup** | การรัฐประหาร | 1782: Phraya San staged coup |
 
 ### Sequence of Events (พ.ศ. 2325 / 1782)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["King Taksin's behavior<br/>becomes erratic"] --> B["Phraya San's coup<br/>deposes King Taksin"]
     B --> C["King Taksin enters<br/>monkhood"]
@@ -185,16 +187,16 @@ flowchart TD
 
 ## 10 | Real-World Examples
 
-- **King Taksin the Great Shrine** — Memorial at Wongwian Yai, Bangkok
-- **Wat Arun** — Iconic temple built during Thonburi period
-- **King Taksin Day (Dec 28)** — National commemoration since 1954
-- **Chanthaburi** — Where King Taksin gathered forces, now a historic city
+- **King Taksin the Great Shrine:** Memorial at Wongwian Yai, Bangkok
+- **Wat Arun:** Iconic temple built during Thonburi period
+- **King Taksin Day (Dec 28):** National commemoration since 1954
+- **Chanthaburi:** Where King Taksin gathered forces, now a historic city
 
 ---
 
 ## 11 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Thai_History|Thai History]] — Thonburi in context
-- [[06_Ayutthaya_Period|Ayutthaya]] — Preceding period
-- [[08_Rattanakosin_Period|Rattanakosin]] — Succeeding period
+- [[01_Thai_History|Thai History]]: Thonburi in context
+- [[06_Ayutthaya_Period|Ayutthaya]]: Preceding period
+- [[08_Rattanakosin_Period|Rattanakosin]]: Succeeding period

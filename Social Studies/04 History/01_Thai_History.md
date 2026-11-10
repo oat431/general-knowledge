@@ -6,9 +6,9 @@ course_codes: ["ส11104", "ส12104", "ส13104", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 4: ประวัติศาสตร์"
 ---
 
-# Thai History — ประวัติศาสตร์ไทย
+# Thai History: ประวัติศาสตร์ไทย
 
-> *"Understanding the past illuminates the present and guides the future — Thai history is the story of a people who preserved their identity through centuries of change."*
+> *"Understanding the past illuminates the present and guides the future; Thai history is the story of a people who preserved their identity through centuries of change."*
 
 Thai History covers the major periods from prehistoric settlements through the current Rattanakosin era. Students learn about key monarchs, important events, political and cultural development, and how Thailand evolved into the modern nation it is today.
 
@@ -28,6 +28,7 @@ Thai History covers the major periods from prehistoric settlements through the c
 ## 2 | Thai Historical Periods
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     PRE["Prehistoric\nก่อนประวัติศาสตร์"] --> SUK["Sukhothai\nสุโขทัย\n1792-1981 พ.ศ."]
     SUK --> AYU["Ayutthaya\nอยุธยา\n1893-2310 พ.ศ."]
@@ -44,7 +45,7 @@ flowchart LR
 | **Founded** | พ.ศ. 1792 by Pho Khun Bang Klang Hao |
 | **Greatest King** | King Ramkhamhaeng (พ่อขุนรามคำแหง) |
 | **Key Achievement** | Thai script (อักษรไทย), First Stone Inscription (ศิลาจารึกหลักที่ 1) |
-| **Governance** | พ่อปกครองลูก (father governs children) — paternalistic system |
+| **Governance** | พ่อปกครองลูก (father governs children): paternalistic system |
 | **Economy** | Agriculture, trade (Nan Chao route) |
 | **Culture** | Thai script, Sukhothai Buddha images (ปางมารวิชัย) |
 | **Decline** | Weakened, fell under Ayutthaya's influence |
@@ -65,7 +66,7 @@ flowchart LR
 | Aspect | Details |
 |---|---|
 | **Founded** | พ.ศ. 1893 by King U-Thong (สมเด็จพระรามาธิบดีที่ 1) |
-| **Duration** | 417 years — longest Thai kingdom |
+| **Duration** | 417 years: longest Thai kingdom |
 | **Governance** | จตุสดมภ์ (four ministries), ศักดินา (rank and land system) |
 | **Economy** | International trade (Dutch, French, Portuguese, Japanese) |
 | **Fall** | Destroyed by Burmese invasion พ.ศ. 2310 |
@@ -85,7 +86,7 @@ flowchart LR
 | Aspect | Details |
 |---|---|
 | **Founded** | พ.ศ. 2310 by King Taksin |
-| **Duration** | 15 years — shortest major period |
+| **Duration** | 15 years: shortest major period |
 | **Key Achievement** | Reunified Thai territories, expelled Burmese |
 | **Capital** | Thonburi (ธนบุรี) |
 | **End** | King Taksin's reign ended, Chao Phraya Chakri became King Rama I |
@@ -147,9 +148,9 @@ flowchart LR
 ## 9 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Democracy_and_Government|Democracy]] — Evolution of Thai governance
-- [[02_Thai_Culture_and_Traditions|Thai Culture]] — Cultural development across periods
-- [[02_World_History_and_Civilizations|World History]] — Thailand in world context
+- [[01_Democracy_and_Government|Democracy]]: Evolution of Thai governance
+- [[02_Thai_Culture_and_Traditions|Thai Culture]]: Cultural development across periods
+- [[02_World_History_and_Civilizations|World History]]: Thailand in world context
 
 ---
 

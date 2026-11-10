@@ -6,7 +6,7 @@ course_codes: ["ส12104", "ส13104", "ส21101", "ส22101", "ส23104"]
 strand: "สาระที่ 4: ประวัติศาสตร์"
 ---
 
-# Prehistoric Thailand — ก่อนประวัติศาสตร์ไทย
+# Prehistoric Thailand: ก่อนประวัติศาสตร์ไทย
 
 > *"The story of humanity in Southeast Asia begins not in written records, but in stone tools, pottery shards, and ancient bones."*
 
@@ -18,7 +18,7 @@ Prehistoric Thailand covers human settlement before written records. Students le
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
+| **ป.1–3** | N/A |
 | **ป.4–6** | Stone Age and Metal Age basics, simple tools |
 | **ม.1–3** | Ban Chiang, prehistoric cultures, dating methods |
 | **ม.4–6** | Archaeological analysis, migration theories, metallurgy debate |
@@ -129,8 +129,8 @@ Prehistoric Thailand covers human settlement before written records. Students le
 
 | View | Claim |
 |---|---|
-| **Original (1970s)** | Bronze working began ~3600 BCE — earlier than anywhere |
-| **Revised (1990s-2000s)** | Bronze began ~2100 BCE — still early, but not earliest |
+| **Original (1970s)** | Bronze working began ~3600 BCE: earlier than anywhere |
+| **Revised (1990s-2000s)** | Bronze began ~2100 BCE: still early, but not earliest |
 | **Current consensus** | Ban Chiang shows independent Southeast Asian metallurgy |
 
 ### Migration Theories
@@ -144,6 +144,7 @@ Prehistoric Thailand covers human settlement before written records. Students le
 ### Prehistoric to Historic Transition
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     H["Hoabinhian Hunter-Gatherers<br/>10,000-3,000 BCE"] --> N["Neolithic Farmers<br/>2,000 BCE"]
     N --> B["Bronze Age Settlements<br/>2,100-500 BCE"]
@@ -170,16 +171,16 @@ flowchart TD
 
 ## 10 | Real-World Examples
 
-- **Ban Chiang pottery** — Distinctive red-on-buff designs found worldwide in museums
-- **Dinosaur fossils at Phu Wiang** — New species discovered (Phuwiangosaurus)
-- **UNESCO listing (1992)** — Ban Chiang recognized for outstanding universal value
-- **Modern controversy** — Looting of Ban Chiang artifacts (US museums returned stolen items)
+- **Ban Chiang pottery:** Distinctive red-on-buff designs found worldwide in museums
+- **Dinosaur fossils at Phu Wiang:** New species discovered (Phuwiangosaurus)
+- **UNESCO listing (1992):** Ban Chiang recognized for outstanding universal value
+- **Modern controversy:** Looting of Ban Chiang artifacts (US museums returned stolen items)
 
 ---
 
 ## 11 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Thai_History|Thai History]] — Continuation into historic periods
-- [[03_Historical_Method|Historical Method]] — Archaeological evidence
-- [[14_Historical_Sources|Historical Sources]] — Material evidence
+- [[01_Thai_History|Thai History]]: Continuation into historic periods
+- [[03_Historical_Method|Historical Method]]: Archaeological evidence
+- [[14_Historical_Sources|Historical Sources]]: Material evidence

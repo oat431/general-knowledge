@@ -6,11 +6,11 @@ course_codes: ["ส11104", "ส12104", "ส13104", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 4: ประวัติศาสตร์"
 ---
 
-# Historical Method — วิธีการทางประวัติศาสตร์
+# Historical Method: วิธีการทางประวัติศาสตร์
 
-> *"History is not just memorizing dates — it is the systematic study of the past through evidence, interpretation, and critical thinking."*
+> *"History is not just memorizing dates; it is the systematic study of the past through evidence, interpretation, and critical thinking."*
 
-Historical Method teaches students how historians work — how they find, evaluate, and interpret evidence to construct narratives about the past. Students learn to think critically about sources, understand causation, and recognize that history is always interpreted.
+Historical Method teaches students how historians work: how they find, evaluate, and interpret evidence to construct narratives about the past. Students learn to think critically about sources, understand causation, and recognize that history is always interpreted.
 
 ---
 
@@ -99,8 +99,8 @@ Historical Method teaches students how historians work — how they find, evalua
 ## 8 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Thai_History|Thai History]] — Applying the method to Thai history
-- [[02_World_History_and_Civilizations|World History]] — Applying to world events
+- [[01_Thai_History|Thai History]]: Applying the method to Thai history
+- [[02_World_History_and_Civilizations|World History]]: Applying to world events
 
 ---
 
@@ -119,7 +119,7 @@ Historical Method teaches students how historians work — how they find, evalua
 
 | School | Approach | Key Thinkers |
 |---|---|---|
-| **Rankean** | "How it really was" — objective | Leopold von Ranke |
+| **Rankean** | "How it really was": objective | Leopold von Ranke |
 | **Marxist** | Class struggle drives history | Karl Marx |
 | **Annales** | Long-term social history | Marc Bloch, Fernand Braudel |
 | **Postmodern** | History as narrative, subjective | Hayden White |

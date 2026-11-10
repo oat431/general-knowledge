@@ -6,9 +6,9 @@ course_codes: ["ส12104", "ส13104", "ส21101", "ส22101", "ส23104"]
 strand: "สาระที่ 4: ประวัติศาสตร์"
 ---
 
-# Ancient Civilizations — อารยธรรมโบราณ
+# Ancient Civilizations: อารยธรรมโบราณ
 
-> *"Civilization is the progress toward a society of privacy. The savage's whole existence is public."* — Ayn Rand
+> *"Civilization is the progress toward a society of privacy. The savage's whole existence is public."* (Ayn Rand)
 
 Ancient Civilizations examines the foundational societies that shaped human development. From the first cities of Mesopotamia to the philosophical achievements of Greece, students learn how civilizations emerged, developed, and influenced one another.
 
@@ -18,7 +18,7 @@ Ancient Civilizations examines the foundational societies that shaped human deve
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
+| **ป.1–3** | N/A |
 | **ป.4–6** | Ancient civilizations intro (Egypt, Greece, Rome, China) |
 | **ม.1–3** | Comparative study, contributions to modern world |
 | **ม.4–6** | Deep comparison, causes of rise and fall, legacy analysis |
@@ -28,6 +28,7 @@ Ancient Civilizations examines the foundational societies that shaped human deve
 ## 2 | Cradles of Civilization
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     M["Mesopotamia<br/>เมโสโปเตเมีย<br/>3500 BCE"] --> EG["Egypt<br/>อียิปต์<br/>3100 BCE"]
     M --> IN["Indus Valley<br/>ลุ่มแม่น้ำสินธุ<br/>2600 BCE"]
@@ -53,7 +54,7 @@ flowchart TD
 
 | Contribution | Thai | Description |
 |---|---|---|
-| **Writing** | อักษร | Cuneiform (ตัวลิ่ม) — earliest writing system |
+| **Writing** | อักษร | Cuneiform (ตัวลิ่ม): earliest writing system |
 | **Wheel** | ล้อ | Transportation, pottery |
 | **Law** | กฎหมาย | Code of Hammurabi (~1750 BCE) |
 | **Mathematics** | คณิตศาสตร์ | Base-60 system (60 seconds, 360°) |
@@ -64,7 +65,7 @@ flowchart TD
 
 | Principle | Description |
 |---|---|
-| **Lex talionis** | "Eye for an eye" — proportional punishment |
+| **Lex talionis** | "Eye for an eye": proportional punishment |
 | **Social class** | Punishments varied by social status |
 | **Written law** | Laws publicly displayed for all to see |
 | **Significance** | Earliest comprehensive written legal code |
@@ -121,7 +122,7 @@ flowchart TD
 | **Theater** | การละคร | Tragedy, comedy (Aeschylus, Sophocles) |
 | **Olympics** | กีฬาโอลิมปิก | First Olympic Games (776 BCE) |
 | **Mathematics** | คณิตศาสตร์ | Pythagoras, Euclid, Archimedes |
-| **Medicine** | การแพทย์ | Hippocrates — "Father of Medicine" |
+| **Medicine** | การแพทย์ | Hippocrates: "Father of Medicine" |
 | **Architecture** | สถาปัตยกรรม | Parthenon, classical orders (Doric, Ionic, Corinthian) |
 
 ### Athens vs Sparta
@@ -149,7 +150,7 @@ flowchart TD
 
 | Contribution | Thai | Description |
 |---|---|---|
-| **Law** | กฎหมาย | Roman law — basis of many legal systems |
+| **Law** | กฎหมาย | Roman law: basis of many legal systems |
 | **Engineering** | วิศวกรรม | Roads, aqueducts, bridges, concrete |
 | **Government** | การปกครอง | Republic (Senate, consuls) |
 | **Latin** | ภาษาละติน | Basis of Romance languages |
@@ -276,8 +277,8 @@ flowchart TD
 
 ## 11 | Real-World Examples
 
-- **Rosetta Stone** — Key to decoding Egyptian hieroglyphics (1799 discovery)
-- **Olympic Games** — Revived in 1896, based on ancient Greek tradition
+- **Rosetta Stone:** Key to decoding Egyptian hieroglyphics (1799 discovery)
+- **Olympic Games:** Revived in 1896, based on ancient Greek tradition
 - **Roman law** | Foundation of civil law in many countries including Thailand
 - **Silk Road** | Ancient trade network revived as "Belt and Road Initiative"
 - **Indian mathematics** | The zero we use daily came from ancient India
@@ -287,6 +288,6 @@ flowchart TD
 ## 12 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[02_World_History_and_Civilizations|World History]] — Continuation into modern era
+- [[02_World_History_and_Civilizations|World History]]: Continuation into modern era
 - [[13_SE_Asian_History|SE Asian History]] | Regional civilizations
-- [[04_Prehistoric_Thailand|Prehistoric Thailand]] — Thai prehistoric context
+- [[04_Prehistoric_Thailand|Prehistoric Thailand]]: Thai prehistoric context

@@ -6,7 +6,7 @@ course_codes: ["ส12104", "ส13104", "ส21101", "ส22101", "ส23104"]
 strand: "สาระที่ 4: ประวัติศาสตร์"
 ---
 
-# Historical Figures — บุคคลสำคัญทางประวัติศาสตร์
+# Historical Figures: บุคคลสำคัญทางประวัติศาสตร์
 
 > *"The history of a nation is the sum of the stories of its people."*
 
@@ -218,17 +218,17 @@ This note covers important non-royal figures in Thai and world history. Students
 
 ## 9 | Real-World Examples
 
-- **Ya Mo Festival** — Annual celebration in Nakhon Ratchasima (March–April)
-- **Sunthorn Phu Day** — June 26, celebrated as Sunthorn Phu Day since 1986
-- **Statues and monuments** — Throughout Thailand commemorating heroes
-- **Museum exhibits** — Many provinces have museums dedicated to local heroes
-- **Cultural performances** — Likay, theatre performances about hero stories
+- **Ya Mo Festival:** Annual celebration in Nakhon Ratchasima (March–April)
+- **Sunthorn Phu Day:** June 26, celebrated as Sunthorn Phu Day since 1986
+- **Statues and monuments:** Throughout Thailand commemorating heroes
+- **Museum exhibits:** Many provinces have museums dedicated to local heroes
+- **Cultural performances:** Likay, theatre performances about hero stories
 
 ---
 
 ## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Thai_History|Thai History]] — Context for Thai figures
-- [[02_World_History_and_Civilizations|World History]] — Context for world figures
-- [[09_Important_Monarchs|Important Monarchs]] — Royal figures
+- [[01_Thai_History|Thai History]]: Context for Thai figures
+- [[02_World_History_and_Civilizations|World History]]: Context for world figures
+- [[09_Important_Monarchs|Important Monarchs]]: Royal figures

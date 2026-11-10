@@ -6,11 +6,11 @@ course_codes: ["ส12104", "ส13104", "ส21101", "ส22101", "ส23104"]
 strand: "สาระที่ 4: ประวัติศาสตร์"
 ---
 
-# Ayutthaya Period — สมัยอยุธยา
+# Ayutthaya Period: สมัยอยุธยา
 
-> *"The city so great and wealthy that no monarch in the East could be compared with him."* — Jeremias Van Vliet, Dutch trader
+> *"The city so great and wealthy that no monarch in the East could be compared with him."* (Jeremias Van Vliet, Dutch trader)
 
-The Ayutthaya Period (1351–1767 CE / พ.ศ. 1894–2310) was Thailand's longest-lasting kingdom — 417 years, 33 kings, and 5 dynasties. Students learn about the sophisticated bureaucratic system (sakdina), international trade that made Ayutthaya one of the world's largest cities, and the great warrior-kings Naresuan and Narai.
+The Ayutthaya Period (1351–1767 CE / พ.ศ. 1894–2310) was Thailand's longest-lasting kingdom: 417 years, 33 kings, and 5 dynasties. Students learn about the sophisticated bureaucratic system (sakdina), international trade that made Ayutthaya one of the world's largest cities, and the great warrior-kings Naresuan and Narai.
 
 ---
 
@@ -18,7 +18,7 @@ The Ayutthaya Period (1351–1767 CE / พ.ศ. 1894–2310) was Thailand's long
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
+| **ป.1–3** | N/A |
 | **ป.4–6** | Notable kings, fall of Ayutthaya |
 | **ม.1–3** | Governance (sakdina, chatuşadom), trade, culture, wars with Burma |
 | **ม.4–6** | Historical debate, comparative governance, foreign relations analysis |
@@ -32,7 +32,7 @@ The Ayutthaya Period (1351–1767 CE / พ.ศ. 1894–2310) was Thailand's long
 | **Founded** | พ.ศ. 1894 (1351 CE) by King U-Thong (King Ramathibodi I) |
 | **Duration** | 417 years |
 | **Kings** | 33 kings across 5 dynasties |
-| **Capital** | Ayutthaya (อยุธยา) — island city at river confluence |
+| **Capital** | Ayutthaya (อยุธยา): island city at river confluence |
 | **Fall** | Destroyed by Burmese, April 7, พ.ศ. 2310 (1767 CE) |
 
 ### Five Dynasties
@@ -94,7 +94,7 @@ The Ayutthaya Period (1351–1767 CE / พ.ศ. 1894–2310) was Thailand's long
 | **Declaration of independence** | การประกาศอิสรภาพ | พ.ศ. 2127 (1584) | Ended Burmese vassalage |
 | **Elephant Battle (Don Chedi)** | ยุทธหัตถี | พ.ศ. 2135 (1592) | Defeated Crown Prince of Burma in single combat |
 | **Conquered Hongsawadi** | ตีหงสาวดี | พ.ศ. 2138–2139 | Sacked Burmese capital |
-| **Royal Karen Chronicle** | ตำนานฉบับกะเหรี่ยงหลวง | — | Source for Naresuan's campaigns |
+| **Royal Karen Chronicle** | ตำนานฉบับกะเหรี่ยงหลวง | N/A | Source for Naresuan's campaigns |
 
 ### Naresuan's Military Legacy
 
@@ -243,16 +243,16 @@ The Ayutthaya Period (1351–1767 CE / พ.ศ. 1894–2310) was Thailand's long
 
 ## 11 | Real-World Examples
 
-- **Ayutthaya Historical Park** — UNESCO World Heritage Site (1991)
-- **Elephant Battle reenactment** — Annual ceremony at Don Chedi Memorial
-- **Foreign quarters** — Archaeological remains of Dutch, Portuguese, Japanese settlements
-- **16th-century maps** — European maps show Ayutthaya as major world city
+- **Ayutthaya Historical Park:** UNESCO World Heritage Site (1991)
+- **Elephant Battle reenactment:** Annual ceremony at Don Chedi Memorial
+- **Foreign quarters:** Archaeological remains of Dutch, Portuguese, Japanese settlements
+- **16th-century maps:** European maps show Ayutthaya as major world city
 
 ---
 
 ## 12 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Thai_History|Thai History]] — Ayutthaya in context
-- [[05_Sukhothai_Period|Sukhothai]] — Predecessor kingdom
-- [[07_Thonburi_Period|Thonburi]] — Successor period
+- [[01_Thai_History|Thai History]]: Ayutthaya in context
+- [[05_Sukhothai_Period|Sukhothai]]: Predecessor kingdom
+- [[07_Thonburi_Period|Thonburi]]: Successor period

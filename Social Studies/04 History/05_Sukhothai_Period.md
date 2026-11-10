@@ -6,9 +6,9 @@ course_codes: ["ส12104", "ส13104", "ส21101", "ส22101", "ส23104"]
 strand: "สาระที่ 4: ประวัติศาสตร์"
 ---
 
-# Sukhothai Period — สมัยสุโขทัย
+# Sukhothai Period: สมัยสุโขทัย
 
-> *"ในน้ำมีปลา ในนามีข้าว"* — *"In the water there are fish, in the fields there is rice."* — Ramkhamhaeng Inscription
+> *"ในน้ำมีปลา ในนามีข้าว"*: *"In the water there are fish, in the fields there is rice."* (Ramkhamhaeng Inscription)
 
 The Sukhothai Period (1238–1438 CE / พ.ศ. 1781–1981) is considered the dawn of Thai civilization. Students learn about the founding of the first Thai kingdom, King Ramkhamhaeng's contributions, the creation of the Thai alphabet, and the cultural foundations that shaped Thai identity.
 
@@ -77,7 +77,7 @@ The Sukhothai Period (1238–1438 CE / พ.ศ. 1781–1981) is considered the d
 |---|---|---|
 | **Thai alphabet** | อักษรไทย | Created in ~1283 CE, based on Old Khmer, Mon, and Grantha scripts |
 | **Stone Inscription No. 1** | ศิลาจารึกหลักที่ 1 | Earliest Thai literary text, describes Sukhothai's prosperity |
-| **Paternal kingship** | พ่อปกครองลูก | "Father rules children" — accessible, just governance |
+| **Paternal kingship** | พ่อปกครองลูก | "Father rules children": accessible, just governance |
 | **Bell at palace gate** | กระดิ่งหน้าวัง | Citizens could ring bell to petition king directly |
 | **Theravada Buddhism** | พุทธศาสนาเถรวาท | Established as state religion |
 
@@ -124,6 +124,7 @@ The Sukhothai Period (1238–1438 CE / พ.ศ. 1781–1981) is considered the d
 ### Administrative Structure
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     K["King<br/>พระมหากษัตริย์"] --> C["City Rulers<br/>เจ้าเมือง"]
     C --> V["Village Headmen<br/>หัวหน้าหมู่บ้าน"]
@@ -139,9 +140,9 @@ flowchart TD
 | Aspect | Thai | Description |
 |---|---|---|
 | **Theravada Buddhism** | พุทธศาสนาเถรวาท | State religion |
-| **Buddha images** | พระพุทธรูป | Walking Buddha (ปางลีลา) — unique to Sukhothai |
+| **Buddha images** | พระพุทธรูป | Walking Buddha (ปางลีลา): unique to Sukhothai |
 | **Art style** | ศิลปะสุโขทัย | Elegant, serene, idealized proportions |
-| **Ceramics** | เครื่องสังคโลก | Sangkhalok pottery — famous celadon and brown-glazed wares |
+| **Ceramics** | เครื่องสังคโลก | Sangkhalok pottery: famous celadon and brown-glazed wares |
 | **Literature** | วรรณคดี | Traibhumikatha (ไตรภูมิกถา) by King Lithai |
 | **Architecture** | สถาปัตยกรรม | Lotus-bud stupa (เจดีย์ทรงดอกบัวตูม), lotus-column pillars |
 
@@ -196,16 +197,16 @@ flowchart TD
 
 ## 10 | Real-World Examples
 
-- **Sukhothai Historical Park** — UNESCO World Heritage site, ruins of old capital
-- **Si Satchanalai** — Satellite city, major ceramics production center
-- **Sangkhalok pottery** — Found in shipwrecks throughout Southeast Asia
-- **Thai alphabet day** — การประกาศใช้อักษรไทย, celebrated annually
+- **Sukhothai Historical Park:** UNESCO World Heritage site, ruins of old capital
+- **Si Satchanalai:** Satellite city, major ceramics production center
+- **Sangkhalok pottery:** Found in shipwrecks throughout Southeast Asia
+- **Thai alphabet day:** การประกาศใช้อักษรไทย, celebrated annually
 
 ---
 
 ## 11 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Thai_History|Thai History]] — Sukhothai in context of Thai periods
-- [[06_Ayutthaya_Period|Ayutthaya]] — Successor kingdom
-- [[09_Important_Monarchs|Important Monarchs]] — Ramkhamhaeng
+- [[01_Thai_History|Thai History]]: Sukhothai in context of Thai periods
+- [[06_Ayutthaya_Period|Ayutthaya]]: Successor kingdom
+- [[09_Important_Monarchs|Important Monarchs]]: Ramkhamhaeng
