@@ -6,9 +6,9 @@ course_codes: ["ส11103", "ส12103", "ส13103", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 3: เศรษฐศาสตร์"
 ---
 
-# Money and Banking — เงินและธนาคาร
+# Money and Banking: เงินและธนาคาร
 
-> *"Money is a terrible master but an excellent servant."* — P.T. Barnum
+> *"Money is a terrible master but an excellent servant."* (P.T. Barnum)
 
 Money and Banking explores the history, functions, and institutions that manage a nation's money supply. Students learn how banks create money, how central banks control inflation, and the role of monetary policy.
 
@@ -163,16 +163,16 @@ Initial deposit of 1,000 ฿ → Total money created = 10,000 ฿
 
 ## 11 | Real-World Examples
 
-- **Bank of Thailand** — Maintains ~2% inflation target through policy rate
-- **Tom Yum Kung Crisis (1997)** — Baht devalued from 25 to 56 per dollar overnight
-- **Mobile banking** — PromptPay, QR payments revolutionized Thai payments
-- **Government bonds** — Safe investment for retirement savings
+- **Bank of Thailand:** Maintains ~2% inflation target through policy rate
+- **Tom Yum Kung Crisis (1997):** Baht devalued from 25 to 56 per dollar overnight
+- **Mobile banking:** PromptPay, QR payments revolutionized Thai payments
+- **Government bonds:** Safe investment for retirement savings
 
 ---
 
 ## 12 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[02_Personal_Finance|Personal Finance]] — Banking for individuals
-- [[09_Government_and_Economy|Government and Economy]] — Monetary vs fiscal policy
-- [[10_Economic_Indicators|Economic Indicators]] — Inflation, interest rates
+- [[02_Personal_Finance|Personal Finance]]: Banking for individuals
+- [[09_Government_and_Economy|Government and Economy]]: Monetary vs fiscal policy
+- [[10_Economic_Indicators|Economic Indicators]]: Inflation, interest rates

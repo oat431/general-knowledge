@@ -6,9 +6,9 @@ course_codes: ["ส11103", "ส12103", "ส13103", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 3: เศรษฐศาสตร์"
 ---
 
-# Consumer Rights — สิทธิผู้บริโภค
+# Consumer Rights: สิทธิผู้บริโภค
 
-> *"A customer is the most important visitor on our premises. He is not dependent on us. We are dependent on him."* — Mahatma Gandhi
+> *"A customer is the most important visitor on our premises. He is not dependent on us. We are dependent on him."* (Mahatma Gandhi)
 
 Consumer Rights examines the protections consumers have when buying goods and services. Students learn about the five basic consumer rights, Thai consumer protection laws, and how to be responsible consumers.
 
@@ -238,17 +238,17 @@ Consumer Rights examines the protections consumers have when buying goods and se
 
 ## 10 | Real-World Examples
 
-- **Magic Skin scandal (2017)** — Illegal whitening products caused kidney damage, 4 deaths
-- **OCPB vs Grab (2020)** — Consumer complaints about surge pricing
-- **PDPA enforcement (2022)** — Companies must comply with data protection rules
-- **Consumer Court cases** — First cases filed in 2020, faster resolution
-- **Plastic bag reduction (2020)** — Major retailers stopped giving free plastic bags
+- **Magic Skin scandal (2017):** Illegal whitening products caused kidney damage, 4 deaths
+- **OCPB vs Grab (2020):** Consumer complaints about surge pricing
+- **PDPA enforcement (2022):** Companies must comply with data protection rules
+- **Consumer Court cases:** First cases filed in 2020, faster resolution
+- **Plastic bag reduction (2020):** Major retailers stopped giving free plastic bags
 
 ---
 
 ## 11 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[04_Supply_and_Demand|Supply and Demand]] — Market mechanisms
-- [[09_Government_and_Economy|Government and Economy]] — Government regulation
-- [[12_Economic_Development|Economic Development]] — Sustainable consumption
+- [[04_Supply_and_Demand|Supply and Demand]]: Market mechanisms
+- [[09_Government_and_Economy|Government and Economy]]: Government regulation
+- [[12_Economic_Development|Economic Development]]: Sustainable consumption

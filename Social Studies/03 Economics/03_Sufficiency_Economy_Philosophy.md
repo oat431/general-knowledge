@@ -6,11 +6,11 @@ course_codes: ["ส11103", "ส12103", "ส13103", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 3: เศรษฐศาสตร์"
 ---
 
-# Sufficiency Economy Philosophy — ปรัชญาเศรษฐกิจพอเพียง
+# Sufficiency Economy Philosophy: ปรัชญาเศรษฐกิจพอเพียง
 
-> *"Sufficiency Economy is not about being poor — it is about living wisely, within means, with knowledge and morality."*
+> *"Sufficiency Economy is not about being poor; it is about living wisely, within means, with knowledge and morality."*
 
-Sufficiency Economy Philosophy (SEP) is King Rama IX's guidance for balanced living. It permeates the entire Thai economics curriculum and is uniquely Thai — not found in any other country's education system. Students learn the three principles, two conditions, and how to apply them in daily life.
+Sufficiency Economy Philosophy (SEP) is King Rama IX's guidance for balanced living. It permeates the entire Thai economics curriculum and is uniquely Thai, not found in any other country's education system. Students learn the three principles, two conditions, and how to apply them in daily life.
 
 ---
 
@@ -99,10 +99,10 @@ King Rama IX's agricultural philosophy for Thai farmers:
 
 ## 8 | Real-World Examples
 
-- **Royal Development Projects** — King Rama IX's 4,000+ development projects
-- **Sufficiency Economy Schools** — Schools teaching SEP principles
-- **Community Enterprises** — Villages applying SEP in agriculture and crafts
-- **Personal Application** — Saving 10% of income, avoiding debt, living within means
+- **Royal Development Projects:** King Rama IX's 4,000+ development projects
+- **Sufficiency Economy Schools:** Schools teaching SEP principles
+- **Community Enterprises:** Villages applying SEP in agriculture and crafts
+- **Personal Application:** Saving 10% of income, avoiding debt, living within means
 
 ---
 
@@ -171,6 +171,6 @@ King Rama IX's agricultural philosophy for Thai farmers:
 ## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Economics_Fundamentals|Economics]] — Economic theory behind SEP
-- [[01_Buddhist_Principles|Buddhism]] — Buddhist values in SEP (moderation, wisdom)
-- [[01_Geography_of_Thailand|Geography]] — Agricultural application
+- [[01_Economics_Fundamentals|Economics]]: Economic theory behind SEP
+- [[01_Buddhist_Principles|Buddhism]]: Buddhist values in SEP (moderation, wisdom)
+- [[01_Geography_of_Thailand|Geography]]: Agricultural application

@@ -6,9 +6,9 @@ course_codes: ["ส13103", "ส21101", "ส22101", "ส23103"]
 strand: "สาระที่ 3: เศรษฐศาสตร์"
 ---
 
-# Economic Systems — ระบบเศรษฐกิจ
+# Economic Systems: ระบบเศรษฐกิจ
 
-> *"The market can stay irrational longer than you can stay solvent."* — John Maynard Keynes
+> *"The market can stay irrational longer than you can stay solvent."* (John Maynard Keynes)
 
 Economic Systems examines how different societies organize production, distribution, and consumption. Students learn to compare market, command, and mixed economies, with Thailand as a case study.
 
@@ -18,7 +18,7 @@ Economic Systems examines how different societies organize production, distribut
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
+| **ป.1–3** | N/A |
 | **ป.4–6** | Market, command, mixed economies (basic concepts) |
 | **ม.1–3** | Comparative analysis of economic systems, advantages/disadvantages |
 | **ม.4–6** | Thai mixed economy analysis, role of government, economic policy |
@@ -148,16 +148,16 @@ Economic Systems examines how different societies organize production, distribut
 
 ## 10 | Real-World Examples
 
-- **Thailand** — Mixed economy: private businesses + government healthcare (30-baht scheme)
-- **Singapore** — Market economy with strong government planning (HDB housing)
-- **China** — "Socialism with Chinese characteristics" — state capitalism
-- **Nordic countries** — Market economy with extensive welfare (Sweden, Norway)
+- **Thailand:** Mixed economy: private businesses + government healthcare (30-baht scheme)
+- **Singapore:** Market economy with strong government planning (HDB housing)
+- **China:** "Socialism with Chinese characteristics", state capitalism
+- **Nordic countries:** Market economy with extensive welfare (Sweden, Norway)
 
 ---
 
 ## 11 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Economics_Fundamentals|Economics Fundamentals]] — Basic economic concepts
-- [[04_Supply_and_Demand|Supply and Demand]] — How markets work
-- [[09_Government_and_Economy|Government and Economy]] — Government intervention
+- [[01_Economics_Fundamentals|Economics Fundamentals]]: Basic economic concepts
+- [[04_Supply_and_Demand|Supply and Demand]]: How markets work
+- [[09_Government_and_Economy|Government and Economy]]: Government intervention

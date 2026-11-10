@@ -6,9 +6,9 @@ course_codes: ["ส11103", "ส12103", "ส13103", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 3: เศรษฐศาสตร์"
 ---
 
-# Trade and Globalization — การค้าและโลกาภิวัตน์
+# Trade and Globalization: การค้าและโลกาภิวัตน์
 
-> *"No nation was ever ruined by trade."* — Benjamin Franklin
+> *"No nation was ever ruined by trade."* (Benjamin Franklin)
 
 Trade and Globalization examines how countries exchange goods and services, why they trade, and how globalization connects economies worldwide. Students learn about comparative advantage, trade agreements, and Thailand's role in the global economy.
 
@@ -184,16 +184,16 @@ Trade and Globalization examines how countries exchange goods and services, why 
 
 ## 11 | Real-World Examples
 
-- **Thailand's rice exports** — World's 2nd largest rice exporter
-- **Eastern Economic Corridor (EEC)** — Thailand's mega-project for FDI
-- **RCEP (2022)** — World's largest trade agreement, 30% of global GDP
-- **EV boom** — Chinese companies investing in Thai automotive industry
+- **Thailand's rice exports:** World's 2nd largest rice exporter
+- **Eastern Economic Corridor (EEC):** Thailand's mega-project for FDI
+- **RCEP (2022):** World's largest trade agreement, 30% of global GDP
+- **EV boom:** Chinese companies investing in Thai automotive industry
 
 ---
 
 ## 12 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[11_ASEAN_Economics|ASEAN Economics]] — Regional trade
-- [[12_Economic_Development|Economic Development]] — Globalization and development
-- [[02 Civics/11_International_Relations|International Relations]] — Trade diplomacy
+- [[11_ASEAN_Economics|ASEAN Economics]]: Regional trade
+- [[12_Economic_Development|Economic Development]]: Globalization and development
+- [[02 Civics/11_International_Relations|International Relations]]: Trade diplomacy

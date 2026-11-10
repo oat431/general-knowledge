@@ -6,9 +6,9 @@ course_codes: ["ส11103", "ส12103", "ส13103", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 3: เศรษฐศาสตร์"
 ---
 
-# Personal Finance — การเงินส่วนบุคคล
+# Personal Finance: การเงินส่วนบุคคล
 
-> *"Financial literacy is not about getting rich — it is about making informed decisions with money throughout your life."*
+> *"Financial literacy is not about getting rich; it is about making informed decisions with money throughout your life."*
 
 Personal Finance teaches students practical money management skills. From saving coins in a piggy bank to budgeting, banking, and understanding taxes, students develop the financial skills needed for independent life.
 
@@ -119,10 +119,10 @@ $$\text{Savings} = \text{Income} - \text{Expenses}$$
 
 ## 8 | Real-World Examples
 
-- **Student savings** — Saving 10% of allowance builds good habits
-- **Bank interest** — 10,000 ฿ at 2% for 1 year = 200 ฿ interest
-- **VAT** — Buying a 100 ฿ item actually costs 107 ฿ with 7% VAT
-- **Debt trap** — Credit card debt at 20% interest doubles in ~3.5 years
+- **Student savings:** Saving 10% of allowance builds good habits
+- **Bank interest:** 10,000 ฿ at 2% for 1 year = 200 ฿ interest
+- **VAT:** Buying a 100 ฿ item actually costs 107 ฿ with 7% VAT
+- **Debt trap:** Credit card debt at 20% interest doubles in ~3.5 years
 
 ---
 
@@ -192,5 +192,5 @@ $$\text{Savings} = \text{Income} - \text{Expenses}$$
 ## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Economics_Fundamentals|Economics]] — Economic theory behind finance
-- [[01_Democracy_and_Government|Democracy]] — Taxation and government services
+- [[01_Economics_Fundamentals|Economics]]: Economic theory behind finance
+- [[01_Democracy_and_Government|Democracy]]: Taxation and government services

@@ -6,9 +6,9 @@ course_codes: ["ส13103", "ส21101", "ส22101", "ส23103"]
 strand: "สาระที่ 3: เศรษฐศาสตร์"
 ---
 
-# Economic Indicators — ดัชนีชี้วัดทางเศรษฐกิจ
+# Economic Indicators: ดัชนีชี้วัดทางเศรษฐกิจ
 
-> *"Not everything that counts can be counted, and not everything that can be counted counts."* — Albert Einstein
+> *"Not everything that counts can be counted, and not everything that can be counted counts."* (Albert Einstein)
 
 Economic Indicators are statistics that measure the health of an economy. Students learn to interpret GDP, inflation, unemployment, and other metrics to understand economic performance and business cycles.
 
@@ -18,14 +18,14 @@ Economic Indicators are statistics that measure the health of an economy. Studen
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
-| **ป.4–6** | — |
+| **ป.1–3** | N/A |
+| **ป.4–6** | N/A |
 | **ม.1–3** | GDP, inflation, unemployment (basic concepts) |
 | **ม.4–6** | Business cycles, economic indicators analysis, leading/lagging indicators |
 
 ---
 
-## 2 | Gross Domestic Product (GDP) — ผลิตภัณฑ์มวลรวมในประเทศ
+## 2 | Gross Domestic Product (GDP): ผลิตภัณฑ์มวลรวมในประเทศ
 
 | Concept | Thai | Definition |
 |---|---|---|
@@ -197,16 +197,16 @@ $$\text{Inflation Rate} = \frac{CPI_{current} - CPI_{previous}}{CPI_{previous}} 
 
 ## 9 | Real-World Examples
 
-- **Thailand's inflation target** — Bank of Thailand targets 1-3% inflation
-- **Unemployment paradox** — Thailand has low unemployment (1.1%) but high informal employment (54%)
-- **GDP vs HDI** — Thailand ranks 29th in GDP but 66th in HDI (2022)
-- **COVID-19 impact** — Thailand's GDP contracted 6.1% in 2020, worst since 1997 crisis
+- **Thailand's inflation target:** Bank of Thailand targets 1-3% inflation
+- **Unemployment paradox:** Thailand has low unemployment (1.1%) but high informal employment (54%)
+- **GDP vs HDI:** Thailand ranks 29th in GDP but 66th in HDI (2022)
+- **COVID-19 impact:** Thailand's GDP contracted 6.1% in 2020, worst since 1997 crisis
 
 ---
 
 ## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[06_Production_and_Consumption|Production and Consumption]] — GDP components
-- [[07_Money_and_Banking|Money and Banking]] — Inflation and monetary policy
-- [[12_Economic_Development|Economic Development]] — HDI and sustainable development
+- [[06_Production_and_Consumption|Production and Consumption]]: GDP components
+- [[07_Money_and_Banking|Money and Banking]]: Inflation and monetary policy
+- [[12_Economic_Development|Economic Development]]: HDI and sustainable development

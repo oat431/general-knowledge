@@ -6,11 +6,11 @@ course_codes: ["ส11103", "ส12103", "ส13103", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 3: เศรษฐศาสตร์"
 ---
 
-# Economics Fundamentals — เศรษฐศาสตร์เบื้องต้น
+# Economics Fundamentals: เศรษฐศาสตร์เบื้องต้น
 
 > *"Economics is the study of how societies manage scarce resources to satisfy unlimited wants."*
 
-Economics Fundamentals covers the core concepts students need to understand how economies work — from basic needs/wants to supply/demand to the uniquely Thai Sufficiency Economy Philosophy. Students learn both theoretical economics and practical personal finance.
+Economics Fundamentals covers the core concepts students need to understand how economies work: from basic needs/wants to supply/demand to the uniquely Thai Sufficiency Economy Philosophy. Students learn both theoretical economics and practical personal finance.
 
 ---
 
@@ -184,6 +184,6 @@ $$\text{Savings} = \text{Income} - \text{Expenses}$$
 ## 11 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[02_Personal_Finance|Personal Finance]] — Practical money management
-- [[06_Production_and_Consumption|Production & Consumption]] — How goods are made
-- [[11_ASEAN_Economics|ASEAN Economics]] — International trade
+- [[02_Personal_Finance|Personal Finance]]: Practical money management
+- [[06_Production_and_Consumption|Production & Consumption]]: How goods are made
+- [[11_ASEAN_Economics|ASEAN Economics]]: International trade

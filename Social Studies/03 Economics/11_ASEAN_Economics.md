@@ -6,9 +6,9 @@ course_codes: ["ส13103", "ส21101", "ส22101", "ส23103"]
 strand: "สาระที่ 3: เศรษฐศาสตร์"
 ---
 
-# ASEAN Economics — เศรษฐศาสตร์อาเซียน
+# ASEAN Economics: เศรษฐศาสตร์อาเซียน
 
-> *"ASEAN is not just a geographical concept. It is a shared destiny."* — Lee Hsien Loong
+> *"ASEAN is not just a geographical concept. It is a shared destiny."* (Lee Hsien Loong)
 
 ASEAN Economics examines economic cooperation among Southeast Asian nations. Students learn about the ASEAN Economic Community (AEC), regional trade agreements, and Thailand's economic role in ASEAN.
 
@@ -18,14 +18,14 @@ ASEAN Economics examines economic cooperation among Southeast Asian nations. Stu
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
+| **ป.1–3** | N/A |
 | **ป.4–6** | ASEAN countries, basic trade concepts |
 | **ม.1–3** | AEC, regional trade, economic cooperation |
 | **ม.4–6** | ASEAN economic integration, challenges, opportunities |
 
 ---
 
-## 2 | ASEAN Economic Community (AEC) — ประชาคมเศรษฐกิจอาเซียน
+## 2 | ASEAN Economic Community (AEC): ประชาคมเศรษฐกิจอาเซียน
 
 | Aspect | Description |
 |---|---|
@@ -72,7 +72,7 @@ ASEAN Economics examines economic cooperation among Southeast Asian nations. Stu
 
 ---
 
-## 4 | ASEAN Free Trade Area (AFTA) — เขตการค้าเสรีอาเซียน
+## 4 | ASEAN Free Trade Area (AFTA): เขตการค้าเสรีอาเซียน
 
 | Aspect | Description |
 |---|---|
@@ -111,7 +111,7 @@ ASEAN Economics examines economic cooperation among Southeast Asian nations. Stu
 
 | Role | Description |
 |---|---|
-| **Automotive hub** | "Detroit of Asia" — Toyota, Honda, Ford factories |
+| **Automotive hub** | "Detroit of Asia": Toyota, Honda, Ford factories |
 | **Electronics hub** | Hard disk drives, semiconductors |
 | **Logistics hub** | Suvarnabhumi Airport, Laem Chabang Port |
 | **Tourism hub** | 40 million visitors annually (pre-COVID) |
@@ -213,17 +213,17 @@ ASEAN Economics examines economic cooperation among Southeast Asian nations. Stu
 
 ## 10 | Real-World Examples
 
-- **AEC 2015** — ASEAN became single market, but integration still incomplete
-- **RCEP 2022** — World's largest trade bloc, includes China
-- **Thailand's automotive industry** — Exports vehicles to ASEAN with 0% tariffs
-- **Grab** — Singapore-based ride-hailing expanded across ASEAN
-- **Cross-border e-commerce** — Lazada, Shopee operate in all ASEAN countries
+- **AEC 2015:** ASEAN became single market, but integration still incomplete
+- **RCEP 2022:** World's largest trade bloc, includes China
+- **Thailand's automotive industry:** Exports vehicles to ASEAN with 0% tariffs
+- **Grab:** Singapore-based ride-hailing expanded across ASEAN
+- **Cross-border e-commerce:** Lazada, Shopee operate in all ASEAN countries
 
 ---
 
 ## 11 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[08_Trade_and_Globalization|Trade and Globalization]] — International trade concepts
-- [[02 Civics/11_International_Relations|International Relations]] — ASEAN cooperation
-- [[12_Economic_Development|Economic Development]] — Regional development
+- [[08_Trade_and_Globalization|Trade and Globalization]]: International trade concepts
+- [[02 Civics/11_International_Relations|International Relations]]: ASEAN cooperation
+- [[12_Economic_Development|Economic Development]]: Regional development

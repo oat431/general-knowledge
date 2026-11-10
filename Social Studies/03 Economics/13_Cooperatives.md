@@ -6,9 +6,9 @@ course_codes: ["ส11103", "ส12103", "ส13103", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 3: เศรษฐศาสตร์"
 ---
 
-# Cooperatives — สหกรณ์
+# Cooperatives: สหกรณ์
 
-> *"Alone we can do so little; together we can do so much."* — Helen Keller
+> *"Alone we can do so little; together we can do so much."* (Helen Keller)
 
 Cooperatives are member-owned enterprises that serve their members' needs rather than maximize profit. Students learn about cooperative principles, types, and their role in Thailand's rural economy.
 
@@ -220,17 +220,17 @@ Members
 
 ## 11 | Real-World Examples
 
-- **Wat Chan Cooperative (1916)** — First cooperative in Thailand, Phitsanulok
-- **BAAC** — Bank for Agriculture and Agricultural Cooperatives, serves 4.7M farmers
-- **OTOP** — Launched 2001, 80,000+ products nationwide
-- **Doi Tung Development Project** — Royal project turned successful social enterprise
-- **Klongchan scandal** — 2015 fraud case led to cooperative reforms
+- **Wat Chan Cooperative (1916):** First cooperative in Thailand, Phitsanulok
+- **BAAC:** Bank for Agriculture and Agricultural Cooperatives, serves 4.7M farmers
+- **OTOP:** Launched 2001, 80,000+ products nationwide
+- **Doi Tung Development Project:** Royal project turned successful social enterprise
+- **Klongchan scandal:** 2015 fraud case led to cooperative reforms
 
 ---
 
 ## 12 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[07_Money_and_Banking|Money and Banking]] — Financial cooperatives
-- [[03_Sufficiency_Economy_Philosophy|Sufficiency Economy]] — Community development
-- [[02_Personal_Finance|Personal Finance]] — Savings cooperatives
+- [[07_Money_and_Banking|Money and Banking]]: Financial cooperatives
+- [[03_Sufficiency_Economy_Philosophy|Sufficiency Economy]]: Community development
+- [[02_Personal_Finance|Personal Finance]]: Savings cooperatives

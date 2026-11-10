@@ -6,9 +6,9 @@ course_codes: ["ส13103", "ส21101", "ส22101", "ส23103"]
 strand: "สาระที่ 3: เศรษฐศาสตร์"
 ---
 
-# Economic Development — การพัฒนาเศรษฐกิจ
+# Economic Development: การพัฒนาเศรษฐกิจ
 
-> *"Development is not just about economic growth. It is about human freedom."* — Amartya Sen
+> *"Development is not just about economic growth. It is about human freedom."* (Amartya Sen)
 
 Economic Development examines how countries improve living standards, reduce poverty, and achieve sustainable growth. Students learn about development indicators, strategies, and the UN Sustainable Development Goals (SDGs).
 
@@ -18,8 +18,8 @@ Economic Development examines how countries improve living standards, reduce pov
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
-| **ป.4–6** | — |
+| **ป.1–3** | N/A |
+| **ป.4–6** | N/A |
 | **ม.1–3** | Development concepts, poverty, inequality |
 | **ม.4–6** | HDI, SDGs, sustainable development, development strategies |
 
@@ -47,7 +47,7 @@ Economic Development examines how countries improve living standards, reduce pov
 
 ## 3 | Development Indicators (ดัชนีการพัฒนา)
 
-### Human Development Index (HDI) — ดัชนีการพัฒนามนุษย์
+### Human Development Index (HDI): ดัชนีการพัฒนามนุษย์
 
 | Component | Thai | Measure |
 |---|---|---|
@@ -69,10 +69,10 @@ Economic Development examines how countries improve living standards, reduce pov
 | Measure | Value | Rank |
 |---|---|---|
 | **HDI** | 0.800 | 66th out of 193 |
-| **Life expectancy** | 78.7 years | — |
-| **Mean years of schooling** | 7.9 years | — |
-| **Expected years of schooling** | 15.9 years | — |
-| **GNI per capita (PPP)** | $19,176 | — |
+| **Life expectancy** | 78.7 years | N/A |
+| **Mean years of schooling** | 7.9 years | N/A |
+| **Expected years of schooling** | 15.9 years | N/A |
+| **GNI per capita (PPP)** | $19,176 | N/A |
 
 ### Other Development Indicators
 
@@ -116,7 +116,7 @@ Economic Development examines how countries improve living standards, reduce pov
 
 ---
 
-## 5 | Sustainable Development Goals (SDGs) — เป้าหมายการพัฒนาที่ยั่งยืน
+## 5 | Sustainable Development Goals (SDGs): เป้าหมายการพัฒนาที่ยั่งยืน
 
 | Goal | Thai | Description |
 |---|---|---|
@@ -246,17 +246,17 @@ Economic Development examines how countries improve living standards, reduce pov
 
 ## 10 | Real-World Examples
 
-- **Thailand's poverty reduction** — From 42% (2000) to 5% (2022)
-- **SDGs** — UN adopted 17 goals in 2015, deadline 2030
-- **Thailand 4.0** — Government vision for value-based economy
-- **BCG model** — Thailand's sustainable development strategy
-- **Middle-income trap** — Thailand stuck at $7,000 GDP per capita for 10+ years
+- **Thailand's poverty reduction:** From 42% (2000) to 5% (2022)
+- **SDGs:** UN adopted 17 goals in 2015, deadline 2030
+- **Thailand 4.0:** Government vision for value-based economy
+- **BCG model:** Thailand's sustainable development strategy
+- **Middle-income trap:** Thailand stuck at $7,000 GDP per capita for 10+ years
 
 ---
 
 ## 11 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[10_Economic_Indicators|Economic Indicators]] — GDP, HDI measurement
-- [[03_Sufficiency_Economy_Philosophy|Sufficiency Economy]] — Sustainable development philosophy
-- [[08_Trade_and_Globalization|Trade and Globalization]] — Global economic integration
+- [[10_Economic_Indicators|Economic Indicators]]: GDP, HDI measurement
+- [[03_Sufficiency_Economy_Philosophy|Sufficiency Economy]]: Sustainable development philosophy
+- [[08_Trade_and_Globalization|Trade and Globalization]]: Global economic integration

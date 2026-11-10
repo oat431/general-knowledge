@@ -6,9 +6,9 @@ course_codes: ["ส13103", "ส21101", "ส22101", "ส23103"]
 strand: "สาระที่ 3: เศรษฐศาสตร์"
 ---
 
-# Supply and Demand — อุปสงค์และอุปทาน
+# Supply and Demand: อุปสงค์และอุปทาน
 
-> *"Price is what you pay. Value is what you get."* — Warren Buffett
+> *"Price is what you pay. Value is what you get."* (Warren Buffett)
 
 Supply and Demand is the foundation of market economics. Students learn how prices are determined through the interaction of buyers and sellers, and how markets reach equilibrium.
 
@@ -18,7 +18,7 @@ Supply and Demand is the foundation of market economics. Students learn how pric
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
+| **ป.1–3** | N/A |
 | **ป.4–6** | Basic concepts: more buyers = higher price, more sellers = lower price |
 | **ม.1–3** | Supply/demand curves, equilibrium, price changes, market mechanisms |
 | **ม.4–6** | Elasticity, market structures, price controls, market failures |
@@ -99,7 +99,7 @@ Supply and Demand is the foundation of market economics. Students learn how pric
 |---|---|---|---|
 | **Perfectly inelastic** | E = 0 | Quantity doesn't change | Life-saving medicine |
 | **Inelastic** | 0 < E < 1 | Quantity changes less than price | Rice, gasoline |
-| **Unit elastic** | E = 1 | Quantity changes same as price | — |
+| **Unit elastic** | E = 1 | Quantity changes same as price | N/A |
 | **Elastic** | E > 1 | Quantity changes more than price | Luxury goods |
 | **Perfectly elastic** | E = ∞ | Any price change → zero demand | Perfect substitutes |
 
@@ -152,16 +152,16 @@ Supply and Demand is the foundation of market economics. Students learn how pric
 
 ## 10 | Real-World Examples
 
-- **Rice price** — Government sets minimum price to protect farmers (price floor)
-- **Gasoline** — Inelastic demand: people still buy even when price rises
-- **Smartphones** — Oligopoly: Apple, Samsung, Xiaomi dominate
-- **Street food** — Perfect competition: many sellers, similar products
+- **Rice price:** Government sets minimum price to protect farmers (price floor)
+- **Gasoline:** Inelastic demand: people still buy even when price rises
+- **Smartphones:** Oligopoly: Apple, Samsung, Xiaomi dominate
+- **Street food:** Perfect competition: many sellers, similar products
 
 ---
 
 ## 11 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Economics_Fundamentals|Economics Fundamentals]] — Basic supply/demand concepts
-- [[05_Economic_Systems|Economic Systems]] — How markets operate in different systems
-- [[09_Government_and_Economy|Government and Economy]] — Price controls and regulations
+- [[01_Economics_Fundamentals|Economics Fundamentals]]: Basic supply/demand concepts
+- [[05_Economic_Systems|Economic Systems]]: How markets operate in different systems
+- [[09_Government_and_Economy|Government and Economy]]: Price controls and regulations

@@ -6,9 +6,9 @@ course_codes: ["ส11103", "ส12103", "ส13103", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 3: เศรษฐศาสตร์"
 ---
 
-# Production and Consumption — การผลิตและการบริโภค
+# Production and Consumption: การผลิตและการบริโภค
 
-> *"Consumption is the sole end and purpose of all production."* — Adam Smith
+> *"Consumption is the sole end and purpose of all production."* (Adam Smith)
 
 Production and Consumption examines how goods and services are created and used. Students learn about factors of production, national income accounting (GDP), and how economic activity is measured.
 
@@ -163,16 +163,16 @@ Production and Consumption examines how goods and services are created and used.
 
 ## 10 | Real-World Examples
 
-- **Thailand GDP (2023)** — ~$500 billion, GDP per capita ~$7,000
-- **Agriculture** — Only 8% of GDP but employs 30% of workforce (low productivity)
-- **Tourism** — Services sector: 20% of GDP pre-pandemic
-- **Circular economy** — Thailand's BCG (Bio-Circular-Green) model
+- **Thailand GDP (2023):** ~$500 billion, GDP per capita ~$7,000
+- **Agriculture:** Only 8% of GDP but employs 30% of workforce (low productivity)
+- **Tourism:** Services sector: 20% of GDP pre-pandemic
+- **Circular economy:** Thailand's BCG (Bio-Circular-Green) model
 
 ---
 
 ## 11 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Economics_Fundamentals|Economics Fundamentals]] — Factors of production
-- [[10_Economic_Indicators|Economic Indicators]] — GDP, inflation, unemployment
-- [[12_Economic_Development|Economic Development]] — Sustainable development
+- [[01_Economics_Fundamentals|Economics Fundamentals]]: Factors of production
+- [[10_Economic_Indicators|Economic Indicators]]: GDP, inflation, unemployment
+- [[12_Economic_Development|Economic Development]]: Sustainable development

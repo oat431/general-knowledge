@@ -6,9 +6,9 @@ course_codes: ["ส13103", "ส21101", "ส22101", "ส23103"]
 strand: "สาระที่ 3: เศรษฐศาสตร์"
 ---
 
-# Government and Economy — รัฐบาลและเศรษฐกิจ
+# Government and Economy: รัฐบาลและเศรษฐกิจ
 
-> *"The art of taxation consists in so plucking the goose as to obtain the largest amount of feathers with the least possible amount of hissing."* — Jean-Baptiste Colbert
+> *"The art of taxation consists in so plucking the goose as to obtain the largest amount of feathers with the least possible amount of hissing."* (Jean-Baptiste Colbert)
 
 Government and Economy examines how governments intervene in markets through fiscal policy, taxation, and public spending. Students learn about the government's role in stabilizing the economy, redistributing income, and providing public goods.
 
@@ -18,7 +18,7 @@ Government and Economy examines how governments intervene in markets through fis
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
+| **ป.1–3** | N/A |
 | **ป.4–6** | Taxes, government spending, public services |
 | **ม.1–3** | Fiscal policy, government budget, types of taxes |
 | **ม.4–6** | Policy analysis, welfare economics, government failures |
@@ -168,17 +168,17 @@ Government and Economy examines how governments intervene in markets through fis
 
 ## 11 | Real-World Examples
 
-- **30-baht healthcare** — Thailand's universal healthcare since 2002
-- **VAT 7%** — Main consumption tax, raised from 0% during crisis
-- **Progressive income tax** — 0% for first 150,000 ฿, up to 35%
-- **EEC investment incentives** — Tax breaks for foreign investors
-- **COVID stimulus** — "We Win" cash handouts, soft loans
+- **30-baht healthcare:** Thailand's universal healthcare since 2002
+- **VAT 7%:** Main consumption tax, raised from 0% during crisis
+- **Progressive income tax:** 0% for first 150,000 ฿, up to 35%
+- **EEC investment incentives:** Tax breaks for foreign investors
+- **COVID stimulus:** "We Win" cash handouts, soft loans
 
 ---
 
 ## 12 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[07_Money_and_Banking|Money and Banking]] — Monetary policy
-- [[02_Personal_Finance|Personal Finance]] — Taxation for individuals
-- [[02 Civics/06_Government_Structure|Government Structure]] — How government works
+- [[07_Money_and_Banking|Money and Banking]]: Monetary policy
+- [[02_Personal_Finance|Personal Finance]]: Taxation for individuals
+- [[02 Civics/06_Government_Structure|Government Structure]]: How government works

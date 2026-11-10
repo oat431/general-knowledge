@@ -5,7 +5,7 @@ created: 2026-07-26
 strand: "สาระที่ 3: เศรษฐศาสตร์"
 ---
 
-# Economics — เศรษฐศาสตร์
+# Economics: เศรษฐศาสตร์
 
 > **Strand:** สาระที่ 3 | **Concept Areas:** ~14 | **Duration:** 12 years (ป.1–ม.6)
 > **Focus:** Scarcity/choice, sufficiency economy, supply/demand, personal finance, economic systems
@@ -23,17 +23,17 @@ Economics teaches students how societies manage scarce resources. The Thai curri
 | 01 | [[01_Economics_Fundamentals]] | เศรษฐศาสตร์ฯ | Needs vs wants | Scarcity, factors | Market mechanisms | Micro/Macro economics |
 | 02 | [[02_Personal_Finance]] | การเงินส่วนบุคคล | Saving money | Banking, budgeting | Interest, taxation | Financial planning, investment |
 | 03 | [[03_Sufficiency_Economy_Philosophy]] | เศรษฐกิจพอเพียง | Sharing | Three principles | + Two conditions | Development model |
-| 04 | Supply & Demand | อุปสงค์ฯ | — | Basic concepts | Equilibrium, price | Elasticity, market structures |
-| 05 | Economic Systems | ระบบเศรษฐกิจ | — | Market, command, mixed | Comparative | Thai mixed economy analysis |
+| 04 | Supply & Demand | อุปสงค์ฯ | N/A | Basic concepts | Equilibrium, price | Elasticity, market structures |
+| 05 | Economic Systems | ระบบเศรษฐกิจ | N/A | Market, command, mixed | Comparative | Thai mixed economy analysis |
 | 06 | Production & Consumption | การผลิตฯ | Making things | Producers, consumers | GDP, national income | Economic indicators |
 | 07 | Money & Banking | เงินฯ | Using money | History, banks | Financial institutions | Monetary policy, BOT |
 | 08 | Trade & Globalization | การค้าฯ | Buying/selling | Domestic/international | Comparative advantage | WTO, FTA, FDI |
-| 09 | Government & Economy | รัฐบาลฯ | — | Taxes, spending | Fiscal policy | Policy analysis |
-| 10 | Economic Indicators | ดัชนีฯ | — | — | GDP, inflation | Economic cycles |
-| 11 | ASEAN Economics | เศรษฐศาสตร์อาเซียน | — | ASEAN basics | AEC | Analysis, opportunities |
-| 12 | Economic Development | การพัฒนาฯ | — | Thailand's growth | HDI, SDGs | Sustainable development |
-| 13 | Cooperatives | สหกรณ์ | — | Basic concept | Types, principles | Community enterprises |
-| 14 | Consumer Rights | สิทธิผู้บริโภค | — | Basic rights | 5 consumer rights | Consumer protection laws |
+| 09 | Government & Economy | รัฐบาลฯ | N/A | Taxes, spending | Fiscal policy | Policy analysis |
+| 10 | Economic Indicators | ดัชนีฯ | N/A | N/A | GDP, inflation | Economic cycles |
+| 11 | ASEAN Economics | เศรษฐศาสตร์อาเซียน | N/A | ASEAN basics | AEC | Analysis, opportunities |
+| 12 | Economic Development | การพัฒนาฯ | N/A | Thailand's growth | HDI, SDGs | Sustainable development |
+| 13 | Cooperatives | สหกรณ์ | N/A | Basic concept | Types, principles | Community enterprises |
+| 14 | Consumer Rights | สิทธิผู้บริโภค | N/A | Basic rights | 5 consumer rights | Consumer protection laws |
 
 ---
 
@@ -63,5 +63,5 @@ Economics teaches students how societies manage scarce resources. The Thai curri
 ## Related
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[02 Civics/00_overview|Civics]] — Government economic policy
-- [[05 Geography/00_overview|Geography]] — Natural resources, agricultural economics
+- [[02 Civics/00_overview|Civics]]: Government economic policy
+- [[05 Geography/00_overview|Geography]]: Natural resources, agricultural economics
