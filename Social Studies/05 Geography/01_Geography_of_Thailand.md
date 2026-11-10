@@ -6,9 +6,9 @@ course_codes: ["ส11105", "ส12105", "ส13105", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 5: ภูมิศาสตร์"
 ---
 
-# Geography of Thailand — ภูมิศาสตร์ไทย
+# Geography of Thailand: ภูมิศาสตร์ไทย
 
-> *"Geography is the study of the Earth's surface — its physical features, climate, resources, and how humans interact with their environment."*
+> *"Geography is the study of the Earth's surface: its physical features, climate, resources, and how humans interact with their environment."*
 
 Geography of Thailand covers the physical and human geography of Thailand and the world. Students learn map skills, understand climate and weather, explore natural resources, and study how people live in different environments.
 
@@ -137,19 +137,19 @@ Geography of Thailand covers the physical and human geography of Thailand and th
 
 ## 9 | Real-World Examples
 
-- **Chao Phraya River** — Central Thailand's lifeline; irrigation, transportation, flooding
-- **2011 Thailand Floods** — Worst in 50 years; affected Bangkok and industrial estates
-- **2004 Indian Ocean Tsunami** — Devastated Phuket and Andaman coast
-- **Bangkok sinking** — City sinking ~2cm/year due to groundwater extraction
+- **Chao Phraya River:** Central Thailand's lifeline; irrigation, transportation, flooding
+- **2011 Thailand Floods:** Worst in 50 years; affected Bangkok and industrial estates
+- **2004 Indian Ocean Tsunami:** Devastated Phuket and Andaman coast
+- **Bangkok sinking:** City sinking ~2cm/year due to groundwater extraction
 
 ---
 
 ## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Thai_History|Thai History]] — Historical geography, settlements
-- [[06_Natural_Resources|Natural Resources]] — Resource management
-- [[10_Environmental_Conservation|Environmental Studies]] — Conservation
+- [[01_Thai_History|Thai History]]: Historical geography, settlements
+- [[06_Natural_Resources|Natural Resources]]: Resource management
+- [[10_Environmental_Conservation|Environmental Studies]]: Conservation
 
 ---
 

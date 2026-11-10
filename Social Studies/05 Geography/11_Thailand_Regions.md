@@ -6,11 +6,11 @@ course_codes: ["ส12105", "ส13105", "ส21101", "ส22101", "ส13105"]
 strand: "สาระที่ 5: ภูมิศาสตร์"
 ---
 
-# Thailand's Regions — ภูมิภาคของประเทศไทย
+# Thailand's Regions: ภูมิภาคของประเทศไทย
 
-> *"Each region of Thailand has its own character — shaped by geography, climate, history, and the peoples who settled there."*
+> *"Each region of Thailand has its own character: shaped by geography, climate, history, and the peoples who settled there."*
 
-Thailand's Regions examines the six distinct regions that compose the country. Students learn about each region's physical geography, economy, culture, and development challenges — building geographic literacy about their own country.
+Thailand's Regions examines the six distinct regions that compose the country. Students learn about each region's physical geography, economy, culture, and development challenges: building geographic literacy about their own country.
 
 ---
 
@@ -18,7 +18,7 @@ Thailand's Regions examines the six distinct regions that compose the country. S
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
+| **ป.1–3** | N/A |
 | **ป.4–6** | Six regions, key features of each |
 | **ม.1–3** | Regional analysis: geography, economy, culture |
 | **ม.4–6** | Regional development policy, inequality, decentralization |
@@ -28,6 +28,7 @@ Thailand's Regions examines the six distinct regions that compose the country. S
 ## 2 | Thailand's Six Regions
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     TH["Thailand<br/>ประเทศไทย"] --> N["North<br/>ภาคเหนือ<br/>17 provinces"]
     TH --> NE["Northeast<br/>ภาคตะวันออกเฉียงเหนือ<br/>20 provinces"]
@@ -198,8 +199,8 @@ flowchart TD
 | **GDP per capita** | $15,000 | $2,500 | 6:1 |
 | **Poverty rate** | 1% | 12% | 12× |
 | **University access** | 40% | 15% | 2.7× |
-| **Hospital beds** | High | Low | — |
-| **Internet access** | 95% | 60% | — |
+| **Hospital beds** | High | Low | N/A |
+| **Internet access** | 95% | 60% | N/A |
 
 ### Regional Development Policy
 
@@ -253,10 +254,10 @@ flowchart TD
 
 ## 11 | Real-World Examples
 
-- **Doi Inthanon** — Northern highest peak, royal project area
-- **Isan migration** — Millions from Northeast work in Bangkok
-- **EEC** — Eastern region receiving major investment
-- **Phuket tourism** — Southern island = top revenue per capita province
+- **Doi Inthanon:** Northern highest peak, royal project area
+- **Isan migration:** Millions from Northeast work in Bangkok
+- **EEC:** Eastern region receiving major investment
+- **Phuket tourism:** Southern island = top revenue per capita province
 - **Kra Isthmus** | Hypothetical canal project (never built) would bypass Malacca Strait
 
 ---
@@ -264,6 +265,6 @@ flowchart TD
 ## 12 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Geography_of_Thailand|Geography of Thailand]] — Overview
-- [[07_Population_Geography|Population Geography]] — Regional population
-- [[09_Economic_Geography|Economic Geography]] — Regional economy
+- [[01_Geography_of_Thailand|Geography of Thailand]]: Overview
+- [[07_Population_Geography|Population Geography]]: Regional population
+- [[09_Economic_Geography|Economic Geography]]: Regional economy

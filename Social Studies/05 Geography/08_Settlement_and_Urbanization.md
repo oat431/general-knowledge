@@ -6,11 +6,11 @@ course_codes: ["ส12105", "ส13105", "ส21101", "ส22101", "ส13105"]
 strand: "สาระที่ 5: ภูมิศาสตร์"
 ---
 
-# Settlement and Urbanization — การตั้งถิ่นฐานและการกลายเป็นเมือง
+# Settlement and Urbanization: การตั้งถิ่นฐานและการกลายเป็นเมือง
 
-> *"The city is not a concrete jungle; it is a human zoo."* — Desmond Morris
+> *"The city is not a concrete jungle; it is a human zoo."* (Desmond Morris)
 
-Settlement and Urbanization examines where and how people live — from rural villages to megacities. Students learn about settlement patterns, the process of urbanization, city functions, and the challenges of rapid urban growth.
+Settlement and Urbanization examines where and how people live: from rural villages to megacities. Students learn about settlement patterns, the process of urbanization, city functions, and the challenges of rapid urban growth.
 
 ---
 
@@ -18,7 +18,7 @@ Settlement and Urbanization examines where and how people live — from rural vi
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
+| **ป.1–3** | N/A |
 | **ป.4–6** | Rural vs urban living, village and city features |
 | **ม.1–3** | Urbanization process, settlement factors, Bangkok growth |
 | **ม.4–6** | Urban systems, city planning, megacity challenges, sustainable cities |
@@ -97,7 +97,7 @@ Settlement and Urbanization examines where and how people live — from rural vi
 
 ## 5 | Bangkok: Primate City
 
-Bangkok exemplifies the "primate city" pattern — one city dominates the national urban hierarchy:
+Bangkok exemplifies the "primate city" pattern, one city dominates the national urban hierarchy:
 
 | Indicator | Bangkok | Second City |
 |---|---|---|
@@ -105,7 +105,7 @@ Bangkok exemplifies the "primate city" pattern — one city dominates the nation
 | **GDP share** | ~35% of national | <3% |
 | **Universities** | 30+ major | 2-3 |
 | **Hospitals** | 100+ | 5-10 |
-| **Ratio** | 10:1 (primacy ratio) | — |
+| **Ratio** | 10:1 (primacy ratio) | N/A |
 
 ### Bangkok's Urban Challenges
 
@@ -125,6 +125,7 @@ Bangkok exemplifies the "primate city" pattern — one city dominates the nation
 ### Concentric Zone Model (Burgess)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     C["CBD<br/>ย่านธุรกิจ"] --> T["Transition<br/>เขตเปลี่ยนสภาพ"]
     T --> W["Working Class<br/>ชนชั้นแรงงาน"]
@@ -241,10 +242,10 @@ flowchart TD
 
 ## 11 | Real-World Examples
 
-- **Bangkok traffic** — Ranked among world's most congested cities
-- **BTS/MRT expansion** — Mass transit reducing car dependency
-- **Slum housing** — Klong Toey slum contrasts with luxury condos nearby
-- **EEC** — Thailand's flagship urban-industrial development
+- **Bangkok traffic:** Ranked among world's most congested cities
+- **BTS/MRT expansion:** Mass transit reducing car dependency
+- **Slum housing:** Klong Toey slum contrasts with luxury condos nearby
+- **EEC:** Thailand's flagship urban-industrial development
 - **Songkhla Lake City** | Planned new city to relieve Bangkok
 
 ---
@@ -252,6 +253,6 @@ flowchart TD
 ## 12 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Geography_of_Thailand|Geography of Thailand]] — Settlement geography
-- [[07_Population_Geography|Population Geography]] — Urban population growth
-- [[09_Economic_Geography|Economic Geography]] — Urban economy
+- [[01_Geography_of_Thailand|Geography of Thailand]]: Settlement geography
+- [[07_Population_Geography|Population Geography]]: Urban population growth
+- [[09_Economic_Geography|Economic Geography]]: Urban economy

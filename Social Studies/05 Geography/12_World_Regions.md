@@ -6,9 +6,9 @@ course_codes: ["ส12105", "ส13105", "ส21101", "ส22101", "ส13105"]
 strand: "สาระที่ 5: ภูมิศาสตร์"
 ---
 
-# World Regions — ภูมิภาคของโลก
+# World Regions: ภูมิภาคของโลก
 
-> *"The world is a book, and those who do not travel read only one page."* — Saint Augustine
+> *"The world is a book, and those who do not travel read only one page."* (Saint Augustine)
 
 World Regions examines the major geographic regions of Earth. Students learn about continents, regional characteristics, and how globalization connects distant places. The focus is on understanding diversity while recognizing shared challenges.
 
@@ -18,7 +18,7 @@ World Regions examines the major geographic regions of Earth. Students learn abo
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
+| **ป.1–3** | N/A |
 | **ป.4–6** | Seven continents, major oceans, basic regions |
 | **ม.1–3** | Regional comparison, cultural geography |
 | **ม.4–6** | Globalization geography, regional blocs, geopolitical analysis |
@@ -124,6 +124,7 @@ See [[11_ASEAN_Economics]] and [[13_SE_Asian_History]]
 ## 4 | Global Trade Routes
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["Asia<br/>Manufacturing"] -->|Malacca Strait| I["Indian Ocean"]
     I -->|Suez Canal| M["Mediterranean"]
@@ -237,10 +238,10 @@ flowchart LR
 
 ## 9 | Real-World Examples
 
-- **Malacca Strait** — 40% of global trade passes through this narrow waterway near Thailand
+- **Malacca Strait:** 40% of global trade passes through this narrow waterway near Thailand
 - **Belt and Road Initiative** | China's infrastructure project spanning 140+ countries
 - **K-pop globalization** | Korean culture spread worldwide via social media
-- **Refugee crisis** | Syria, Ukraine, Myanmar — millions displaced across borders
+- **Refugee crisis** | Syria, Ukraine, Myanmar: millions displaced across borders
 - **Climate change** | Global problem requiring international cooperation (Paris Agreement)
 
 ---
@@ -248,6 +249,6 @@ flowchart LR
 ## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Geography_of_Thailand|Geography of Thailand]] — Thailand in world context
-- [[12_World_Regions|World Regions]] (if separate) — Regional detail
-- [[13_SE_Asian_History|SE Asian History]] — Regional history
+- [[01_Geography_of_Thailand|Geography of Thailand]]: Thailand in world context
+- [[12_World_Regions|World Regions]] (if separate): Regional detail
+- [[13_SE_Asian_History|SE Asian History]]: Regional history

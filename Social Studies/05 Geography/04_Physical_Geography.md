@@ -6,7 +6,7 @@ course_codes: ["ส12105", "ส13105", "ส21101", "ส22101", "ส23105"]
 strand: "สาระที่ 5: ภูมิศาสตร์"
 ---
 
-# Physical Geography — Landforms — ลักษณะภูมิประเทศ
+# Physical Geography: Landforms: ลักษณะภูมิประเทศ
 
 > *"The Earth's surface is a canvas shaped by fire, water, wind, and time."*
 
@@ -18,7 +18,7 @@ Physical Geography examines the natural features of Earth's surface and the proc
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
+| **ป.1–3** | N/A |
 | **ป.4–6** | Mountains, rivers, plains, valleys (basic identification) |
 | **ม.1–3** | Plate tectonics, rock cycle, weathering, erosion, river systems |
 | **ม.4–6** | Geomorphology, landform evolution, Thailand's geological history |
@@ -37,6 +37,7 @@ Physical Geography examines the natural features of Earth's surface and the proc
 ### Types of Plate Boundaries
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     D["Divergent<br/>แยกจากกัน<br/>New crust"] --> M["Mid-ocean ridges<br/>East African Rift"]
     C["Convergent<br/>ชนกัน<br/>Mountains, trenches"] --> H["Himalayas<br/>Andes<br/>Japan Trench"]
@@ -91,6 +92,7 @@ flowchart LR
 ## 4 | The Rock Cycle (วงจรของหิน)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     M["Magma<br/>หินหนืด"] --> I["Igneous Rock<br/>หินอัคนี"]
     I --> S["Sedimentary Rock<br/>หินตะกอน"]
@@ -207,16 +209,16 @@ flowchart TD
 
 ## 10 | Real-World Examples
 
-- **Doi Inthanon** — Thailand's highest peak (2,565m), part of Himalayan range
-- **Khorat Plateau** — Sandstone plateau covering most of Isan, poor soil for farming
-- **Krabi karst landscape** — Limestone formations creating iconic islands and cliffs
-- **2011 floods** — Chao Phraya floodplain geography worsened flooding
+- **Doi Inthanon:** Thailand's highest peak (2,565m), part of Himalayan range
+- **Khorat Plateau:** Sandstone plateau covering most of Isan, poor soil for farming
+- **Krabi karst landscape:** Limestone formations creating iconic islands and cliffs
+- **2011 floods:** Chao Phraya floodplain geography worsened flooding
 
 ---
 
 ## 11 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Geography_of_Thailand|Geography of Thailand]] — Thai physical features
-- [[02_Natural_Disasters_and_Environment|Natural Disasters]] — Earthquakes, volcanoes
-- [[03_Map_Skills_and_Geographic_Tools|Map Skills]] — Topographic features on maps
+- [[01_Geography_of_Thailand|Geography of Thailand]]: Thai physical features
+- [[02_Natural_Disasters_and_Environment|Natural Disasters]]: Earthquakes, volcanoes
+- [[03_Map_Skills_and_Geographic_Tools|Map Skills]]: Topographic features on maps

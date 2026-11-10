@@ -6,9 +6,9 @@ course_codes: ["ส12105", "ส13105", "ส21101", "ส22101", "ส23105"]
 strand: "สาระที่ 5: ภูมิศาสตร์"
 ---
 
-# Natural Resources — ทรัพยากรธรรมชาติ
+# Natural Resources: ทรัพยากรธรรมชาติ
 
-> *"We do not inherit the Earth from our ancestors; we borrow it from our children."* — Native American proverb
+> *"We do not inherit the Earth from our ancestors; we borrow it from our children."* (Native American proverb)
 
 Natural Resources examines the materials and energy sources that human societies depend on. Students learn about renewable and non-renewable resources, Thailand's resource base, and the challenge of sustainable management.
 
@@ -18,7 +18,7 @@ Natural Resources examines the materials and energy sources that human societies
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
+| **ป.1–3** | N/A |
 | **ป.4–6** | Resources in Thailand, renewable vs non-renewable |
 | **ม.1–3** | Resource distribution, conservation, extraction |
 | **ม.4–6** | Resource management policy, energy security, circular economy |
@@ -181,6 +181,7 @@ Natural Resources examines the materials and energy sources that human societies
 ### Circular Economy (เศรษฐกิจหมุนเวียน)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     E["Extract<br/>สกัด"] --> P["Produce<br/>ผลิต"]
     P --> U["Use<br/>ใช้"]
@@ -218,17 +219,17 @@ flowchart LR
 
 ## 9 | Real-World Examples
 
-- **Tin mining decline** — Phuket transitioned from tin mining to tourism
-- **Erawan gas field** — Discovered 1973, fueled Thailand's economic growth
-- **Bhumibol Dam** — Thailand's largest dam, critical for central plain agriculture
-- **Solar farms** — Large installations in Lopburi, Kanchanaburi
-- **EV push** — Thailand promoting electric vehicles to reduce oil imports
+- **Tin mining decline:** Phuket transitioned from tin mining to tourism
+- **Erawan gas field:** Discovered 1973, fueled Thailand's economic growth
+- **Bhumibol Dam:** Thailand's largest dam, critical for central plain agriculture
+- **Solar farms:** Large installations in Lopburi, Kanchanaburi
+- **EV push:** Thailand promoting electric vehicles to reduce oil imports
 
 ---
 
 ## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Geography_of_Thailand|Geography of Thailand]] — Resource distribution
-- [[05_Climate|Climate]] — Renewable energy, climate change
-- [[10_Environmental_Conservation|Environmental Conservation]] — Resource protection
+- [[01_Geography_of_Thailand|Geography of Thailand]]: Resource distribution
+- [[05_Climate|Climate]]: Renewable energy, climate change
+- [[10_Environmental_Conservation|Environmental Conservation]]: Resource protection

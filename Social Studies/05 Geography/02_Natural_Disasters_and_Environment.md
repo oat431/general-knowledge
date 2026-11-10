@@ -6,7 +6,7 @@ course_codes: ["ส13105", "ส21101", "ส22101", "ส23105"]
 strand: "สาระที่ 5: ภูมิศาสตร์"
 ---
 
-# Natural Disasters and Environment — ภัยธรรมชาติและสิ่งแวดล้อม
+# Natural Disasters and Environment: ภัยธรรมชาติและสิ่งแวดล้อม
 
 > *"Understanding natural disasters helps us prepare; protecting the environment ensures our future."*
 
@@ -100,19 +100,19 @@ Natural Disasters and Environment covers the geographic processes that cause dis
 
 ## 7 | Real-World Examples
 
-- **2011 Thailand Floods** — Worst in 50 years; 815 deaths, billions in damage
-- **2004 Indian Ocean Tsunami** — 8,000+ deaths in Thailand
-- **Bangkok Air Pollution** — PM2.5 levels regularly exceed safe limits
-- **Coral Reef Bleaching** — Rising ocean temperatures damage Thai reefs
+- **2011 Thailand Floods:** Worst in 50 years; 815 deaths, billions in damage
+- **2004 Indian Ocean Tsunami:** 8,000+ deaths in Thailand
+- **Bangkok Air Pollution:** PM2.5 levels regularly exceed safe limits
+- **Coral Reef Bleaching:** Rising ocean temperatures damage Thai reefs
 
 ---
 
 ## 8 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Geography_of_Thailand|Geography]] — Physical geography, climate
-- [[01_Economics_Fundamentals|Economics]] — Environmental economics
-- [[01_Thai_History|History]] — Historical disasters
+- [[01_Geography_of_Thailand|Geography]]: Physical geography, climate
+- [[01_Economics_Fundamentals|Economics]]: Environmental economics
+- [[01_Thai_History|History]]: Historical disasters
 
 ---
 
@@ -121,6 +121,7 @@ Natural Disasters and Environment covers the geographic processes that cause dis
 ### Disaster Management Cycle
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     M["Mitigation<br/>การลดผลกระทบ<br/>Long-term prevention"] --> P["Preparedness<br/>การเตรียมการ<br/>Plans, warning systems"]
     P --> R["Response<br/>การตอบสนอง<br/>Emergency rescue"]

@@ -6,9 +6,9 @@ course_codes: ["ส12105", "ส13105", "ส21101", "ส22101", "ส23105"]
 strand: "สาระที่ 5: ภูมิศาสตร์"
 ---
 
-# Climate — ภูมิอากาศ
+# Climate: ภูมิอากาศ
 
-> *"Climate is what you expect; weather is what you get."* — Mark Twain
+> *"Climate is what you expect; weather is what you get."* (Mark Twain)
 
 Climate examines the long-term patterns of temperature, rainfall, wind, and atmospheric conditions. Students learn about climate zones, the monsoon system that shapes Thailand's seasons, and the critical challenge of climate change.
 
@@ -57,7 +57,7 @@ Climate examines the long-term patterns of temperature, rainfall, wind, and atmo
 | **Continental** | D | เขตทวีป | Cold winters, warm summers | Moscow, New York |
 | **Polar** | E | เขตขั้วโลก | Very cold year-round | Antarctica, Greenland |
 
-**Thailand's climate:** Tropical savanna (Aw) — hot year-round, distinct wet and dry seasons.
+**Thailand's climate:** Tropical savanna (Aw), hot year-round, distinct wet and dry seasons.
 
 ---
 
@@ -66,6 +66,7 @@ Climate examines the long-term patterns of temperature, rainfall, wind, and atmo
 ### Three Seasons (สามฤดู)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     C["Cool/Dry<br/>ฤดูหนาว<br/>Nov-Feb<br/>15-25°C"] --> H["Hot<br/>ฤดูร้อน<br/>Mar-May<br/>30-40°C"]
     H --> R["Rainy<br/>ฤดูฝน<br/>Jun-Oct<br/>Monsoon rains"]
@@ -101,6 +102,7 @@ flowchart LR
 ### How Monsoons Work
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     S["Summer: Land heats faster than ocean"] --> LP["Low pressure over land"]
     LP --> SW["Moist air flows from ocean to land"]
@@ -220,17 +222,17 @@ flowchart TD
 
 ## 11 | Real-World Examples
 
-- **2011 floods** — La Niña + unusually heavy monsoon caused catastrophic flooding
-- **2015-2016 El Niño** — Severe drought, water rationing in Thailand
-- **Bangkok sinking** — 2cm/year subsidence + sea level rise = existential threat
-- **PM2.5** — Winter air pollution in Bangkok and Chiang Mai from crop burning
-- **Thai coral reefs** — Mass bleaching events in 2010, 2016 linked to warming oceans
+- **2011 floods:** La Niña + unusually heavy monsoon caused catastrophic flooding
+- **2015-2016 El Niño:** Severe drought, water rationing in Thailand
+- **Bangkok sinking:** 2cm/year subsidence + sea level rise = existential threat
+- **PM2.5:** Winter air pollution in Bangkok and Chiang Mai from crop burning
+- **Thai coral reefs:** Mass bleaching events in 2010, 2016 linked to warming oceans
 
 ---
 
 ## 12 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Geography_of_Thailand|Geography of Thailand]] — Thai climate
-- [[04_Physical_Geography|Physical Geography]] — Geographical factors in climate
-- [[10_Environmental_Conservation|Environmental Conservation]] — Climate action
+- [[01_Geography_of_Thailand|Geography of Thailand]]: Thai climate
+- [[04_Physical_Geography|Physical Geography]]: Geographical factors in climate
+- [[10_Environmental_Conservation|Environmental Conservation]]: Climate action

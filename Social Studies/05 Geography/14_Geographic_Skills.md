@@ -6,9 +6,9 @@ course_codes: ["ส11105", "ส12105", "ส13105", "ส21101", "ส22101", "ส1
 strand: "สาระที่ 5: ภูมิศาสตร์"
 ---
 
-# Geographic Skills — ทักษะทางภูมิศาสตร์
+# Geographic Skills: ทักษะทางภูมิศาสตร์
 
-> *"Geography is not just about finding places on a map — it is about understanding how places work and how people interact with their environment."*
+> *"Geography is not just about finding places on a map; it is about understanding how places work and how people interact with their environment."*
 
 Geographic Skills covers the practical methods geographers use to study the world. From field observation to data analysis, students learn to think geographically and conduct real geographic research.
 
@@ -43,6 +43,7 @@ Geographic Skills covers the practical methods geographers use to study the worl
 ## 3 | The Geographic Inquiry Method
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["1 Ask geographic question<br/>ตั้งคำถาม"] --> B["2. Acquire geographic information<br/>เก็บข้อมูล"]
     B --> C["3 Organize and analyze<br/>จัดระเบียบและวิเคราะห์"]
@@ -233,17 +234,17 @@ flowchart TD
 
 ## 11 | Real-World Examples
 
-- **Community mapping** — Thai villages map flood risk with local knowledge
-- **NSO census** — National Statistical Office collects demographic data every 10 years
-- **Google Earth** — Free tool for exploring anywhere on Earth
-- **Disaster mapping** — Volunteers create maps during floods using OpenStreetMap
-- **Thai school field trips** — Students visit local temples, rivers, farms for geographic study
+- **Community mapping:** Thai villages map flood risk with local knowledge
+- **NSO census:** National Statistical Office collects demographic data every 10 years
+- **Google Earth:** Free tool for exploring anywhere on Earth
+- **Disaster mapping:** Volunteers create maps during floods using OpenStreetMap
+- **Thai school field trips:** Students visit local temples, rivers, farms for geographic study
 
 ---
 
 ## 12 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[03_Map_Skills_and_Geographic_Tools|Map Skills]] — Map-making tools
-- [[13_Geographic_Coordinates|Geographic Coordinates]] — Locating places
-- [[10_Environmental_Conservation|Environmental Conservation]] — Environmental fieldwork
+- [[03_Map_Skills_and_Geographic_Tools|Map Skills]]: Map-making tools
+- [[13_Geographic_Coordinates|Geographic Coordinates]]: Locating places
+- [[10_Environmental_Conservation|Environmental Conservation]]: Environmental fieldwork

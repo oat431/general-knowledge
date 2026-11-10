@@ -6,9 +6,9 @@ course_codes: ["ส12105", "ส13105", "ส21101", "ส22101", "ส13105"]
 strand: "สาระที่ 5: ภูมิศาสตร์"
 ---
 
-# Population Geography — ภูมิศาสตร์ประชากร
+# Population Geography: ภูมิศาสตร์ประชากร
 
-> *"Demography is destiny."* — Auguste Comte
+> *"Demography is destiny."* (Auguste Comte)
 
 Population Geography examines where people live, why they live there, and how populations change over time. Students learn about population distribution, density, demographic transition, migration patterns, and the challenges of aging societies.
 
@@ -18,7 +18,7 @@ Population Geography examines where people live, why they live there, and how po
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
+| **ป.1–3** | N/A |
 | **ป.4–6** | Where people live, rural vs urban |
 | **ม.1–3** | Population density, distribution factors, demographic transition |
 | **ม.4–6** | Population policy, aging society, migration analysis, demographic dividend |
@@ -69,6 +69,7 @@ Population Geography examines where people live, why they live there, and how po
 ## 4 | Demographic Transition Model
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     S1["Stage 1<br/>High birth,<br/>high death<br/>Slow growth"] --> S2["Stage 2<br/>High birth,<br/>low death<br/>Rapid growth"]
     S2 --> S3["Stage 3<br/>Falling birth,<br/>low death<br/>Slowing growth"]
@@ -84,7 +85,7 @@ flowchart LR
 | **4** | Low | Low | Stable | Most developed countries |
 | **5** | Below 2.1 | Low | Declining | Thailand, Japan, Italy |
 
-**Thailand:** Now in **Stage 5** — population will start declining around 2028.
+**Thailand:** Now in **Stage 5**, population will start declining around 2028.
 
 ---
 
@@ -186,7 +187,7 @@ Thailand is **aging faster than any other developing country**:
 | Concept | Thai | Description |
 |---|---|---|
 | **Demographic dividend** | ปันผลทางประชากร | Economic benefit of large working-age share |
-| **Thailand's dividend** | ปันผลของไทย | 1980s-2010s — rapid growth era |
+| **Thailand's dividend** | ปันผลของไทย | 1980s-2010s: rapid growth era |
 | **Window closing** | หน้าต่างปิดลง | Working-age share declining since 2010 |
 | **Next phase** | เฟสต่อไป | Aging burden without dividend |
 
@@ -238,17 +239,17 @@ Thailand is **aging faster than any other developing country**:
 
 ## 11 | Real-World Examples
 
-- **Bangkok primacy** — 10× larger than second city (Nakhon Ratchasima)
-- **Isan migration** — Millions moved from Northeast to Bangkok and abroad
-- **Myanmar workers** — ~2-3 million migrants fill Thai construction, fishing, domestic work
-- **Japan comparison** — Thailand aging similarly but at lower income level ("getting old before getting rich")
-- **Family planning slogan** — "ลูกน้อยดีกว่า แม่พ่อมีเวลาให้ลูก" (Fewer children is better)
+- **Bangkok primacy:** 10× larger than second city (Nakhon Ratchasima)
+- **Isan migration:** Millions moved from Northeast to Bangkok and abroad
+- **Myanmar workers:** ~2-3 million migrants fill Thai construction, fishing, domestic work
+- **Japan comparison:** Thailand aging similarly but at lower income level ("getting old before getting rich")
+- **Family planning slogan:** "ลูกน้อยดีกว่า แม่พ่อมีเวลาให้ลูก" (Fewer children is better)
 
 ---
 
 ## 12 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Geography_of_Thailand|Geography of Thailand]] — Population distribution
-- [[08_Settlement_and_Urbanization|Settlement & Urbanization]] — Urban growth
-- [[09_Economic_Geography|Economic Geography]] — Labor force, economy
+- [[01_Geography_of_Thailand|Geography of Thailand]]: Population distribution
+- [[08_Settlement_and_Urbanization|Settlement & Urbanization]]: Urban growth
+- [[09_Economic_Geography|Economic Geography]]: Labor force, economy

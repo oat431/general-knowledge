@@ -6,9 +6,9 @@ course_codes: ["ส12105", "ส13105", "ส21101", "ส22101", "ส13105"]
 strand: "สาระที่ 5: ภูมิศาสตร์"
 ---
 
-# Geographic Coordinates — พิกัดภูมิศาสตร์
+# Geographic Coordinates: พิกัดภูมิศาสตร์
 
-> *"With coordinates, any point on Earth can be precisely located — the foundation of navigation, mapping, and GPS."*
+> *"With coordinates, any point on Earth can be precisely located: the foundation of navigation, mapping, and GPS."*
 
 Geographic Coordinates teaches students how to locate any point on Earth using latitude and longitude. Students learn about the coordinate system, time zones, map projections, and modern GPS technology.
 
@@ -18,7 +18,7 @@ Geographic Coordinates teaches students how to locate any point on Earth using l
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
+| **ป.1–3** | N/A |
 | **ป.4–6** | Latitude/longitude intro, finding places on map |
 | **ม.1–3** | Coordinate calculation, time zones, hemispheres |
 | **ม.4–6** | Map projections, GPS technology, survey methods |
@@ -34,7 +34,7 @@ Geographic Coordinates teaches students how to locate any point on Earth using l
 | **Definition** | Angular distance north/south of equator |
 | **Range** | 0° (Equator) to 90° (Poles) |
 | **Direction** | North (N) or South (S) |
-| **Lines** | Called "parallels" (เส้นขนาน) — run east-west |
+| **Lines** | Called "parallels" (เส้นขนาน): run east-west |
 | **Length** | ~111 km per degree |
 
 ### Important Latitudes
@@ -54,8 +54,8 @@ Geographic Coordinates teaches students how to locate any point on Earth using l
 | **Definition** | Angular distance east/west of Prime Meridian |
 | **Range** | 0° to 180° E or W |
 | **Direction** | East (E) or West (W) |
-| **Lines** | Called "meridians" (เส้นเมริเดียน) — run north-south |
-| **Prime Meridian** | 0° — passes through Greenwich, England |
+| **Lines** | Called "meridians" (เส้นเมริเดียน): run north-south |
+| **Prime Meridian** | 0°: passes through Greenwich, England |
 
 ---
 
@@ -95,6 +95,7 @@ Geographic Coordinates teaches students how to locate any point on Earth using l
 ### How Time Zones Work
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     E["Earth rotates<br/>360° in 24 hours"] --> D["15° = 1 hour"]
     D --> Z["24 time zones<br/>around the world"]
@@ -105,7 +106,7 @@ flowchart LR
 | **Prime Meridian** | เส้นเมริเดียนแรก | 0° at Greenwich, base for time |
 | **UTC/GMT** | เวลามาตรฐานสากล | Coordinated Universal Time |
 | **Time zone** | เขตเวลา | 15° of longitude = 1 hour difference |
-| **International Date Line** | เส้นแบ่งวันสากล | ~180° — date changes |
+| **International Date Line** | เส้นแบ่งวันสากล | ~180°: date changes |
 
 ### Thailand's Time
 
@@ -120,7 +121,7 @@ flowchart LR
 
 | City | UTC Offset | Difference from Bangkok |
 |---|---|---|
-| **Bangkok** | UTC+7 | — |
+| **Bangkok** | UTC+7 | N/A |
 | **Tokyo** | UTC+9 | +2 hours |
 | **London** | UTC+0 | -7 hours |
 | **New York** | UTC-5 | -12 hours |
@@ -134,9 +135,9 @@ flowchart LR
 
 | Projection | Thai | Description | Distortion |
 |---|---|---|---|
-| **Mercator** | เมอร์เคเตอร์ | Cylindrical — accurate direction | Size distorted near poles |
-| **Robinson** | โรบินสัน | Compromise — balanced | Slight distortion all |
-| **Gall-Peters** | กอล-ปีเตอร์ส | Equal-area — accurate size | Shape distorted |
+| **Mercator** | เมอร์เคเตอร์ | Cylindrical: accurate direction | Size distorted near poles |
+| **Robinson** | โรบินสัน | Compromise: balanced | Slight distortion all |
+| **Gall-Peters** | กอล-ปีเตอร์ส | Equal-area: accurate size | Shape distorted |
 | **Azimuthal** | แอซิมัท | Polar view | Distance from center |
 
 ### The Problem with Mercator
@@ -145,7 +146,7 @@ flowchart LR
 |---|---|
 | **Greenland illusion** | Greenland appears same size as Africa (Africa is 14× larger) |
 | **Eurocentric** | Europe appears centered and enlarged |
-| **Navigation use** | Good for ships — compass directions are accurate |
+| **Navigation use** | Good for ships: compass directions are accurate |
 
 ---
 
@@ -162,6 +163,7 @@ flowchart LR
 ### How GPS Works
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     S["4+ satellites<br/>broadcast signals"] --> R["GPS receiver<br/>calculates distance"]
     R --> T["Trilateration<br/>determines position"]
@@ -231,17 +233,17 @@ flowchart TD
 
 ## 10 | Real-World Examples
 
-- **Google Maps** — Uses GPS + GIS to provide navigation worldwide
-- **Grab/Uber** — Real-time GPS tracking for ride-hailing
-- **Thai agricultural drones** — GPS-guided drones for crop spraying
-- **2018 Cave Rescue** — GPS and mapping critical for Thai cave rescue
-- **Bangkok BTS** — GPS coordinates for station locations
+- **Google Maps:** Uses GPS + GIS to provide navigation worldwide
+- **Grab/Uber:** Real-time GPS tracking for ride-hailing
+- **Thai agricultural drones:** GPS-guided drones for crop spraying
+- **2018 Cave Rescue:** GPS and mapping critical for Thai cave rescue
+- **Bangkok BTS:** GPS coordinates for station locations
 
 ---
 
 ## 11 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[03_Map_Skills_and_Geographic_Tools|Map Skills]] — Using coordinates on maps
-- [[14_Geographic_Skills|Geographic Skills]] — Field methods
-- [[01_Geography_of_Thailand|Geography of Thailand]] — Thai coordinates
+- [[03_Map_Skills_and_Geographic_Tools|Map Skills]]: Using coordinates on maps
+- [[14_Geographic_Skills|Geographic Skills]]: Field methods
+- [[01_Geography_of_Thailand|Geography of Thailand]]: Thai coordinates

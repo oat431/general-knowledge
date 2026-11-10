@@ -6,9 +6,9 @@ course_codes: ["ส12105", "ส13105", "ส21101", "ส22101", "ส13105"]
 strand: "สาระที่ 5: ภูมิศาสตร์"
 ---
 
-# Environmental Conservation — การอนุรักษ์สิ่งแวดล้อม
+# Environmental Conservation: การอนุรักษ์สิ่งแวดล้อม
 
-> *"The Earth does not belong to us; we belong to the Earth."* — Chief Seattle
+> *"The Earth does not belong to us; we belong to the Earth."* (Chief Seattle)
 
 Environmental Conservation examines how humans can protect and restore the natural environment. Students learn about ecosystems, biodiversity, pollution, and the global frameworks for sustainability including the UN Sustainable Development Goals.
 
@@ -200,7 +200,7 @@ Environmental Conservation examines how humans can protect and restore the natur
 | **Carbon tax** | ภาษีคาร์บอน | Tax on carbon emissions |
 | **Cap and trade** | โควตาและการซื้อขาย | Emission permits market |
 | **Ecosystem services** | บริการระบบนิเวศ | Value of nature's benefits |
-| **Payment for ecosystem services** | การจ่ายค่าบริการระบบนิเวศ | PES — pay to conserve nature |
+| **Payment for ecosystem services** | การจ่ายค่าบริการระบบนิเวศ | PES: pay to conserve nature |
 
 ### BCG Economy (Bio-Circular-Green)
 
@@ -230,17 +230,17 @@ Environmental Conservation examines how humans can protect and restore the natur
 
 ## 9 | Real-World Examples
 
-- **Khao Yai National Park** — UNESCO World Heritage, tiger habitat, accessible from Bangkok
-- **2018 plastic bag ban** — Major retailers stopped free plastic bags, ~30% reduction
-- **Coral bleaching** — 2010 and 2016 events damaged 50%+ of Thai reefs
-- **PM2.5 crisis** — Annual air pollution in Bangkok/Chiang Mai, schools closed
-- **Dugong conservation** — "Mariam" the baby dugong became national icon (2019)
+- **Khao Yai National Park:** UNESCO World Heritage, tiger habitat, accessible from Bangkok
+- **2018 plastic bag ban:** Major retailers stopped free plastic bags, ~30% reduction
+- **Coral bleaching:** 2010 and 2016 events damaged 50%+ of Thai reefs
+- **PM2.5 crisis:** Annual air pollution in Bangkok/Chiang Mai, schools closed
+- **Dugong conservation:** "Mariam" the baby dugong became national icon (2019)
 
 ---
 
 ## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[02_Natural_Disasters_and_Environment|Natural Disasters]] — Environmental disasters
-- [[06_Natural_Resources|Natural Resources]] — Resource conservation
-- [[05_Climate|Climate]] — Climate change mitigation
+- [[02_Natural_Disasters_and_Environment|Natural Disasters]]: Environmental disasters
+- [[06_Natural_Resources|Natural Resources]]: Resource conservation
+- [[05_Climate|Climate]]: Climate change mitigation

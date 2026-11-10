@@ -6,11 +6,11 @@ course_codes: ["ส12105", "ส13105", "ส21101", "ส22101", "ส13105"]
 strand: "สาระที่ 5: ภูมิศาสตร์"
 ---
 
-# Economic Geography — ภูมิศาสตร์เศรษฐกิจ
+# Economic Geography: ภูมิศาสตร์เศรษฐกิจ
 
 > *"Geography determines what an economy can produce; human ingenuity determines what it will become."*
 
-Economic Geography examines the spatial distribution of economic activities — where farming, manufacturing, and services occur and why. Students learn about agricultural regions, industrial zones, transport networks, and the globalization of economic activity.
+Economic Geography examines the spatial distribution of economic activities: where farming, manufacturing, and services occur and why. Students learn about agricultural regions, industrial zones, transport networks, and the globalization of economic activity.
 
 ---
 
@@ -18,7 +18,7 @@ Economic Geography examines the spatial distribution of economic activities — 
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | — |
+| **ป.1–3** | N/A |
 | **ป.4–6** | Local occupations, where food comes from |
 | **ม.1–3** | Economic sectors, agricultural regions, industrial zones |
 | **ม.4–6** | Global supply chains, economic specialization, trade geography |
@@ -28,6 +28,7 @@ Economic Geography examines the spatial distribution of economic activities — 
 ## 2 | Economic Sectors (ภาคเศรษฐกิจ)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     P["Primary<br/>ปฐมภูมิ<br/>Extract raw materials"] --> S["Secondary<br/>ทุติยภูมิ<br/>Manufacturing"]
     S --> T["Tertiary<br/>ตติยภูมิ<br/>Services"]
@@ -217,10 +218,10 @@ flowchart LR
 
 ## 10 | Real-World Examples
 
-- **Detroit of Asia** — Thailand is SE Asia's largest auto producer (~2 million vehicles/year)
-- **Laem Chabang** — Among world's top 25 container ports
-- **Rice exporter** — World's #1 or #2 rice exporter most years
-- **Medical tourism** — ~3 million medical tourists/year pre-COVID
+- **Detroit of Asia:** Thailand is SE Asia's largest auto producer (~2 million vehicles/year)
+- **Laem Chabang:** Among world's top 25 container ports
+- **Rice exporter:** World's #1 or #2 rice exporter most years
+- **Medical tourism:** ~3 million medical tourists/year pre-COVID
 - **EEC** | $45+ billion investment target in eastern provinces
 
 ---
@@ -228,6 +229,6 @@ flowchart LR
 ## 11 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Geography_of_Thailand|Geography of Thailand]] — Economic regions
-- [[06_Natural_Resources|Natural Resources]] — Resource-based economy
-- [[08_Settlement_and_Urbanization|Settlement & Urbanization]] — Urban economy
+- [[01_Geography_of_Thailand|Geography of Thailand]]: Economic regions
+- [[06_Natural_Resources|Natural Resources]]: Resource-based economy
+- [[08_Settlement_and_Urbanization|Settlement & Urbanization]]: Urban economy

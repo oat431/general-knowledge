@@ -6,11 +6,11 @@ course_codes: ["ส11105", "ส12105", "ส13105", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 5: ภูมิศาสตร์"
 ---
 
-# Map Skills and Geographic Tools — ทักษะแผนที่และเครื่องมือทางภูมิศาสตร์
+# Map Skills and Geographic Tools: ทักษะแผนที่และเครื่องมือทางภูมิศาสตร์
 
-> *"Maps are the language of geography — they help us understand where things are, why they are there, and how they relate to each other."*
+> *"Maps are the language of geography; they help us understand where things are, why they are there, and how they relate to each other."*
 
-Map Skills teaches students to read, interpret, and create maps. From simple classroom maps in primary school to topographic maps and GIS in secondary, students develop spatial literacy — the ability to think about the world in geographic terms.
+Map Skills teaches students to read, interpret, and create maps. From simple classroom maps in primary school to topographic maps and GIS in secondary, students develop spatial literacy: the ability to think about the world in geographic terms.
 
 ---
 
@@ -119,8 +119,8 @@ Map Skills teaches students to read, interpret, and create maps. From simple cla
 ## 9 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Geography_of_Thailand|Geography]] — Physical features on maps
-- [[02_Natural_Disasters_and_Environment|Natural Disasters]] — Mapping hazard zones
+- [[01_Geography_of_Thailand|Geography]]: Physical features on maps
+- [[02_Natural_Disasters_and_Environment|Natural Disasters]]: Mapping hazard zones
 
 ---
 
