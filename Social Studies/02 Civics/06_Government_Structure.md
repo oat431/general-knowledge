@@ -6,11 +6,11 @@ course_codes: ["ส21101", "ส22101", "ส23102"]
 strand: "สาระที่ 2: หน้าที่พลเมือง วัฒนธรรม และการดำเนินชีวิตในสังคม"
 ---
 
-# Government Structure — โครงสร้างรัฐบาลไทย
+# Government Structure: โครงสร้างรัฐบาลไทย
 
 > *"Understanding how government is organized helps citizens know where to go, who to ask, and how to participate in public life."*
 
-Government Structure examines the detailed organization of Thailand's government — the three branches, the bureaucratic system, independent organizations, and local administration. While Democracy and Government covers the principles, this topic focuses on the institutional machinery that makes governance work.
+Government Structure examines the detailed organization of Thailand's government: the three branches, the bureaucratic system, independent organizations, and local administration. While Democracy and Government covers the principles, this topic focuses on the institutional machinery that makes governance work.
 
 ---
 
@@ -28,6 +28,7 @@ Government Structure examines the detailed organization of Thailand's government
 ## 2 | Overview of Thai Government
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     K["King<br/>พระมหากษัตริย์"] --- L["Legislative<br/>ฝ่ายนิติบัญญัติ"]
     K --- E["Executive<br/>ฝ่ายบริหาร"]
@@ -110,6 +111,7 @@ flowchart TD
 ### Court Hierarchy
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     CC["Constitutional Court<br/>ศาลรัฐธรรมนูญ"]
     SC["Supreme Court<br/>ศาลฎีกา"]
@@ -197,6 +199,6 @@ flowchart TD
 ## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Democracy_and_Government|Democracy and Government]] — Principles behind the structure
-- [[05_Thai_Constitution|Thai Constitution]] — Legal foundation of government structure
-- [[04_Rights_Duties_and_Laws|Rights, Duties, and Laws]] — How courts protect rights
+- [[01_Democracy_and_Government|Democracy and Government]]: Principles behind the structure
+- [[05_Thai_Constitution|Thai Constitution]]: Legal foundation of government structure
+- [[04_Rights_Duties_and_Laws|Rights, Duties, and Laws]]: How courts protect rights

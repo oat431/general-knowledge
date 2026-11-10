@@ -6,9 +6,9 @@ course_codes: ["ส11102", "ส12102", "ส13102", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 2: หน้าที่พลเมือง วัฒนธรรม และการดำเนินชีวิตในสังคม"
 ---
 
-# Culture and Change — วัฒนธรรมและการเปลี่ยนแปลง
+# Culture and Change: วัฒนธรรมและการเปลี่ยนแปลง
 
-> *"Culture is not static — it is a living system that adapts, evolves, and transforms through contact with other cultures, technology, and the passage of time."*
+> *"Culture is not static; it is a living system that adapts, evolves, and transforms through contact with other cultures, technology, and the passage of time."*
 
 Culture and Change examines how Thai culture has evolved over time, how globalization and technology affect cultural traditions, and how students can think critically about preserving cultural identity while embracing positive change.
 
@@ -167,7 +167,7 @@ Culture and Change examines how Thai culture has evolved over time, how globaliz
 ## 9 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[02_Thai_Culture_and_Traditions|Thai Culture]] — The culture that is changing
-- [[07_Social_Institutions|Social Institutions]] — Institutions driving cultural change
-- [[09_Socialization|Socialization]] — How culture is transmitted
-- [[11_International_Relations|International Relations]] — Globalization's political dimension
+- [[02_Thai_Culture_and_Traditions|Thai Culture]]: The culture that is changing
+- [[07_Social_Institutions|Social Institutions]]: Institutions driving cultural change
+- [[09_Socialization|Socialization]]: How culture is transmitted
+- [[11_International_Relations|International Relations]]: Globalization's political dimension

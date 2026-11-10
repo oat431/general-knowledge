@@ -6,9 +6,9 @@ course_codes: ["ส21101", "ส22101", "ส23102"]
 strand: "สาระที่ 2: หน้าที่พลเมือง วัฒนธรรม และการดำเนินชีวิตในสังคม"
 ---
 
-# Thai Constitution — รัฐธรรมนูญไทย
+# Thai Constitution: รัฐธรรมนูญไทย
 
-> *"The constitution is the supreme law of the land — it defines the structure of government, protects the rights of the people, and establishes the rules by which a nation governs itself."*
+> *"The constitution is the supreme law of the land: it defines the structure of government, protects the rights of the people, and establishes the rules by which a nation governs itself."*
 
 The Thai Constitution is the foundational legal document that defines Thailand's political system. Since becoming a constitutional monarchy in 1932, Thailand has had 20 constitutions, reflecting the nation's evolving political journey. This topic covers constitutional history, principles, structure, and the role of the Constitutional Court.
 
@@ -35,7 +35,7 @@ The Thai Constitution is the foundational legal document that defines Thailand's
 | **2007** | Post-coup Constitution | รัฐธรรมนูญหลังรัฐประหาร | Drafted after 2006 coup |
 | **2017** | Current Constitution | รัฐธรรมนูญฉบับปัจจุบัน | Drafted after 2014 coup, currently in force |
 
-> Thailand has had **20 constitutions** since 1932 — more than any other country in the region. Each reflects a shift in political power.
+> Thailand has had **20 constitutions** since 1932: more than any other country in the region. Each reflects a shift in political power.
 
 ---
 
@@ -49,9 +49,9 @@ The Thai Constitution is the foundational legal document that defines Thailand's
 | **4** | หน้าที่ของปวงชนชาวไทย | Duties of Thai citizens |
 | **5** | หน้าที่ของรัฐ | Duties of the state |
 | **6** | แนวนโยบายแห่งรัฐ | State policy guidelines |
-| **7** | รัฐสภา | Parliament — structure and powers |
-| **8** | คณะรัฐมนตรี | Cabinet — executive branch |
-| **9** | ศาล | Courts — judicial branch |
+| **7** | รัฐสภา | Parliament: structure and powers |
+| **8** | คณะรัฐมนตรี | Cabinet: executive branch |
+| **9** | ศาล | Courts: judicial branch |
 | **10** | ศาลรัฐธรรมนูญ | Constitutional Court |
 | **11** | องค์กรอิสระ | Independent organizations |
 | **12** | การปกครองส่วนท้องถิ่น | Local government |
@@ -82,7 +82,7 @@ The Thai Constitution is the foundational legal document that defines Thailand's
 | **Royal prerogative** | พระราชอำนาจ | Powers granted by constitution (e.g., appointing PM) |
 | **Political neutrality** | ความเป็นกลางทางการเมือง | King does not engage in partisan politics |
 
-> Constitutional monarchy means the King reigns but does not rule — governance is carried out by elected representatives.
+> Constitutional monarchy means the King reigns but does not rule: governance is carried out by elected representatives.
 
 ---
 
@@ -94,7 +94,7 @@ The Thai Constitution is the foundational legal document that defines Thailand's
 | **2. First reading** | วาระแรก | Parliament debates the principle |
 | **3. Public hearing** | รับฟังความคิดเห็น | Citizens can comment on proposed changes |
 | **4. Second reading** | วาระสอง | Detailed clause-by-clause debate |
-| **5. Third reading** | วาระสาม | Final vote — requires majority of both houses |
+| **5. Third reading** | วาระสาม | Final vote: requires majority of both houses |
 | **6. Royal assent** | พระราชทาน | King signs the amendment into law |
 
 > Amendments to certain chapters (e.g., monarchy, fundamental rights) may require a **referendum** (การลงประชามติ).
@@ -122,6 +122,7 @@ The Thai Constitution is the foundational legal document that defines Thailand's
 ## 8 | Relationship Between Constitution and Other Laws
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Constitution<br/>รัฐธรรมนูญ"] --> B["Acts of Parliament<br/>พระราชบัญญัติ"]
     B --> C["Ministerial Regulations<br/>กฎกระทรวง"]
@@ -153,6 +154,6 @@ flowchart TD
 ## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Democracy_and_Government|Democracy and Government]] — How democracy works under the constitution
-- [[04_Rights_Duties_and_Laws|Rights, Duties, and Laws]] — Constitutional rights in detail
-- [[06_Government_Structure|Government Structure]] — How the constitution organizes government
+- [[01_Democracy_and_Government|Democracy and Government]]: How democracy works under the constitution
+- [[04_Rights_Duties_and_Laws|Rights, Duties, and Laws]]: Constitutional rights in detail
+- [[06_Government_Structure|Government Structure]]: How the constitution organizes government

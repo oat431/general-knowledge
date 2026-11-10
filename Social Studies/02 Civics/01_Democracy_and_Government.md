@@ -6,9 +6,9 @@ course_codes: ["ส11102", "ส12102", "ส13102", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 2: หน้าที่พลเมือง วัฒนธรรม และการดำเนินชีวิตในสังคม"
 ---
 
-# Democracy and Government — ประชาธิปไตยและการปกครอง
+# Democracy and Government: ประชาธิปไตยและการปกครอง
 
-> *"Democracy is not just a system of government — it is a way of life where citizens participate, respect differences, and uphold the rule of law."*
+> *"Democracy is not just a system of government; it is a way of life where citizens participate, respect differences, and uphold the rule of law."*
 
 Democracy and Government teaches students how Thailand's democratic system works under constitutional monarchy. From simple concepts of fairness and voting in primary school to detailed analysis of government structure and political participation in secondary.
 
@@ -201,7 +201,7 @@ Democracy and Government teaches students how Thailand's democratic system works
 ## 11 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[04_Rights_Duties_and_Laws|Rights, Duties, and Laws]] — Detailed constitutional rights
-- [[05_Thai_Constitution|Thai Constitution]] — Constitutional framework
-- [[06_Government_Structure|Government Structure]] — How government is organized
-- [[02_Thai_Culture_and_Traditions|Thai Culture]] — Cultural values and governance
+- [[04_Rights_Duties_and_Laws|Rights, Duties, and Laws]]: Detailed constitutional rights
+- [[05_Thai_Constitution|Thai Constitution]]: Constitutional framework
+- [[06_Government_Structure|Government Structure]]: How government is organized
+- [[02_Thai_Culture_and_Traditions|Thai Culture]]: Cultural values and governance

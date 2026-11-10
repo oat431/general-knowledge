@@ -6,11 +6,11 @@ course_codes: ["ส13102", "ส21101", "ส22101", "ส23102"]
 strand: "สาระที่ 2: หน้าที่พลเมือง วัฒนธรรม และการดำเนินชีวิตในสังคม"
 ---
 
-# ASEAN Studies — การศึกษาเกี่ยวกับอาเซียน
+# ASEAN Studies: การศึกษาเกี่ยวกับอาเซียน
 
-> *"ASEAN connects Thailand to its neighbors — understanding this regional community is essential for Thai citizens in the 21st century."*
+> *"ASEAN connects Thailand to its neighbors: understanding this regional community is essential for Thai citizens in the 21st century."*
 
-ASEAN Studies teaches students about the Association of Southeast Asian Nations — its history, member states, three pillars, and how it affects Thailand. Students learn about regional cooperation, cultural diversity, and economic integration.
+ASEAN Studies teaches students about the Association of Southeast Asian Nations: its history, member states, three pillars, and how it affects Thailand. Students learn about regional cooperation, cultural diversity, and economic integration.
 
 ---
 
@@ -85,7 +85,7 @@ ASEAN Studies teaches students about the Association of Southeast Asian Nations 
 | **Income inequality** | ความเหลื่อมล้ำ | Gap between rich (Singapore) and poor (Myanmar, Laos) |
 | **Environmental issues** | ปัญหาสิ่งแวดล้อม | Haze, deforestation, marine pollution |
 | **Non-interference policy** | หลักการไม่แทรกแซง | Limits ASEAN's ability to address internal issues |
-| **ASEAN Way** | วิถีอาเซียน | Consensus-based decision-making — effective or slow? |
+| **ASEAN Way** | วิถีอาเซียน | Consensus-based decision-making: effective or slow? |
 
 ### ASEAN Decision-Making
 
@@ -140,7 +140,7 @@ ASEAN Studies teaches students about the Association of Southeast Asian Nations 
 ## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Democracy_and_Government|Democracy and Government]] — Governance systems in ASEAN
-- [[03 Economics/00_overview|Economics]] — ASEAN economics
-- [[02_Thai_Culture_and_Traditions|Thai Culture]] — Cultural exchange
-- [[11_International_Relations|International Relations]] — Broader international context
+- [[01_Democracy_and_Government|Democracy and Government]]: Governance systems in ASEAN
+- [[03 Economics/00_overview|Economics]]: ASEAN economics
+- [[02_Thai_Culture_and_Traditions|Thai Culture]]: Cultural exchange
+- [[11_International_Relations|International Relations]]: Broader international context

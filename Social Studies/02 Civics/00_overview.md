@@ -5,14 +5,14 @@ created: 2026-07-26
 strand: "สาระที่ 2: หน้าที่พลเมือง วัฒนธรรม และการดำเนินชีวิตในสังคม"
 ---
 
-# Civics, Culture, and Living in Society — หน้าที่พลเมือง วัฒนธรรม และการดำเนินชีวิตในสังคม
+# Civics, Culture, and Living in Society: หน้าที่พลเมือง วัฒนธรรม และการดำเนินชีวิตในสังคม
 
 > **Strand:** สาระที่ 2 | **Concept Areas:** ~13 | **Duration:** 12 years (ป.1–ม.6)
 > **Focus:** Democracy, laws, rights/duties, Thai culture, ASEAN, social institutions
 
 ## Overview
 
-This strand teaches students how Thai society works — from local communities to the nation to ASEAN. Students learn about democracy under constitutional monarchy, the legal system, rights and responsibilities, Thai cultural heritage, and how to participate in society as responsible citizens.
+This strand teaches students how Thai society works: from local communities to the nation to ASEAN. Students learn about democracy under constitutional monarchy, the legal system, rights and responsibilities, Thai cultural heritage, and how to participate in society as responsible citizens.
 
 ---
 
@@ -61,6 +61,6 @@ This strand teaches students how Thai society works — from local communities t
 ## Related
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01 Religion/00_overview|Religion]] — Religion shapes culture
-- [[03 Economics/00_overview|Economics]] — Economic systems, ASEAN economics
-- [[04 History/00_overview|History]] — Historical development of government
+- [[01 Religion/00_overview|Religion]]: Religion shapes culture
+- [[03 Economics/00_overview|Economics]]: Economic systems, ASEAN economics
+- [[04 History/00_overview|History]]: Historical development of government

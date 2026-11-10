@@ -6,9 +6,9 @@ course_codes: ["ส11102", "ส12102", "ส13102", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 2: หน้าที่พลเมือง วัฒนธรรม และการดำเนินชีวิตในสังคม"
 ---
 
-# Rights, Duties, and Thai Laws — สิทธิ หน้าที่ และกฎหมายไทย
+# Rights, Duties, and Thai Laws: สิทธิ หน้าที่ และกฎหมายไทย
 
-> *"Rights and duties are two sides of the same coin — every right comes with a corresponding responsibility."*
+> *"Rights and duties are two sides of the same coin: every right comes with a corresponding responsibility."*
 
 Rights, Duties, and Thai Laws covers the legal framework of Thai society. Students learn about constitutional rights, civic duties, the legal hierarchy, types of law, and how the justice system works.
 
@@ -191,7 +191,7 @@ Rights, Duties, and Thai Laws covers the legal framework of Thai society. Studen
 ## 13 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Democracy_and_Government|Democracy and Government]] — Government structure and rights
-- [[05_Thai_Constitution|Thai Constitution]] — Constitutional foundation of rights
-- [[06_Government_Structure|Government Structure]] — Courts and legal system
-- [[01 Religion/00_overview|Religion]] — Moral foundation of law
+- [[01_Democracy_and_Government|Democracy and Government]]: Government structure and rights
+- [[05_Thai_Constitution|Thai Constitution]]: Constitutional foundation of rights
+- [[06_Government_Structure|Government Structure]]: Courts and legal system
+- [[01 Religion/00_overview|Religion]]: Moral foundation of law

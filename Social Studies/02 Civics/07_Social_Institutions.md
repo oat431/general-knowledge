@@ -6,9 +6,9 @@ course_codes: ["ส11102", "ส12102", "ส13102", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 2: หน้าที่พลเมือง วัฒนธรรม และการดำเนินชีวิตในสังคม"
 ---
 
-# Social Institutions — สถาบันสังคม
+# Social Institutions: สถาบันสังคม
 
-> *"Social institutions are the established structures that shape how people live together — family, school, religion, and economy form the backbone of every society."*
+> *"Social institutions are the established structures that shape how people live together: family, school, religion, and economy form the backbone of every society."*
 
 Social Institutions explores the key structures that organize Thai society. Students learn how family, education, religion, and economic institutions function, how they've changed over time, and the challenges they face in the modern world.
 
@@ -163,6 +163,7 @@ Social Institutions explores the key structures that organize Thai society. Stud
 ## 8 | Interdependence of Institutions
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     F["Family<br/>สถาบันครอบครัว"] -->|"Teaches values"| R["Religion<br/>สถาบันศาสนา"]
     F -->|"Prepares children"| E["Education<br/>สถาบันการศึกษา"]
@@ -197,7 +198,7 @@ flowchart TD
 ## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[09_Socialization|Socialization]] — How institutions shape individuals
-- [[02_Thai_Culture_and_Traditions|Thai Culture]] — Cultural values in institutions
-- [[10_Culture_and_Change|Culture and Change]] — How institutions evolve
-- [[01 Religion/00_overview|Religion]] — Religion as social institution
+- [[09_Socialization|Socialization]]: How institutions shape individuals
+- [[02_Thai_Culture_and_Traditions|Thai Culture]]: Cultural values in institutions
+- [[10_Culture_and_Change|Culture and Change]]: How institutions evolve
+- [[01 Religion/00_overview|Religion]]: Religion as social institution

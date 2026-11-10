@@ -6,11 +6,11 @@ course_codes: ["ส11102", "ส12102", "ส13102", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 2: หน้าที่พลเมือง วัฒนธรรม และการดำเนินชีวิตในสังคม"
 ---
 
-# Thai Culture and Traditions — วัฒนธรรมและประเพณีไทย
+# Thai Culture and Traditions: วัฒนธรรมและประเพณีไทย
 
-> *"Thai culture is the living heritage of a people — expressed in greetings, festivals, art, food, and the values that bind communities together."*
+> *"Thai culture is the living heritage of a people: expressed in greetings, festivals, art, food, and the values that bind communities together."*
 
-Thai Culture and Traditions explores the rich cultural heritage of Thailand — from the four regional cultures to national traditions, etiquette, art, and the values that define Thai identity. Students learn to appreciate and preserve their cultural heritage.
+Thai Culture and Traditions explores the rich cultural heritage of Thailand: from the four regional cultures to national traditions, etiquette, art, and the values that define Thai identity. Students learn to appreciate and preserve their cultural heritage.
 
 ---
 
@@ -43,7 +43,7 @@ Thai Culture and Traditions explores the rich cultural heritage of Thailand — 
 | **Wai** | การไหว้ | Greeting with palms together; height of palms shows respect level |
 | **Removing shoes** | ถอดรองเท้า | Before entering homes and temples |
 | **Respect for elders** | การเคารพผู้ใหญ่ | Using ครับ/ค่ะ, lowering body when passing |
-| **Head** | ศีรษะ | Don't touch others' heads — sacred |
+| **Head** | ศีรษะ | Don't touch others' heads: sacred |
 | **Feet** | เท้า | Don't point feet at people or Buddha images |
 
 ---
@@ -80,7 +80,7 @@ Thai Culture and Traditions explores the rich cultural heritage of Thailand — 
 |---|---|---|
 | **Flag** | ธงไตรรงค์ | Red (nation), white (religion), blue (king) |
 | **Anthem** | เพลงชาติ | Played daily at 8am and 6pm |
-| **National flower** | ดอกไม้ประจำชาติ | Ratchaphruek (ดอกราชพฤกษ์) — Golden Shower |
+| **National flower** | ดอกไม้ประจำชาติ | Ratchaphruek (ดอกราชพฤกษ์): Golden Shower |
 | **National animal** | สัตว์ประจำชาติ | Thai Elephant (ช้างไทย) |
 | **National sport** | กีฬาประจำชาติ | Muay Thai (มวยไทย) |
 
@@ -173,6 +173,6 @@ Thai Culture and Traditions explores the rich cultural heritage of Thailand — 
 ## 12 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Buddhist_Principles|Buddhism]] — Religion shapes culture
-- [[01_Thai_History|Thai History]] — Historical development of culture
-- [[01_Geography_of_Thailand|Geography]] — Regional cultural differences
+- [[01_Buddhist_Principles|Buddhism]]: Religion shapes culture
+- [[01_Thai_History|Thai History]]: Historical development of culture
+- [[01_Geography_of_Thailand|Geography]]: Regional cultural differences

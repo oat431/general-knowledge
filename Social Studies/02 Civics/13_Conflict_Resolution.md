@@ -6,9 +6,9 @@ course_codes: ["ส11102", "ส12102", "ส13102", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 2: หน้าที่พลเมือง วัฒนธรรม และการดำเนินชีวิตในสังคม"
 ---
 
-# Conflict Resolution — การแก้ไขความขัดแย้ง
+# Conflict Resolution: การแก้ไขความขัดแย้ง
 
-> *"Conflict is natural in any society — what matters is how we resolve it. Peaceful resolution builds stronger communities."*
+> *"Conflict is natural in any society; what matters is how we resolve it. Peaceful resolution builds stronger communities."*
 
 Conflict Resolution teaches students how conflicts arise, how to resolve them peacefully, and how to participate constructively in civic life. From playground disputes to national protests, students learn the skills of negotiation, mediation, and democratic participation.
 
@@ -198,7 +198,7 @@ Conflict Resolution teaches students how conflicts arise, how to resolve them pe
 ## 10 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[04_Rights_Duties_and_Laws|Rights, Duties, and Laws]] — Legal framework for civic participation
-- [[01_Democracy_and_Government|Democracy and Government]] — Democratic participation methods
-- [[08_Social_Norms_and_Status|Social Norms and Status]] — Conflicts arising from norms
-- [[11_International_Relations|International Relations]] — International conflict resolution
+- [[04_Rights_Duties_and_Laws|Rights, Duties, and Laws]]: Legal framework for civic participation
+- [[01_Democracy_and_Government|Democracy and Government]]: Democratic participation methods
+- [[08_Social_Norms_and_Status|Social Norms and Status]]: Conflicts arising from norms
+- [[11_International_Relations|International Relations]]: International conflict resolution

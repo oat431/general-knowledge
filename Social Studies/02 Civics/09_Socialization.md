@@ -6,11 +6,11 @@ course_codes: ["ส11102", "ส12102", "ส13102", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 2: หน้าที่พลเมือง วัฒนธรรม และการดำเนินชีวิตในสังคม"
 ---
 
-# Socialization — การขัดเกลาทางสังคม
+# Socialization: การขัดเกลาทางสังคม
 
 > *"Socialization is the lifelong process through which individuals learn the values, norms, and behaviors needed to function in society."*
 
-Socialization examines how people become members of society — from the family that first shapes them, through schools and peer groups, to the digital world that now influences identity formation. Students learn about agents of socialization, types of socialization, and how the process has changed in the modern era.
+Socialization examines how people become members of society: from the family that first shapes them, through schools and peer groups, to the digital world that now influences identity formation. Students learn about agents of socialization, types of socialization, and how the process has changed in the modern era.
 
 ---
 
@@ -174,7 +174,7 @@ Socialization examines how people become members of society — from the family 
 ## 9 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[07_Social_Institutions|Social Institutions]] — Institutions as agents of socialization
-- [[08_Social_Norms_and_Status|Social Norms and Status]] — What socialization teaches
-- [[02_Thai_Culture_and_Traditions|Thai Culture]] — Cultural content of socialization
-- [[12_Media_Literacy|Media Literacy]] — Media as socialization agent
+- [[07_Social_Institutions|Social Institutions]]: Institutions as agents of socialization
+- [[08_Social_Norms_and_Status|Social Norms and Status]]: What socialization teaches
+- [[02_Thai_Culture_and_Traditions|Thai Culture]]: Cultural content of socialization
+- [[12_Media_Literacy|Media Literacy]]: Media as socialization agent

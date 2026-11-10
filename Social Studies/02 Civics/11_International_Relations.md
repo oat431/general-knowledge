@@ -6,11 +6,11 @@ course_codes: ["ส13102", "ส21101", "ส22101", "ส23102"]
 strand: "สาระที่ 2: หน้าที่พลเมือง วัฒนธรรม และการดำเนินชีวิตในสังคม"
 ---
 
-# International Relations — ความสัมพันธ์ระหว่างประเทศ
+# International Relations: ความสัมพันธ์ระหว่างประเทศ
 
-> *"No nation exists in isolation — international relations shape peace, trade, security, and the future of every country."*
+> *"No nation exists in isolation: international relations shape peace, trade, security, and the future of every country."*
 
-International Relations explores how Thailand interacts with the world — from neighboring countries to global organizations. Students learn about diplomacy, foreign policy, international organizations, and the global issues that affect Thailand and the world.
+International Relations explores how Thailand interacts with the world: from neighboring countries to global organizations. Students learn about diplomacy, foreign policy, international organizations, and the global issues that affect Thailand and the world.
 
 ---
 
@@ -171,7 +171,7 @@ International Relations explores how Thailand interacts with the world — from 
 ## 9 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[03_ASEAN_Studies|ASEAN Studies]] — Regional international relations
-- [[05_Thai_Constitution|Thai Constitution]] — Constitutional basis for foreign policy
-- [[10_Culture_and_Change|Culture and Change]] — Globalization effects
-- [[04_Rights_Duties_and_Laws|Rights, Duties, and Laws]] — International human rights
+- [[03_ASEAN_Studies|ASEAN Studies]]: Regional international relations
+- [[05_Thai_Constitution|Thai Constitution]]: Constitutional basis for foreign policy
+- [[10_Culture_and_Change|Culture and Change]]: Globalization effects
+- [[04_Rights_Duties_and_Laws|Rights, Duties, and Laws]]: International human rights

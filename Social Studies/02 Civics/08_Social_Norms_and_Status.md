@@ -6,9 +6,9 @@ course_codes: ["ส11102", "ส12102", "ส13102", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 2: หน้าที่พลเมือง วัฒนธรรม และการดำเนินชีวิตในสังคม"
 ---
 
-# Social Norms and Status — บรรทัดฐานทางสังคมและสถานะทางสังคม
+# Social Norms and Status: บรรทัดฐานทางสังคมและสถานะทางสังคม
 
-> *"Social norms are the invisible rules that guide behavior — they tell us what is expected, acceptable, and valued in a society."*
+> *"Social norms are the invisible rules that guide behavior: they tell us what is expected, acceptable, and valued in a society."*
 
 Social Norms and Status examines the unwritten rules that govern behavior in Thai society, how social status and roles are structured, and how students can analyze social problems that arise when norms are violated or status systems create inequality.
 
@@ -160,7 +160,7 @@ Social Norms and Status examines the unwritten rules that govern behavior in Tha
 ## 9 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[09_Socialization|Socialization]] — How norms are internalized
-- [[07_Social_Institutions|Social Institutions]] — Institutions that enforce norms
-- [[02_Thai_Culture_and_Traditions|Thai Culture]] — Cultural basis of norms
-- [[04_Rights_Duties_and_Laws|Rights, Duties, and Laws]] — Formal norms as laws
+- [[09_Socialization|Socialization]]: How norms are internalized
+- [[07_Social_Institutions|Social Institutions]]: Institutions that enforce norms
+- [[02_Thai_Culture_and_Traditions|Thai Culture]]: Cultural basis of norms
+- [[04_Rights_Duties_and_Laws|Rights, Duties, and Laws]]: Formal norms as laws

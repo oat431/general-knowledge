@@ -6,7 +6,7 @@ course_codes: ["ส11102", "ส12102", "ส13102", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 2: หน้าที่พลเมือง วัฒนธรรม และการดำเนินชีวิตในสังคม"
 ---
 
-# Media Literacy — การรู้เท่าทันสื่อ
+# Media Literacy: การรู้เท่าทันสื่อ
 
 > *"In the digital age, the ability to critically evaluate information is as important as the ability to read."*
 
@@ -172,7 +172,7 @@ Media Literacy teaches students how to access, analyze, evaluate, and create med
 ## 9 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[09_Socialization|Socialization]] — Media as socialization agent
-- [[10_Culture_and_Change|Culture and Change]] — Media driving cultural change
-- [[04_Rights_Duties_and_Laws|Rights, Duties, and Laws]] — Freedom of expression
-- [[08_Social_Norms_and_Status|Social Norms and Status]] — Media shaping norms
+- [[09_Socialization|Socialization]]: Media as socialization agent
+- [[10_Culture_and_Change|Culture and Change]]: Media driving cultural change
+- [[04_Rights_Duties_and_Laws|Rights, Duties, and Laws]]: Freedom of expression
+- [[08_Social_Norms_and_Status|Social Norms and Status]]: Media shaping norms
