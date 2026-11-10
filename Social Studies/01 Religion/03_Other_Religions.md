@@ -6,11 +6,11 @@ course_codes: ["ส11101", "ส12101", "ส13101", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 1: ศาสนา ศีลธรรม จริยธรรม"
 ---
 
-# Other Religions in Thailand — ศาสนาอื่นในประเทศไทย
+# Other Religions in Thailand: ศาสนาอื่นในประเทศไทย
 
-> *"Thailand's religious diversity is a strength — understanding other faiths builds tolerance and strengthens social harmony."*
+> *"Thailand's religious diversity is a strength: understanding other faiths builds tolerance and strengthens social harmony."*
 
-Other Religions covers the major faiths practiced in Thailand alongside Buddhism. Students learn about Islam, Christianity, Hinduism, and Sikhism — their core beliefs, practices, and contributions to Thai society. The goal is understanding and respect, not conversion.
+Other Religions covers the major faiths practiced in Thailand alongside Buddhism. Students learn about Islam, Christianity, Hinduism, and Sikhism: their core beliefs, practices, and contributions to Thai society. The goal is understanding and respect, not conversion.
 
 ---
 
@@ -172,6 +172,6 @@ Other Religions covers the major faiths practiced in Thailand alongside Buddhism
 ## 8 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Buddhist_Principles|Buddhist Principles]] — Comparing with Buddhism
-- [[02_Thai_Culture_and_Traditions|Thai Culture]] — Religious influence on culture
-- [[04_Rights_Duties_and_Laws|Rights & Laws]] — Religious freedom
+- [[01_Buddhist_Principles|Buddhist Principles]]: Comparing with Buddhism
+- [[02_Thai_Culture_and_Traditions|Thai Culture]]: Religious influence on culture
+- [[04_Rights_Duties_and_Laws|Rights & Laws]]: Religious freedom

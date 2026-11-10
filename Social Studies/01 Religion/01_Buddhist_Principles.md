@@ -6,9 +6,9 @@ course_codes: ["ส11101", "ส12101", "ส13101", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 1: ศาสนา ศีลธรรม จริยธรรม"
 ---
 
-# Buddhist Principles — หลักธรรมทางพระพุทธศาสนา
+# Buddhist Principles: หลักธรรมทางพระพุทธศาสนา
 
-> *"The essence of Buddhism is not ritual but practice — understanding suffering, its cause, its end, and the path to end it."*
+> *"The essence of Buddhism is not ritual but practice: understanding suffering, its cause, its end, and the path to end it."*
 
 Buddhist Principles covers the core doctrines of Theravada Buddhism as taught in Thai schools. From simple moral stories in primary school to deep philosophical analysis in secondary, students progressively understand the Buddha's teachings and how to apply them in daily life.
 
@@ -31,7 +31,7 @@ Buddhist Principles covers the core doctrines of Theravada Buddhism as taught in
 |---|---|---|---|
 | 1. Dukkha | ทุกข์ | Suffering/unsatisfactoriness exists | Birth, aging, illness, death, sorrow |
 | 2. Samudaya | สมุทัย | Cause of suffering is craving (ตัณหา) | Desire for pleasure, existence, non-existence |
-| 3. Nirodha | นิโรธ | Suffering can end | Nirvana — cessation of craving |
+| 3. Nirodha | นิโรธ | Suffering can end | Nirvana: cessation of craving |
 | 4. Magga | มรรค | Path to end suffering | Noble Eightfold Path |
 
 ### ม.4–6 Deepening: Analyzing Dukkha
@@ -177,6 +177,6 @@ The 12 links of dependent origination explain how suffering arises:
 ## 9 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[02_Buddhist_Ceremonies_and_Meditation|Ceremonies & Meditation]] — Practice supports doctrine
-- [[03_Other_Religions|Other Religions]] — Comparative study
-- [[04_Moral_Reasoning|Moral Reasoning]] — Applying Buddhist ethics
+- [[02_Buddhist_Ceremonies_and_Meditation|Ceremonies & Meditation]]: Practice supports doctrine
+- [[03_Other_Religions|Other Religions]]: Comparative study
+- [[04_Moral_Reasoning|Moral Reasoning]]: Applying Buddhist ethics

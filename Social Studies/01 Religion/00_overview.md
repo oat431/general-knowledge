@@ -5,7 +5,7 @@ created: 2026-07-26
 strand: "สาระที่ 1: ศาสนา ศีลธรรม จริยธรรม"
 ---
 
-# Religion, Morality, and Ethics — ศาสนา ศีลธรรม จริยธรรม
+# Religion, Morality, and Ethics: ศาสนา ศีลธรรม จริยธรรม
 
 > **Strand:** สาระที่ 1 | **Concept Areas:** 7 | **Duration:** 12 years (ป.1–ม.6)
 > **Focus:** Buddhism, world religions, moral reasoning, meditation, religious ceremonies
@@ -49,5 +49,5 @@ This strand develops moral character and religious understanding. Buddhism recei
 ## Related
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[02 Civics/00_overview|Civics & Culture]] — Religion shapes Thai culture
-- [[04 History/00_overview|History]] — Religion in Thai history
+- [[02 Civics/00_overview|Civics & Culture]]: Religion shapes Thai culture
+- [[04 History/00_overview|History]]: Religion in Thai history

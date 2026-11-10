@@ -6,9 +6,9 @@ course_codes: ["ส11101", "ส12101", "ส13101", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 1: ศาสนา ศีลธรรม จริยธรรม"
 ---
 
-# Moral Reasoning — การคิดเชิงศีลธรรม
+# Moral Reasoning: การคิดเชิงศีลธรรม
 
-> *"Moral reasoning is not about knowing what is right — it is about developing the ability to think through ethical dilemmas and make principled decisions."*
+> *"Moral reasoning is not about knowing what is right; it is about developing the ability to think through ethical dilemmas and make principled decisions."*
 
 Moral Reasoning teaches students how to think about ethical problems. From simple right/wrong distinctions in primary school to analyzing complex dilemmas in secondary, students develop the capacity for ethical judgment.
 
@@ -109,6 +109,6 @@ A situation where two or more moral principles conflict, making the "right" choi
 ## 8 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Buddhist_Principles|Buddhist Principles]] — Buddhist ethical framework
-- [[02_Buddhist_Ceremonies_and_Meditation|Meditation]] — Mindfulness supports moral clarity
-- [[03_Other_Religions|Other Religions]] — Comparative ethical systems
+- [[01_Buddhist_Principles|Buddhist Principles]]: Buddhist ethical framework
+- [[02_Buddhist_Ceremonies_and_Meditation|Meditation]]: Mindfulness supports moral clarity
+- [[03_Other_Religions|Other Religions]]: Comparative ethical systems

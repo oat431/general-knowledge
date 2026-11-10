@@ -6,9 +6,9 @@ course_codes: ["ส11101", "ส12101", "ส13101", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 1: ศาสนา ศีลธรรม จริยธรรม"
 ---
 
-# Religious Art and Architecture — ศิลปะและสถาปัตยกรรมทางศาสนา
+# Religious Art and Architecture: ศิลปะและสถาปัตยกรรมทางศาสนา
 
-> *"Religious art is not just decoration — it is a visual language that expresses faith, teaches doctrine, and inspires devotion."*
+> *"Religious art is not just decoration; it is a visual language that expresses faith, teaches doctrine, and inspires devotion."*
 
 Religious Art and Architecture covers the artistic expressions of faith in Thailand and the world. Students learn about Thai temple art, Buddhist symbols, religious architecture, and how art serves as a vehicle for spiritual teaching.
 
@@ -116,6 +116,6 @@ Religious Art and Architecture covers the artistic expressions of faith in Thail
 ## 8 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Buddhist_Principles|Buddhist Principles]] — Doctrine expressed in art
-- [[02_Buddhist_Ceremonies_and_Meditation|Ceremonies]] — Art used in worship
-- [[02_Thai_Culture_and_Traditions|Thai Culture]] — Cultural heritage
+- [[01_Buddhist_Principles|Buddhist Principles]]: Doctrine expressed in art
+- [[02_Buddhist_Ceremonies_and_Meditation|Ceremonies]]: Art used in worship
+- [[02_Thai_Culture_and_Traditions|Thai Culture]]: Cultural heritage

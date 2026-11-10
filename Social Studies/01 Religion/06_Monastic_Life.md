@@ -6,9 +6,9 @@ course_codes: ["ส11101", "ส12101", "ส13101", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 1: ศาสนา ศีลธรรม จริยธรรม"
 ---
 
-# Monastic Life — ชีวิตพระสงฆ์
+# Monastic Life: ชีวิตพระสงฆ์
 
-> *"Monastic life is the living heart of Thai Buddhism — monks preserve the Dharma, serve communities, and provide spiritual guidance."*
+> *"Monastic life is the living heart of Thai Buddhism: monks preserve the Dharma, serve communities, and provide spiritual guidance."*
 
 Monastic Life covers the structure, practices, and role of the Buddhist monastic community (Sangha) in Thailand. Students learn about ordination, daily routines, temple roles, and how monks serve Thai society.
 
@@ -135,6 +135,6 @@ Monastic Life covers the structure, practices, and role of the Buddhist monastic
 ## 9 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Buddhist_Principles|Buddhist Principles]] — Monks study and teach doctrine
-- [[02_Buddhist_Ceremonies_and_Meditation|Ceremonies]] — Monks lead ceremonies
-- [[05_Religious_Art_and_Architecture|Art & Architecture]] — Temples as monastic homes
+- [[01_Buddhist_Principles|Buddhist Principles]]: Monks study and teach doctrine
+- [[02_Buddhist_Ceremonies_and_Meditation|Ceremonies]]: Monks lead ceremonies
+- [[05_Religious_Art_and_Architecture|Art & Architecture]]: Temples as monastic homes

@@ -6,9 +6,9 @@ course_codes: ["ส11101", "ส12101", "ส13101", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 1: ศาสนา ศีลธรรม จริยธรรม"
 ---
 
-# Religious Tolerance and Interfaith Understanding — การอยู่ร่วมกันอย่างสันติ
+# Religious Tolerance and Interfaith Understanding: การอยู่ร่วมกันอย่างสันติ
 
-> *"Religious tolerance is not about agreeing with other faiths — it is about respecting the right of every person to believe and practice freely."*
+> *"Religious tolerance is not about agreeing with other faiths; it is about respecting the right of every person to believe and practice freely."*
 
 Religious Tolerance teaches students to live peacefully with people of different faiths. In Thailand, where Buddhism is dominant but other religions coexist, this strand develops respect for diversity, constitutional religious freedom, and interfaith dialogue.
 
@@ -53,7 +53,7 @@ Religious Tolerance teaches students to live peacefully with people of different
 |---|---|---|---|---|
 | **Compassion** | เมตตา | เราะห์มะห์ | ความรัก | กรุณา |
 | **Honesty** | สัมมาวาจา | ศิดก์ | ความจริง | สัตยะ |
-| **Non-violence** | อหิงสา | — | สันติ | อหิงสา |
+| **Non-violence** | อหิงสา | N/A | สันติ | อหิงสา |
 | **Charity** | การให้ | ซะกาต์ | การให้ | ทาน |
 | **Respect for life** | ปาณาติบาต | ห้ามฆ่า | บัญญัติ 10 ประการ | อหิงสา |
 
@@ -111,6 +111,6 @@ Religious Tolerance teaches students to live peacefully with people of different
 ## 9 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[03_Other_Religions|Other Religions]] — Knowing other faiths enables tolerance
-- [[04_Rights_Duties_and_Laws|Rights & Laws]] — Constitutional protection
-- [[02_Thai_Culture_and_Traditions|Thai Culture]] — Cultural diversity
+- [[03_Other_Religions|Other Religions]]: Knowing other faiths enables tolerance
+- [[04_Rights_Duties_and_Laws|Rights & Laws]]: Constitutional protection
+- [[02_Thai_Culture_and_Traditions|Thai Culture]]: Cultural diversity

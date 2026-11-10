@@ -6,11 +6,11 @@ course_codes: ["ส11101", "ส12101", "ส13101", "ส21101", "ส22101", "ส2
 strand: "สาระที่ 1: ศาสนา ศีลธรรม จริยธรรม"
 ---
 
-# Buddhist Ceremonies and Meditation — ศาสนพิธีและการทำสมาธิ
+# Buddhist Ceremonies and Meditation: ศาสนพิธีและการทำสมาธิ
 
 > *"Ceremonies express faith through action; meditation cultivates wisdom through inner stillness."*
 
-Buddhist Ceremonies and Meditation covers the rituals and mental practices of Theravada Buddhism. Students learn about important Buddhist holy days, ceremonies, and meditation techniques — from simple mindfulness to formal vipassana practice.
+Buddhist Ceremonies and Meditation covers the rituals and mental practices of Theravada Buddhism. Students learn about important Buddhist holy days, ceremonies, and meditation techniques: from simple mindfulness to formal vipassana practice.
 
 ---
 
@@ -148,6 +148,6 @@ Buddhist Ceremonies and Meditation covers the rituals and mental practices of Th
 ## 9 | Cross-Links
 
 - [[Social Studies - Overview|← Back to Social Studies]]
-- [[01_Buddhist_Principles|Buddhist Principles]] — Doctrine behind the ceremonies
-- [[06_Monastic_Life|Monastic Life]] — Monks lead ceremonies
-- [[05_Religious_Art_and_Architecture|Art & Architecture]] — Ceremonies in temples
+- [[01_Buddhist_Principles|Buddhist Principles]]: Doctrine behind the ceremonies
+- [[06_Monastic_Life|Monastic Life]]: Monks lead ceremonies
+- [[05_Religious_Art_and_Architecture|Art & Architecture]]: Ceremonies in temples
