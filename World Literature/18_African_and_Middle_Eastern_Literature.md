@@ -4,7 +4,7 @@ source: "the works themselves; standard English translations consulted"
 created: 2026-09-06
 ---
 
-# 18 — African and Middle Eastern Literature — วรรณกรรมแอฟริกาและตะวันออกกลาง
+# 18 · African and Middle Eastern Literature: วรรณกรรมแอฟริกาและตะวันออกกลาง
 
 > *"Work is love made visible." Kahlil Gibran, The Prophet.*
 
@@ -91,6 +91,7 @@ Achebe writes an English that is deliberately Igbo: proverbs (สุภาษิ
 ## 5 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     "1923" : Gibran publishes The Prophet in English
     "1956" : Mahfouz publishes Palace Walk : first volume of the Cairo Trilogy

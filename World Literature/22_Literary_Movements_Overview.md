@@ -4,7 +4,7 @@ source: "the works themselves; standard English translations consulted"
 created: 2026-09-06
 ---
 
-# 22 — Literary Movements Overview — แผนที่ขบวนการวรรณกรรม
+# 22 · Literary Movements Overview: แผนที่ขบวนการวรรณกรรม
 
 > *"Poetry is the spontaneous overflow of powerful feelings: it takes its origin from emotion recollected in tranquillity." William Wordsworth, Preface to Lyrical Ballads.*
 
@@ -97,6 +97,7 @@ Each movement has a style to match its beliefs. The Romantics write lyricism and
 ### The chain as a diagram
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["Romanticism"] --> B["Realism"]
     B --> C["Naturalism"]
@@ -107,6 +108,7 @@ flowchart LR
 ## 5 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     "1798" : Lyrical Ballads : Romanticism announced
     "1830" : Stendhal's The Red and the Black : Realism's mirror

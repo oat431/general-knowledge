@@ -4,7 +4,7 @@ source: "Hugo, Les Misérables (1862); Balzac, Père Goriot (1835); Flaubert, Ma
 created: 2026-09-06
 ---
 
-# 11 — French 19th Century — วรรณกรรมฝรั่งเศสศตวรรษที่ 19
+# 11 · French 19th Century: วรรณกรรมฝรั่งเศสศตวรรษที่ 19
 
 > *"Jean Valjean, my brother, you no longer belong to evil, but to good. It is your soul that I buy back from black thoughts and the spirit of perdition, and I give it to God."*
 >
@@ -97,6 +97,7 @@ Hugo works in grand melodrama (เรื่องประโลมโลก): c
 ## 5 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     1799 : Balzac born in Tours
     1802 : Hugo born in Besancon

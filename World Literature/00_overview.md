@@ -5,7 +5,7 @@ created: 2026-09-06
 domain: "World Literature"
 ---
 
-# World Literature — วรรณกรรมโลก
+# World Literature: วรรณกรรมโลก
 
 > **Domain:** World literature for adult general knowledge (exam-free, no grade bands)
 > **BOK roadmap:** [[World Literature - Overview]]

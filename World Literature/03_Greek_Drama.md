@@ -4,7 +4,7 @@ source: "Oedipus Rex, Medea, Lysistrata; standard English translations consulted
 created: 2026-09-06
 ---
 
-# 03 — Greek Drama — ละครกรีก
+# 03 · Greek Drama: ละครกรีก
 
 > *"Count no man happy till he dies, free of pain at last"* : Sophocles, Oedipus the King, closing lines, translated by Robert Fagles
 
@@ -94,6 +94,7 @@ The machinery of Greek drama is economical and strange: three actors, masks, and
 ## 5 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     c 534 BCE : Thespis tradition : first actor steps out of the chorus
     472 BCE : Aeschylus Persians : earliest surviving tragedy

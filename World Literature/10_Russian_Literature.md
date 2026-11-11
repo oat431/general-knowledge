@@ -4,7 +4,7 @@ source: "Tolstoy, Dostoevsky, and Chekhov in the Pevear and Volokhonsky, Garnett
 created: 2026-09-06
 ---
 
-# 10 — Russian Literature — วรรณกรรมรัสเซีย
+# 10 · Russian Literature: วรรณกรรมรัสเซีย
 
 > *"All happy families are alike; each unhappy family is unhappy in its own way."*
 >
@@ -98,6 +98,7 @@ Dostoevsky's technique, in the critic Bakhtin's word, was polyphony (พหุ�
 ## 5 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     1821 : Dostoevsky born in Moscow
     1828 : Tolstoy born at Yasnaya Polyana

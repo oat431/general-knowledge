@@ -4,7 +4,7 @@ source: "the works themselves; standard English translations consulted"
 created: 2026-09-06
 ---
 
-# 19 — Poetry of the World — กวีนิพนธ์ของโลก
+# 19 · Poetry of the World: กวีนิพนธ์ของโลก
 
 > *"I am large, I contain multitudes." Walt Whitman, Song of Myself.*
 
@@ -104,6 +104,7 @@ How poetry works, briefly: meter is the pattern of stressed and unstressed beats
 ## 5 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     "1244" : Rumi meets Shams of Tabriz : the poet is born
     "1855" : Whitman self-publishes Leaves of Grass

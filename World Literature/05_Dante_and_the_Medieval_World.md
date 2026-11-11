@@ -4,7 +4,7 @@ source: "The Divine Comedy and The Canterbury Tales; standard English translatio
 created: 2026-09-06
 ---
 
-# 05 — Dante and the Medieval World — ดันเตกับโลกยุคกลาง
+# 05 · Dante and the Medieval World: ดันเตกับโลกยุคกลาง
 
 > *"Abandon all hope, ye who enter here"* : Dante, Inferno, Canto 3, in the traditional English rendering
 
@@ -95,6 +95,7 @@ Dante's style is machinery made music: terza rima, the three-line chain that pul
 ## 5 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     1265 : Dante born in Florence
     1302 : Dante exiled from Florence : never returns

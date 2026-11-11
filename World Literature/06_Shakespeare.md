@@ -4,7 +4,7 @@ source: "Hamlet, Macbeth, and the Sonnets; standard English texts consulted"
 created: 2026-09-06
 ---
 
-# 06 — Shakespeare — เชกสเปียร์
+# 06 · Shakespeare: เชกสเปียร์
 
 > *"To be, or not to be: that is the question"* : William Shakespeare, Hamlet, Act 3, Scene 1
 
@@ -95,6 +95,7 @@ Blank verse, unrhymed iambic pentameter, is Shakespeare's engine: close enough t
 ## 5 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     1564 : Shakespeare born in Stratford upon Avon
     c 1592 : First mention of him in the London theatre

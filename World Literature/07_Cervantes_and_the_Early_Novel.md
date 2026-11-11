@@ -4,7 +4,7 @@ source: "Cervantes, Don Quixote (Part One 1605, Part Two 1615), in the Grossman 
 created: 2026-09-06
 ---
 
-# 07 — Cervantes and the Early Novel — เซร์บันเตสกับนวนิยายยุคแรก
+# 07 · Cervantes and the Early Novel: เซร์บันเตสกับนวนิยายยุคแรก
 
 > *"What giants?" said Sancho Panza. "Those you see over there," replied his master, "with their long arms: some of them are nearly two leagues long."*
 >
@@ -92,6 +92,7 @@ The book's style is conversation. Quixote speaks in the high-flown formulas of t
 ## 5 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     1547 : Cervantes born in Alcala de Henares
     1571 : Wounded at the Battle of Lepanto

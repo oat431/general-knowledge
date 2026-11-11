@@ -4,7 +4,7 @@ source: "Gilgamesh, the Iliad, the Odyssey; standard English translations consul
 created: 2026-09-06
 ---
 
-# 02 — Ancient Epics — มหากาพย์โบราณ
+# 02 · Ancient Epics: มหากาพย์โบราณ
 
 > *"Sing, goddess, the anger of Peleus' son Achilleus and its devastation, which put pains thousandfold upon the Achaians"* : Homer, Iliad, Book 1, translated by Richmond Lattimore
 
@@ -93,6 +93,7 @@ The style is born of the voice: these poems were sung before they were written. 
 ## 5 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     c 2100 BCE : Gilgamesh stories first sung in Sumer
     c 1200 BCE : Standard Babylonian version compiled

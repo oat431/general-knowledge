@@ -4,7 +4,7 @@ source: "the works themselves; standard English translations consulted"
 created: 2026-09-06
 ---
 
-# 21 — ASEAN and Southeast Asian Literature — วรรณกรรมอาเซียนและเอเชียตะวันออกเฉียงใต้
+# 21 · ASEAN and Southeast Asian Literature: วรรณกรรมอาเซียนและเอเชียตะวันออกเฉียงใต้
 
 > *"The youth is the fair hope of my motherland." José Rizal, To the Filipino Youth.*
 
@@ -90,6 +90,7 @@ Kieu's verse form, lục bát, alternates six- and eight-syllable lines with rhy
 ## 5 | Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#000000','primaryBorderColor':'#000000','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','titleColor':'#1FB854','fontSize':'14px','cScale0':'#1FB854','cScale1':'#1EB88E','cScale2':'#1FB8AB','cScale3':'#00B5FF','cScale4':'#00A96E','timelineEventColor':'#1FB854','timelineEventTextColor':'#000000','timelineLabelColor':'#000000','timelineLineColor':'#1FB854'}}}%%
 timeline
     "c. 1820" : Nguyen Du completes The Tale of Kieu
     "1887" : Rizal publishes Noli Me Tangere in Berlin
