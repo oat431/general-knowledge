@@ -2,14 +2,14 @@
 tags: [student-development, student-activities, scouts, girl-guides, outdoor-skills, service, primary, lower-secondary, upper-secondary, obec]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008); National Scout Office (สลช. / scoutthailand.org)"
 created: 2026-08-05
-component: "กิจกรรมนักเรียน — ลูกเสือและเนตรนารี"
+component: "กิจกรรมนักเรียน: ลูกเสือและเนตรนารี"
 ---
 
-# Scouts and Girl Guides — ลูกเสือและเนตรนารี
+# Scouts and Girl Guides: ลูกเสือและเนตรนารี
 
-> *"ลูกเสือมีเกียรติเชื่อถือได้" — Scout Law 1*
+> *"ลูกเสือมีเกียรติเชื่อถือได้"*: Scout Law 1
 
-Scouts (ลูกเสือ) and Girl Guides (เนตรนารี) are youth-development movements that build character, discipline, teamwork, and service through outdoor learning and progressive training. In Thai schools they are a recognized form of Student Activities (กิจกรรมนักเรียน) under the national curriculum — woven into the school day, usually as a weekly period — rather than a standalone academic subject.
+Scouts (ลูกเสือ) and Girl Guides (เนตรนารี) are youth-development movements that build character, discipline, teamwork, and service through outdoor learning and progressive training. In Thai schools they are a recognized form of Student Activities (กิจกรรมนักเรียน) under the national curriculum, woven into the school day, usually as a weekly period, rather than a standalone academic subject.
 
 Thai scouting began under King Rama VI (รัชกาลที่ 6), who founded the Wild Tiger Corps (เสือป่า) in พ.ศ. 2454; the National Scout Day (วันสถาปนาลูกเสือแห่งชาติ) is commemorated every July 1.
 
@@ -45,7 +45,7 @@ Girl Guides (เนตรนารี) follow a parallel structure for girls: �
 
 Source: [National Scout Office (สลช.)](https://www.scoutthailand.org/pages/nsot-view.php?groupId=4&id=41)
 
-The promise is not recited and forgotten — each clause maps to a practice: loyalty to nation-religion-king, daily helpfulness, and living by the law below.
+The promise is not recited and forgotten, each clause maps to a practice: loyalty to nation-religion-king, daily helpfulness, and living by the law below.
 
 ---
 
@@ -75,7 +75,7 @@ The promise is not recited and forgotten — each clause maps to a practice: loy
 | ลูกเสือสามัญรุ่นใหญ่ | มองไกล | Look Wide |
 | ลูกเสือวิสามัญ | บริการ | Service |
 
-**Daily good turn (ทำความดีทุกวัน):** the quiet engine of scout life — one deliberate helpful act per day, done without being asked.
+**Daily good turn (ทำความดีทุกวัน):** the quiet engine of scout life, one deliberate helpful act per day, done without being asked.
 
 ---
 
@@ -86,8 +86,8 @@ The promise is not recited and forgotten — each clause maps to a practice: loy
 | Knot | Thai | Use |
 |---|---|---|
 | Reef/Square knot | เงื่อนตาหมู | Joining two ropes of equal size |
-| Bowline | เงื่อนกติกา | Fixed loop that never tightens — rescue |
-| Clove hitch | เงื่อนกลางเสา | Attaching rope to a pole — starting lashings |
+| Bowline | เงื่อนกติกา | Fixed loop that never tightens: rescue |
+| Clove hitch | เงื่อนกลางเสา | Attaching rope to a pole: starting lashings |
 | Sheet bend | เงื่อนขุดถุง | Joining ropes of different sizes |
 | Lashings (square, diagonal) | การร้อยเสา | Building camp structures: flag poles, tables, bridges |
 
@@ -117,7 +117,7 @@ The promise is not recited and forgotten — each clause maps to a practice: loy
 |---|---|---|
 | Investiture | พิธีเข้าประจำหมู่ | New members recite the promise and receive scarf/neckerchief |
 | Flag ceremony | พิธีธง | Opening/closing of scout meetings |
-| Campfire | พิธีกองไฟ | Evening gathering — songs, skits, reflection |
+| Campfire | พิธีกองไฟ | Evening gathering: songs, skits, reflection |
 | Wreath/laying ceremonies | วางพวงมาลัย | National Scout Day, memorial days |
 
 ---
@@ -184,18 +184,18 @@ One camp quietly exercises all ten laws, four knots, two ceremonies, and the lea
 
 ## 9 | Real-World Examples
 
-- **July 1 — National Scout Day** — Schools hold parades, wreath-layings, and skill demonstrations
-- **Annual school camp (ค่ายลูกเสืออบรม)** — The culmination of the scouting year: 2–3 days of stations, cooking competition, campfire
-- **Flood relief volunteers** — Scout troops assisting communities during Thailand's flood seasons
-- **Temple and school service** — Regular cleanup and assistance as public service practice
-- **Jamboree** — Provincial, national, and international scout gatherings
+- **July 1 · National Scout Day:** Schools hold parades, wreath-layings, and skill demonstrations
+- **Annual school camp (ค่ายลูกเสืออบรม):** The culmination of the scouting year: 2–3 days of stations, cooking competition, campfire
+- **Flood relief volunteers:** Scout troops assisting communities during Thailand's flood seasons
+- **Temple and school service:** Regular cleanup and assistance as public service practice
+- **Jamboree:** Provincial, national, and international scout gatherings
 
 ---
 
 ## 10 | Cross-Links
 
 - [[00_overview|Student Activities Overview (BOK)]]
-- [[02_Red_Cross_Youth|Red Cross Youth]] — Parallel youth movement with health focus
-- [[05_Leadership_Activities|Leadership Activities]] — Patrol leader system
-- [[../03 Social and Public Benefit/02_Community_Service|Community Service]] — The good turn institutionalized
-- [[../../body-of-knowledge/Health and PE/Health and PE - Overview|Health & PE (BOK)]] — Fitness, first aid
+- [[02_Red_Cross_Youth|Red Cross Youth]]: Parallel youth movement with health focus
+- [[05_Leadership_Activities|Leadership Activities]]: Patrol leader system
+- [[../03 Social and Public Benefit/02_Community_Service|Community Service]]: The good turn institutionalized
+- [[../../body-of-knowledge/Health and PE/Health and PE - Overview|Health & PE (BOK)]]: Fitness, first aid

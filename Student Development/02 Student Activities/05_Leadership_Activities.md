@@ -2,14 +2,14 @@
 tags: [student-development, student-activities, leadership, teamwork, mentoring, primary, lower-secondary, upper-secondary, obec]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008)"
 created: 2026-08-05
-component: "กิจกรรมนักเรียน — กิจกรรมผู้นำ"
+component: "กิจกรรมนักเรียน: กิจกรรมผู้นำ"
 ---
 
-# Leadership Activities — กิจกรรมผู้นำ
+# Leadership Activities: กิจกรรมผู้นำ
 
-> *"Leadership is not a position — it is the practice of planning, communicating, deciding, and taking responsibility so that a group succeeds."*
+> *"Leadership is not a position; it is the practice of planning, communicating, deciding, and taking responsibility so that a group succeeds."*
 
-Leadership activities develop students' capacity to guide groups toward shared goals. In Thai schools, leadership is not taught as a lecture; it is built through progressive roles — class helper → activity leader → patrol leader → committee chair → event director — with reflection on each. The scout patrol system, club committees, and student councils (covered in sibling notes) are the main arenas; this note covers the underlying, transferable craft.
+Leadership activities develop students' capacity to guide groups toward shared goals. In Thai schools, leadership is not taught as a lecture; it is built through progressive roles: class helper → activity leader → patrol leader → committee chair → event director, with reflection on each. The scout patrol system, club committees, and student councils (covered in sibling notes) are the main arenas; this note covers the underlying, transferable craft.
 
 ---
 
@@ -27,6 +27,7 @@ Leadership activities develop students' capacity to guide groups toward shared g
 ## 2 | The Leadership Progression Ladder
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     L1["1. Do a job well
 ทำงานที่รับผิดชอบให้สำเร็จ"] --> L2["2. Lead a task
@@ -117,7 +118,7 @@ flowchart LR
 
 ## 5 | A Worked Scenario
 
-> **Situation:** Earth, ม.4, is directing the school's Teacher's Day ceremony — her first big event. Two committee leads stop replying in chat; the souvenir order is late; she is doing three people's jobs at 11 p.m. and furious.
+> **Situation:** Earth, ม.4, is directing the school's Teacher's Day ceremony, her first big event. Two committee leads stop replying in chat; the souvenir order is late; she is doing three people's jobs at 11 p.m. and furious.
 
 **Coaching the leader (what her advisor does):**
 
@@ -155,18 +156,18 @@ flowchart LR
 
 ## 7 | Real-World Examples
 
-- **Scout patrol system** — The oldest leadership laboratory in Thai schools: หัวหน้าหมู่ and รองหัวหน้าหมู่ rotate each term
-- **Freshman orientation (รับน้อง)** — ม.4/ม.2 leaders organizing orientation for new students; good programs train them first
-- **Sports day (วันกีฬา)** — Color-team captains manage chants, rosters, and morale across a full day
-- **Camp committees** — Food, program, safety, PR sub-committees at school camps each chaired by a student
-- **Big-buddy reading programs** — ม.4–6 students leading weekly reading sessions with ป.1–2 students
+- **Scout patrol system:** The oldest leadership laboratory in Thai schools: หัวหน้าหมู่ and รองหัวหน้าหมู่ rotate each term
+- **Freshman orientation (รับน้อง):** ม.4/ม.2 leaders organizing orientation for new students; good programs train them first
+- **Sports day (วันกีฬา):** Color-team captains manage chants, rosters, and morale across a full day
+- **Camp committees:** Food, program, safety, PR sub-committees at school camps each chaired by a student
+- **Big-buddy reading programs:** ม.4–6 students leading weekly reading sessions with ป.1–2 students
 
 ---
 
 ## 8 | Cross-Links
 
 - [[00_overview|Student Activities Overview (BOK)]]
-- [[01_Scouts_and_Girl_Guides|Scouts and Girl Guides]] — The patrol system
-- [[03_Clubs|Clubs]] — Committee roles
-- [[04_Student_Organizations|Student Organizations]] — Council leadership
-- [[../01 Guidance/02_Career_Guidance|Career Guidance]] — Leadership as employability
+- [[01_Scouts_and_Girl_Guides|Scouts and Girl Guides]]: The patrol system
+- [[03_Clubs|Clubs]]: Committee roles
+- [[04_Student_Organizations|Student Organizations]]: Council leadership
+- [[../01 Guidance/02_Career_Guidance|Career Guidance]]: Leadership as employability

@@ -2,14 +2,14 @@
 tags: [student-development, student-activities, clubs, interest-based-learning, extracurricular, primary, lower-secondary, upper-secondary, obec]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008)"
 created: 2026-08-05
-component: "กิจกรรมนักเรียน — ชมรม/ชุมนุม"
+component: "กิจกรรมนักเรียน: ชมรม/ชุมนุม"
 ---
 
-# Clubs — ชมรม/ชุมนุม
+# Clubs: ชมรม/ชุมนุม
 
 > *"Clubs give students a place where learning follows their curiosity, not the exam schedule."*
 
-Clubs (ชมรม or ชุมนุม) are interest-based student activities that let students explore academic subjects, arts, sports, technology, and service beyond the regular classroom. In most Thai schools, club time appears weekly on the timetable; the offerings are decided by each school from student interest, teacher expertise, and resources. Where academics teach *what to know*, clubs teach *how to pursue* — sustained interest, practice, peer teaching, and the experience of getting good at something by choice.
+Clubs (ชมรม or ชุมนุม) are interest-based student activities that let students explore academic subjects, arts, sports, technology, and service beyond the regular classroom. In most Thai schools, club time appears weekly on the timetable; the offerings are decided by each school from student interest, teacher expertise, and resources. Where academics teach *what to know*, clubs teach *how to pursue*: sustained interest, practice, peer teaching, and the experience of getting good at something by choice.
 
 ---
 
@@ -17,7 +17,7 @@ Clubs (ชมรม or ชุมนุม) are interest-based student activities
 
 | Grade | Key Content |
 |---|---|
-| **ป.1–3** | Simple interest groups, games, creative play, story clubs — mostly teacher-led |
+| **ป.1–3** | Simple interest groups, games, creative play, story clubs: mostly teacher-led |
 | **ป.4–6** | Topic-based clubs (art, science, sports, reading, Thai culture); choosing based on interest; belonging to a group |
 | **ม.1–3** | Diverse offerings; sustained participation across terms; skill development; older students assist younger; first taste of running an activity |
 | **ม.4–6** | Specialized clubs; student-led with teacher advisors; portfolio building; competition and exhibition preparation; clubs as identity |
@@ -42,6 +42,7 @@ Clubs (ชมรม or ชุมนุม) are interest-based student activities
 ## 3 | How a Club Year Works
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     SIGNUP["Recruit and sign up
 สมัครชมรม"] --> PLAN["Set the year plan
@@ -108,7 +109,7 @@ flowchart LR
 | 3. Pair and transfer | Each ม.6 member mentors one or two juniors on a real build |
 | 4. Hand the keys over | Juniors run sessions by term 2; seniors advise only |
 | 5. Document | A club handbook: what we tried, what broke, what worked |
-| 6. Pass the ceremony | Formal hand-over at the last meeting — the club belongs to the new committee |
+| 6. Pass the ceremony | Formal hand-over at the last meeting: the club belongs to the new committee |
 
 ---
 
@@ -133,19 +134,19 @@ flowchart LR
 
 ## 8 | Real-World Examples
 
-- **Club fair (ตลาดนัดชมรม)** — Start-of-year marketplace where clubs recruit; students compare before committing
-- **Science club → science fair** — Building projects for งานวิทย์ศาสตร์ competitions at district and national levels
-- **English club → speech contests** — Weekly practice producing contestants for Speech/Drama competitions
-- **Volunteer club → tutoring juniors** — ม.4–5 members tutoring ป. students on weekends
-- **Photography club → school archive** — Members documenting every school event; the yearbook depends on them
+- **Club fair (ตลาดนัดชมรม):** Start-of-year marketplace where clubs recruit; students compare before committing
+- **Science club → science fair:** Building projects for งานวิทย์ศาสตร์ competitions at district and national levels
+- **English club → speech contests:** Weekly practice producing contestants for Speech/Drama competitions
+- **Volunteer club → tutoring juniors:** ม.4–5 members tutoring ป. students on weekends
+- **Photography club → school archive:** Members documenting every school event; the yearbook depends on them
 
 ---
 
 ## 9 | Cross-Links
 
 - [[00_overview|Student Activities Overview (BOK)]]
-- [[04_Student_Organizations|Student Organizations]] — Governance vs. interest-based participation
-- [[05_Leadership_Activities|Leadership Activities]] — Committee work as leadership training
-- [[../01 Guidance/02_Career_Guidance|Career Guidance]] — Clubs as career exploration
-- [[../../body-of-knowledge/Arts/Arts - Overview|Arts (BOK)]] — Arts clubs
-- [[../../body-of-knowledge/Science/00_Fundamental Science - Overview|Science (BOK)]] — Science clubs
+- [[04_Student_Organizations|Student Organizations]]: Governance vs. interest-based participation
+- [[05_Leadership_Activities|Leadership Activities]]: Committee work as leadership training
+- [[../01 Guidance/02_Career_Guidance|Career Guidance]]: Clubs as career exploration
+- [[../../body-of-knowledge/Arts/Arts - Overview|Arts (BOK)]]: Arts clubs
+- [[../../body-of-knowledge/Science/00_Fundamental Science - Overview|Science (BOK)]]: Science clubs

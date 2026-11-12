@@ -2,14 +2,14 @@
 tags: [student-development, student-activities, student-council, democracy, governance, primary, lower-secondary, upper-secondary, obec]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008)"
 created: 2026-08-05
-component: "กิจกรรมนักเรียน — องค์กรนักเรียน"
+component: "กิจกรรมนักเรียน: องค์กรนักเรียน"
 ---
 
-# Student Organizations — องค์กรนักเรียน
+# Student Organizations: องค์กรนักเรียน
 
 > *"The student council is a small democracy: students learn representation, elections, budgets, and the discipline of keeping promises."*
 
-Student Organizations (องค์กรนักเรียน) are the governance structures through which students participate in running school life: student councils, class representative systems, and committees. They exist so that students experience democracy as practice — campaigns, votes, mandates, meetings, budgets, accountability — years before they vote in national elections.
+Student Organizations (องค์กรนักเรียน) are the governance structures through which students participate in running school life: student councils, class representative systems, and committees. They exist so that students experience democracy as practice, campaigns, votes, mandates, meetings, budgets, accountability, years before they vote in national elections.
 
 ---
 
@@ -27,6 +27,7 @@ Student Organizations (องค์กรนักเรียน) are the gover
 ## 2 | Typical Structure
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     CLASS["Classmates
 นักเรียนทั้งหมด"] -->|"elect เลือกตั้ง"| REP["Class Representatives
@@ -63,7 +64,7 @@ flowchart TD
 | 5. Announcement and transition | Results, hand-over from the old council | Winning and losing gracefully |
 | 6. Term of office | Meetings, projects, reports | Governing is slower and harder than promising |
 
-**The classic lesson:** candidates promise "air conditioning in every room," then discover the council's actual budget — and learn that credible promises are specific, feasible, and budgeted.
+**The classic lesson:** candidates promise "air conditioning in every room," then discover the council's actual budget, and learn that credible promises are specific, feasible, and budgeted.
 
 ---
 
@@ -123,7 +124,7 @@ A council meeting is a classroom of democracy:
 | 3. Fix the channel | Box + a Google/LINE form; log every item with a reference number |
 | 4. Report monthly | Three numbers: received, resolved, pending with reasons |
 | 5. Deliver something small and fast | One quick win (a new water-point cup rack) proves the system works |
-| 6. Protect the principle | Some requests are impossible — explaining *why* honestly is representation; pretending is not |
+| 6. Protect the principle | Some requests are impossible: explaining *why* honestly is representation; pretending is not |
 
 ---
 
@@ -153,17 +154,17 @@ A council meeting is a classroom of democracy:
 
 ## 9 | Real-World Examples
 
-- **สภานักเรียน campaigns** — Posters and speeches before elections; schools enforce no-vote-buying rules
-- **วันเด็ก (Children's Day, January)** — Council-organized games and shows for the school and community
-- **วันครู (Teacher's Day, January 16)** — Council coordinates honors for teachers
-- **Canteen feedback committees** — Reps meet with the canteen operator monthly — the most practical lesson in stakeholder negotiation
-- **Charity drives** — Council-run collections after floods or for rural schools
+- **สภานักเรียน campaigns:** Posters and speeches before elections; schools enforce no-vote-buying rules
+- **วันเด็ก (Children's Day, January):** Council-organized games and shows for the school and community
+- **วันครู (Teacher's Day, January 16):** Council coordinates honors for teachers
+- **Canteen feedback committees:** Reps meet with the canteen operator monthly: the most practical lesson in stakeholder negotiation
+- **Charity drives:** Council-run collections after floods or for rural schools
 
 ---
 
 ## 10 | Cross-Links
 
 - [[00_overview|Student Activities Overview (BOK)]]
-- [[03_Clubs|Clubs]] — Interest-based vs. governance-based participation
-- [[05_Leadership_Activities|Leadership Activities]] — Council as leadership arena
-- [[../../body-of-knowledge/Social Studies/Social Studies - Overview|Social Studies (BOK)]] — Democracy, rights and duties, constitution
+- [[03_Clubs|Clubs]]: Interest-based vs. governance-based participation
+- [[05_Leadership_Activities|Leadership Activities]]: Council as leadership arena
+- [[../../body-of-knowledge/Social Studies/Social Studies - Overview|Social Studies (BOK)]]: Democracy, rights and duties, constitution
