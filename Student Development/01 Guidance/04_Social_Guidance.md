@@ -2,14 +2,14 @@
 tags: [student-development, guidance, social-guidance, communication, relationships, digital-citizenship, primary, lower-secondary, upper-secondary, obec]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017); OBEC Guidance Development Group"
 created: 2026-08-05
-component: "กิจกรรมแนะแนว — การแนะแนวสังคม"
+component: "กิจกรรมแนะแนว: การแนะแนวสังคม"
 ---
 
-# Social Guidance — การแนะแนวสังคม
+# Social Guidance: การแนะแนวสังคม
 
 > *"Social guidance helps students build healthy relationships, communicate effectively, and participate responsibly in their community."*
 
-Social guidance develops the interpersonal side of the learner: friendship, communication, cooperation, conflict resolution, and responsible participation — including online. In a culture that values ความสัมพันธ์ (relationships) and ความสามัคคี (harmony), social guidance also gives students tools to handle the hard parts of group life: peer pressure, cliques, bullying, and disagreement.
+Social guidance develops the interpersonal side of the learner: friendship, communication, cooperation, conflict resolution, and responsible participation, including online. In a culture that values ความสัมพันธ์ (relationships) and ความสามัคคี (harmony), social guidance also gives students tools to handle the hard parts of group life: peer pressure, cliques, bullying, and disagreement.
 
 ---
 
@@ -29,6 +29,7 @@ Social guidance develops the interpersonal side of the learner: friendship, comm
 ### The Communication Loop
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     S["Sender
 ผู้ส่งสาร"] -->|"Message
@@ -41,7 +42,7 @@ flowchart LR
 อารมณ์ อคติ สื่อ"] -.->|"ทำให้สารเพี้ยน"| R
 ```
 
-Guidance teaches that misunderstandings usually come from *noise* — assumptions, emotions, distractions — not from bad intentions.
+Guidance teaches that misunderstandings usually come from *noise*: assumptions, emotions, distractions, not from bad intentions.
 
 ### Active Listening (การฟังอย่างตั้งใจ)
 
@@ -90,7 +91,7 @@ Guidance teaches that misunderstandings usually come from *noise* — assumption
 | Social/Relational | ทางสังคม | Exclusion, spreading rumors |
 | Cyber | ออนไลน์ | Group-chat mocking, fake accounts, sharing private images |
 
-**The three roles** guidance teaches students to recognize: the aggressor (ผู้กลั่นแกล้ง), the target (ผู้ถูกกลั่นแกล้ง), and the bystander (ผู้เห็นเหตุการณ์) — and that a bystander who reports is an *upstander*, not a snitch.
+**The three roles** guidance teaches students to recognize: the aggressor (ผู้กลั่นแกล้ง), the target (ผู้ถูกกลั่นแกล้ง), and the bystander (ผู้เห็นเหตุการณ์), and that a bystander who reports is an *upstander*, not a snitch.
 
 ---
 
@@ -98,7 +99,7 @@ Guidance teaches that misunderstandings usually come from *noise* — assumption
 
 | Principle | Thai | Practice |
 |---|---|---|
-| Digital footprint | รอยเท้าดิจิทัล | What you post stays findable — think before posting |
+| Digital footprint | รอยเท้าดิจิทัล | What you post stays findable: think before posting |
 | Respect online | การเคารพออนไลน์ | No mocking, no pile-ons, comment as if face-to-face |
 | Privacy | ความเป็นส่วนตัว | Guard personal info and others' images |
 | Verify before sharing | ตรวจสอบก่อนแชร์ | Fake news spreads through careless shares |
@@ -115,7 +116,7 @@ Guidance teaches that misunderstandings usually come from *noise* — assumption
 | Step | Action |
 |---|---|
 | 1. Support the target first | Check on Ken; separate his worth from one match; involve parents as needed |
-| 2. Address the chat | Homeroom session on the group-chat effect: "everyone added one small joke — together it was an avalanche" |
+| 2. Address the chat | Homeroom session on the group-chat effect: "everyone added one small joke, together it was an avalanche" |
 | 3. Convert bystanders | Teach the upstander role: one person changing the topic or checking on Ken shifts the whole dynamic |
 | 4. Repair, not just punish | Where appropriate, guided apology and a class agreement on chat norms |
 | 5. Follow up | Two weeks later: is Ken back at practice? Is the chat calmer? |
@@ -143,18 +144,18 @@ Guidance teaches that misunderstandings usually come from *noise* — assumption
 
 ## 8 | Real-World Examples
 
-- **Group projects** — Practicing task division, listening, and disagreeing without fighting
-- **Class chat groups** — The main arena where ม.1–3 social conflicts actually happen
-- **Sports teams** — Learning to lose gracefully and support teammates
-- **Student council elections** — Campaigning respectfully and accepting results
-- **Welcoming new students** — Buddy programs that turn social skills into school culture
+- **Group projects:** Practicing task division, listening, and disagreeing without fighting
+- **Class chat groups:** The main arena where ม.1–3 social conflicts actually happen
+- **Sports teams:** Learning to lose gracefully and support teammates
+- **Student council elections:** Campaigning respectfully and accepting results
+- **Welcoming new students:** Buddy programs that turn social skills into school culture
 
 ---
 
 ## 9 | Cross-Links
 
 - [[00_overview|Guidance Overview (BOK)]]
-- [[03_Personal_Guidance|Personal Guidance]] — Self-understanding anchors relationships
-- [[05_Life_Skills_and_Well-being|Life Skills and Well-being]] — Refusal skills, safety
-- [[../02 Student Activities/04_Student_Organizations|Student Organizations]] — Democracy in practice
-- [[../../body-of-knowledge/Social Studies/Social Studies - Overview|Social Studies (BOK)]] — Citizenship and society
+- [[03_Personal_Guidance|Personal Guidance]]: Self-understanding anchors relationships
+- [[05_Life_Skills_and_Well-being|Life Skills and Well-being]]: Refusal skills, safety
+- [[../02 Student Activities/04_Student_Organizations|Student Organizations]]: Democracy in practice
+- [[../../body-of-knowledge/Social Studies/Social Studies - Overview|Social Studies (BOK)]]: Citizenship and society

@@ -2,10 +2,10 @@
 tags: [student-development, guidance, educational-guidance, study-skills, primary, lower-secondary, upper-secondary, obec]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017); OBEC Guidance Development Group (guidestudent.obec.go.th)"
 created: 2026-08-05
-component: "กิจกรรมแนะแนว — การแนะแนวการศึกษา"
+component: "กิจกรรมแนะแนว: การแนะแนวการศึกษา"
 ---
 
-# Educational Guidance — การแนะแนวการศึกษา
+# Educational Guidance: การแนะแนวการศึกษา
 
 > *"Educational guidance helps students learn how to learn, set goals, and choose the pathway that fits who they are."*
 
@@ -31,6 +31,7 @@ In the Thai system, educational guidance becomes most visible at three decision 
 Educational guidance teaches students that learning is a manageable process, not something that "just happens":
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     GOAL["Set a goal
 ตั้งเป้าหมาย"] --> PLAN["Make a plan
@@ -77,7 +78,7 @@ flowchart LR
 | Language-Arts | ศิลป์-ภาษา | Love languages, communication, humanities; aim for law, communication arts, translation |
 | Vocational | อาชีวศึกษา | Prefer hands-on learning; aim for skilled trades, technical careers, immediate employability |
 
-**Guidance principle:** The choice should rest on three legs — ความสนใจ (interest), ความถนัด (aptitude), and โอกาสในอนาคต (future opportunity). One leg alone (e.g., "my friends are going วิทย์-คณิต") is a weak foundation.
+**Guidance principle:** The choice should rest on three legs, ความสนใจ (interest), ความถนัด (aptitude), and โอกาสในอนาคต (future opportunity). One leg alone (e.g., "my friends are going วิทย์-คณิต") is a weak foundation.
 
 ### Transition 3: ม.6 → University / Work
 
@@ -122,7 +123,7 @@ flowchart LR
 | Step | Action |
 |---|---|
 | 1. Self-assessment | Interest inventory + honest grades review: strong in biology, weak in physics |
-| 2. Information | Explore programs: nursing, public health, pharmacy — which streams do they accept? |
+| 2. Information | Explore programs: nursing, public health, pharmacy, which streams do they accept? |
 | 3. Reality check | วิทย์-คณิต requires physics through ม.6; is the struggle a motivation problem or an aptitude gap? |
 | 4. Conversation | Guidance teacher facilitates a family discussion weighing interest + aptitude + opportunity |
 | 5. Decision with backup | Choose a stream AND identify tutoring/strategy support for weaker subjects |
@@ -150,17 +151,17 @@ flowchart LR
 
 ## 8 | Real-World Examples
 
-- **TCAS / Admissions system** — Thailand's university admission rounds; guidance teachers run information sessions for ม.6 students and parents
-- **แบบวัดแววอาชีพ** — OBEC's online interest inventory at guidestudent.obec.go.th, used as a reflection starting point in ม.1–3
-- **After-school tutoring decisions** — Guidance helps families decide whether tutoring addresses a real gap or just anxiety
-- **Scholarship applications** — กองทุนการศึกษาเพื่อความเสมอภาค, university scholarships, organization grants
+- **TCAS / Admissions system:** Thailand's university admission rounds; guidance teachers run information sessions for ม.6 students and parents
+- **แบบวัดแววอาชีพ:** OBEC's online interest inventory at guidestudent.obec.go.th, used as a reflection starting point in ม.1–3
+- **After-school tutoring decisions:** Guidance helps families decide whether tutoring addresses a real gap or just anxiety
+- **Scholarship applications:** กองทุนการศึกษาเพื่อความเสมอภาค, university scholarships, organization grants
 
 ---
 
 ## 9 | Cross-Links
 
 - [[00_overview|Guidance Overview (BOK)]]
-- [[02_Career_Guidance|Career Guidance]] — Educational pathways lead to careers
-- [[03_Personal_Guidance|Personal Guidance]] — Motivation and confidence support learning
-- [[../02 Student Activities/03_Clubs|Clubs]] — Academic clubs reinforce learning
-- [[../../body-of-knowledge/Career and Technology/Career and Technology - Overview|Career and Technology (BOK)]] — Vocational pathways
+- [[02_Career_Guidance|Career Guidance]]: Educational pathways lead to careers
+- [[03_Personal_Guidance|Personal Guidance]]: Motivation and confidence support learning
+- [[../02 Student Activities/03_Clubs|Clubs]]: Academic clubs reinforce learning
+- [[../../body-of-knowledge/Career and Technology/Career and Technology - Overview|Career and Technology (BOK)]]: Vocational pathways

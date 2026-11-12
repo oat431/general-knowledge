@@ -2,14 +2,14 @@
 tags: [student-development, guidance, personal-guidance, emotions, self-esteem, resilience, primary, lower-secondary, upper-secondary, obec]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017); OBEC Guidance Development Group"
 created: 2026-08-05
-component: "กิจกรรมแนะแนว — การแนะแนวส่วนตัว"
+component: "กิจกรรมแนะแนว: การแนะแนวส่วนตัว"
 ---
 
-# Personal Guidance — การแนะแนวส่วนตัว
+# Personal Guidance: การแนะแนวส่วนตัว
 
 > *"Personal guidance helps students understand their emotions, build self-esteem, and make responsible decisions for their own lives."*
 
-Personal guidance supports the emotional and psychological development of the learner. Where educational guidance works on the *learning* and career guidance works on the *future*, personal guidance works on the *self*: feelings, confidence, identity, stress, and decision-making. In Thai secondary schools — where academic pressure, family expectations, and social comparison all peak during adolescence — this domain is the quiet backbone of student well-being.
+Personal guidance supports the emotional and psychological development of the learner. Where educational guidance works on the *learning* and career guidance works on the *future*, personal guidance works on the *self*: feelings, confidence, identity, stress, and decision-making. In Thai secondary schools, where academic pressure, family expectations, and social comparison all peak during adolescence, this domain is the quiet backbone of student well-being.
 
 ---
 
@@ -27,6 +27,7 @@ Personal guidance supports the emotional and psychological development of the le
 ## 2 | The Emotional Development Path
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     NAME["Name the feeling
 เรียกชื่ออารมณ์
@@ -89,7 +90,7 @@ A moderate amount of stress *improves* performance; too little brings boredom, t
 | Mental | Breaking tasks into steps, reframing ("this is hard" not "I am stupid"), journaling |
 | Social | Talking to friends, family, guidance teacher; asking for help |
 | Meaning | Remembering goals, connecting effort to purpose, sufficiency mindset (พอเพียง) |
-| **Unhealthy (to recognize)** | Avoidance, doom-scrolling, self-harm, substances, isolation — signals to seek adult help |
+| **Unhealthy (to recognize)** | Avoidance, doom-scrolling, self-harm, substances, isolation: signals to seek adult help |
 
 ---
 
@@ -134,9 +135,9 @@ Before a big decision, ask three questions: **Is it true to who I am? Is it fair
 
 | Step | Action | Principle |
 |---|---|---|
-| 1. Open the door | Guidance teacher invites her for a casual chat — no forms, no labels | Rapport before assessment |
+| 1. Open the door | Guidance teacher invites her for a casual chat: no forms, no labels | Rapport before assessment |
 | 2. Listen first | Let her tell her story without immediate advice | Being heard is itself therapeutic |
-| 3. Assess scope | Sleep, appetite, self-harm thoughts, duration — is this within school support or needing referral? | Know the boundary: schools counsel, clinics treat |
+| 3. Assess scope | Sleep, appetite, self-harm thoughts, duration: is this within school support or needing referral? | Know the boundary: schools counsel, clinics treat |
 | 4. Normalize | "Many students carry family pain. It is not your fault, and you are not alone." | Reducing shame |
 | 5. Small wins | One achievable goal this week (attend club once, talk to one friend) | Rebuilding agency gradually |
 | 6. Loop in support | With consent, coordinate homeroom teacher and, where appropriate, parents; refer to mental-health services if red flags appear | The student is never handled alone |
@@ -164,17 +165,17 @@ Before a big decision, ask three questions: **Is it true to who I am? Is it fair
 
 ## 9 | Real-World Examples
 
-- **Entrance-exam stress (ม.6)** — Schools run stress-management sessions before A-Level/O-NET rounds
-- **Bullying and self-worth** — Guidance teachers mediate, support the victim, and address the aggressor's behavior in parallel
-- **Divorce/loss at home** — Long-term quiet support, coordination with families, watch for academic signals
-- **Social media comparison** — Workshops distinguishing curated feeds from real life; digital self-image
-- **OBEC mental-health direction** — สพฐ. has been upgrading teacher capacity in mental-health first aid and coaching
+- **Entrance-exam stress (ม.6):** Schools run stress-management sessions before A-Level/O-NET rounds
+- **Bullying and self-worth:** Guidance teachers mediate, support the victim, and address the aggressor's behavior in parallel
+- **Divorce/loss at home:** Long-term quiet support, coordination with families, watch for academic signals
+- **Social media comparison:** Workshops distinguishing curated feeds from real life; digital self-image
+- **OBEC mental-health direction:** สพฐ. has been upgrading teacher capacity in mental-health first aid and coaching
 
 ---
 
 ## 10 | Cross-Links
 
 - [[00_overview|Guidance Overview (BOK)]]
-- [[04_Social_Guidance|Social Guidance]] — Personal and social development are intertwined
-- [[05_Life_Skills_and_Well-being|Life Skills and Well-being]] — Coping, safety, mental health
-- [[../../body-of-knowledge/Health and PE/Health and PE - Overview|Health & PE (BOK)]] — Mental health strand
+- [[04_Social_Guidance|Social Guidance]]: Personal and social development are intertwined
+- [[05_Life_Skills_and_Well-being|Life Skills and Well-being]]: Coping, safety, mental health
+- [[../../body-of-knowledge/Health and PE/Health and PE - Overview|Health & PE (BOK)]]: Mental health strand

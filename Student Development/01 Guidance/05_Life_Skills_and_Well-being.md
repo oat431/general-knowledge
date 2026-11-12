@@ -2,12 +2,12 @@
 tags: [student-development, guidance, life-skills, well-being, mental-health, safety, primary, lower-secondary, upper-secondary, obec]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017); OBEC Guidance Development Group (guidestudent.obec.go.th)"
 created: 2026-08-05
-component: "กิจกรรมแนะแนว — ทักษะชีวิตและสุขภาวะ"
+component: "กิจกรรมแนะแนว: ทักษะชีวิตและสุขภาวะ"
 ---
 
-# Life Skills and Well-being — ทักษะชีวิตและสุขภาวะ
+# Life Skills and Well-being: ทักษะชีวิตและสุขภาวะ
 
-> *"Well-being is not the absence of problems — it is the capacity to cope, grow, and thrive."*
+> *"Well-being is not the absence of problems; it is the capacity to cope, grow, and thrive."*
 
 Life skills and well-being is the domain of guidance that equips students for the pressures of daily life: coping with stress, protecting their safety, maintaining health habits, and knowing when and how to seek help. The OBEC guidance vision names it explicitly: students should have สุขภาวะที่ดี (good well-being), ทักษะชีวิต (life skills), and the key competencies of the 21st century, in harmony with the Sufficiency Economy Philosophy.
 
@@ -30,7 +30,7 @@ The official guidance vision of the OBEC Guidance Development Group:
 
 > การแนะแนวมุ่งให้นักเรียนมีสมรรถนะด้านการศึกษาอาชีพ ส่วนตัวและสังคม **มีสุขภาวะที่ดี มีทักษะชีวิตและทักษะที่สำคัญจำเป็นในศตวรรษที่ 21** สอดคล้องกับหลักปรัชญาของเศรษฐกิจพอเพียง
 
-Well-being here is not a luxury add-on — it is the condition that makes education, career, personal, and social development possible.
+Well-being here is not a luxury add-on; it is the condition that makes education, career, personal, and social development possible.
 
 Source: [OBEC Guidance Development Group](http://www.guidestudent.obec.go.th/)
 
@@ -46,7 +46,7 @@ Source: [OBEC Guidance Development Group](http://www.guidestudent.obec.go.th/)
 | Digital | ดิจิทัล | Healthy relationship with screens and feeds | Did scrolling help or harm me today? |
 | Purpose | เป้าหมาย | Meaning, goals, contribution | Do I know why today mattered? |
 
-**The well-being check:** A simple self-scan students can run weekly — five dimensions, one honest question each.
+**The well-being check:** A simple self-scan students can run weekly, five dimensions, one honest question each.
 
 ---
 
@@ -67,7 +67,7 @@ A portable calm-down tool taught from ป.4 upward: inhale 4 counts, hold 7, exh
 
 ### 4.2 Refusal Skills (ทักษะการปฏิเสธ)
 
-The 4-step refusal (also in Social Guidance): say no clearly → give a reason → offer an alternative → leave and tell an adult if pressured. Rehearsed aloud, not just understood — role-play is the point.
+The 4-step refusal (also in Social Guidance): say no clearly → give a reason → offer an alternative → leave and tell an adult if pressured. Rehearsed aloud, not just understood, role-play is the point.
 
 ### 4.3 Help-Seeking (การขอความช่วยเหลือ)
 
@@ -111,25 +111,25 @@ The 4-step refusal (also in Social Guidance): say no clearly → give a reason �
 | Mental health is health | The mind can be unwell like the body; both deserve care |
 | Common struggles | Stress, anxiety, low mood are common and talkable, not shameful |
 | Red flags in self or friends | Persistent sadness/withdrawal ~2 weeks, self-harm talk, giving away belongings, sudden calm after despair → tell an adult **now** |
-| Language | "I've noticed you seem really down lately — are you okay?" opens doors; "cheer up" closes them |
+| Language | "I've noticed you seem really down lately: are you okay?" opens doors; "cheer up" closes them |
 | Where to go | Guidance teacher, homeroom teacher, parents, school nurse, child helpline |
 
 ---
 
 ## 7 | A Worked Scenario
 
-> **Situation:** Ploy, ม.5, studies until 2 a.m. every night, drinks three coffees a day, and has started skipping lunch "to save time." Her mock-exam scores are falling. She says, "I don't have time to rest — the exam is in four months."
+> **Situation:** Ploy, ม.5, studies until 2 a.m. every night, drinks three coffees a day, and has started skipping lunch "to save time." Her mock-exam scores are falling. She says, "I don't have time to rest, the exam is in four months."
 
 **Guidance approach:**
 
 | Step | Action |
 |---|---|
-| 1. Reframe the goal | She wants higher scores; the plan is *producing* lower ones — rest is a study strategy, not its enemy |
+| 1. Reframe the goal | She wants higher scores; the plan is *producing* lower ones: rest is a study strategy, not its enemy |
 | 2. Audit the day | Map her 24 hours; reveal the true thieves (late-night scrolling, task-switching, no breaks) |
 | 3. Rebuild the routine | Fixed sleep window, study blocks with breaks, meals protected as appointments |
 | 4. Add recovery, not just remove strain | One enjoyable non-academic activity per week (music, sport, friends) as scheduled as study |
-| 5. Track and review | Weekly check-in: energy, mood, scores — let the data persuade her |
-| 6. Watch for the deeper layer | If exhaustion persists despite better habits, screen for anxiety/depression — this may be more than time management |
+| 5. Track and review | Weekly check-in: energy, mood, scores, let the data persuade her |
+| 6. Watch for the deeper layer | If exhaustion persists despite better habits, screen for anxiety/depression; this may be more than time management |
 
 ---
 
@@ -167,18 +167,18 @@ The 4-step refusal (also in Social Guidance): say no clearly → give a reason �
 
 ## 10 | Real-World Examples
 
-- **OBEC YC (Youth Counselor) program** — Trained student peers as a first line of support, with adult supervision and clear referral boundaries
-- **Pre-exam calm sessions** — Guided breathing before O-NET/A-Level days in many schools
-- **Vape prevention** — Current ม.1–3 focus as vaping rises among Thai teens; refusal + facts
-- **Sleep hygiene campaigns** — Homeroom lessons on phones and bedtime, tracking energy for a week
-- **Mental-health first aid for teachers** — สพฐ. direction toward training teachers to recognize and refer (ปฐมพยาบาลทางใจ)
+- **OBEC YC (Youth Counselor) program:** Trained student peers as a first line of support, with adult supervision and clear referral boundaries
+- **Pre-exam calm sessions:** Guided breathing before O-NET/A-Level days in many schools
+- **Vape prevention:** Current ม.1–3 focus as vaping rises among Thai teens; refusal + facts
+- **Sleep hygiene campaigns:** Homeroom lessons on phones and bedtime, tracking energy for a week
+- **Mental-health first aid for teachers:** สพฐ. direction toward training teachers to recognize and refer (ปฐมพยาบาลทางใจ)
 
 ---
 
 ## 11 | Cross-Links
 
 - [[00_overview|Guidance Overview (BOK)]]
-- [[03_Personal_Guidance|Personal Guidance]] — Self-understanding and emotional foundation
-- [[04_Social_Guidance|Social Guidance]] — Refusal and communication in social settings
-- [[../02 Student Activities/02_Red_Cross_Youth|Red Cross Youth]] — Health and life-protection skills
-- [[../../body-of-knowledge/Health and PE/Health and PE - Overview|Health & PE (BOK)]] — Health education strand
+- [[03_Personal_Guidance|Personal Guidance]]: Self-understanding and emotional foundation
+- [[04_Social_Guidance|Social Guidance]]: Refusal and communication in social settings
+- [[../02 Student Activities/02_Red_Cross_Youth|Red Cross Youth]]: Health and life-protection skills
+- [[../../body-of-knowledge/Health and PE/Health and PE - Overview|Health & PE (BOK)]]: Health education strand

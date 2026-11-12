@@ -2,14 +2,14 @@
 tags: [student-development, guidance, career-guidance, career-awareness, career-exploration, primary, lower-secondary, upper-secondary, obec]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008), revised 2560 (2017); OBEC Guidance Development Group (guidestudent.obec.go.th)"
 created: 2026-08-05
-component: "กิจกรรมแนะแนว — การแนะแนวอาชีพ"
+component: "กิจกรรมแนะแนว: การแนะแนวอาชีพ"
 ---
 
-# Career Guidance — การแนะแนวอาชีพ
+# Career Guidance: การแนะแนวอาชีพ
 
-> *"Career guidance is not about choosing a job early — it is a 12-year process of discovering who you are and what you can contribute."*
+> *"Career guidance is not about choosing a job early; it is a 12-year process of discovering who you are and what you can contribute."*
 
-Career guidance develops students' understanding of the world of work and their own place in it. The OBEC framework structures this as three developmental stages — **Career Awareness** (ป.1–6), **Career Exploration** (ม.1–3), and **Career Preparation & Assimilation** (ม.4–6) — each deeper than the last. The aim is a student who can make informed, self-directed career decisions, not one who follows a test result.
+Career guidance develops students' understanding of the world of work and their own place in it. The OBEC framework structures this as three developmental stages: **Career Awareness** (ป.1–6), **Career Exploration** (ม.1–3), and **Career Preparation & Assimilation** (ม.4–6), each deeper than the last. The aim is a student who can make informed, self-directed career decisions, not one who follows a test result.
 
 ---
 
@@ -27,6 +27,7 @@ Career guidance develops students' understanding of the world of work and their 
 ## 2 | The OBEC Three-Stage Model
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["Career Awareness
 การตระหนักรู้ด้านอาชีพ
@@ -107,8 +108,8 @@ Guidance introduces students to major career clusters and their typical pathways
 | Step | Action |
 |---|---|
 | 1. Reassess | Separate interest (visual design, storytelling) from the assumed path (programming) |
-| 2. Explore adjacent careers | Game artist, UX/UI designer, digital media — what do they actually require? |
-| 3. Check the mechanics | Can he enter digital media programs from วิทย์-คณิต? (Often yes — portfolio-based admission exists) |
+| 2. Explore adjacent careers | Game artist, UX/UI designer, digital media: what do they actually require? |
+| 3. Check the mechanics | Can he enter digital media programs from วิทย์-คณิต? (Often yes, portfolio-based admission exists) |
 | 4. Build evidence | Start a portfolio now: drawing practice, small design projects, online courses |
 | 5. Reframe, don't panic | Physics remains a graduation requirement but no longer defines his identity |
 
@@ -138,17 +139,17 @@ Guidance introduces students to major career clusters and their typical pathways
 
 ## 8 | Real-World Examples
 
-- **แบบวัดแววอาชีพ (OBEC)** — Online interest inventory at guidestudent.obec.go.th used across ม.1–3
-- **SUMMER CAMP อาชีพ** — OBEC work-experience program: "ค้นหาตัวตนที่ใช่" during school break
-- **University open houses** — ม.5–6 students attend program exhibitions and talk to lecturers
-- **Family conversations** — Parents sharing their own career journeys is Awareness-stage guidance at home
+- **แบบวัดแววอาชีพ (OBEC):** Online interest inventory at guidestudent.obec.go.th used across ม.1–3
+- **SUMMER CAMP อาชีพ:** OBEC work-experience program: "ค้นหาตัวตนที่ใช่" during school break
+- **University open houses:** ม.5–6 students attend program exhibitions and talk to lecturers
+- **Family conversations:** Parents sharing their own career journeys is Awareness-stage guidance at home
 
 ---
 
 ## 9 | Cross-Links
 
 - [[00_overview|Guidance Overview (BOK)]]
-- [[01_Educational_Guidance|Educational Guidance]] — Pathways connect education to career
-- [[../02 Student Activities/05_Leadership_Activities|Leadership Activities]] — Workplace-ready soft skills
-- [[../../body-of-knowledge/Career and Technology/Career and Technology - Overview|Career and Technology (BOK)]] — Entrepreneurship and practical careers
-- [[../../body-of-knowledge/Social Studies/Social Studies - Overview|Social Studies (BOK)]] — Economics of work and sufficiency economy
+- [[01_Educational_Guidance|Educational Guidance]]: Pathways connect education to career
+- [[../02 Student Activities/05_Leadership_Activities|Leadership Activities]]: Workplace-ready soft skills
+- [[../../body-of-knowledge/Career and Technology/Career and Technology - Overview|Career and Technology (BOK)]]: Entrepreneurship and practical careers
+- [[../../body-of-knowledge/Social Studies/Social Studies - Overview|Social Studies (BOK)]]: Economics of work and sufficiency economy
