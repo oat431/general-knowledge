@@ -2,14 +2,14 @@
 tags: [student-development, social-public-benefit, environmental-service, conservation, sustainability, primary, lower-secondary, upper-secondary, obec]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008)"
 created: 2026-08-05
-component: "กิจกรรมเพื่อสังคมและสาธารณประโยชน์ — การอนุรักษ์สิ่งแวดล้อม"
+component: "กิจกรรมเพื่อสังคมและสาธารณประโยชน์: การอนุรักษ์สิ่งแวดล้อม"
 ---
 
-# Environmental Service — การอนุรักษ์สิ่งแวดล้อม
+# Environmental Service: การอนุรักษ์สิ่งแวดล้อม
 
-> *"Environmental service teaches students that caring for nature is caring for their own future — one waste bin, one tree, one canal at a time."*
+> *"Environmental service teaches students that caring for nature is caring for their own future: one waste bin, one tree, one canal at a time."*
 
-Environmental service applies the service-learning method to the environment: waste, water, forests, energy, and biodiversity. It turns the science classroom's knowledge of ecosystems into habits and projects with measurable effects on the school and community. Thailand's environmental realities — seasonal haze, plastic-choked canals, coastal debris — make this the most visibly *needed* form of student service.
+Environmental service applies the service-learning method to the environment: waste, water, forests, energy, and biodiversity. It turns the science classroom's knowledge of ecosystems into habits and projects with measurable effects on the school and community. Thailand's environmental realities, seasonal haze, plastic-choked canals, coastal debris, make this the most visibly *needed* form of student service.
 
 ---
 
@@ -27,6 +27,7 @@ Environmental service applies the service-learning method to the environment: wa
 ## 2 | The 3Rs Hierarchy
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     R1["1. Reduce ลด
 Use less in the first place"] --> R2["2. Reuse ใช้ซ้ำ
@@ -37,15 +38,15 @@ Reprocess into new material"]
 กำจัดอย่างถูกวิธี"]
 ```
 
-Reduce beats reuse; reuse beats recycle — because recycling still costs energy. Students learn the order, not just the words.
+Reduce beats reuse; reuse beats recycle, because recycling still costs energy. Students learn the order, not just the words.
 
 ### Thai Waste Sorting in Practice
 
 | Stream | Thai | Examples | Destination |
 |---|---|---|---|
-| Recyclables | ขยะรีไซเคิล | Plastic bottles, paper, cans, glass | Sold to ร้านรับซื้อของเก่า — often funds class activities |
+| Recyclables | ขยะรีไซเคิล | Plastic bottles, paper, cans, glass | Sold to ร้านรับซื้อของเก่า: often funds class activities |
 | Organic | ขยะย่อยสลาย/ขยะเปียก | Food scraps, leaves | Compost for the school garden |
-| General | ขยะทั่วไป | Foil packets, foam | Landfill — minimize this bin |
+| General | ขยะทั่วไป | Foil packets, foam | Landfill: minimize this bin |
 | Hazardous | ขยะอันตราย | Batteries, lamps, e-waste | Special collection points |
 
 ---
@@ -65,7 +66,7 @@ Reduce beats reuse; reuse beats recycle — because recycling still costs energy
 
 ## 4 | From Habit to Project: The Waste Audit
 
-A signature ม.1–3 project — one week, whole class:
+A signature ม.1–3 project, one week, whole class:
 
 | Step | Action | Learning |
 |---|---|---|
@@ -95,7 +96,7 @@ A signature ม.1–3 project — one week, whole class:
 
 ## 6 | A Worked Scenario
 
-> **Situation:** After every lunch break, the school's storm drain near the canteen is full of plastic bags and bottles. The ม.2 class council rep is embarrassed — the bags are from the school's own shop.
+> **Situation:** After every lunch break, the school's storm drain near the canteen is full of plastic bags and bottles. The ม.2 class council rep is embarrassed, the bags are from the school's own shop.
 
 **A systems response:**
 
@@ -106,7 +107,7 @@ A signature ม.1–3 project — one week, whole class:
 | 3. Design alternatives | "Bring your own bag" day + shop sells reusable bags at cost + price incentive (0.5 ฿ off for BYO) |
 | 4. Run a pilot | Two weeks, one shop; measure drain waste daily |
 | 5. Report and expand | Results to school administration; extend to all shops; install drain mesh as backup |
-| 6. Sustain | Hand the monitoring to next year's ม.2 — with the data |
+| 6. Sustain | Hand the monitoring to next year's ม.2: with the data |
 
 **The lesson:** the drain was never the problem; the system around the snack shop was.
 
@@ -137,18 +138,18 @@ A signature ม.1–3 project — one week, whole class:
 
 ## 8 | Real-World Examples
 
-- **วันต้นไม้แห่งชาติ (National Arbor Day)** — Annual school tree-planting; strong programs map and *care* for trees after planting, not just photograph them
-- **Coastal cleanup schools** — Southern schools joining beach and mangrove cleanups with waste data reported to international databases
-- **Refill water stations** — Schools installing refill points and discouraging single-use bottles — an infrastructure change students can propose
-- **Compost from canteen scraps** — Food waste → school garden → vegetables back to the canteen: a visible circular loop
-- **PM2.5 campaigns** — Northern schools' anti-burning education and mask drives during haze season
+- **วันต้นไม้แห่งชาติ (National Arbor Day):** Annual school tree-planting; strong programs map and *care* for trees after planting, not just photograph them
+- **Coastal cleanup schools:** Southern schools joining beach and mangrove cleanups with waste data reported to international databases
+- **Refill water stations:** Schools installing refill points and discouraging single-use bottles: an infrastructure change students can propose
+- **Compost from canteen scraps:** Food waste → school garden → vegetables back to the canteen: a visible circular loop
+- **PM2.5 campaigns:** Northern schools' anti-burning education and mask drives during haze season
 
 ---
 
 ## 9 | Cross-Links
 
 - [[00_overview|Social and Public Benefit Overview (BOK)]]
-- [[02_Community_Service|Community Service]] — Environmental service is community service
-- [[04_Public_Interest_Projects|Public-Interest Projects]] — Project design applied to environment
-- [[../../body-of-knowledge/Science/00_Fundamental Science - Overview|Science (BOK)]] — Ecosystems, matter cycles
-- [[../../body-of-knowledge/Social Studies/Social Studies - Overview|Social Studies (BOK)]] — Geography, climate change
+- [[02_Community_Service|Community Service]]: Environmental service is community service
+- [[04_Public_Interest_Projects|Public-Interest Projects]]: Project design applied to environment
+- [[../../body-of-knowledge/Science/00_Fundamental Science - Overview|Science (BOK)]]: Ecosystems, matter cycles
+- [[../../body-of-knowledge/Social Studies/Social Studies - Overview|Social Studies (BOK)]]: Geography, climate change

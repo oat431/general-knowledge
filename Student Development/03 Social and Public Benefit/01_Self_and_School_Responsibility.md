@@ -2,14 +2,14 @@
 tags: [student-development, social-public-benefit, responsibility, school-care, routines, primary, lower-secondary, upper-secondary, obec]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008)"
 created: 2026-08-05
-component: "กิจกรรมเพื่อสังคมและสาธารณประโยชน์ — ความรับผิดชอบต่อตนเองและโรงเรียน"
+component: "กิจกรรมเพื่อสังคมและสาธารณประโยชน์: ความรับผิดชอบต่อตนเองและโรงเรียน"
 ---
 
-# Self and School Responsibility — ความรับผิดชอบต่อตนเองและโรงเรียน
+# Self and School Responsibility: ความรับผิดชอบต่อตนเองและโรงเรียน
 
 > *"Responsibility begins small: your desk, your duty roster, your promise."*
 
-Self and School Responsibility is the foundation level of กิจกรรมเพื่อสังคมและสาธารณประโยชน์. Before students can serve a community, they learn to care for themselves, their belongings, and their shared spaces — and, crucially, to keep small commitments reliably. The daily cleaning of Thai classrooms is not janitorial outsourcing; it is the country's most universal civic education ritual.
+Self and School Responsibility is the foundation level of กิจกรรมเพื่อสังคมและสาธารณประโยชน์. Before students can serve a community, they learn to care for themselves, their belongings, and their shared spaces, and, crucially, to keep small commitments reliably. The daily cleaning of Thai classrooms is not janitorial outsourcing; it is the country's most universal civic education ritual.
 
 ---
 
@@ -27,6 +27,7 @@ Self and School Responsibility is the foundation level of กิจกรรม�
 ## 2 | The Responsibility Ladder
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     S["Self
 ดูแลตนเอง"] --> B["Belongings
@@ -39,7 +40,7 @@ flowchart LR
 ชุมชน"]
 ```
 
-Each rung uses the same three muscles — **notice** (เห็นสิ่งที่ต้องทำ), **act** (ลงมือทำโดยไม่ต้องเตือน), **follow through** (ทำจนจบ) — applied to a widening circle.
+Each rung uses the same three muscles: **notice** (เห็นสิ่งที่ต้องทำ), **act** (ลงมือทำโดยไม่ต้องเตือน), **follow through** (ทำจนจบ), applied to a widening circle.
 
 ---
 
@@ -50,10 +51,10 @@ Each rung uses the same three muscles — **notice** (เห็นสิ่ง�
 | Duty roster | ตารางเวร | Rotating assignment: sweeping, desks, board, trash, corridor |
 | Duty leader | หัวหน้าเวร | Checks quality, reports completion |
 | Daily clean | ทำความสะอาดประจำวัน | After lunch / before dismissal |
-| Big clean | ทำความสะอาดใหญ่ | Before events, term end — whole class |
+| Big clean | ทำความสะอาดใหญ่ | Before events, term end: whole class |
 | Inspection | ตรวจความสะอาด | Teacher or student council checks |
 
-**What it really teaches:** shared spaces belong to everyone when everyone cares for them — the direct experience behind the phrase พื้นที่ส่วนรวม.
+**What it really teaches:** shared spaces belong to everyone when everyone cares for them, the direct experience behind the phrase พื้นที่ส่วนรวม.
 
 ---
 
@@ -95,9 +96,9 @@ Each rung uses the same three muscles — **notice** (เห็นสิ่ง�
 | 1. Make the data visible | A week of photos: the same corner dirty every day |
 | 2. Diagnose together | Class meeting: is the roster fair? Are tools available? Is 5 minutes enough? |
 | 3. Fix the system, not the people | Rebalance the roster; buy 2 extra brooms; move the bin that everyone misses |
-| 4. Set the class standard | "เวรจบ = เช็คกับหัวหน้าเวร" — done means checked |
-| 5. Peer recognition | Weekly thanks to the best duty pair — status follows service |
-| 6. Remove the teacher from enforcement | After a month, the roster runs on class norms, not teacher nagging — that is success |
+| 4. Set the class standard | "เวรจบ = เช็คกับหัวหน้าเวร": done means checked |
+| 5. Peer recognition | Weekly thanks to the best duty pair: status follows service |
+| 6. Remove the teacher from enforcement | After a month, the roster runs on class norms, not teacher nagging; that is success |
 
 ---
 
@@ -123,17 +124,17 @@ Each rung uses the same three muscles — **notice** (เห็นสิ่ง�
 
 ## 8 | Real-World Examples
 
-- **Daily เวร rotation** — The universal Thai school system: every student, every week, some duty
-- **ห้องเรียนสะอาด ปลอดภัย (green room) evaluations** — Many schools run cleanliness scoring between classrooms
-- **School garden plots** — Class-owned vegetable/herb beds; harvest goes to the canteen or cooking class
-- **Saving electricity campaigns** — Class monitors for lights and fans; monthly comparison charts
-- **Property hand-over ritual** — End-of-year checking of desks and chairs instills equipment accountability
+- **Daily เวร rotation:** The universal Thai school system: every student, every week, some duty
+- **ห้องเรียนสะอาด ปลอดภัย (green room) evaluations:** Many schools run cleanliness scoring between classrooms
+- **School garden plots:** Class-owned vegetable/herb beds; harvest goes to the canteen or cooking class
+- **Saving electricity campaigns:** Class monitors for lights and fans; monthly comparison charts
+- **Property hand-over ritual:** End-of-year checking of desks and chairs instills equipment accountability
 
 ---
 
 ## 9 | Cross-Links
 
 - [[00_overview|Social and Public Benefit Overview (BOK)]]
-- [[02_Community_Service|Community Service]] — The ladder extends outward
-- [[03_Environmental_Service|Environmental Service]] — Waste and conservation habits at scale
-- [[../02 Student Activities/04_Student_Organizations|Student Organizations]] — Council inspections and welfare
+- [[02_Community_Service|Community Service]]: The ladder extends outward
+- [[03_Environmental_Service|Environmental Service]]: Waste and conservation habits at scale
+- [[../02 Student Activities/04_Student_Organizations|Student Organizations]]: Council inspections and welfare

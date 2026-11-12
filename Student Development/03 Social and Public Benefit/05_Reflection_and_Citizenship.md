@@ -2,14 +2,14 @@
 tags: [student-development, social-public-benefit, reflection, citizenship, civic-identity, primary, lower-secondary, upper-secondary, obec]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008)"
 created: 2026-08-05
-component: "กิจกรรมเพื่อสังคมและสาธารณประโยชน์ — การสะท้อนการเรียนรู้และความเป็นพลเมือง"
+component: "กิจกรรมเพื่อสังคมและสาธารณประโยชน์: การสะท้อนการเรียนรู้และความเป็นพลเมือง"
 ---
 
-# Reflection and Citizenship — การสะท้อนการเรียนรู้และความเป็นพลเมือง
+# Reflection and Citizenship: การสะท้อนการเรียนรู้และความเป็นพลเมือง
 
 > *"Service without reflection is just work. Reflection turns action into learning, and learning into the kind of person who acts again."*
 
-Reflection and Citizenship is the meaning-making half of กิจกรรมเพื่อสังคมและสาธารณประโยชน์. Every cleanup, camp, and project ends not when the brooms are racked but when students have asked: *What happened? What did it mean? What kind of citizen am I becoming because of it?* This is where service becomes civic identity — the quiet goal of all twelve years.
+Reflection and Citizenship is the meaning-making half of กิจกรรมเพื่อสังคมและสาธารณประโยชน์. Every cleanup, camp, and project ends not when the brooms are racked but when students have asked: *What happened? What did it mean? What kind of citizen am I becoming because of it?* This is where service becomes civic identity, the quiet goal of all twelve years.
 
 ---
 
@@ -28,7 +28,7 @@ Reflection and Citizenship is the meaning-making half of กิจกรรม�
 
 | Without reflection | With reflection |
 |---|---|
-| "We cleaned the canal." | "We cleaned the canal. We found the waste comes from the market upstream — cleaning alone won't fix it." |
+| "We cleaned the canal." | "We cleaned the canal. We found the waste comes from the market upstream: cleaning alone won't fix it." |
 | Students feel briefly good | Students understand the system that produced the need |
 | Photos in a report | A changed question for next time |
 | Service as event | Service as civic identity |
@@ -52,6 +52,7 @@ The experience is the raw material; reflection is the processing. Unprocessed ex
 ### The Debrief Triangle (วงถอดบทเรียน)
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["WHAT?\nเกิดอะไรขึ้น\nFacts and moments"] --> B["SO WHAT?\nแปลว่าอะไร\nMeaning and learning"]
     B --> C["NOW WHAT?\nแล้วต่อไปอย่างไร\nAction and identity"]
@@ -59,7 +60,7 @@ flowchart LR
 
 | Phase | Sample prompts |
 |---|---|
-| WHAT? | What actually happened — not the plan, the reality? What moment do you keep replaying? |
+| WHAT? | What actually happened, not the plan, the reality? What moment do you keep replaying? |
 | SO WHAT? | What did that reveal about the community? About you? About how the world works? |
 | NOW WHAT? | What will you do differently next time? What should the school change? What kind of citizen do you want to be? |
 
@@ -88,10 +89,10 @@ flowchart LR
 | 1. Bystander | "Not my business." | Someone else will pick it up |
 | 2. Participant | "I join when asked." | I did my เวร |
 | 3. Responsible member | "I act without being asked." | I separated the waste because it's right |
-| 4. Contributor | "I initiate." | Our class should run a book drive — I'll propose it |
+| 4. Contributor | "I initiate." | Our class should run a book drive: I'll propose it |
 | 5. Civic leader | "I organize others and hand over." | We built it, and here's the handbook for next year |
 
-Each service + reflection cycle nudges students one rung up — slowly, over twelve years.
+Each service + reflection cycle nudges students one rung up: slowly, over twelve years.
 
 ### Connecting Service to the Wider Picture (ม.4–6)
 
@@ -112,9 +113,9 @@ Each service + reflection cycle nudges students one rung up — slowly, over twe
 | Project record | Goal, plan, role, photos, evaluation |
 | Reflection entries | 2–3 best reflections across the year |
 | Third-party voice | Advisor or community partner's short feedback |
-| Growth statement | One page: "How I changed this year" — written by the student, honestly |
+| Growth statement | One page: "How I changed this year", written by the student, honestly |
 
-For ม.4–6 this portfolio feeds university admissions (portfolio round) — but its primary audience is the student's future self.
+For ม.4–6 this portfolio feeds university admissions (portfolio round), but its primary audience is the student's future self.
 
 ---
 
@@ -128,9 +129,9 @@ For ม.4–6 this portfolio feeds university admissions (portfolio round) — b
 |---|---|
 | 1. Change the question | Not "how do you feel?" but "describe one specific object you packed and imagine the person opening it" |
 | 2. Slow down | Two minutes of silence to remember; then speak in pairs before the circle |
-| 3. Use an artifact | Pass around a photo of a family on a roof — what is in *their* moment that our kit answers? |
+| 3. Use an artifact | Pass around a photo of a family on a roof: what is in *their* moment that our kit answers? |
 | 4. Ask the systems question | "This is the third year our school packed kits for the same district. What does *that* repetition mean?" |
-| 5. Accept honest shallowness | "I mainly liked being with my friends" is a true starting point — ask "and is that okay? what else was there?" |
+| 5. Accept honest shallowness | "I mainly liked being with my friends" is a true starting point: ask "and is that okay? what else was there?" |
 | 6. Close with identity, not guilt | Each student finishes one sentence: "Because of today, next time I will ___" |
 
 ---
@@ -158,18 +159,18 @@ For ม.4–6 this portfolio feeds university admissions (portfolio round) — b
 
 ## 9 | Real-World Examples
 
-- **Post-camp debrief circles (ถอดบทเรียนค่าย)** — The standard closing night of scout and service camps: candlelight, what?/so what?/now what?
-- **Service journals in ม.1–3 homerooms** — Weekly one-page reflections graded for honesty, not eloquence
-- **"แฟ้มจิตอาสา" volunteer portfolios** — ม.4–6 students documenting sustained service for admissions
-- **Oral-history evenings** — After elderly-home visits, classes present "the story of one person we met" to parents
-- **Class "now what?" boards** — One wall in the classroom collecting the sentence-completions: "Next time I will…"
+- **Post-camp debrief circles (ถอดบทเรียนค่าย):** The standard closing night of scout and service camps: candlelight, what?/so what?/now what?
+- **Service journals in ม.1–3 homerooms:** Weekly one-page reflections graded for honesty, not eloquence
+- **"แฟ้มจิตอาสา" volunteer portfolios:** ม.4–6 students documenting sustained service for admissions
+- **Oral-history evenings:** After elderly-home visits, classes present "the story of one person we met" to parents
+- **Class "now what?" boards:** One wall in the classroom collecting the sentence-completions: "Next time I will…"
 
 ---
 
 ## 10 | Cross-Links
 
 - [[00_overview|Social and Public Benefit Overview (BOK)]]
-- [[02_Community_Service|Community Service]] — Service feeds reflection
-- [[04_Public_Interest_Projects|Public-Interest Projects]] — Evaluation as reflection
-- [[../01 Guidance/04_Social_Guidance|Social Guidance]] — Participation and responsibility
-- [[../../body-of-knowledge/Social Studies/Social Studies - Overview|Social Studies (BOK)]] — Civic rights, duties, democracy
+- [[02_Community_Service|Community Service]]: Service feeds reflection
+- [[04_Public_Interest_Projects|Public-Interest Projects]]: Evaluation as reflection
+- [[../01 Guidance/04_Social_Guidance|Social Guidance]]: Participation and responsibility
+- [[../../body-of-knowledge/Social Studies/Social Studies - Overview|Social Studies (BOK)]]: Civic rights, duties, democracy

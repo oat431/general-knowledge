@@ -2,14 +2,14 @@
 tags: [student-development, social-public-benefit, community-service, service-learning, volunteering, primary, lower-secondary, upper-secondary, obec]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008)"
 created: 2026-08-05
-component: "กิจกรรมเพื่อสังคมและสาธารณประโยชน์ — การบำเพ็ญประโยชน์ต่อชุมชน"
+component: "กิจกรรมเพื่อสังคมและสาธารณประโยชน์: การบำเพ็ญประโยชน์ต่อชุมชน"
 ---
 
-# Community Service — การบำเพ็ญประโยชน์ต่อชุมชน
+# Community Service: การบำเพ็ญประโยชน์ต่อชุมชน
 
 > *"Community service turns care into action: students learn who their neighbors are by helping them."*
 
-Community service moves student responsibility beyond the school gate. Students identify needs in the local community — the temple, the elderly, the canal, the daycare — and respond through planned, sustained, and reflected-upon service. Done well, it is service learning: the service is real, and so is the learning.
+Community service moves student responsibility beyond the school gate. Students identify needs in the local community: the temple, the elderly, the canal, the daycare, and respond through planned, sustained, and reflected-upon service. Done well, it is service learning: the service is real, and so is the learning.
 
 ---
 
@@ -41,6 +41,7 @@ Community service moves student responsibility beyond the school gate. Students 
 ## 3 | The Service-Learning Cycle
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     INVEST["1. Investigate
 สำรวจความต้องการ"] --> PREP["2. Prepare and plan
@@ -60,7 +61,7 @@ flowchart TD
 | Investigate | Who lives around our school? What do they say they need? What already exists? |
 | Prepare | What exactly will we do? Who approves? What is safe? What do we need? |
 | Act | Are we doing what we planned? Is it actually helping? |
-| Reflect | What happened? What surprised us? What did we learn about the community — and ourselves? |
+| Reflect | What happened? What surprised us? What did we learn about the community, and ourselves? |
 | Demonstrate | Who should hear what we learned? (school, parents, municipality) |
 
 ---
@@ -101,7 +102,7 @@ flowchart TD
 | Step | Action | Discovery |
 |---|---|---|
 | 1. Visit and ask | Small team interviews the daycare director and 5 residents | Residents' top wish: someone to teach them video calls with grandchildren |
-| 2. Redesign | Six Saturday sessions: "โทรหาหลาน" — phones, patience, Thai tea | Real need, real skill from students |
+| 2. Redesign | Six Saturday sessions: "โทรหาหลาน", phones, patience, Thai tea | Real need, real skill from students |
 | 3. Plan | Pairs of students per session; phones borrowed; director approves schedule | Manageable, safe, sustainable |
 | 4. Act | Sessions run; students learn residents' life stories between calls | Unexpected oral-history bonus |
 | 5. Reflect | "We thought we would give performances. We gave connection. We received history." | The learning outcome no one planned |
@@ -130,18 +131,18 @@ flowchart TD
 
 ## 8 | Real-World Examples
 
-- **Temple cleanup before วันสงกรานต์ / วันเข้าพรรษา** — Schools near temples organize annual service
-- **"โทรหาหลาน" style digital-inclusion programs** — Students teaching elderly to video-call family
-- **Flood relief kit packing** — Northern and Northeastern schools assembling relief bags during flood season
-- **Blood donation support** — ยุวกาชาด level 3–4 assisting สภากาชาดไทย drives
-- **Local canal cleanup with อบต.** — Joint waste campaigns with subdistrict administration
+- **Temple cleanup before วันสงกรานต์ / วันเข้าพรรษา:** Schools near temples organize annual service
+- **"โทรหาหลาน" style digital-inclusion programs:** Students teaching elderly to video-call family
+- **Flood relief kit packing:** Northern and Northeastern schools assembling relief bags during flood season
+- **Blood donation support:** ยุวกาชาด level 3–4 assisting สภากาชาดไทย drives
+- **Local canal cleanup with อบต.:** Joint waste campaigns with subdistrict administration
 
 ---
 
 ## 9 | Cross-Links
 
 - [[00_overview|Social and Public Benefit Overview (BOK)]]
-- [[01_Self_and_School_Responsibility|Self and School Responsibility]] — The inner circle of service
-- [[03_Environmental_Service|Environmental Service]] — Environmental contexts of community service
-- [[05_Reflection_and_Citizenship|Reflection and Citizenship]] — The learning half of service learning
-- [[../02 Student Activities/01_Scouts_and_Girl_Guides|Scouts]] — Service as scout method
+- [[01_Self_and_School_Responsibility|Self and School Responsibility]]: The inner circle of service
+- [[03_Environmental_Service|Environmental Service]]: Environmental contexts of community service
+- [[05_Reflection_and_Citizenship|Reflection and Citizenship]]: The learning half of service learning
+- [[../02 Student Activities/01_Scouts_and_Girl_Guides|Scouts]]: Service as scout method

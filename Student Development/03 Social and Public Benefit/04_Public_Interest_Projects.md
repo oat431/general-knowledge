@@ -2,10 +2,10 @@
 tags: [student-development, social-public-benefit, project-based-learning, civic-projects, primary, lower-secondary, upper-secondary, obec]
 source: "OBEC Basic Education Core Curriculum B.E. 2551 (2008)"
 created: 2026-08-05
-component: "กิจกรรมเพื่อสังคมและสาธารณประโยชน์ — โครงการเพื่อสาธารณประโยชน์"
+component: "กิจกรรมเพื่อสังคมและสาธารณประโยชน์: โครงการเพื่อสาธารณประโยชน์"
 ---
 
-# Public-Interest Projects — โครงการเพื่อสาธารณประโยชน์
+# Public-Interest Projects: โครงการเพื่อสาธารณประโยชน์
 
 > *"A public-interest project is a promise made in public, kept in public, and learned from in public."*
 
@@ -27,6 +27,7 @@ Public-interest projects are the capstone form of กิจกรรมเพื
 ## 2 | The Project Cycle
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     N["1. Need
 ความต้องการของชุมชน"] --> G["2. Goal
@@ -63,11 +64,11 @@ flowchart TD
 
 | Letter | Thai | Weak version | SMART version |
 |---|---|---|---|
-| S — Specific | ชัดเจน | "Help the environment" | "Cut canteen plastic-bag use" |
-| M — Measurable | วัดได้ | "A lot less waste" | "From 5,000 to 2,000 bags/month" |
-| A — Achievable | ทำได้จริง | "Make the whole province zero-waste" | "In our school's two shops" |
-| R — Relevant | ตรงความต้องการ | Trending topic | Need confirmed by the shop vendors |
-| T — Time-bound | มีกำหนด | "Sometime this year" | "By the end of term 2" |
+| S: Specific | ชัดเจน | "Help the environment" | "Cut canteen plastic-bag use" |
+| M: Measurable | วัดได้ | "A lot less waste" | "From 5,000 to 2,000 bags/month" |
+| A: Achievable | ทำได้จริง | "Make the whole province zero-waste" | "In our school's two shops" |
+| R: Relevant | ตรงความต้องการ | Trending topic | Need confirmed by the shop vendors |
+| T: Time-bound | มีกำหนด | "Sometime this year" | "By the end of term 2" |
 
 ---
 
@@ -98,7 +99,7 @@ flowchart TD
 
 ## 6 | A Full Worked Example
 
-> **Project: "ห้องสมุดเด็กวัด" (Temple Children's Corner)** — ม.4 class, two terms
+> **Project: "ห้องสมุดเด็กวัด" (Temple Children's Corner)**, ม.4 class, two terms
 
 | Stage | What the students did |
 |---|---|
@@ -138,18 +139,18 @@ The report to the school assembly ends with the sentence every project should ea
 
 ## 8 | Real-World Examples
 
-- **โครงการจิตอาสาพัฒนา (Village development volunteering)** — The national tradition of student village-development camps (ค่ายอาสา), a rite of passage for many ม.4–6 and university students
-- **Anti-dengue campaigns** — Student teams survey and destroy mosquito breeding sites with สสอ. (public health office) data
-- **School-based recycling banks (ธนาคารขยะ)** — Ongoing student-run recyclable collection that funds class projects — a true sustained enterprise
-- **"ห้องอ่านหนังสือชุมชน" community reading rooms** — Student-initiated mini-libraries in temples or mosques
-- **Elderly oral-history books** — Students interview elders and publish a printed local-history booklet
+- **โครงการจิตอาสาพัฒนา (Village development volunteering):** The national tradition of student village-development camps (ค่ายอาสา), a rite of passage for many ม.4–6 and university students
+- **Anti-dengue campaigns:** Student teams survey and destroy mosquito breeding sites with สสอ. (public health office) data
+- **School-based recycling banks (ธนาคารขยะ):** Ongoing student-run recyclable collection that funds class projects: a true sustained enterprise
+- **"ห้องอ่านหนังสือชุมชน" community reading rooms:** Student-initiated mini-libraries in temples or mosques
+- **Elderly oral-history books:** Students interview elders and publish a printed local-history booklet
 
 ---
 
 ## 9 | Cross-Links
 
 - [[00_overview|Social and Public Benefit Overview (BOK)]]
-- [[02_Community_Service|Community Service]] — The relational foundation
-- [[03_Environmental_Service|Environmental Service]] — Environmental applications
-- [[05_Reflection_and_Citizenship|Reflection and Citizenship]] — The learning payoff
-- [[../02 Student Activities/05_Leadership_Activities|Leadership Activities]] — Project leadership
+- [[02_Community_Service|Community Service]]: The relational foundation
+- [[03_Environmental_Service|Environmental Service]]: Environmental applications
+- [[05_Reflection_and_Citizenship|Reflection and Citizenship]]: The learning payoff
+- [[../02 Student Activities/05_Leadership_Activities|Leadership Activities]]: Project leadership
