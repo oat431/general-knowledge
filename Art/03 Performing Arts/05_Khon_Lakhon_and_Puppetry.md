@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 3: นาฏศิลป์"
 ---
 
-# Khon, Lakhon and Puppetry — โขน ละคร และหุ่น
+# Khon, Lakhon and Puppetry: โขน ละคร และหุ่น
 
 Khon (โขน), lakhon (ละคร) and Thai puppetry (หุ่นไทย) are the heritage performing arts (มรดกภูมิปัญญาทางวัฒนธรรม) of Thailand, telling epic stories such as the Ramakien (รามเกียรติ์) through masked dance, song and carved figures. This note helps parents introduce these treasured forms to their children at home and at cultural events.
 

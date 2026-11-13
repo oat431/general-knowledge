@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 3: นาฏศิลป์"
 ---
 
-# Performance Production — การจัดการแสดง
+# Performance Production: การจัดการแสดง
 
 Performance production (การจัดการแสดง) is the teamwork behind every school show: who does what, what equipment is needed, and how the show is rehearsed, presented and reviewed. This note gives parents a map of the roles and jobs their child may take on in school performances (การแสดงในโรงเรียน).
 
@@ -50,6 +50,7 @@ The visible magic of a show is built from five elements:
 A performance moves through four phases:
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A[Planning] --> B[Rehearsal]
     B --> C[Performance]

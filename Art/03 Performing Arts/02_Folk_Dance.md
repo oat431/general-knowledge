@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 3: นาฏศิลป์"
 ---
 
-# Folk Dance — รำพื้นเมือง
+# Folk Dance: รำพื้นเมือง
 
 Folk dance (รำพื้นเมือง) is the living dance of the Thai regions (ภาค), shaped by local life, festivals and wisdom rather than by court rules. This note helps parents recognise the regional dances their child may learn at school and enjoy at community festivals (ประเพณี).
 

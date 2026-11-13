@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 3: นาฏศิลป์"
 ---
 
-# Creative Drama — ละครสร้างสรรค์
+# Creative Drama: ละครสร้างสรรค์
 
 Creative drama (ละครสร้างสรรค์) uses play, imagination and role-play (บทบาทสมมติ) to build expression, confidence and cooperation in children, without requiring professional acting skill. This note explains how drama grows from simple storytelling (การเล่านิทาน) in the early grades to full scripted productions (การแสดงละคร) in secondary school.
 

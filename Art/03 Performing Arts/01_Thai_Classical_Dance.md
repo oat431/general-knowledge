@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 3: นาฏศิลป์"
 ---
 
-# Thai Classical Dance — นาฏศิลป์ไทย
+# Thai Classical Dance: นาฏศิลป์ไทย
 
 Thai classical dance (นาฏศิลป์ไทย) is the refined movement tradition of the royal courts, built on a fixed vocabulary of postures and gestures that students learn step by step from primary school onward. This note helps parents understand what their child practises in class, from basic finger bends (จีบ) to full performance forms such as the standard circle dance (รำวงมาตรฐาน).
 

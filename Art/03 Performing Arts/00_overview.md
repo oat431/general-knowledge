@@ -5,7 +5,7 @@ created: 2026-08-04
 strand: "สาระที่ 3: นาฏศิลป์"
 ---
 
-# Performing Arts — นาฏศิลป์
+# Performing Arts: นาฏศิลป์
 
 > **Strand:** สาระที่ 3 | **Concept Areas:** 5 | **Duration:** 12 years (ป.1–ม.6)
 >
