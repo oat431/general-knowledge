@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 2: ดนตรี"
 ---
 
-# Music Theory — ทฤษฎีดนตรี
+# Music Theory: ทฤษฎีดนตรี
 
 Music theory (ทฤษฎีดนตรี) is the language that lets students read, write, and understand music: pitch (ระดับเสียง), rhythm (จังหวะ), notation (โน้ต), and scales (บันไดเสียง). It connects classroom singing and playing to both Thai notation (โน้ตไทย) and international staff notation (โน้ตสากล).
 

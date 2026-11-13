@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 2: ดนตรี"
 ---
 
-# Thai Musical Instruments — เครื่องดนตรีไทย
+# Thai Musical Instruments: เครื่องดนตรีไทย
 
 Thai musical instruments (เครื่องดนตรีไทย) are grouped into four families by how they make sound: plucked (เครื่องดีด), bowed (เครื่องสี), struck (เครื่องตี), and blown (เครื่องเป่า). Students learn to recognize, play, and preserve these instruments, and to perform in traditional ensembles (วงดนตรีไทย).
 

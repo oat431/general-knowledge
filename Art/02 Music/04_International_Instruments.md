@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 2: ดนตรี"
 ---
 
-# International Instruments — เครื่องดนตรีสากล
+# International Instruments: เครื่องดนตรีสากล
 
 International instruments (เครื่องดนตรีสากล) are the instruments used in Western-style music, grouped into strings (เครื่องสายสากล), woodwinds (เครื่องลมไม้), brass (เครื่องทองเหลือง), and percussion (เครื่องตี). In Thai schools most students begin with the recorder (ขลุ่ยรีคอร์เดอร์) and later try the keyboard (คีย์บอร์ด), ukulele, or guitar.
 

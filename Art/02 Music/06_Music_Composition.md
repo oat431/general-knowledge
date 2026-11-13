@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 2: ดนตรี"
 ---
 
-# Music Composition — การประพันธ์เพลง
+# Music Composition: การประพันธ์เพลง
 
 Music composition (การประพันธ์เพลง) lets students create their own music: making melodies (ทำนอง), shaping phrases (วรรคเพลง), using question-and-answer patterns (ประโยคถาม-ตอบ), and building simple song forms (รูปแบบบทเพลง). Students compose with both international notation (โน้ตสากล) and Thai elements (การประพันธ์เพลงไทย).
 

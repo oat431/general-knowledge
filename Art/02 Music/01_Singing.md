@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 2: ดนตรี"
 ---
 
-# Singing — การร้องเพลง
+# Singing: การร้องเพลง
 
 Singing (การร้องเพลง) is the first musical skill Thai children develop, from nursery rhymes at home to the national anthem (เพลงชาติ) at school flag ceremonies. By upper secondary, students perform solo and in choirs with proper breathing, diction, and expression, including Thai classical singing styles (การขับร้องไทย).
 

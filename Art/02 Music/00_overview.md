@@ -5,7 +5,7 @@ created: 2026-08-04
 strand: "สาระที่ 2: ดนตรี"
 ---
 
-# Music — ดนตรี
+# Music: ดนตรี
 
 > **Strand:** สาระที่ 2 | **Concept Areas:** 6 | **Duration:** 12 years (ป.1–ม.6)
 > **Focus:** Singing, music theory, Thai instruments, international instruments, appreciation, and composition

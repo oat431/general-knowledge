@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 2: ดนตรี"
 ---
 
-# Music Appreciation — การฟังดนตรี
+# Music Appreciation: การฟังดนตรี
 
 Music appreciation (การฟังดนตรี) teaches students to listen with attention and judgment: identifying instruments, describing moods, comparing Thai music (ดนตรีไทย) with international music (ดนตรีสากล), and learning about composers (คีตกวี) and the music of daily life and ceremonies (ดนตรีในพิธีกรรม).
 
