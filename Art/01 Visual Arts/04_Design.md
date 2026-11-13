@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 1: ทัศนศิลป์"
 ---
 
-# Design — การออกแบบ
+# Design: การออกแบบ
 
 Design (การออกแบบ) is art with a job: arranging visual elements (ทัศนธาตุ) so that messages, products, and spaces work well and look good. Thai students learn the elements in primary school and the principles of design (หลักการออกแบบ) from lower secondary onward.
 

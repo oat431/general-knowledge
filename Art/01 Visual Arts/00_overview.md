@@ -5,7 +5,7 @@ created: 2026-08-04
 strand: "สาระที่ 1: ทัศนศิลป์"
 ---
 
-# Visual Arts — ทัศนศิลป์
+# Visual Arts: ทัศนศิลป์
 
 > **Strand:** สาระที่ 1 | **Concept Areas:** 8 | **Duration:** 12 years (ป.1–ม.6)
 > **Focus:** line (เส้น), shape (รูปร่าง), color (สี), and composition (องค์ประกอบ)

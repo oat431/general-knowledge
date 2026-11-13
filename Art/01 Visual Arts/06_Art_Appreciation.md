@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 1: ทัศนศิลป์"
 ---
 
-# Art Appreciation — การเห็นคุณค่าศิลปะ
+# Art Appreciation: การเห็นคุณค่าศิลปะ
 
 Art appreciation (การเห็นคุณค่าศิลปะ) teaches children to look carefully, think deeply, and speak kindly about art: their own work, their classmates' work, and masterpieces from Thailand and the world. It is the heart of Standard ศ 1.2 (การวิเคราะห์ วิจารณ์ และเห็นคุณค่า).
 
@@ -29,6 +29,7 @@ From lower secondary, children learn a simple framework for talking about any ar
 4. Judging (วิจารณ์): is it good art? Give reasons, not just "I like it" or "I don't"
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart TD
     A["Describe"] --> B["Analyze"]
     B --> C["Interpret"]

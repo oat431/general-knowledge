@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 1: ทัศนศิลป์"
 ---
 
-# Printmaking — ภาพพิมพ์
+# Printmaking: ภาพพิมพ์
 
 Printmaking (ภาพพิมพ์) is making art by stamping, pressing, or transferring ink so that many copies of one image can be made. From potato prints in Grade 1 to silk-screen printing (ภาพพิมพ์ซิลค์สกรีน) in high school, children learn that art can be repeated, shared, and mass-produced.
 

@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 1: ทัศนศิลป์"
 ---
 
-# Sculpture — การปั้น
+# Sculpture: การปั้น
 
 Sculpture (การปั้น) is art you can hold: shaping soft materials into three-dimensional forms (รูปทรง). Thai children start with play-dough and clay (ดินน้ำมัน, ดินเหนียว), and progress to relief work (งานนูนต่ำ, งานนูนสูง) and free-standing round sculpture (งานลอยตัว).
 

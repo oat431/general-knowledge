@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 1: ทัศนศิลป์"
 ---
 
-# Drawing — การวาดภาพ
+# Drawing: การวาดภาพ
 
 Drawing (การวาดภาพ) is the first art skill every child meets: making marks with lines (เส้น) to show what they see and imagine. It is the foundation of Standard ศ 1.1, and progress runs from scribbled lines in Grade 1 to a personal portfolio of figure drawing (การวาดคน) in Grade 12.
 

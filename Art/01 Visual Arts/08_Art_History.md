@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 1: ทัศนศิลป์"
 ---
 
-# Art History — ประวัติศาสตร์ศิลป์
+# Art History: ประวัติศาสตร์ศิลป์
 
 Art history (ประวัติศาสตร์ศิลป์) helps children understand that every artwork was made in a time and place, and that Thai art belongs to a story stretching from Sukhothai (สุโขทัย) to the present day. It connects Standard ศ 1.2 with social studies, religion, and culture.
 
@@ -29,6 +29,7 @@ Art history (ประวัติศาสตร์ศิลป์) helps child
 | Rattanakosin | รัตนโกสินทร์ | Wat Phra Kaew (วัดพระแก้ว) murals, contemporary Thai art |
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#19362D','primaryTextColor':'#CDD3D1','primaryBorderColor':'#1FB854','lineColor':'#1FB854','background':'#1B1717','mainBkg':'#19362D','clusterBkg':'#161212','edgeLabelBackground':'#161212','titleColor':'#1FB854','fontSize':'14px'}}}%%
 flowchart LR
     A["Sukhothai"] --> B["Ayutthaya"]
     B --> C["Thonburi"]

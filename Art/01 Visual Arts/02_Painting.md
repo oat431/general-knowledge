@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 1: ทัศนศิลป์"
 ---
 
-# Painting — การระบายสี
+# Painting: การระบายสี
 
 Painting (การระบายสี) is drawing's colorful partner: applying color (สี) with brushes and paint to paper, cloth, or walls. Thai children begin with poster color (สีโปสเตอร์) and watercolor (สีน้ำ), and end with color theory (ทฤษฎีสี) that lets them mix and match any hue with confidence.
 

@@ -6,7 +6,7 @@ course_codes: ["ศ11101", "ศ12101", "ศ13101", "ศ14101", "ศ15101", "ศ1
 strand: "สาระที่ 1: ทัศนศิลป์"
 ---
 
-# Thai Traditional Art — ศิลปะไทย
+# Thai Traditional Art: ศิลปะไทย
 
 Thai traditional art (ศิลปะไทย) is the art of the kingdom: flowing patterns (ลายไทย), temple murals (จิตรกรรมฝาผนัง), gilded sculpture, and the fine crafts (งานประณีตศิลป์) passed down for centuries. The curriculum asks every Thai child to know, value, and help preserve (การอนุรักษ์) this heritage.
 
